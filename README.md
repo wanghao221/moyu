@@ -6,6 +6,7 @@
 游戏
 
 1.爱吹风的小狮子：[http://haiyong.site/game/lion](http://haiyong.site/game/lion)
+2.响应式2048小游戏：[http://haiyong.site/2048](http://haiyong.site/2048)
 
 
 ###
