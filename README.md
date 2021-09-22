@@ -9,7 +9,7 @@
 3.飞机躲避障碍：[http://haiyong.site/aircraft-avoid-obstacles](http://haiyong.site/aircraft-avoid-obstacles)\
 4.圣诞老人过桥：[http://haiyong.site/Santa-Claus](http://haiyong.site/Santa-Claus)\
 5.切方块：[http://haiyong.site/qiefangkuai](http://haiyong.site/qiefangkuai)\
-6.打地鼠：[http://haiyong.site/catch-mole](http://haiyong.site/catch-mole)\
+6.打地鼠：[http://haiyong.site/catch-mole](http://haiyong.site/catch-mole)
 
 
 ### 工具
