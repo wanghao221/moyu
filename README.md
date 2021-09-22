@@ -8,7 +8,7 @@
 2.响应式2048小游戏：[http://haiyong.site/2048](http://haiyong.site/2048)\
 3.飞机躲避障碍：[http://haiyong.site/aircraft-avoid-obstacles](http://haiyong.site/aircraft-avoid-obstacles)\
 4.圣诞老人过桥：[http://haiyong.site/Santa-Claus](http://haiyong.site/Santa-Claus)\
-5.：[]()\
+5.切方块：[http://haiyong.site/qiefangkuai](http://haiyong.site/qiefangkuai)\
 6.：[]()\
 
 
