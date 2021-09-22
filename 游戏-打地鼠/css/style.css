@@ -1,0 +1,311 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+body {
+  position: relative;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  font-size: 16px;
+  background-color: black;
+  background-image: url('img/background1.png');
+}
+input {
+  display: none;
+}
+.game {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 320px;
+  height: 540px;
+  padding: 20px;
+  transform: translate(-50%, -50%);
+}
+.holes {
+  display: flex;
+  justify-content: center;
+}
+.hole {
+  position: relative;
+  width: 150px;
+  height: 120px;
+  padding-top: 40px;
+  overflow: hidden;
+}
+.hole__up {
+  height: 70px;
+  width: 100%;
+  background-image: url('img/hole-up.png');
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.hole__down {
+  position: relative;
+  z-index: 1;
+  height: 40px;
+  width: 100%;
+  margin-top: -20px;
+  background-image: url('img/hole-down.png');
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+.mole {
+  position: absolute;
+  top: 20%;
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin-left: 23px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  animation-name: mole-def;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-fill-mode: backwards;
+}
+.mole:nth-of-type(1) {
+  background-image: url('img/mole.png');
+}
+.mole:nth-of-type(2) {
+  background-image: url('img/mole2.png');
+}
+.mole--1 {
+  animation-duration: 3s;
+  animation-delay: 1s;
+}
+.mole--2 {
+  animation-duration: 3s;
+  animation-delay: 2.5s;
+}
+.mole--3 {
+  animation-duration: 4s;
+  animation-delay: 2s;
+}
+.mole--4 {
+  animation-duration: 4s;
+  animation-delay: 4s;
+}
+.mole--5 {
+  animation-duration: 3.5s;
+  animation-delay: 2s;
+}
+.mole--6 {
+  animation-duration: 3.5s;
+  animation-delay: 3.75s;
+}
+.mole--7 {
+  animation-duration: 2.5s;
+  animation-delay: 1.5s;
+}
+.mole--8 {
+  animation-duration: 2.5s;
+  animation-delay: 2.75s;
+}
+.mole--9 {
+  animation-duration: 3.5s;
+  animation-delay: 1s;
+}
+.mole--10 {
+  animation-duration: 3.5s;
+  animation-delay: 2.75s;
+}
+.mole--11 {
+  animation-duration: 3.5s;
+  animation-delay: 3s;
+}
+.mole--12 {
+  animation-duration: 3.5s;
+  animation-delay: 4.75s;
+}
+.mole-input:checked + .mole {
+  display: none;
+}
+@keyframes mole-def {
+  0% {
+    transform: translateY(100px);
+  }
+  10% {
+    transform: translateY(-20px);
+  }
+  20% {
+    transform: translateY(10px);
+  }
+  30% {
+    transform: translateY(100px);
+  }
+  100% {
+    transform: translateY(100px);
+  }
+}
+.score {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  color: white;
+}
+.score__text {
+  margin: 0;
+  font-size: 50px;
+}
+.score__wrapper {
+  position: relative;
+  overflow: hidden;
+  width: 67px;
+  height: 67px;
+  margin-left: 10px;
+}
+.score__wrapper-points {
+  position: absolute;
+  top: -857px;
+}
+.score__radio {
+  display: block;
+  width: 100%;
+  height: 72px;
+  opacity: 0;
+  /* for iphone */
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+}
+.score__radio:checked {
+  height: 0;
+}
+.score__points {
+  width: 67px;
+  height: 908px;
+  background-image: url('img/time.png');
+}
+.timer {
+  position: relative;
+  overflow: hidden;
+  height: 20px;
+  border-radius: 20px;
+}
+.timer__progress {
+  height: 100%;
+  transform: translate(0);
+  background-color: darkred;
+  box-shadow: inset 0 2px 9px rgba(255, 255, 255, 0.3), inset 0 -2px 6px rgba(0, 0, 0, 0.4);
+  animation-fill-mode: forwards;
+  animation-iteration-count: 1;
+  animation-timing-function: linear;
+}
+.timer__progress::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-image: linear-gradient(-45deg, rgba(255, 255, 255, 0.2) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0.2) 75%, transparent 75%, transparent);
+  z-index: 1;
+  background-size: 50px 50px;
+  animation: move 2s linear infinite;
+  overflow: hidden;
+}
+@keyframes move {
+  0% {
+    background-position: 50px 50px;
+  }
+  100% {
+    background-position: 0 0;
+  }
+}
+@keyframes translate {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+#start-easy:checked ~ .game .timer .timer__progress {
+  animation-duration: 15s;
+}
+#start-easy:checked ~ .screen--finish {
+  animation-duration: 15s;
+}
+#start-medium:checked ~ .game .timer .timer__progress {
+  animation-duration: 10s;
+}
+#start-medium:checked ~ .screen--finish {
+  animation-duration: 10s;
+}
+#start-hard:checked ~ .game .timer .timer__progress {
+  animation-duration: 7s;
+}
+#start-hard:checked ~ .screen--finish {
+  animation-duration: 7s;
+}
+#start-ultra:checked ~ .game .timer .timer__progress {
+  animation-duration: 5s;
+}
+#start-ultra:checked ~ .screen--finish {
+  animation-duration: 5s;
+}
+.start:checked ~ .game .timer .timer__progress {
+  animation-name: translate;
+}
+.start:checked ~ .screen--start {
+  display: none;
+}
+.start:checked ~ .screen--finish {
+  animation-name: bounce;
+}
+.screen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 1;
+  padding: 20px;
+  font-size: 30px;
+  color: white;
+  text-align: center;
+}
+.screen--finish {
+  animation-iteration-count: 1;
+  transform: translate3d(0, -3000px, 0);
+  animation-fill-mode: forwards;
+}
+.screen h1 {
+  font-size: 40px;
+}
+.screen label {
+  display: block;
+  margin-bottom: 20px;
+}
+.screen a {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.screen__text {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+.screen__wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+@keyframes bounce {
+  95% {
+    opacity: 0;
+    transform: translate3d(0, -3000px, 0);
+  }
+  100% {
+    transform: none;
+  }
+}
