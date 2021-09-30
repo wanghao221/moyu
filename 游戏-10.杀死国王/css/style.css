@@ -1,0 +1,1572 @@
+@charset "UTF-8";
+			@font-face {
+			  font-family: "AddLGBitmap09";
+			  src: url("https://assets.codepen.io/217233/AddLGBitmap09.woff2") format("woff2"), url("https://assets.codepen.io/217233/AddLGBitmap09.woff") format("woff");
+			  font-weight: normal;
+			  font-style: normal;
+			  font-display: swap;
+			}
+			body {
+			  background: black;
+			  color: white;
+			  margin: 0;
+			  padding: 0;
+			  overflow: hidden;
+			  font-family: "AddLGBitmap09";
+			}
+			
+			.game_lose,
+			.game_win {
+			  position: absolute;
+			  background: rgba(14, 3, 13, 0.94);
+			  z-index: 99999;
+			  width: 100%;
+			  height: 100%;
+			  text-align: center;
+			  display: none;
+			}
+			.game_lose.show,
+			.game_win.show {
+			  display: block;
+			}
+			.game_lose .inner,
+			.game_win .inner {
+			  position: absolute;
+			  width: 500px;
+			  left: 0;
+			  right: 0;
+			  margin: auto;
+			  top: 50%;
+			  transform: translateY(-50%);
+			}
+			.game_lose .inner p,
+			.game_win .inner p {
+			  font-size: 12px;
+			  line-height: 20px;
+			}
+			
+			#app {
+			  background: url("https://assets.codepen.io/217233/ssBg.png");
+			  background-size: cover;
+			  background-position: center;
+			  height: 100vh;
+			  width: 100%;
+			  position: relative;
+			  transition: all 0.1s;
+			  position: relative;
+			}
+			@-webkit-keyframes shake {
+			  0% {
+			    left: -3px;
+			    top: 3px;
+			  }
+			  20% {
+			    left: 3px;
+			    top: -3px;
+			  }
+			  40% {
+			    left: 3px;
+			    top: 3px;
+			  }
+			  60% {
+			    left: -3px;
+			    top: -3px;
+			  }
+			  80% {
+			    left: 3px;
+			    top: 3px;
+			  }
+			  100% {
+			    left: 0;
+			    top: 0px;
+			  }
+			}
+			@keyframes shake {
+			  0% {
+			    left: -3px;
+			    top: 3px;
+			  }
+			  20% {
+			    left: 3px;
+			    top: -3px;
+			  }
+			  40% {
+			    left: 3px;
+			    top: 3px;
+			  }
+			  60% {
+			    left: -3px;
+			    top: -3px;
+			  }
+			  80% {
+			    left: 3px;
+			    top: 3px;
+			  }
+			  100% {
+			    left: 0;
+			    top: 0px;
+			  }
+			}
+			#app.pressed {
+			  -webkit-animation: shake 0.1s forwards;
+			          animation: shake 0.1s forwards;
+			}
+			
+			.game_intro {
+			  background: rgba(14, 3, 13, 0.94);
+			  width: 100%;
+			  height: 100%;
+			  position: fixed;
+			  z-index: 99;
+			  transition: all 0.3s;
+			}
+			.game_intro.gamestarted {
+			  opacity: 0;
+			  pointer-events: none;
+			}
+			.game_intro__inner {
+			  position: absolute;
+			  left: 0;
+			  right: 0;
+			  margin: auto;
+			  top: 50%;
+			  width: 680px;
+			  transform: translateY(-50%);
+			  text-align: center;
+			  transition: all 0.3s;
+			  font-size: 12px;
+			  line-height: 30px;
+			}
+			.game_intro__inner .begin {
+			  text-align: center;
+			  margin-top: 80px;
+			  cursor: pointer;
+			  transition: all 0.3s;
+			}
+			.game_intro__inner .begin:hover {
+			  color: #76ece2;
+			}
+			.game_intro__inner .dialogue {
+			  float: left;
+			  width: 60%;
+			  background: black;
+			  color: white;
+			  border-radius: 20px;
+			  padding: 20px 31px;
+			  position: relative;
+			}
+			.game_intro__inner p {
+			  text-align: left;
+			  clear: both;
+			}
+			.game_intro__inner span {
+			  display: block;
+			  color: #76ece2;
+			  font-size: 9px;
+			  text-align: left;
+			  margin-bottom: -11px;
+			  text-transform: uppercase;
+			}
+			.game_intro__inner .king {
+			  float: right;
+			  width: 140px !important;
+			}
+			.game_intro__inner.start {
+			  transition: all 1s;
+			}
+			.game_intro__inner.start.gamestarted {
+			  opacity: 0;
+			  pointer-events: none;
+			}
+			.game_intro__inner .continue {
+			  position: absolute;
+			  z-index: 1;
+			  cursor: pointer;
+			  right: 20px;
+			  font-size: 10px;
+			  top: 175px;
+			  transition: all 0.3s;
+			}
+			.game_intro__inner .continue:hover {
+			  color: #76ece2;
+			}
+			.game_intro__inner.end {
+			  opacity: 1;
+			  pointer-events: all;
+			  transition: all 1s 1s;
+			}
+			.game_intro__inner.end .continue {
+			  opacity: 1;
+			  transition: all 0.3s 6s;
+			}
+			.game_intro__inner.end.gamestarted {
+			  opacity: 0;
+			}
+			.game_intro__inner.end.gamestarted .continue {
+			  opacity: 0;
+			}
+			.game_intro__inner.gamestarted {
+			  pointer-events: none;
+			}
+			.game_intro__inner img:nth-of-type(1) {
+			  width: 400px;
+			  -ms-interpolation-mode: nearest-neighbor;
+			      image-rendering: -moz-crisp-edges;
+			      image-rendering: pixelated;
+			}
+			.game_intro__inner img:nth-of-type(2) {
+			  position: relative;
+			  left: 0px;
+			}
+			.game_intro__inner img:nth-of-type(2) {
+			  cursor: pointer;
+			  margin-top: 40px;
+			}
+			.game_inner__tooltip {
+			  width: 390px;
+			  margin: 0 auto;
+			  text-align: left;
+			  position: absolute;
+			  top: calc(50% + 240px);
+			  left: 0;
+			  right: 0;
+			  margin: auto;
+			  opacity: 0;
+			  transition: all 0.3s;
+			}
+			.game_inner__tooltip.active {
+			  opacity: 1;
+			}
+			.game_inner__tooltip .smash {
+			  width: 100%;
+			  text-align: center;
+			  margin-top: 23px;
+			  font-size: 9px;
+			}
+			.game_inner__tooltip .space {
+			  width: 390px;
+			  margin-top: 50px;
+			  height: 50px;
+			  background: white;
+			  position: relative;
+			  top: 0;
+			  border-radius: 6px;
+			  box-shadow: 0 10px #d6d6d6;
+			  -webkit-animation: press2 0.1s infinite;
+			          animation: press2 0.1s infinite;
+			}
+			@-webkit-keyframes press2 {
+			  0% {
+			    box-shadow: 0 10px #d6d6d6;
+			    top: 0px;
+			  }
+			  100% {
+			    box-shadow: 0 0px #d6d6d6;
+			    top: 10px;
+			  }
+			}
+			@keyframes press2 {
+			  0% {
+			    box-shadow: 0 10px #d6d6d6;
+			    top: 0px;
+			  }
+			  100% {
+			    box-shadow: 0 0px #d6d6d6;
+			    top: 10px;
+			  }
+			}
+			.game_inner__footer {
+			  position: fixed;
+			  left: 50px;
+			  font-size: 7px;
+			  z-index: 2;
+			  bottom: 40px;
+			  width: calc(100% - 100px);
+			}
+			.game_inner__footer .madeby {
+			  position: relative;
+			  top: 50px;
+			}
+			.game_inner__footer .resources {
+			  float: right;
+			}
+			.game_inner__footer .resources div {
+			  margin: 0 0 10px 0;
+			  font-size: 12px;
+			}
+			.game_inner__footer .resources div img {
+			  position: relative;
+			  top: 3px;
+			  margin-right: 8px;
+			}
+			.game_inner__footer a {
+			  color: #d0295f;
+			  text-decoration: none;
+			}
+			.game_inner__left {
+			  text-align: center;
+			  float: left;
+			  position: relative;
+			  width: calc(100%);
+			  height: 100vh;
+			}
+			.game_inner__left .buttons {
+			  float: right;
+			  padding: 50px;
+			}
+			.game_inner__left .buttons img {
+			  width: 32px;
+			  float: left;
+			  margin-left: 12px;
+			  cursor: pointer;
+			}
+			.game_inner__left .buttons img.off {
+			  opacity: 0.3;
+			}
+			.game_inner__left .logo {
+			  padding: 50px;
+			  float: left;
+			}
+			.game_inner__left .ui {
+			  width: 100%;
+			}
+			.game_inner__left .ui_spaces {
+			  font-size: 24px;
+			  margin-bottom: 7px;
+			}
+			.game_inner__left .ui_progress {
+			  width: 500px;
+			  margin: 0 auto;
+			  text-align: left;
+			  position: absolute;
+			  top: calc(50% - 300px);
+			  left: 0;
+			  right: 0;
+			  margin: auto;
+			}
+			.game_inner__left .ui_progress__stage {
+			  font-size: 9px;
+			  margin-bottom: 11px;
+			}
+			.game_inner__left .ui_progress__bar {
+			  width: 100%;
+			  position: relative;
+			}
+			.game_inner__left .ui_progress__bar .inner {
+			  background: url("https://assets.codepen.io/217233/ktkProgressInner.png");
+			  height: 7px;
+			  width: calc(100% - 6px);
+			  background-size: 494px 7px;
+			  position: absolute;
+			  top: 10px;
+			  z-index: 1;
+			  left: 3px;
+			  transition: all 0.4s;
+			  max-width: 494px;
+			}
+			.game_inner__left .ui_progress__bar .outer {
+			  background: url("https://assets.codepen.io/217233/ktkProgressOuter.png");
+			  height: 12px;
+			  width: 100%;
+			  background-size: 500px 12px;
+			  position: absolute;
+			  top: 8px;
+			}
+			.game_inner__left .ui_progress__icons {
+			  display: flex;
+			  justify-content: space-between;
+			  position: relative;
+			  z-index: 1;
+			  padding: 0 14px;
+			}
+			.game_inner__left .ui_progress__icons .icon {
+			  flex-grow: 1;
+			  text-align: center;
+			}
+			.game_inner__left .ui_progress__icons .icon_bg {
+			  width: 28px;
+			  height: 28px;
+			  margin: auto;
+			  background: url("https://assets.codepen.io/217233/ktkStageLocked.png");
+			}
+			.game_inner__left .ui_progress__icons .icon_bg.active:after {
+			  width: 10px;
+			  height: 10px;
+			  content: "▲";
+			  display: block;
+			  position: relative;
+			  top: 31px;
+			  left: 9px;
+			  font-size: 10px;
+			}
+			.game_inner__left .ui_progress__icons .icon_bg.complete {
+			  background: url("https://assets.codepen.io/217233/ktkStageComplete.png");
+			}
+			.game_inner__left .ui_presses {
+			  font-size: 12px;
+			  opacity: 0.4;
+			}
+			.game_inner__left .center {
+			  position: absolute;
+			  left: 0;
+			  right: 0;
+			  margin: auto;
+			  top: 50%;
+			  transform: translateY(-50%);
+			  width: 390px;
+			}
+			.game_inner__left .center .player_sprite,
+			.game_inner__left .center .enemy_sprite {
+			  width: 150px;
+			  height: 150px;
+			  -webkit-animation: idle 0.5s steps(7, end) infinite;
+			          animation: idle 0.5s steps(7, end) infinite;
+			  transform: scale(5);
+			  -ms-interpolation-mode: nearest-neighbor;
+			      image-rendering: -moz-crisp-edges;
+			      image-rendering: pixelated;
+			}
+			.game_inner__left .center .player_sprite.pressed,
+			.game_inner__left .center .enemy_sprite.pressed {
+			  -webkit-animation: attack 0.15s steps(3, end);
+			          animation: attack 0.15s steps(3, end);
+			}
+			.game_inner__left .center .characters {
+			  width: 400px;
+			  margin: 80px auto;
+			}
+			.game_inner__left .center .characters .stand {
+			  width: 100%;
+			  height: 100px;
+			  background: #141627;
+			  border-radius: 100%;
+			  position: absolute;
+			  bottom: -20px;
+			  left: 9px;
+			}
+			.game_inner__left .center .characters .player {
+			  z-index: 1;
+			  position: relative;
+			  left: 10px;
+			  top: 60px;
+			  transition: all 1s 0.3s;
+			}
+			.game_inner__left .center .characters .player.run {
+			  left: 400px;
+			  opacity: 0;
+			}
+			.game_inner__left .center .characters .player .stats {
+			  position: absolute;
+			  left: -110px;
+			  text-align: left;
+			  transform: translateY(4px);
+			  font-size: 8px;
+			  -webkit-animation: health 2s infinite;
+			          animation: health 2s infinite;
+			}
+			.game_inner__left .center .characters .player .stats span {
+			  font-size: 6px;
+			  opacity: 0.75;
+			  display: block;
+			  padding-left: 24px;
+			  padding-top: 4px;
+			}
+			.game_inner__left .center .characters .player .stats div {
+			  margin-bottom: 10px;
+			}
+			.game_inner__left .center .characters .player .stats div img {
+			  position: relative;
+			  margin-right: 4px;
+			  top: 3px;
+			}
+			.game_inner__left .center .characters .enemy {
+			  position: relative;
+			  top: -134px;
+			  left: -40px;
+			  transition: all 0.3s;
+			}
+			.game_inner__left .center .characters .enemy.run {
+			  opacity: 0;
+			}
+			.game_inner__left .center .characters .enemy,
+			.game_inner__left .center .characters .player {
+			  width: 50%;
+			  float: left;
+			}
+			.game_inner__left .center .enemy {
+			  width: 100px;
+			}
+			.game_inner__left .center .enemy_hit, .game_inner__left .center .enemy_gold, .game_inner__left .center .enemy_xp {
+			  position: absolute;
+			  left: 98px;
+			  top: 40px;
+			  z-index: 1;
+			  opacity: 0;
+			}
+			.game_inner__left .center .enemy_hit.pressed, .game_inner__left .center .enemy_gold.pressed, .game_inner__left .center .enemy_xp.pressed {
+			  -webkit-animation: hit 0.15s forwards;
+			          animation: hit 0.15s forwards;
+			}
+			.game_inner__left .center .enemy_gold.killed {
+			  -webkit-animation: hit 0.3s 0.1s forwards;
+			          animation: hit 0.3s 0.1s forwards;
+			}
+			.game_inner__left .center .enemy_xp {
+			  left: 0;
+			  right: 0;
+			}
+			.game_inner__left .center .enemy_xp.killed {
+			  -webkit-animation: hit 0.3s 0.12s forwards;
+			          animation: hit 0.3s 0.12s forwards;
+			}
+			.game_inner__left .center .enemy_sprite {
+			  background: url("https://assets.codepen.io/217233/ssEnemyIdle_1.png");
+			  -webkit-animation: none;
+			          animation: none;
+			  width: 200px;
+			  -webkit-animation: enemyIdle 0.5s steps(7, end) infinite;
+			          animation: enemyIdle 0.5s steps(7, end) infinite;
+			  transform: scaleX(-5) scaleY(5);
+			  position: relative;
+			}
+			.game_inner__left .center .enemy_sprite.boss {
+			  background: url("https://assets.codepen.io/217233/ktkTrostIdle.png");
+			  -webkit-animation: bossIdle 1s steps(7, end) infinite;
+			          animation: bossIdle 1s steps(7, end) infinite;
+			  width: 160px;
+			  top: 10px;
+			  left: 40px;
+			  height: 105px;
+			  filter: hue-rotate(0deg) !important;
+			}
+			.game_inner__left .center .enemy_sprite.boss.pressed {
+			  -webkit-animation: bossHit 0.15s steps(3, end);
+			          animation: bossHit 0.15s steps(3, end);
+			}
+			.game_inner__left .center .enemy_sprite.boss.killed {
+			  -webkit-animation: bossKilled 0.8s steps(5, end);
+			          animation: bossKilled 0.8s steps(5, end);
+			}
+			.game_inner__left .center .enemy_sprite.pressed {
+			  -webkit-animation: enemyHit 0.15s steps(3, end);
+			          animation: enemyHit 0.15s steps(3, end);
+			}
+			.game_inner__left .center .enemy_sprite.killed {
+			  -webkit-animation: enemyKilled 0.8s steps(5, end);
+			          animation: enemyKilled 0.8s steps(5, end);
+			}
+			.game_inner__left .center .enemy_health {
+			  width: 190px;
+			  height: 12px;
+			  position: absolute;
+			  left: 0;
+			  font-size: 13px;
+			  right: 0;
+			  line-height: 39px;
+			  border-radius: 10px;
+			  top: 10px;
+			  padding-top: 0px;
+			  margin: auto;
+			  background: url(https://assets.codepen.io/217233/ktkEnemyHealth.png);
+			  -webkit-animation: health 2s infinite;
+			          animation: health 2s infinite;
+			}
+			.game_inner__left .center .enemy_health_stats {
+			  font-size: 7px;
+			  padding-top: 6px;
+			  text-align: left;
+			}
+			.game_inner__left .center .enemy_health_stats .name {
+			  float: left;
+			}
+			.game_inner__left .center .enemy_health_stats .level {
+			  float: right;
+			}
+			.game_inner__left .center .enemy_health_inner {
+			  position: absolute;
+			  left: 4px;
+			  top: 3px;
+			  height: 5px;
+			  border-radius: 10px;
+			  transition: all 0.1s;
+			  max-width: 182px;
+			  background: url(https://assets.codepen.io/217233/ktkEnemyHealthInner.png);
+			}
+			.game_inner__left .spaceBar {
+			  width: 390px;
+			  margin-top: 50px;
+			  height: 50px;
+			  background: white;
+			  position: relative;
+			  top: 0;
+			  border-radius: 6px;
+			  box-shadow: 0 10px #d6d6d6;
+			  -webkit-animation: press2 0.1s forwards;
+			          animation: press2 0.1s forwards;
+			}
+			@-webkit-keyframes health {
+			  0% {
+			    top: 10px;
+			  }
+			  50% {
+			    top: 13px;
+			  }
+			  100% {
+			    top: 10px;
+			  }
+			}
+			@keyframes health {
+			  0% {
+			    top: 10px;
+			  }
+			  50% {
+			    top: 13px;
+			  }
+			  100% {
+			    top: 10px;
+			  }
+			}
+			@-webkit-keyframes idle {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ssIdle.png");
+			    background-position: 0% 0;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ssIdle.png");
+			    background-position: 100% 0;
+			  }
+			}
+			@keyframes idle {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ssIdle.png");
+			    background-position: 0% 0;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ssIdle.png");
+			    background-position: 100% 0;
+			  }
+			}
+			@-webkit-keyframes attack {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ssAttack1.png");
+			    background-position: 0% 0;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ssAttack1.png");
+			    background-position: 100% 0;
+			  }
+			}
+			@keyframes attack {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ssAttack1.png");
+			    background-position: 0% 0;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ssAttack1.png");
+			    background-position: 100% 0;
+			  }
+			}
+			@-webkit-keyframes enemyIdle {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ssEnemyIdle_1.png");
+			    background-position: 0% 0;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ssEnemyIdle_1.png");
+			    background-position: 100% 0;
+			  }
+			}
+			@keyframes enemyIdle {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ssEnemyIdle_1.png");
+			    background-position: 0% 0;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ssEnemyIdle_1.png");
+			    background-position: 100% 0;
+			  }
+			}
+			@-webkit-keyframes bossIdle {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ktkTrostIdle.png");
+			    background-position: 0% 0;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ktkTrostIdle.png");
+			    background-position: 100% 0;
+			  }
+			}
+			@keyframes bossIdle {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ktkTrostIdle.png");
+			    background-position: 0% 0;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ktkTrostIdle.png");
+			    background-position: 100% 0;
+			  }
+			}
+			@-webkit-keyframes bossHit {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ktkTrostHit.png");
+			    background-position: 0% 0;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ktkTrostHit.png");
+			    background-position: 100% 0;
+			  }
+			}
+			@keyframes bossHit {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ktkTrostHit.png");
+			    background-position: 0% 0;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ktkTrostHit.png");
+			    background-position: 100% 0;
+			  }
+			}
+			@-webkit-keyframes bossKilled {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ktkTrostKilled.png");
+			    background-position: 0% 0;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ktkTrostKilled.png");
+			    background-position: 100% 0;
+			  }
+			}
+			@keyframes bossKilled {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ktkTrostKilled.png");
+			    background-position: 0% 0;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ktkTrostKilled.png");
+			    background-position: 100% 0;
+			  }
+			}
+			@-webkit-keyframes enemyHit {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ssEnemyHit_1.png");
+			    background-position: 0% 0;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ssEnemyHit_1.png");
+			    background-position: 100% 0;
+			  }
+			}
+			@keyframes enemyHit {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ssEnemyHit_1.png");
+			    background-position: 0% 0;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ssEnemyHit_1.png");
+			    background-position: 100% 0;
+			  }
+			}
+			@-webkit-keyframes enemyKilled {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ssEnemyDeath_1.png");
+			    background-position: 0% 0;
+			    opacity: 1;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ssEnemyDeath_1.png");
+			    background-position: 100% 0;
+			    opacity: 0;
+			  }
+			}
+			@keyframes enemyKilled {
+			  0% {
+			    background: url("https://assets.codepen.io/217233/ssEnemyDeath_1.png");
+			    background-position: 0% 0;
+			    opacity: 1;
+			  }
+			  100% {
+			    background: url("https://assets.codepen.io/217233/ssEnemyDeath_1.png");
+			    background-position: 100% 0;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit {
+			  0% {
+			    top: 40px;
+			    opacity: 0;
+			  }
+			  100% {
+			    top: -30px;
+			    opacity: 1;
+			  }
+			}
+			@keyframes hit {
+			  0% {
+			    top: 40px;
+			    opacity: 0;
+			  }
+			  100% {
+			    top: -30px;
+			    opacity: 1;
+			  }
+			}
+			@-webkit-keyframes hit-1 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 387px;
+			    bottom: 96px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-1 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 387px;
+			    bottom: 96px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-2 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 470px;
+			    bottom: 81px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-2 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 470px;
+			    bottom: 81px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-3 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 114px;
+			    bottom: 30px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-3 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 114px;
+			    bottom: 30px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-4 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 262px;
+			    bottom: 36px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-4 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 262px;
+			    bottom: 36px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-5 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 109px;
+			    bottom: 95px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-5 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 109px;
+			    bottom: 95px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-6 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 100px;
+			    bottom: 68px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-6 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 100px;
+			    bottom: 68px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-7 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 265px;
+			    bottom: 1px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-7 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 265px;
+			    bottom: 1px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-8 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 86px;
+			    bottom: 45px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-8 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 86px;
+			    bottom: 45px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-9 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 313px;
+			    bottom: 89px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-9 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 313px;
+			    bottom: 89px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-10 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 438px;
+			    bottom: 46px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-10 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 438px;
+			    bottom: 46px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-11 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 232px;
+			    bottom: 6px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-11 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 232px;
+			    bottom: 6px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-12 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 397px;
+			    bottom: 61px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-12 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 397px;
+			    bottom: 61px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-13 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 345px;
+			    bottom: 100px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-13 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 345px;
+			    bottom: 100px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-14 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 476px;
+			    bottom: 34px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-14 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 476px;
+			    bottom: 34px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-15 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 460px;
+			    bottom: 61px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-15 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 460px;
+			    bottom: 61px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-16 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 87px;
+			    bottom: 47px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-16 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 87px;
+			    bottom: 47px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-17 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 381px;
+			    bottom: 2px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-17 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 381px;
+			    bottom: 2px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-18 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 320px;
+			    bottom: 20px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-18 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 320px;
+			    bottom: 20px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-19 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 169px;
+			    bottom: 3px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-19 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 169px;
+			    bottom: 3px;
+			    opacity: 0;
+			  }
+			}
+			@-webkit-keyframes hit-20 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 469px;
+			    bottom: 87px;
+			    opacity: 0;
+			  }
+			}
+			@keyframes hit-20 {
+			  0% {
+			    left: 0px;
+			    bottom: 0px;
+			    opacity: 1;
+			  }
+			  60% {
+			    opacity: 1;
+			  }
+			  100% {
+			    left: 469px;
+			    bottom: 87px;
+			    opacity: 0;
+			  }
+			}
+			.game_inner__left .spaceBar.pressed {
+			  -webkit-animation: press 0.05s forwards;
+			          animation: press 0.05s forwards;
+			}
+			.game_inner__right {
+			  float: right;
+			  position: fixed;
+			  width: 720px;
+			  background: #160917;
+			  left: 0;
+			  right: 0;
+			  border-radius: 10px;
+			  border: 2px solid white;
+			  z-index: 999;
+			  top: 50%;
+			  box-shadow: 0 0 0 1160px #0a0209d1;
+			  margin: auto;
+			  transform: translateY(-50%);
+			}
+			.game_inner__right p {
+			  text-align: left;
+			  font-size: 10px;
+			  padding: 26px;
+			}
+			.game_inner__right .xp {
+			  padding: 0 26px;
+			  font-size: 12px;
+			}
+			.game_inner__right .nextPhase {
+			  background: #73256a;
+			  width: calc(100% - 52px);
+			  margin: 0 26px 26px 26px;
+			  text-align: center;
+			  font-size: 12px;
+			  padding: 20px 0;
+			  border-radius: 10px;
+			  cursor: pointer;
+			  box-shadow: 0 4px #3d074e;
+			}
+			.game_inner__right .upgrades {
+			  padding: 24px;
+			}
+			.game_inner__right .upgrades h2 {
+			  text-transform: capitalize;
+			  margin-bottom: 12px;
+			  font-weight: normal;
+			  font-size: 14px;
+			}
+			.game_inner__right .upgrades_upgrade .upgrade {
+			  border: 2px solid white;
+			  padding: 12px;
+			  border-radius: 6px;
+			  opacity: 0.6;
+			  transition: all 0.3s;
+			  pointer-events: none;
+			  position: relative;
+			  margin-bottom: 6px;
+			  font-size: 11px;
+			}
+			.game_inner__right .upgrades_upgrade .upgrade:hover {
+			  background: #ffffff0f;
+			  padding: 12px 12px 12px 20px;
+			}
+			.game_inner__right .upgrades_upgrade .upgrade.max {
+			  background: black;
+			  pointer-events: none;
+			}
+			.game_inner__right .upgrades_upgrade .upgrade.max:after {
+			  content: "max";
+			  display: block;
+			  position: absolute;
+			  left: 0;
+			  right: 0;
+			  text-align: center;
+			  margin: auto;
+			  top: 50%;
+			  transform: translateY(-50%);
+			  width: 100%;
+			  text-transform: uppercase;
+			}
+			.game_inner__right .upgrades_upgrade .upgrade.max div {
+			  opacity: 0.12;
+			}
+			.game_inner__right .upgrades_upgrade .upgrade.bought {
+			  pointer-events: none !important;
+			  background: green;
+			  opacity: 0.2 !important;
+			}
+			.game_inner__right .upgrades_upgrade .upgrade .name {
+			  font-size: 11px;
+			  margin-bottom: 5px;
+			  text-transform: uppercase;
+			}
+			.game_inner__right .upgrades_upgrade .upgrade .description {
+			  font-size: 8px;
+			  opacity: 0.5;
+			  margin-bottom: 4px;
+			}
+			.game_inner__right .upgrades_upgrade .upgrade .cost {
+			  font-size: 8px;
+			  color: red;
+			  transition: all 0.3s;
+			  margin-bottom: 3px;
+			}
+			.game_inner__right .upgrades_upgrade .upgrade .level {
+			  font-size: 8px;
+			  position: absolute;
+			  right: 12px;
+			  bottom: 12px;
+			}
+			.game_inner__right .upgrades_upgrade .upgrade .effect {
+			  font-size: 8px;
+			}
+			.game_inner__right .upgrades_upgrade .upgrade.available {
+			  opacity: 1;
+			  pointer-events: all;
+			  cursor: pointer;
+			}
+			.game_inner__right .upgrades_upgrade .upgrade.available .cost {
+			  color: green;
+			}
+			
+			.timer {
+			  width: 128px;
+			  margin: 0 auto;
+			  text-align: left;
+			  position: absolute;
+			  top: calc(50% - 400px);
+			  left: 4px;
+			  right: 0;
+			  font-size: 14px;
+			  margin: auto;
+			}
+			.timer_inner {
+			  position: relative;
+			  top: -40px;
+			  text-align: center;
+			}
+			.timer_inner div {
+			  display: inline-block;
+			  width: 28px;
+			  position: relative;
+			  margin: 0 3px 0;
+			}
+			.timer_inner div:after {
+			  display: block;
+			  content: ":";
+			  position: absolute;
+			  right: -11px;
+			  top: 50%;
+			  transform: translateY(-50%);
+			}
+			.timer_inner .ms {
+			  font-size: 9px;
+			  opacity: 0.7;
+			  width: 22px;
+			}
+			.timer_inner .ms:after {
+			  display: none;
+			}

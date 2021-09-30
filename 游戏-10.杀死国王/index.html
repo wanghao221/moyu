@@ -1,0 +1,215 @@
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="google-site-verification" content="i3bVXD3ywVilJt3b0Denbr2n41les3p8ciIldduw4X0" />
+		<title>海拥 | 杀死国王</title>	
+		<link rel="icon" type="image/x-icon" href="http://haiyong.site/wp-content/uploads/2021/07/cropped-59255587-1-192x192.jpg"/>
+		<meta name="keywords" content="杀死国王" />
+		<meta name="description" content="杀死国王——游戏——海拥;立志打造一个拥有100个小游戏的摸鱼网站。Made By Haiyong，技术支持——海拥" /> 
+		<meta name="author" content="海拥(http://haiyong.site)" />
+		<meta name="copyright" content="海拥(http://haiyong.site)" />
+		<link rel="stylesheet" href="css/style.css">	
+	</head>
+	<body>
+			
+		<div :class="{'pressed': pressed}" id='app'>
+		  <audio controls='' crossorigin='anonymous' style='display: none;'>
+		    <source src='https://assets.codepen.io/217233/ktkBgAudio.mp3' type='audio/mp3'>
+		  </audio>
+		  <div class='game'>
+		    <div :class="{'show': gameover}" class='game_lose'>
+		      <div class='inner'>
+		        <h1>你没时间了！</h1>
+		        <p>特罗斯特国王获胜,刷新以重试。</p>
+		        <p>
+		          你可以
+		          <a href='https://github.com/wanghao221/moyu/'>在 Github 上关注我</a>
+		          获取更多好玩的游戏
+		        </p>
+		      </div>
+		    </div>
+		    <div :class="{'show': gamewin}" class='game_win'>
+		      <div class='inner'>
+		        <h1>你赢了！</h1>
+		        <p>特罗斯特国王被杀,恭喜！</p>
+		        <p>
+		          你可以
+		          <a href='https://github.com/wanghao221/moyu/'>在 Github 上关注我</a>
+		           获取更多好玩的游戏
+		        </p>
+		      </div>
+		    </div>
+		    <div :class="{'gamestarted': gameStarted}" class='game_intro'>
+		      <div :class="{'gamestarted': introClicked}" class='game_intro__inner start'>
+		        <img src='https://assets.codepen.io/217233/ktkLogo.png'>
+		        <br>
+		        <p @click='introClicked = !introClicked, audioController.play("crushyou")' class='begin'>BEGIN GAME</p>
+		      </div>
+		      <div :class="{'gamestarted': !introClicked}" class='game_intro__inner end'>
+		        <div class='dialogue'>
+		          <span>特罗斯特王</span>
+		          <p>哈哈哈，你真的以为你能打败我！？ 我的人会粉碎你，小屁孩。</p>
+		          <p @click='introClicked = !introClicked, startGame()' class='continue'>Continue 点击继续</p>
+		        </div>
+		        <img class='king' src='https://assets.codepen.io/217233/kingTrost.png'>
+		      </div>
+		    </div>
+		    <div class='game_inner'>
+		      <div :class="{'active': tooltip}" class='game_inner__tooltip'>
+		        <div class='space'></div>
+		        <div class='smash'>粉碎空格键！</div>
+		      </div>
+		      <div class='game_inner__footer'>
+		        <div class='madeby'>
+		          Made by
+		          <a href='http://haiyong.site' target='_blank'>Hai Yong</a>
+		        </div>
+		        <div class='resources'>
+		          <div class='ui_xp'>
+		            <img src='https://assets.codepen.io/217233/ktkXpIxon.png'>
+		            {{ xp }}xp
+		          </div>
+		        </div>
+		      </div>
+		      <div class='game_inner__left'>
+		        <div class='buttons'>
+		          <img :class="{'off': !audioController.sfxOn}" @click='audioController.sfxOn = !audioController.sfxOn' src='https://assets.codepen.io/217233/ktkSfxButton.png'>
+		          <img :class="{'off': muteBg}" @click='toggleBg()' src='https://assets.codepen.io/217233/ktkBgButton.png'>
+		        </div>
+		        <div class='logo'>
+		          <img src='https://assets.codepen.io/217233/ktkLogo.png'>
+		        </div>
+		        <div class='timer'>
+		          <img src='https://assets.codepen.io/217233/ktkTimerBg.png'>
+		          <div class='timer_inner'>
+		            <div class='minutes'>
+		              {{ minutes }}
+		            </div>
+		            <div class='seconds'>
+		              {{ seconds }}
+		            </div>
+		            <div class='ms'>
+		              {{ ms }}
+		            </div>
+		          </div>
+		        </div>
+		        <div class='ui'>
+		          <div class='ui_progress'>
+		            <div class='ui_progress__stage'>
+		              STAGE {{ stage }}
+		            </div>
+		            <div class='ui_progress__bar'>
+		              <div :style='{width: `${((500 / enemiesPerStage) * (enemiesDefeated + 1)) - ((500 / enemiesPerStage) / 2)}px`}' class='inner'></div>
+		              <div class='outer'></div>
+		            </div>
+		            <div class='ui_progress__icons'>
+		              <div :key='enemies' class='icon' v-for='(enemies, index) in enemiesPerStage'>
+		                <div :class="{'complete': index < enemiesDefeated, 'active': index == enemiesDefeated}" class='icon_bg'></div>
+		              </div>
+		            </div>
+		          </div>
+		        </div>
+		        <div class='center'>
+		          <div class='characters'>
+		            <div :class="{'run': stageComplete}" class='player'>
+		              <div class='stats'>
+		                <div class='ui_strength'>
+		                  <img src='https://assets.codepen.io/217233/ktkStrengthIcon.png'>
+		                  {{ strength }} STR
+		                  <br>
+		                </div>
+		                <div class='ui_intelligence'>
+		                  <img src='https://assets.codepen.io/217233/ktkKnowledgeIcon.png'>
+		                  {{ intelligence }} INT
+		                </div>
+		                <div class='ui_speed'>
+		                  <img src='https://assets.codepen.io/217233/ktkSpeedIcon.png'>
+		                  {{ speed }} SPD
+		                </div>
+		              </div>
+		              <div :class="{'pressed': pressed}" class='player_sprite'></div>
+		            </div>
+		            <div :class="{'run': stageComplete}" class='enemy'>
+		              <div :class="{'pressed': pressed, 'killed' : enemyKilled, 'boss' : boss}" :style='{filter: `hue-rotate(${80 * (stage - 1)}deg)`}' class='enemy_sprite'></div>
+		              <div :class="{'pressed': pressed}" class='enemy_hit'>
+		                {{ damage }}
+		              </div>
+		              <div :class="{'killed': enemyKilled}" class='enemy_xp'>
+		                <img src='https://assets.codepen.io/217233/ktkXpIxon.png'>
+		                {{ xpGained }}xp
+		              </div>
+		              <div class='enemy_health'>
+		                <div class='enemy_health_stats'>
+		                  <div class='name'>
+		                    {{ enemy.name }}
+		                  </div>
+		                  <div class='level'>
+		                    HP: {{ enemy.health }}
+		                  </div>
+		                </div>
+		                <div :style='{width: `${100 * (enemy.health / enemy.initHealth)}%`}' class='enemy_health_inner'></div>
+		              </div>
+		            </div>
+		          </div>
+		        </div>
+		      </div>
+		      <div class='game_inner__right' v-if='shoppingPhase'>
+		        <div class='timer'>
+		          <img src='https://assets.codepen.io/217233/ktkTimerBg.png'>
+		          <div class='timer_inner'>
+		            <div class='minutes'>
+		              {{ minutes }}
+		            </div>
+		            <div class='seconds'>
+		              {{ seconds }}
+		            </div>
+		            <div class='ms'>
+		              {{ ms }}
+		            </div>
+		          </div>
+		        </div>
+		        <p>将您的金币和经验用于升级</p>
+		        <div class='xp'>
+		          <img src='https://assets.codepen.io/217233/ktkXpIxon.png'>
+		          {{ xp }}xp
+		        </div>
+		        <div class='upgrades'>
+		          <div :key='upgrades.name' class='upgrades_upgrade' v-for='(upgrade, index) in upgrades'>
+		            <h2>{{ index != 0 ? upgrade.type != upgrades[index - 1].type ? upgrade.type : '' : 'Skills' }}</h2>
+		            <div :class="{'max' : upgrade.level > upgrade.maxLevel, 'available': upgrade.type == 'stat' ? xp >= upgrade.cost : gold >= upgrade.cost, 'bought': upgrade.bought}" @click='buy(index, upgrade.type, upgrade.stat);audioController.play("upgrade")' @mouseenter='audioController.play("hover")' class='upgrade'>
+		              <div class='name'>{{ upgrade.names }}</div>
+		              <div class='description'>{{ upgrade.descriptions }}</div>
+		              <div class='cost'>
+		                Cost: {{ upgrade.cost }} {{ upgrade.type == "stat" ? 'xp' : 'gold' }}
+		              </div>
+		              <div class='effect'>
+		                +{{ upgrade.type == "stat" ? upgrade.increment : upgrade.damage }} {{ upgrade.metric }}
+		              </div>
+		              <div class='level' v-if="upgrade.type == 'stat'">
+		                Level: {{ upgrade.level }}
+		              </div>
+		            </div>
+		          </div>
+		        </div>
+		        <div @click='exitShoppingPhase' class='nextPhase'>下一关</div>
+		      </div>
+		    </div>
+		  </div>
+		</div>
+
+	</body>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.9/vue.min.js"></script>
+	<script>
+			        var _hmt = _hmt || [];
+			        (function() {
+			          var hm = document.createElement("script");
+			          hm.src = "https://hm.baidu.com/hm.js?a9430a37066911650e26adadcc42798a";
+			          var s = document.getElementsByTagName("script")[0]; 
+			          s.parentNode.insertBefore(hm, s);
+			        })();
+			    </script>
+	<script src="js/script.js"></script>
+</html>
