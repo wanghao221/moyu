@@ -22,10 +22,13 @@
 13.飞机炸弹：[http://haiyong.site/feijizhadan](http://haiyong.site/feijizhadan)\
 14.保护鸡蛋：[http://haiyong.site/baohujidan](http://haiyong.site/baohujidan)\
 15.自定义生成树：[http://haiyong.site/shengchengshu](http://haiyong.site/shengchengshu)\
-16.[]()\
-17.[]()\
-18.[]()\
-19.[]()\
+16.羊毛球逗猫咪：[http://haiyong.site/doumaomi](http://haiyong.site/doumaomi)\
+17.陨石坠落🌑：[http://haiyong.site/yunshi](http://haiyong.site/yunshi)\
+18.小飞鱼🐳：[http://haiyong.site/xiaofeiyu](http://haiyong.site/xiaofeiyu)\
+19.XXOO：[http://haiyong.site/XXOO](http://haiyong.site/XXOO)\
+20.Pokémon宠物小精灵：[http://haiyong.site/pokemon](http://haiyong.site/pokemon)\
+21.射箭游戏：[http://haiyong.site/shejian](http://haiyong.site/shejian)\
+22.：[]()\
 
 
 ### 工具
