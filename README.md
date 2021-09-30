@@ -29,6 +29,7 @@
 20.Pokémon宠物小精灵：[http://haiyong.site/pokemon](http://haiyong.site/pokemon)\
 21.射箭游戏：[http://haiyong.site/shejian](http://haiyong.site/shejian)\
 22.无限跑酷：[http://haiyong.site/wuxianpaoku](http://haiyong.site/wuxianpaoku)\
-
+23.泡菜迷宫：[http://haiyong.site/paocaimigong](http://haiyong.site/paocaimigong)\
+24.人生重开模拟器：[http://liferestart.syaro.io/view/](http://liferestart.syaro.io/view/)
 
 ### 工具
