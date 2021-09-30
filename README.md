@@ -10,8 +10,9 @@
 4.圣诞老人过桥：[http://haiyong.site/Santa-Claus](http://haiyong.site/Santa-Claus)\
 5.切方块：[http://haiyong.site/qiefangkuai](http://haiyong.site/qiefangkuai)\
 6.打地鼠：[http://haiyong.site/catch-mole](http://haiyong.site/catch-mole)\
-7.JS闯关小游戏：[http://haiyong.site/simplejsgame](http://haiyong.site/simplejsgame)
-8.
-
+7.JS闯关小游戏：[http://haiyong.site/simplejsgame](http://haiyong.site/simplejsgame)\
+8.盖塔楼：[http://haiyong.site/tower-blocks](http://haiyong.site/tower-blocks)\
+9.[]()\
+10.[]()\
 
 ### 工具
