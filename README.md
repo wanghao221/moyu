@@ -17,5 +17,15 @@
 8.盖塔楼：[http://haiyong.site/tower-blocks](http://haiyong.site/tower-blocks)\
 9.三只小鸡：[http://haiyong.site/sanzhiji](http://haiyong.site/sanzhiji)\
 10.杀死国王：[http://haiyong.site/kill-the-king](http://haiyong.site/kill-the-king)\
+11.喷火龙小游戏：[http://haiyong.site/penhuolong](http://haiyong.site/penhuolong)\
+12.迷宫：[http://haiyong.site/migong](http://haiyong.site/migong)\
+13.飞机炸弹：[http://haiyong.site/feijizhadan](http://haiyong.site/feijizhadan)\
+14.保护鸡蛋：[http://haiyong.site/baohujidan](http://haiyong.site/baohujidan)\
+15.自定义生成树：[http://haiyong.site/shengchengshu](http://haiyong.site/shengchengshu)\
+16.[]()\
+17.[]()\
+18.[]()\
+19.[]()\
+
 
 ### 工具
