@@ -1,4 +1,7 @@
 ## 100个摸鱼小游戏  
+
+作者：[海拥](https://github.com/wanghao221)
+
 100个摸鱼小游戏、小工具源码集合及在线演示
 [http://haiyong.site/moyu](http://haiyong.site/moyu)
 
@@ -12,7 +15,7 @@
 6.打地鼠：[http://haiyong.site/catch-mole](http://haiyong.site/catch-mole)\
 7.JS闯关小游戏：[http://haiyong.site/simplejsgame](http://haiyong.site/simplejsgame)\
 8.盖塔楼：[http://haiyong.site/tower-blocks](http://haiyong.site/tower-blocks)\
-9.[]()\
-10.[]()\
+9.三只小鸡：[http://haiyong.site/sanzhiji](http://haiyong.site/sanzhiji)\
+10.杀死国王：[http://haiyong.site/kill-the-king](http://haiyong.site/kill-the-king)\
 
 ### 工具
