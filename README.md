@@ -1,6 +1,6 @@
 ## 100个摸鱼小游戏  
 
-作者：[海拥](https://github.com/wanghao221)
+作者：[海拥](https://github.com/wanghao221) 微信：[wh18363](http://haiyong.site/wp-content/uploads/2022/01/weixin1220.png)
 
 100个摸鱼小游戏、小工具源码集合及在线演示
 [http://haiyong.site/moyu](http://haiyong.site/moyu)
