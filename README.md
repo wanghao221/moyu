@@ -30,6 +30,7 @@
 21.射箭游戏：[http://haiyong.site/shejian](http://haiyong.site/shejian)\
 22.无限跑酷：[http://haiyong.site/wuxianpaoku](http://haiyong.site/wuxianpaoku)\
 23.泡菜迷宫：[http://haiyong.site/paocaimigong](http://haiyong.site/paocaimigong)\
-24.人生重开模拟器：[http://liferestart.syaro.io/view/](http://liferestart.syaro.io/view/)
+24.人生重开模拟器：[http://liferestart.syaro.io/view/](http://liferestart.syaro.io/view/)\
+25.蓬松的恐龙：[http://haiyong.site/flappy-dino](http://haiyong.site/flappy-dino)
 
 ### 工具
