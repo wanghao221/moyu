@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+          font-family: Roboto, sans-serif;
+}
+/*# sourceMappingURL=style.css.map */
+
+
+body {
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+  color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 1rem;
+}
+
+#container h2 {
+  margin-bottom: 5rem;
+  padding-bottom: 5px;
+  border-bottom: solid 2px #404040;
+}
+
+#points {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#points label {
+  border-bottom: solid 2px #404040;
+  padding-bottom: 2px;
+}
+
+#choice {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 3rem 0rem;
+}
+
+#choice img {
+  width: 50%;
+}
+
+#computerChoice, #playerChoice {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 130px;
+  max-height: 130px;
+}
+
+#computerChoiceTxt, #playerChoiceTxt {
+  margin-top: 1rem;
+}
+
+#buttons {
+  max-width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+/* BUTTON DESIGN */
+
+.btn {
+  border: none;
+  background: #404040;
+  color: #ffffff !important;
+  font-weight: 100;
+  padding: 15px;
+  text-transform: uppercase;
+  border-radius: 6px;
+  display: inline-block;
+  transition: all 0.3s ease 0s;
+  cursor: pointer;
+  margin: 0rem .3rem;
+  }
+
+  .btn:hover {
+    color: #404040 !important;
+    font-weight: 700 !important;
+    background: white;
+    -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+    transition: all 0.3s ease 0s;
+  }
+  
+  .page-footer {
+    position: fixed;
+    right: 0;
+    bottom: 20px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    color: black;
+    background: rgba(255, 255, 255, 0.65);
+  }
+  
+  .page-footer a {
+    display: flex;
+    margin-left: 4px;
+  }
+  .touxiang{
+  	width:24px;
+  	height:24px;
+  }
