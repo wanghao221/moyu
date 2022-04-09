@@ -1,6 +1,6 @@
 ## 100个摸鱼小游戏  
 
-作者：[海拥](https://haiyong.site/about) 
+需要源码可联系作者：[海拥](https://haiyong.site/about)\
 微信：[wh18363](https://haiyong.site/img/qrcode/weixin.png)
 QQ: 1836360247
 
