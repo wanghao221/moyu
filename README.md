@@ -59,6 +59,8 @@ QQ: 1836360247
 48.趣味闯关: [https://haiyong.site/moyu/quwei.html](https://haiyong.site/moyu/quwei.html)\
 49.吃豆人游戏: [https://haiyong.site/moyu/dou.html](https://haiyong.site/moyu/dou.html)\
 50.挡板小游戏: [https://haiyong.site/moyu/danban.html](https://haiyong.site/moyu/danban.html)\
+51.纸牌记忆游戏: [https://haiyong.site/moyu/zhipaijiyi.html](https://haiyong.site/moyu/zhipaijiyi.html)\
+
 
 
 ### 工具
