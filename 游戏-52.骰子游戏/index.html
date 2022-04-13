@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>实验十六 使用 JavaScript 构建骰子游戏</title>
+	<style>
+	.container {
+		width: 70%;
+		margin: auto;
+		text-align: center;
+	}
+
+	.dice {
+		text-align: center;
+		display: inline-block;
+		margin: 10px;
+	}
+
+	body {
+		background-image: url(https://labfile.oss.aliyuncs.com/courses/8605/bg-451838.jpeg);
+		background-size: 100% 100%;
+		height: 95vh;
+		margin: 0;
+	}
+
+	h1 {
+		margin: 30px;
+		font-family: "Lobster", cursive;
+		text-shadow: 5px 0 #232931;
+		font-size: 4.5rem;
+		color: #4ecca3;
+		text-align: center;
+	}
+
+	p {
+		font-size: 2rem;
+		color: #4ecca3;
+		font-family: "Indie Flower", cursive;
+	}
+
+	img {
+		width: 100%;
+	}
+
+	.bottom {
+		padding-top: 30px;
+	}
+
+	.butn {
+		background: #4ecca3;
+		font-family: "Indie Flower", cursive;
+		border-radius: 7px;
+		color: #ffff;
+		font-size: 30px;
+		padding: 16px 25px 16px 25px;
+		text-decoration: none;
+	}
+
+	.butn:hover {
+		background: #232931;
+		text-decoration: none;
+	}
+	.page-footer {
+	  position: fixed;
+	  right: 0;
+	  bottom: 20px;
+	  display: flex;
+	  align-items: center;
+	  padding: 5px;
+	  color: black;
+	  background: rgba(255, 255, 255, 0.65);
+	}
+	
+	.page-footer a {
+	  display: flex;
+	  margin-left: 4px;
+	}
+	.touxiang{
+		width:24px;
+		height:24px;
+	}
+</style>
+
+</head>
+
+<body>
+  <div class="container">
+    <h1>让我们开始吧</h1>
+
+    <div class="dice">
+      <p class="Player1">玩家 1</p>
+      <img class="img1" src="dice6.png">
+    </div>
+
+    <div class="dice">
+      <p class="Player2">玩家 2</p>
+      <img class="img2" src="dice6.png">
+    </div>
+  </div>
+
+  <div class="container bottom">
+    <button type="button" class="butn"
+      onClick="rollTheDice()">
+      掷骰子
+    </button>
+  </div>
+  <div class="container bottom">
+    <button type="button" class="butn"
+      onClick="editNames()">
+      编辑玩家姓名
+    </button>
+  </div>
+  <footer class="page-footer">
+  <span>made by </span>
+  <a href="https://haiyong.site/moyu" target="_blank">
+  <img class="touxiang"  src="https://haiyong.site/img/favicon.png" alt="George Martsoukos logo">
+  </a>
+  </footer>
+</body>
+<script>
+  // 玩家姓名
+  var player1 = "Player 1";
+  var player2 = "Player 2";
+
+  // 改变玩家姓名的功能
+  function editNames() {
+    player1 = prompt("更改玩家 1 名称");
+    player2 = prompt("更改玩家 2 名称");
+
+    document.querySelector("p.Player1").innerHTML = player1;
+    document.querySelector("p.Player2").innerHTML = player2;
+  }
+
+  // 掷骰子的功能
+  function rollTheDice() {
+    setTimeout(function () {
+      var randomNumber1 = Math.floor(Math.random() * 6) + 1;
+      var randomNumber2 = Math.floor(Math.random() * 6) + 1;
+
+      document.querySelector(".img1").setAttribute("src", "dice" + randomNumber1 + ".png");
+
+      document.querySelector(".img2").setAttribute("src", "dice" + randomNumber2 + ".png");
+
+      if (randomNumber1 === randomNumber2) {
+        document.querySelector("h1").innerHTML = "平局!";
+      } else if (randomNumber1 < randomNumber2) {
+        document.querySelector("h1").innerHTML = (player2 + "获得胜利!");
+      } else {
+        document.querySelector("h1").innerHTML = (player1 + "获得胜利!");
+      }
+    }, 1000);
+  }
+</script>
+
+</html>
