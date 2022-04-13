@@ -60,7 +60,7 @@ QQ: 1836360247
 49.吃豆人游戏: [https://haiyong.site/moyu/dou.html](https://haiyong.site/moyu/dou.html)\
 50.挡板小游戏: [https://haiyong.site/moyu/danban.html](https://haiyong.site/moyu/danban.html)\
 51.纸牌记忆游戏: [https://haiyong.site/moyu/zhipaijiyi.html](https://haiyong.site/moyu/zhipaijiyi.html)\
-52.骰子游戏: [https://haiyong.site/moyu/touzi.html](https://haiyong.site/moyu/touzi.html)\
+52.骰子游戏: [https://haiyong.site/moyu/touzi](https://haiyong.site/moyu/touzi)
 
 
 ### 工具
