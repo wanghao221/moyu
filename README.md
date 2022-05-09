@@ -4,7 +4,7 @@
 微信：[wh18363](https://haiyong.site/img/qrcode/weixin.png)
 QQ: 1836360247
 
-100个摸鱼小游戏、小工具源码集合及在线演示
+100个摸鱼游戏、工具源码集合及在线演示（更新中）：
 [https://haiyong.site/moyu/](https://haiyong.site/moyu/)
 
 ### 游戏
