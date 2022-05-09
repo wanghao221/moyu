@@ -60,7 +60,40 @@ QQ: 1836360247
 49.吃豆人游戏: [https://haiyong.site/moyu/dou.html](https://haiyong.site/moyu/dou.html)\
 50.挡板小游戏: [https://haiyong.site/moyu/danban.html](https://haiyong.site/moyu/danban.html)\
 51.纸牌记忆游戏: [https://haiyong.site/moyu/zhipaijiyi.html](https://haiyong.site/moyu/zhipaijiyi.html)\
-52.骰子游戏: [https://haiyong.site/moyu/touzi](https://haiyong.site/moyu/touzi)
-
+52.骰子游戏: [https://haiyong.site/moyu/touzi](https://haiyong.site/moyu/touzi)\
+53.跳房子：[https://haiyong.site/moyu/tiaofangzi.html](https://haiyong.site/moyu/tiaofangzi.html)
 
 ### 工具
+
+1.音乐播放器：[https://haiyong.site/tools/yinyue](https://haiyong.site/tools/yinyue)\
+2.签名生成器：[https://haiyong.site/tools/qianming](https://haiyong.site/tools/qianming)\
+3.年龄计算器：[https://haiyong.site/tools/age-calculator.html](https://haiyong.site/tools/age-calculator.html)\
+4.最长的成语接龙：[https://haiyong.site/tools/chengyujielong.html](https://haiyong.site/tools/chengyujielong.html)\
+5.代码素描：[https://haiyong.site/tools/daimasumiao.html](https://haiyong.site/tools/daimasumiao.html)\
+6.大小写转换：[https://haiyong.site/tools/daxiaoxie.html](https://haiyong.site/tools/daxiaoxie.html)\
+7.自定义骰子：[https://haiyong.site/tools/dice.html](https://haiyong.site/tools/dice.html)\
+8.拖拽生成器：[https://haiyong.site/tools/form.html](https://haiyong.site/tools/form.html)\
+9.狗屁不通文章生成器：[https://haiyong.site/tools/goupibutong.html](https://haiyong.site/tools/goupibutong.html)\
+10.计算器：[https://haiyong.site/tools/jsq.html](https://haiyong.site/tools/jsq.html)\
+11.密码生成器：[https://haiyong.site/tools/mima.html](https://haiyong.site/tools/mima.html)\
+12.网址批量打开工具：[https://haiyong.site/tools/openurls](https://haiyong.site/tools/openurls)\
+13.随机密码生成器：[https://haiyong.site/tools/random-password-generator.html](https://haiyong.site/tools/random-password-generator.html)\
+14.自定义大转盘：[https://haiyong.site/tools/spin-the-wheel.html](https://haiyong.site/tools/spin-the-wheel.html)\
+15.待办事项清单：[https://haiyong.site/tools/todolist.html](https://haiyong.site/tools/todolist.html)\
+16.天气实况：[https://haiyong.site/tools/weather.html](https://haiyong.site/tools/weather.html)\
+17.配色器：[https://haiyong.site/tools/yane.html](https://haiyong.site/tools/yane.html)\
+18.颜色生成器：[https://haiyong.site/tools/yan.html](https://haiyong.site/tools/yan.html)\
+
+### 动画
+
+1.樱花：[https://haiyong.site/demo/yinghua.html](https://haiyong.site/demo/yinghua.html)\
+2.下雪：[https://haiyong.site/demo/xiaxue](https://haiyong.site/demo/xiaxue)\
+3.七彩雨：[https://haiyong.site/demo/qicaiyu.html](https://haiyong.site/demo/qicaiyu.html)\
+4.时光机：[https://haiyong.site/demo/chuanyueshikong.html](https://haiyong.site/demo/chuanyueshikong.html)\
+5.日夜切换：[https://haiyong.site/demo/daynight.html](https://haiyong.site/demo/daynight.html)\
+6.白色简约时钟：[https://haiyong.site/demo/clock1.html](https://haiyong.site/demo/clock1.html)\
+7.黑色炫酷时钟：[https://haiyong.site/demo/clock2.html](https://haiyong.site/demo/clock2.html)\
+8.八卦时钟：[https://haiyong.site/demo/clock3.html](https://haiyong.site/demo/clock3.html)\
+9.开关：[https://haiyong.site/demo/kaiguan.html](https://haiyong.site/demo/kaiguan.html)\
+10.表白神器：[https://haiyong.site/demo/eluvletter](https://haiyong.site/demo/eluvletter)\
+
