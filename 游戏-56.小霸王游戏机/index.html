@@ -1,0 +1,214 @@
+<html>  
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1,user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="email=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="full-screen" content="yes">
+    <meta name="browsermode" content="application">
+    <meta name="x5-orientation" content="landscape">
+    <meta name="x5-fullscreen" content="true">
+    <meta name="x5-page-mode" content="app">
+    <title>小霸王游戏机 | 海拥</title>
+    <meta name="keywords" content="fc,在线fc游戏,fc在线模拟器,nes在线模拟器,魂斗罗,超级玛丽,忍者龙剑传," />
+    <meta name="description" content="任天堂FC/NES原版ROM在线玩，可以近乎完美的还原fc卡带游戏的视频和声音。" />
+    <link href="css/jsnes.css" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" href="favicon.ico">
+    <style>
+        .function button, .action button{
+            color:#000;
+        }
+        .function button{
+            height:32px;
+            width:auto;
+        }
+    </style>
+</head>
+<!-- /**
+ * fc在线玩
+ * Gitee 开源地址：https://gitee.com/feiyu22/jsnes
+ * 转载或使用时，还请保留以上信息，谢谢！
+ */ -->
+<body>
+    <div class="main">
+        <div class="panel">
+            <div class="controller-area">
+                <div class="controller">
+                    <div id="controls-direction">
+                        <div id="controls-rocker"></div>
+                        <button role="BUTTON_UP" class="up joydirection" id="joystick_btn_up">up</button>
+                        <button role="BUTTON_RIGHT" class="right joydirection" id="joystick_btn_right">right</button>
+                        <button role="BUTTON_DOWN" class="down joydirection" id="joystick_btn_down">down</button>
+                        <button role="BUTTON_LEFT" class="left joydirection" id="joystick_btn_left">left</button>
+                    </div>
+                </div>
+                <div class="joy">I</div>
+                <div><a href="http://liflag.cn/post/59" target="_blank" class="readme">按键说明</a></div>
+                <div><a href="https://haiyong.site/moyu/" target="_blank" class="readme">更多游戏</a></div>
+            </div>
+            <div class="function-area">
+                <div class="screen">
+                    <div id="emulator" align="center" style="width:100%;height:100%"></div>
+                </div>
+                <div class="function">
+                    <button class="controls-center-select joybtn" id="joystick_btn_select" role="BUTTON_SELECT">Select</button>
+                    <button class="controls-center-start joybtn" id="joystick_btn_start" role="BUTTON_START">Pause</button>
+                </div>
+            </div>
+            <div class="action-area">
+                <div class="action">
+                    <div id="controls-fire">
+                        <button class="a joybtn" role="BUTTON_A" id="joystick_btn_A">A</button>
+                        <button class="b joybtn" role="BUTTON_B" id="joystick_btn_B">B</button>
+                    </div>
+                </div>
+            </div>
+            <div class="sign">FAMILY <br> COMPUTER</div>
+        </div>
+    </div>
+</body>
+<script src="lib/jquery-1.4.2.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="lib/dynamicaudio-min.js" type="text/javascript" charset="utf-8"></script>
+<script src="source/nes.js" type="text/javascript" charset="utf-8"></script>
+<script src="source/utils.js" type="text/javascript" charset="utf-8"></script>
+<script src="source/cpu.js" type="text/javascript" charset="utf-8"></script>
+<script src="source/keyboard.js" type="text/javascript" charset="utf-8"></script>
+<script src="source/mappers.js" type="text/javascript" charset="utf-8"></script>
+<script src="source/papu.js" type="text/javascript" charset="utf-8"></script>
+<script src="source/ppu.js" type="text/javascript" charset="utf-8"></script>
+<script src="source/rom.js" type="text/javascript" charset="utf-8"></script>
+<script src="source/ui.js" type="text/javascript" charset="utf-8"></script>
+<script src="lib/debug.mini.js" type="text/javascript" charset="utf-8"></script>
+<script src="lib/nipplejs.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="lib/joystick.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8">
+    var nes;
+    $(function() {
+        nes = new JSNES({
+            'ui': $('#emulator').JSNESUI({
+                "经典": [
+                    ['纽约大拳猫', 'roms/rom2/RockinCats.nes'],
+                    ['赤影战士 Kage', 'roms/other/Kage.nes'],
+                    ['中国象棋', 'roms/other/Zhong Guo Xiang Qi.nes'],
+                    ['吃豆精灵 (J) (V1.1) Pac-Man [!]', 'roms/other/Pac-Man.nes'],
+                    ['沙罗曼蛇 (U) Life Force', 'roms/rom2/Life Force [!].nes'],
+                    ['1943 (U) 1943 - The Battle of Midway', 'roms/rom2/1943.nes'],
+                    ['脱狱 Cross Fire (J)', 'roms/rom2/Cross Fire (J).nes'],
+                    ['撞球咖啡馆 Shufflepuck Cafe', 'roms/rom2/Shufflepuck Cafe.nes'],
+                    ['功夫 (J) (V1.2) Yie Ar Kung-Fu [!]', 'roms/rom1/(J) (V1.2) Yie Ar Kung-Fu [!].nes'],
+                ],
+                "魂斗罗": [
+                    ['魂斗罗1(U)30', 'roms/Contra/Contra1(U)30.nes'],
+                    ['魂斗罗1(U)30F', 'roms/Contra/Contra1(U)30F.nes'],
+                    ['魂斗罗1(U)30L', 'roms/Contra/Contra1(U)30L.nes'],
+                    ['魂斗罗1(U)30M', 'roms/Contra/Contra1(U)30M.nes'],
+                    ['魂斗罗1(U)30S', 'roms/Contra/Contra1(U)30S.nes'],
+                    ['魂斗罗1(U)F', 'roms/Contra/Contra1(U)F.nes'],
+                    ['魂斗罗1(U)L', 'roms/Contra/Contra1(U)L.nes'],
+                    ['魂斗罗1(U)M', 'roms/Contra/Contra1(U)M.nes'],
+                    ['魂斗罗1(U)S', 'roms/Contra/Contra1(U)S.nes'],
+                ],
+                "坦克": [
+                    ['坦克 (Ch) Missile Tank', 'roms/rom1/(Ch) Missile Tank.nes'],
+                    ['坦克 (Ch) Tank 1990', 'roms/rom1/(Ch) Tank 1990.nes'],
+                    ['坦克 (J) Battle City', 'roms/rom1/(J) Battle City.nes'],
+                ],
+                "超级玛丽": [
+                    ['超级马里奥1 (W) Super Mario Bros. [!]', 'roms/rom1/(W) Super Mario Bros. [!].nes'],
+                    ['超级马里奥2 (W) Super Mario Bros. 3 (U)', 'roms/bfirsh/Super Mario Bros. 3 (U) (PRG1) [!].nes'],
+                    ['马里奥拆屋工 (W) Wrecking Crew [!]', 'roms/rom1/(W) Wrecking Crew [!].nes'],
+                    ['马里奥医生 Dr. Mario (JU)', 'roms/bfirsh/Dr. Mario (JU).nes'],
+                ],
+                "双截龙": [
+                    ['双截龙1 Double Dragon1', 'roms/Double Dragon/Double Dragon1.nes'],
+                    ['双截龙2 Double Dragon2', 'roms/Double Dragon/Double Dragon2.nes'],
+                    ['双截龙3 Double Dragon3', 'roms/Double Dragon/Double Dragon3.nes'],
+                    ['双截龙4 Double Dragon4', 'roms/Double Dragon/Double Dragon4.nes'],
+                ],
+                "淘金者": [
+                    ['淘金者(汉化)', 'roms/rom1/TaoJinZhe.nes'],
+                    ['淘金者(J)', 'roms/rom1/Championship Lode Runner (J).nes'],
+                ],
+                "俄罗斯方块": [
+                    ['俄罗斯方块LJ65', 'roms/lj65/lj65.nes'],
+                    ['俄罗斯方块Tetris(U)', 'roms/other/Tetris (U) [!].nes'],
+                    ['俄罗斯方块Tetris 2(U)', 'roms/other/Tetris 2 (U) [!].nes'],
+                ],
+                "赛车": [
+                    ['F1赛车 (J) F-1 Race [!]', 'roms/rom1/(J) F-1 Race [!].nes'],
+                    ['摩托车大赛 (JU) (PRG0) Mach Rider [!]', 'roms/rom1/(JU) (PRG0) Mach Rider [!].nes'],
+                    ['越野机车 (JU) Excitebike [!]', 'roms/rom1/(JU) Excitebike [!].nes'],
+                    ['火箭车 (J) Road Fighter [!]', 'roms/rom1/(J) Road Fighter [!].nes'],
+                ],
+                "1981": [
+                    ['五子棋 (5) 日版', 'roms/1981/5.nes'],
+                ],
+                // "不可用": [
+                //     ['Concentration Room', 'roms/croom/croom.nes'],
+                //     ['LJ65', 'roms/lj65/lj65.nes'],
+                //     ['赤色要塞 (KC) Jackal', 'roms/other/Jackal.nes'],
+                //     ['花式撞球 (U) Side Pocket', 'roms/rom2/Side Pocket.nes'],
+                //     ['彩虹岛 (U) Rainbow Islands', 'roms/rom2/Rainbow Islands.nes'],
+                //     ['快打旋风 (U) Mighty Final Fight', 'roms/rom2/Mighty Final Fight.nes'],
+
+                //     ['七宝奇谋1 (J) Goonies, The [!]', 'roms/rom1/(J) Goonies, The [!].nes'],
+                //     ['俄罗斯方块 (Tengen) Tetris [!]', 'roms/rom1/(Tengen) Tetris [!].nes'],
+                //     ['兵蜂1 (J) TwinBee [!]', 'roms/rom1/(J) TwinBee [!].nes'],
+                //     ['冒险岛1 (J) Takahashi Meijin no Bouken Shima [!]', 'roms/rom1/(J) Takahashi Meijin no Bouken Shima [!].nes'],
+                //     ['南极大冒险 (J) Antarctic Adventure [!]', 'roms/rom1/(J) Antarctic Adventure [!].nes'],
+                //     ['叮当1 (J) Dig Dug [!]', 'roms/rom1/(J) Dig Dug [!].nes'],
+
+                //     ['影之传说 (J) Kage no Densetsu [!]', 'roms/rom1/(J) Kage no Densetsu [!].nes'],
+                //     ['打砖块1 (J) Arkanoid [!]', 'roms/rom1/(J) Arkanoid [!].nes'],
+                //     ],
+                "忍者龙剑传": [
+                    ['忍者龙剑传1 (PC10) Ninja Gaiden', 'roms/Ninja_Gaiden/Ninja_Gaiden1.nes'],
+                    ['忍者龙剑传2 (PC10) Ninja Gaiden II - The Dark Sword of Chaos', 'roms/Ninja_Gaiden/Ninja_Gaiden2.nes'],
+                    ['忍者龙剑传3 (PC10) Ninja Gaiden III - The Ancient Ship of Doom', 'roms/Ninja_Gaiden/Ninja_Gaiden3.nes'],
+                    ['小蜜蜂 (J) Galaxian [!]', 'roms/rom1/(J) Galaxian [!].nes'],
+                    ['AV麻雀俱乐部 (Hacker) AV Mahjongg', 'roms/rom1/(Hacker) AV Mahjongg.nes'],
+                ],
+            })
+        });
+    });
+</script>
+<!--[if IE]>
+    <script type="text/vbscript" src="source/jsnes-ie-hacks.vbscript"></script>
+<![endif]-->
+<script>
+    function touchDwon(evt) {
+    nes.keyboard.keyDown({
+        keyCode: evt.keyCode
+    });
+};
+
+function touchUp(evt) {
+    nes.keyboard.keyUp({
+        keyCode: evt.keyCode
+    });
+};
+
+function select(val) {
+    if (val.substring(0, 1) == "#") {
+        return document.querySelector(val);
+    } else {
+        return document.getElementById(val);
+    }
+}
+
+var joystick = new Joystick({
+    el: select("controls-rocker"),
+    mode: 'static',
+    color: "#808080",
+    size: 150,
+    isFourBtn: false,
+    keyCodes: [87, 83, 65, 68],
+    btn_down_fn: touchDwon,
+    btn_up_fn: touchUp,
+    relative: true,
+});
+joystick.init();
+</script>
+</html>
