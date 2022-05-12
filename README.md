@@ -61,7 +61,11 @@
 50.挡板小游戏: [https://haiyong.site/moyu/danban.html](https://haiyong.site/moyu/danban.html)\
 51.纸牌记忆游戏: [https://haiyong.site/moyu/zhipaijiyi.html](https://haiyong.site/moyu/zhipaijiyi.html)\
 52.骰子游戏: [https://haiyong.site/moyu/touzi](https://haiyong.site/moyu/touzi)\
-53.跳房子：[https://haiyong.site/moyu/tiaofangzi.html](https://haiyong.site/moyu/tiaofangzi.html)
+53.跳房子：[https://haiyong.site/moyu/tiaofangzi.html](https://haiyong.site/moyu/tiaofangzi.html)\
+54.水果忍者：[https://wanghao221.github.io/shuiguorenzhe/](https://wanghao221.github.io/shuiguorenzhe/)\
+55.捕鱼达人：[https://haiyong.site/moyu/tiaofangzi.html](https://haiyong.site/moyu/tiaofangzi.html)\
+56.第三人称射击游戏：[https://haiyong.site/moyu/SpaceHuggers/](https://haiyong.site/moyu/SpaceHuggers/)\
+56.小霸王游戏机：[https://haiyong.site/moyu/xbw](https://haiyong.site/moyu/xbw)
 
 ### 工具
 
