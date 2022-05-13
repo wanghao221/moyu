@@ -43,3 +43,23 @@
 		#credits .society6 {
 		  color:#993f4c;
 		}
+		.page-footer {
+		  position: fixed;
+		  right: 35px;
+		  bottom: 20px;
+		  display: flex;
+		  align-items: center;
+		  padding: 5px;
+		  color: black;
+		  background: rgba(255, 255, 255, 0.65);
+		}
+		
+		.page-footer a {
+		  display: flex;
+		  margin-left: 4px;
+		}
+		.touxiang{
+			bottom: 0px;
+			width:30px;
+			height:30px;
+		}
