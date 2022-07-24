@@ -65,7 +65,8 @@
 54.水果忍者：[https://wanghao221.github.io/shuiguorenzhe/](https://wanghao221.github.io/shuiguorenzhe/)\
 55.捕鱼达人：[https://haiyong.site/moyu/tiaofangzi.html](https://haiyong.site/moyu/tiaofangzi.html)\
 56.第三人称射击游戏：[https://haiyong.site/moyu/SpaceHuggers/](https://haiyong.site/moyu/SpaceHuggers/)\
-56.小霸王游戏机：[https://haiyong.site/moyu/xbw](https://haiyong.site/moyu/xbw)
+56.小霸王游戏机：[https://haiyong.site/moyu/xbw](https://haiyong.site/moyu/xbw)\
+57.中国象棋：[https://haiyong.site/moyu/xiangqi/](https://haiyong.site/moyu/xiangqi/)
 
 ### 工具
 
