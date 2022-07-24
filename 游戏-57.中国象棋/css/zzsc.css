@@ -1,0 +1,64 @@
+@charset "gb2312";
+body {
+	font-size: 12px;
+	line-height: 150%;
+}
+.box {
+	margin:0 auto;
+	width:460px;
+	position: relative;
+}
+.chess_left {
+	float:left;
+	text-align:center
+}
+.chess_right {
+	float:left;
+	display:none
+}
+.move_info {
+	float:left;
+	margin-top:20px
+}
+.bill_box {
+	height: 320px;
+	width: 80px;
+	overflow:auto;
+}
+.bill_box li {
+	cursor:pointer;
+	text-align:left
+}
+.bill_box li:hover {
+	cursor:pointer;
+	background: #C6A577;
+}
+.bill_box li:active {
+	cursor:pointer;
+	background: #fff;
+}
+#billList {
+	margin-top:20px
+}
+.bn_box {
+	display:none
+}
+.page-footer {
+position: fixed;
+  right: 0;
+  bottom: 20px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  color: black;
+  background: rgba(255, 255, 255, 0.65);
+}
+
+.page-footer a {
+  display: flex;
+  margin-left: 4px;
+}
+.touxiang{
+	width:24px;
+	height:24px;
+}

@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title></title>
+<title>海拥 | HTML5中国象棋游戏</title>
+<meta name="keywords" content="游戏，HTML5中国象棋游戏" />
+<meta name="description" content="游戏 | HTML5中国象棋游戏；立志打造一个拥有100个小游戏的摸鱼网站。Made By Haiyong，技术支持——海拥" /> 
+<meta name="author" content="海拥(https://haiyong.site/moyu)" />
+<meta name="copyright" content="海拥(https://haiyong.site/moyu)" />
+<link rel="icon" href="https://haiyong.site/img/favicon.png" sizes="192x192" />
+<link href="css/zzsc.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+<div class="box" id="box">
+	<div class="chess_left">
+		<canvas id="chess">对不起，您的浏览器不支持HTML5，请升级浏览器至IE9、firefox或者谷歌浏览器！</canvas>
+		<audio src="audio/click.wav" id="clickAudio" preload="auto"></audio>
+		<!--<audio src="audio/check.wav" id="checkAudio" preload="auto"></audio>-->
+		<audio src="audio/select.wav" id="selectAudio" preload="auto"></audio>
+		<link rel="stylesheet" type="text/css" href="https://www.bootcss.com/p/buttons/css/buttons.css">
+		<div>
+			<div class="bn_box" id="bnBox">
+				<input type="button" name="offensivePlay" id="tyroPlay" class="button button-caution button-pill button-jumbo" value="新手水平" />
+				<input type="button" name="offensivePlay" id="superPlay" class="button button-caution button-pill button-jumbo" value="中级水平" />
+                <input type="button" name="button" id="" value="大师水平" class="button button-caution button-pill button-jumbo" disabled /><br>
+				<!--
+			<input type="button" name="offensivePlay" id="offensivePlay" value="先手开始" />
+			<input type="button" name="defensivePlay" id="defensivePlay" value="后手开始" />
+			-->
+				<input type="button" name="regret" id="regretBn" class="button button-raised button-pill button-inverse" value="悔棋" />
+				<input type="button" name="billBn" id="billBn" value="重新开始" class="button button-glow button-rounded button-royal" class="bn_box" />
+				<input type="button" name="stypeBn" id="stypeBn" class="button button-raised button-primary button-pill" value="放大棋局" />
+			</div>
+		</div>
+	</div>
+	<div class="chess_right" id="chessRight">
+		<select name="billList" id="billList">
+		</select>
+		<ol id="billBox" class="bill_box">
+		</ol>
+	</div>
+	<div id="moveInfo" class="move_info"> </div>
+</div>
+<footer class="page-footer">
+  <span>made by </span>
+  <a href="https://haiyong.site/moyu" target="_blank">
+	<img class="touxiang"  src="https://haiyong.site/img/favicon.png" alt="George Martsoukos logo">
+  </a>
+</footer>
+<script src="js/common.js"></script> 
+<script src="js/play.js"></script> 
+<script src="js/AI.js"></script> 
+<script src="js/bill.js"></script> 
+<script src="js/gambit.js"></script>
+</body>
+</html>
