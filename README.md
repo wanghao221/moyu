@@ -66,7 +66,19 @@
 55.捕鱼达人：[https://haiyong.site/moyu/tiaofangzi.html](https://haiyong.site/moyu/tiaofangzi.html)\
 56.第三人称射击游戏：[https://haiyong.site/moyu/SpaceHuggers/](https://haiyong.site/moyu/SpaceHuggers/)\
 56.小霸王游戏机：[https://haiyong.site/moyu/xbw](https://haiyong.site/moyu/xbw)\
-57.中国象棋：[https://haiyong.site/moyu/xiangqi/](https://haiyong.site/moyu/xiangqi/)
+57.中国象棋：[https://haiyong.site/moyu/xiangqi/](https://haiyong.site/moyu/xiangqi/)\
+58.红蓝旋转（风格类似纪念碑谷）：[https://haiyong.site/moyu/hlxz/](https://haiyong.site/moyu/hlxz/)\
+59.html5休闲游戏《森林协奏曲》：[https://haiyong.site/moyu/senlin/](https://haiyong.site/moyu/senlin/)\
+60.死亡墓地大逃亡HTML5游戏：[https://haiyong.site/moyu/mdtw/](https://haiyong.site/moyu/mdtw/)\
+61.是男人就下100层：[https://haiyong.site/moyu/100/](https://haiyong.site/moyu/100/)\
+62.横版街机风格骑士冒险游戏：[https://haiyong.site/moyu/qishi/](https://haiyong.site/moyu/qishi/)\
+63.html5物理游戏《佛莱迪的试验》：[https://haiyong.site/moyu/flddsy/](https://haiyong.site/moyu/flddsy/)\
+64.Three.js炫彩太空跑酷VR小游戏：[https://haiyong.site/moyu/taikong/](https://haiyong.site/moyu/taikong/)\
+65.疯狂光头强：[https://haiyong.site/moyu/guangtouqiang/](https://haiyong.site/moyu/guangtouqiang/)\
+66.html5横版飞行《飞跃驼峰航线》：[https://haiyong.site/moyu/feiyue/](https://haiyong.site/moyu/feiyue/)\
+67.动物大作战物理射击类html5游戏：[https://haiyong.site/moyu/magicegg/](https://haiyong.site/moyu/magicegg/)\
+68.特工卡尔施：[https://haiyong.site/moyu/tegong/](https://haiyong.site/moyu/tegong/)\
+69.全新版黄金矿工：[https://haiyong.site/moyu/hjkg/](https://haiyong.site/moyu/hjkg/)\
 
 ### 工具
 
@@ -90,6 +102,7 @@
 18.颜色生成器：[https://haiyong.site/tools/yan.html](https://haiyong.site/tools/yan.html)\
 19.仿 Windows 桌面：[https://haiyong.site/win/](https://haiyong.site/win/)\
 20.图片-pdf转换器：[https://haiyong.site/tools/pdf.html](https://haiyong.site/tools/pdf.html)
+21.图片放大镜：[https://haiyong.site/tools/image-zoom.html](https://haiyong.site/tools/image-zoom.html)
 
 ### 动画
 
