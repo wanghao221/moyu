@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>海拥 | 图片放大器</title>
+		<link rel="icon" href="https://haiyong.site/img/favicon.png" sizes="192x192" />
+		<style>
+			body,
+			html {
+				height: 100%;
+				width: 100%;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				overflow: hidden;
+				position: relative;
+				min-width: 700px;
+				background: rgb(202, 201, 201);
+			}
+
+			.container {
+				width: 650px;
+				height: 400px;
+				background: #fff;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				border: 5px solid rgb(244, 254, 255);
+			}
+
+			#lens {
+				position: absolute;
+				border: 2px solid grey;
+				border-radius: 50%;
+				overflow: hidden;
+				cursor: none;
+				box-shadow: inset 0 0 10px 2px grey;
+				filter: drop-shadow(0 0 2px grey);
+			}
+
+			#zoom img {
+				width: 650px;
+				height: 400px;
+			}
+
+			#lens>* {
+				cursor: none;
+			}
+
+			@media (max-height: 600px) {
+
+				#zoom img,
+				.container {
+					width: 520px;
+					height: 330px;
+				}
+			}
+			.page-footer {
+			  position: fixed;
+			  right: 35px;
+			  bottom: 20px;
+			  display: flex;
+			  align-items: center;
+			  padding: 5px;
+			  color: black;
+			  background: rgba(255, 255, 255, 0.65);
+			}
+			
+			.page-footer a {
+			  display: flex;
+			  margin-left: 4px;
+			}
+			.touxiang{
+				bottom: 0px;
+				width:30px;
+				height:30px;
+			}
+		</style>
+		<script>
+		var _hmt = _hmt || [];
+		(function() {
+		  var hm = document.createElement("script");
+		  hm.src = "https://hm.baidu.com/hm.js?a9430a37066911650e26adadcc42798a";
+		  var s = document.getElementsByTagName("script")[0]; 
+		  s.parentNode.insertBefore(hm, s);
+		})();
+		</script>
+		
+	</head>
+	<body>
+		<div class="container">
+			<div id="zoom">
+				<img src="https://img-blog.csdnimg.cn/c43ca410ce4a40e4836664f7dbe98ad5.png" alt="">
+			</div>
+		</div>
+		<script>
+			const lensSize = 200;
+
+			function magnify(id, zoom) {
+				const el = document.getElementById(id);
+				const copy = el.cloneNode(true);
+				const lens = document.createElement("div");
+
+				lens.setAttribute("id", "lens")
+				lens.style.width = lensSize + "px";
+				lens.style.height = lensSize + "px";
+
+				el.appendChild(lens);
+				el.getBoundingClientRect();
+				copy.style.zoom = zoom;
+				lens.appendChild(copy);
+
+				copy.style.width = (el.offsetWidth * zoom) + "px";
+				copy.style.heigth = (el.offsetHeight * zoom) + "px";
+				copy.style.position = "absolute";
+
+				el.addEventListener("mousemove", (ev) => {
+					ev.preventDefault();
+					ev.stopPropagation();
+					const pos = getCursorPos(ev);
+					lens.style.left = -(lensSize / 2) + pos.x + "px";
+					lens.style.top = -(lensSize / 2) + pos.y + "px";
+					copy.style.left = -(pos.x - el.offsetLeft) + (lensSize / zoom) * 0.5 + "px";
+					copy.style.top = -(pos.y - el.offsetTop) + (lensSize / zoom) * 0.5 + "px";
+				})
+			}
+
+			function getCursorPos(e) {
+				var x = (window.Event) ? e.pageX : event.clientX + (document.documentElement.scrollLeft ? document.documentElement.scrollLeft :
+					document.body.scrollLeft);
+				var y = (window.Event) ? e.pageY : event.clientY + (document.documentElement.scrollTop ? document.documentElement.scrollTop :
+					document.body.scrollTop);
+				return {
+					x: x,
+					y: y
+				};
+			}
+			magnify("zoom", 4)
+		</script>
+		<footer class="page-footer">
+		  <span>更多好玩👉</span>
+		  <a href="https://haiyong.site/doc/" target="_blank">
+			<img class="touxiang"  src="https://haiyong.site/img/favicon.png" alt="George Martsoukos logo">
+		  </a>
+		</footer>
+	</body>
+</html>
