@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>海拥 | 水波文本动画</title>
+		<style>
+			@import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
+			
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+				font-family: "Poppins", sans-serif;
+			}
+			
+			body {
+				display: flex;
+				background: #000;
+				min-height: 100vh;
+				align-items: center;
+				justify-content: center;
+			}
+			
+			.content {
+				position: relative;
+			}
+			
+			.content h2 {
+				color: #fff;
+				font-size: 8em;
+				position: absolute;
+				transform: translate(-50%, -50%);
+			}
+			
+			.content h2:nth-child(1) {
+				color: transparent;
+				-webkit-text-stroke: 2px #03a9f4;
+			}
+			
+			.content h2:nth-child(2) {
+				color: #03a9f4;
+				animation: animate 4s ease-in-out infinite;
+			}
+			
+			@keyframes animate {
+				0%,
+				100% {
+					clip-path: polygon(
+						0% 45%,
+						16% 44%,
+						33% 50%,
+						54% 60%,
+						70% 61%,
+						84% 59%,
+						100% 52%,
+						100% 100%,
+						0% 100%
+					);
+				}
+			
+				50% {
+					clip-path: polygon(
+						0% 60%,
+						15% 65%,
+						34% 66%,
+						51% 62%,
+						67% 50%,
+						84% 45%,
+						100% 46%,
+						100% 100%,
+						0% 100%
+					);
+				}
+			}
+.page-footer {
+  position: fixed;
+  right: 35px;
+  bottom: 20px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  color: black;
+  background: rgba(255, 255, 255, 0.65);
+}
+
+.page-footer a {
+  display: flex;
+  margin-left: 4px;
+}
+.touxiang{
+	bottom: 0px;
+	width:30px;
+	height:30px;
+}
+		</style>
+		<script>
+		var _hmt = _hmt || [];
+		(function() {
+		  var hm = document.createElement("script");
+		  hm.src = "https://hm.baidu.com/hm.js?a9430a37066911650e26adadcc42798a";
+		  var s = document.getElementsByTagName("script")[0]; 
+		  s.parentNode.insertBefore(hm, s);
+		})();
+		</script>
+	</head>
+	<body>
+		<section>
+			<div class="content">
+				<h2>Haiyong</h2>
+				<h2>Haiyong</h2>
+			</div>
+		</section>
+		<footer class="page-footer">
+		  <span>更多好玩👉</span>
+		  <a href="https://haiyong.site/doc" target="_blank">
+			<img class="touxiang"  src="https://haiyong.site/img/favicon.png" alt="George Martsoukos logo">
+		  </a>
+		</footer>
+	</body>
+</html>
