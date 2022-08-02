@@ -115,4 +115,5 @@
 7.黑色炫酷时钟：[https://haiyong.site/demo/clock2.html](https://haiyong.site/demo/clock2.html)\
 8.八卦时钟：[https://haiyong.site/demo/clock3.html](https://haiyong.site/demo/clock3.html)\
 9.开关：[https://haiyong.site/demo/kaiguan.html](https://haiyong.site/demo/kaiguan.html)\
-10.表白神器：[https://haiyong.site/demo/eluvletter](https://haiyong.site/demo/eluvletter)
+10.表白神器：[https://haiyong.site/demo/eluvletter](https://haiyong.site/demo/eluvletter)\
+11.水波纹动画：[https://haiyong.site/demo/wave.html](https://haiyong.site/demo/wave.html)
