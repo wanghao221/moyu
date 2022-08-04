@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>海拥 | 计数器动画</title>
+		<link rel="icon" href="https://haiyong.site/img/favicon.png" sizes="192x192" />
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" />
+		<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
+		<style media="screen">
+			* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: "Poppins", sans-serif;
+}
+body {
+background: url("https://img-blog.csdnimg.cn/aff605fb499846f5911bec368762e829.png" );
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height: 100vh;
+}
+.wrapper {
+position: absolute;
+width: 80vw;
+transform: translate(-50%, -50%);
+top: 50%;
+left: 50%;
+display: flex;
+justify-content: space-around;
+gap: 10px;
+}
+.container {
+width: 28vmin;
+height: 28vmin;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+padding: 1em 0;
+position: relative;
+font-size: 16px;
+border-radius: 0.5em;
+   backdrop-filter: blur(10px);
+
+box-shadow: -1px -1px 4px #aaa9a9a2,
+              1px 1px 7px rgba(147, 149, 151, 0.671);
+}
+i {
+color: #42f9e8;
+font-size: 3.8em;
+text-align: center;
+}
+span.num {
+color: #ffffff;
+display: grid;
+place-items: center;
+font-weight: 600;
+font-size: 3em;
+}
+span.text {
+color: #e0e0e0;
+font-size: 1em;
+text-align: center;
+pad: 0.7em 0;
+font-weight: 400;
+line-height: 0;
+}
+@media screen and (max-width: 1024px) {
+.wrapper {
+  width: 85vw;
+}
+.container {
+  height: 26vmin;
+  width: 26vmin;
+  font-size: 12px;
+}
+}
+@media screen and (max-width: 768px) {
+.wrapper {
+  width: 90vw;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.container {
+  width: calc(50% - 40px);
+  height: 30vmin;
+  margin-bottom: 25px;
+  font-size: 14px;
+}
+}
+@media screen and (max-width: 480px) {
+.wrapper {
+  gap: 15px;
+}
+.container {
+  width: 100%;
+  height: 25vmin;
+  font-size: 8px;
+  margin-bottom: 25px;
+}
+}
+.page-footer {
+  position: fixed;
+  right: 35px;
+  bottom: 20px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  color: black;
+  background: rgba(255, 255, 255, 0.65);
+}
+
+.page-footer a {
+  display: flex;
+  margin-left: 4px;
+}
+.touxiang{
+	bottom: 0px;
+	width:30px;
+	height:30px;
+}
+  </style>
+		<script>
+			var _hmt = _hmt || [];
+			(function() {
+				var hm = document.createElement("script");
+				hm.src = "https://hm.baidu.com/hm.js?a9430a37066911650e26adadcc42798a";
+				var s = document.getElementsByTagName("script")[0];
+				s.parentNode.insertBefore(hm, s);
+			})();
+		</script>
+	</head>
+	<body>
+		<div class="wrapper">
+			<div class="container">
+				<i class="fa-brands fa-html5"></i>
+				<span class="num" data-val="580">000</span>
+				<span class="text">HTML Project</span>
+			</div>
+
+			<div class="container">
+				<i class="fa-brands fa-node-js"></i>
+				<span class="num" data-val="360">000</span>
+				<span class="text">Javascript Project</span>
+			</div>
+
+			<div class="container">
+				<i class="fa-brands fa-java"></i>
+				<span class="num" data-val="248">000</span>
+				<span class="text">Java Project</span>
+			</div>
+
+			<div class="container">
+				<i class="fa-brands fa-python"></i>
+				<span class="num" data-val="120">000</span>
+				<span class="text">Python Project</span>
+			</div>
+		</div>
+		<!-- Script -->
+		<script type="text/javascript">
+			let valueDisplays = document.querySelectorAll(".num");
+			let interval = 4000;
+
+			valueDisplays.forEach((valueDisplay) => {
+				let startValue = 0;
+				let endValue = parseInt(valueDisplay.getAttribute("data-val"));
+				let duration = Math.floor(interval / endValue);
+				let counter = setInterval(function() {
+					startValue += 1;
+					valueDisplay.textContent = startValue;
+					if (startValue == endValue) {
+						clearInterval(counter);
+					}
+				}, duration);
+			});
+		</script>
+		<footer class="page-footer">
+			<span>更多好玩👉</span>
+			<a href="https://haiyong.site/doc" target="_blank">
+				<img class="touxiang" src="https://haiyong.site/img/favicon.png" alt="George Martsoukos logo">
+			</a>
+		</footer>
+	</body>
+</html>
