@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>海拥 | 实时字符计数器</title>
+		<link rel="icon" href="https://haiyong.site/img/favicon.png" sizes="192x192" />
+		<style media="screen">
+			@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url("https://img-blog.csdnimg.cn/6786619ec66e41a7875a01375f28b0da.png" );
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  width: 500px;
+  padding: 40px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+.container h2 {
+  font-size: 2rem;
+  margin: -40px -40px 50px -40px;
+  text-align: center;
+  background: rgb(29, 98, 203);
+  color: #fff;
+}
+
+.container textarea {
+  position: relative;
+  margin-bottom: 20px;
+  resize: none;
+  height: 200px;
+  width: 100% !important;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+  font-size: 1rem;
+  font-family: 'Roboto', sans-serif;
+  box-shadow: 0 0 10px rgba(0,139,253,0.45);
+  letter-spacing: 0.1rem;
+}
+
+.container p {
+  display: flex;
+  align-items: center;
+  font-size: 1.25rem;
+  color: #333;
+}
+
+.container p .counter {
+  font-size: 2rem;
+  color:#0fb612;
+  box-shadow: 0 0 10px rgba(0,139,253,0.45);
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-weight: 700;
+  margin-left: 10px;
+}
+.page-footer {
+  position: fixed;
+  right: 35px;
+  bottom: 20px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  color: black;
+  background: rgba(255, 255, 255, 0.65);
+}
+
+.page-footer a {
+  display: flex;
+  margin-left: 4px;
+}
+.touxiang{
+	bottom: 0px;
+	width:30px;
+	height:30px;
+}
+  </style>
+	</head>
+	<body>
+		<div class="container">
+			<h2>实时字符计数器</h2>
+			<textarea name="textarea" id="textarea" cols="30" rows="10" placeholder="输入你的文字" onkeyup="countingCharacter();"></textarea>
+			<p>您输入的字符总数: <span class="counter">0</span></p>
+		</div>
+
+		<script type="text/javascript">
+			const textarea = document.querySelector('textarea');
+			const counter = document.querySelector('.counter');
+
+			function countingCharacter() {
+				const text = textarea.value;
+				const textLength = textarea.value.length;
+				counter.innerText = `${textLength}`;
+			}
+		</script>
+		<footer class="page-footer">
+			<span>更多好玩👉</span>
+			<a href="https://haiyong.site/doc" target="_blank">
+				<img class="touxiang" src="https://haiyong.site/img/favicon.png" alt="George Martsoukos logo">
+			</a>
+		</footer>
+	</body>
+</html>
