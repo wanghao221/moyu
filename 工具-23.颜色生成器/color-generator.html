@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+	<!-- Design by foolishdeveloper.com -->
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>海拥 | 随机颜色生成器</title>
+		<link rel="shortcut icon" href="http://haiyong.site/img/favicon.png">
+	</head>
+	<body>
+
+		<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&display=swap" rel="stylesheet">
+		<!-- Stylesheet -->
+		<style media="screen">
+			*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    border: none;
+    outline: none;
+    font-family: sans-serif;
+}
+body{
+    background-color: #0574c8;
+}
+.container{
+    background-color: white;
+    width: 310px;
+    padding: 2.5em 1.1em;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.container h1{
+  font-size: 27px;
+  text-align: center;
+  margin-top: -20px;
+  color: #09599a;
+  margin-bottom: 20px;
+}
+#output-color{
+    position: relative;
+    height: 165px;
+    width: 100%;
+     box-shadow: 0 0 20px rgba(0,139,253,0.25);
+    border: 2px solid #ffffff;
+    margin: auto;
+    display: grid;
+    margin-bottom: 15px;
+    place-items: center;
+}
+#output-color span{
+    display: block;
+    width: 100%;
+    height: 100%;
+
+}
+.show-color{
+    animation: pop 0.8s;
+}
+@keyframes pop{
+    0%{
+        transform: scale(0);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+
+input[type="text"]{
+    width: 100%;
+    background-color: transparent;
+
+    box-shadow: 0 0 20px rgba(0,139,253,0.65);
+    font-size: 1.3em;
+    padding: 0.3em 0;
+
+    margin: 1em 0;
+    border-radius: 5px;
+    color: #000000;
+    text-align: center;
+}
+input[type="text"]::-moz-selection{
+    background: transparent;
+}
+input[type="text"]::selection{
+    background: transparent;
+}
+
+.btns{
+    display: flex;
+    margin-top: 15px;
+    justify-content: space-around;
+}
+.btns button{
+    font-size: 1.03em;
+    padding: 0.8em 1.7em;
+    border-radius: 7px;
+    width: 120px;
+    font-weight: 600;
+    cursor: pointer;
+}
+#gen-btn{
+    background-color: #205e94;
+    color: #ffffff;
+}
+#copy-btn{
+
+    background-color: #d23332;
+    color: #ffffff;
+}
+.page-footer {
+  position: fixed;
+  right: 35px;
+  bottom: 20px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  color: black;
+  background: rgba(255, 255, 255, 0.65);
+}
+
+.page-footer a {
+  display: flex;
+  margin-left: 4px;
+}
+.touxiang{
+	bottom: 0px;
+	width:30px;
+	height:30px;
+}
+
+    </style>
+		</head>
+		<body>
+			<div class="container">
+				<h1>Color Generator</h1>
+				<div id="output-color">
+					<span></span>
+				</div>
+
+				<input type="text" id="output" readonly>
+				<div class="btns">
+					<button id="gen-btn">Generate</button>
+					<button id="copy-btn">Copy</button>
+				</div>
+			</div>
+			<!-- Script -->
+			<script type="text/javascript">
+				let outputColor = document.querySelector("#output-color span");
+				let output = document.getElementById("output");
+				let genBtn = document.getElementById("gen-btn");
+				let copyBtn = document.getElementById("copy-btn");
+
+				let hexString = "0123456789abcdef";
+
+				let genHexCode = () => {
+					let hexCode = "#";
+					for (i = 0; i < 6; i++) {
+						hexCode += hexString[Math.floor(Math.random() * hexString.length)];
+					}
+					output.value = hexCode;
+					outputColor.classList.remove("show-color");
+					setTimeout(() => {
+						outputColor.classList.add("show-color");
+					}, 10);
+					outputColor.style.backgroundColor = hexCode;
+				}
+
+				copyBtn.addEventListener("click", () => {
+					output.select();
+					document.execCommand("copy");
+
+				})
+
+				window.onload = genHexCode;
+				genBtn.addEventListener("click", genHexCode);
+			</script>
+			<footer class="page-footer">
+			  <span>made by  </span>
+			  <a href="https://haiyong.site/moyu" target="_blank">
+				<img class="touxiang"  src="https://haiyong.site/img/favicon.png" alt="George Martsoukos logo">
+			  </a>
+			</footer>
+		</body>
+</html>
