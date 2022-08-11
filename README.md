@@ -104,7 +104,7 @@
 20.图片-pdf转换器：[https://haiyong.site/tools/pdf.html](https://haiyong.site/tools/pdf.html)\
 21.图片放大镜：[https://haiyong.site/tools/image-zoom.html](https://haiyong.site/tools/image-zoom.html)\
 22.实时字符计数器：[https://haiyong.site/tools/zifu.html](https://haiyong.site/tools/zifu.html)\
-23.
+23.颜色生成器：[https://haiyong.site/tools/color-generator.html](https://haiyong.site/tools/color-generator.html)
 
 
 ### 动画
