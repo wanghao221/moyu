@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>海拥 | 将文本内容保存到文件</title>
+	<meta name="description" content="工具 | 将文本内容保存到文件;立志打造一个拥有100个小游戏，小工具的摸鱼网站。made by Haiyong，技术支持——海拥" />
+	<meta name="author" content="海拥(http://haiyong.site/moyu)" />
+	<meta name="copyright" content="海拥(http://haiyong.site/moyu)" />
+	<link rel="icon" href="https://haiyong.site/img/favicon.png" sizes="192x192" />
+    <style>
+        * {
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(https://labfile.oss.aliyuncs.com/courses/8605/bg-451838.jpeg);
+  background-size: 100% 100%;
+  font-family: "Kanit", Verdana, Arial, sans-serif;
+}
+#container {
+  width: 430px;
+  padding: 40px 20px;
+  background: white;
+}
+h1 {
+  color: #0773d7;
+  font-size: 30px;
+  width: 100%;
+  margin-top: -15px;
+  margin-bottom: 30px;
+  text-align: center;
+  text-transform: uppercase;
+}
+#text {
+  display: block;
+  width: 100%;
+  background-color: transparent;
+  color: #021652;
+  border: 2px solid #3ba9f4;
+  border-radius: 2px;
+  resize: none;
+  margin-bottom: 35px;
+  height: 200px;
+  padding: 10px;
+  font-size: 20px;
+}
+#filename {
+  width: calc(100% - 200px);
+  border: 2px solid #3ba9f4;
+  border-radius: 2px;
+  background-color: transparent;
+  color: #052a53;
+  padding: 0 10px;
+  height: 50px;
+  line-height: 50px;
+  font-size: 20px;
+  margin-right: 20px;
+}
+#download {
+  background-color: #3ba9f4;
+  color: #fff;
+  font-size: 20px;
+  height: 50px;
+  border: none;
+  border-radius: 2px;
+  width: 174px;
+  cursor: pointer;
+}
+.page-footer {
+  position: fixed;
+  right: 35px;
+  bottom: 20px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  color: black;
+  background: rgba(255, 255, 255, 0.65);
+}
+
+.page-footer a {
+  display: flex;
+  margin-left: 4px;
+}
+.touxiang{
+	bottom: 0px;
+	width:30px;
+	height:30px;
+}
+    </style>
+	<script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "https://hm.baidu.com/hm.js?a9430a37066911650e26adadcc42798a";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+	</script>
+</head>
+<body>
+    <div id="container">
+        <h1>将文本保存到文件中</h1>
+        <textarea placeholder="在此输入文字..." id="text"></textarea>
+        <input id="filename" placeholder="起一个文件名..." />
+        <button id="download">下载文件</button>
+    </div>
+    <script>
+          //js中方法声明：function 方法名(参数列表){方法体}
+function downloadFile(filename, content) {
+
+// 它适用于所有支持 HTML5 的浏览器，因为它使用了 <a> 元素的下载属性：
+const element = document.createElement('a');
+
+// Blob 是一种可以存储二进制数据的数据类型
+// 根据要保存的文件，它可以有不同的值
+const blob = new Blob([content], { type: 'plain/text' });
+
+//createObjectURL() 静态方法创建一个 DOMString，其中包含一个 URL，该 URL 表示参数中给定的对象。
+const fileUrl = URL.createObjectURL(blob);
+
+//setAttribute() 设置指定元素的属性值。
+element.setAttribute('href', fileUrl); //文件位置
+element.setAttribute('download', filename); //文件名
+element.style.display = 'none';
+
+//使用 appendChild() 方法将元素从一个元素移动到另一个元素
+document.body.appendChild(element);
+element.click();
+
+//Node 接口的 removeChild() 方法从 DOM 中移除一个子节点并返回移除的节点
+document.body.removeChild(element);
+};
+
+window.onload = () => {
+document.getElementById('download').
+addEventListener('click', e => {
+  
+  //文件名输入框的值
+  const filename = document.getElementById('filename').value;
+  
+  //文本中输入的值 
+  const content = document.getElementById('text').value;
+  
+  // &&（逻辑与）运算符指示两个操作数是否为真。 如果两个操作数都具有非零值，则结果的值为 1 。 否则，结果的值为 0 。
+  
+  if (filename && content) {
+    downloadFile(filename, content);
+  }
+});
+};
+    </script>
+	<footer class="page-footer">
+	  <span>更多好玩👉</span>
+	  <a href="https://haiyong.site/moyu" target="_blank">
+		<img class="touxiang"  src="https://haiyong.site/img/favicon.png" alt="George Martsoukos logo">
+	  </a>
+	</footer>
+</body>
+</html>
