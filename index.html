@@ -1,0 +1,947 @@
+<!DOCTYPE html>
+<html lang="cn">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="renderer" content="webkit" />
+<meta name="Author" content="海拥">
+<title>海拥 | 开发文档服务器 | Java、Python、前端学习资料</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="author" content="Robin Liu">
+<link rel="shortcut icon" href="https://haiyong.site/img/favicon.png">
+<link href="https://haiyong.site/doc/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://haiyong.site/doc/css/bootstrap-theme.min.css" rel="stylesheet">
+<link href="https://haiyong.site/doc/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://haiyong.site/doc/css/doc.css" rel="stylesheet">
+<script src="https://haiyong.site/doc/js/jquery.min.js"></script>
+<script src="https://haiyong.site/doc/js/bootstrap.min.js"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?a9430a37066911650e26adadcc42798a";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+//禁用操作
+
+window.onload = function(){
+    document.onkeydown = function (){
+        var e = window.event || arguments[0];
+        //F12
+        if(e.keyCode == 123){
+            return false;
+        //Ctrl+Shift+I
+        }else if((e.ctrlKey) && (e.shiftKey) && (e.keyCode == 73)){
+            return false;
+        //Ctrl+Shift+C
+        }else if((e.ctrlKey) && (e.shiftKey) && (e.keyCode == 67)){
+            return false;
+        //Shift+F10
+        }else if((e.shiftKey) && (e.keyCode == 121)){
+            return false;
+        //Ctrl+U
+        }else if((e.ctrlKey) && (e.keyCode == 85)){
+            return false;
+        //Ctrl+S
+        }else if((e.ctrlKey) && (e.keyCode == 83)){
+        return false;
+    }
+};
+    document.oncontextmenu = function (){
+        return false;
+    }
+}
+
+//禁止复制
+document.onselectstart=new Function('event.returnValue=false;');
+
+//禁止选择文字
+document.body.onselectstart = function() {
+    self.event.returnValue=false
+  };
+
+//操作提示
+
+((function() {
+    var callbacks = [],
+    timeLimit = 50,
+    open = false;
+    setInterval(loop, 1);
+    return {
+        addListener: function(fn) {
+            callbacks.push(fn);
+        },
+        cancleListenr: function(fn) {
+            callbacks = callbacks.filter(function(v) {
+                return v !== fn;
+            });
+        }
+    }
+    function loop() {
+        var startTime = new Date();
+        debugger;
+        if (new Date() - startTime > timeLimit) {
+            if (!open) {
+                callbacks.forEach(function(fn) {
+                    fn.call(null);
+                });
+            }
+            open = true;
+            window.stop();
+            alert('不要扒我了');
+            window.location.reload();
+            window.location.href='./firewall.php';
+
+            
+        } else {
+            open = false;
+        }
+    }
+})()).addListener(function() {
+    window.location.reload();
+});
+
+//检测控制台是否开启
+var h = window.innerHeight,w=window.innerWidth;
+window.onresize = function () {
+if (h!= window.innerHeight||w!=window.innerWidth){
+    window.close();
+    window.location = "about:blank";}
+}
+</script>
+</head>
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top" id="navbar">
+<div class="container-fluid">
+<div class="navbar-header">
+<a class="navbar-brand" href="https://haiyong.site/"><img src="https://haiyong.site/doc/images/logo.png"></a>
+<a class="navbar-brand" href="index.html#"><strong>海拥开发文档服务 V2.23</strong></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+<ul class="nav navbar-nav navbar-right">
+<li><a style="font-weight:bold;" href="" data-toggle="modal" data-target="#helpDialog"><img src="https://haiyong.site/img/favicon.png" alt="" style="width:20px;"> 我要找网站作者</a></li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="modal fade" id="helpDialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header" align="center">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel"><strong>扫码联系网站作者</strong></h4>
+</div>
+<div class="modal-body">
+<img class="img-responsive center-block" src="https://haiyong.site/img/qrcode/weixin.png">
+</div>
+<div class="modal-footer" align="center">
+<div class="col-md-11">
+<button type="button" class="btn btn-primary" data-dismiss="modal">确 认</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container bs-docs-container">
+<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<h2 class="page-header"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> WEB前端案例</h2>
+<p>WEB前端所有案例源码可私信我免费发给你，微信：<a href="https://haiyong.site/img/qrcode/weixin.png">wh18363</a></p>
+<p>部分源码已上传至 GitHub，欢迎 Star：<a href="https://github.com/wanghao221/moyu">https://github.com/wanghao221/moyu</a></p>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+<h3><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> 游戏案例一</h3>
+<ul>
+<li><a href="https://haiyong.site/moyu/mgdmx/">萌怪大冒险</a></li>
+<li><a href="https://haiyong.site/moyu/bwjqr/">保卫机器人</a></li>	
+<li><a href="https://haiyong.site/moyu/tuzikuaipao/">兔子快跑</a></li>
+<li><a href="https://haiyong.site/moyu/SpaceHuggers/">第三人称射击游戏</a></li>
+<li><a href="https://haiyong.site/moyu/hundouluo/">魂斗罗</a></li>
+<li><a href="https://haiyong.site/moyu/zhsl/">召唤神龙</a></li>
+<li><a href="https://haiyong.site/moyu/tingche/">公园停车</a></li>
+<li><a href="https://haiyong.site/moyu/msts/">密室逃生</a></li>
+<li><a href="https://haiyong.site/moyu/weixiandehuoche/">危险货车</a></li>
+<li><a href="https://haiyong.site/moyu/wzzc/">亡者之城</a></li>	
+<li><a href="https://haiyong.site/moyu/hjkg/">全新版黄金矿工</a></li>
+<li><a href="https://haiyong.site/moyu/tegong/">特工卡尔施</a></li>
+<li><a href="https://haiyong.site/moyu/magicegg/">动物大作战物理射击类html5游戏</a></li>
+<li><a href="https://haiyong.site/moyu/feiyue/">html5横版飞行《飞跃驼峰航线》</a></li>
+<li><a href="https://haiyong.site/moyu/guangtouqiang/">疯狂光头强</a></li>
+<li><a href="https://haiyong.site/moyu/taikong/">Three.js炫彩太空跑酷VR小游戏</a></li>
+<li><a href="https://haiyong.site/moyu/flddsy/">html5物理游戏《佛莱迪的试验》</a></li>
+<li><a href="https://haiyong.site/moyu/qishi/">横版街机风格骑士冒险游戏</a></li>
+<li><a href="https://haiyong.site/moyu/100/">是男人就下100层</a></li>
+<li><a href="https://haiyong.site/moyu/mdtw/">死亡墓地大逃亡HTML5游戏</a></li>
+<li><a href="https://haiyong.site/moyu/senlin/">html5休闲游戏《森林协奏曲》</a></li>
+<li><a href="https://haiyong.site/moyu/xiangqi/">中国象棋</a></li>
+<li><a href="https://haiyong.site/moyu/paoku/">横板城堡小兵跑酷</a></li>
+<li><a href="https://haiyong.site/moyu/hlxz/">红蓝旋转（风格类似纪念碑谷）</a></li>
+<li><a href="https://haiyong.site/moyu/xbw">小霸王游戏机</a></li>
+<li><a href="https://wanghao221.github.io/shuiguorenzhe/">水果忍者</a></li>
+<li><a href="https://wanghao221.github.io/buyudaren/">捕鱼达人</a></li>
+<li><a href="https://haiyong.site/moyu/tiaofangzi.html">跳房子</a></li>
+<li><a href="https://haiyong.site/moyu/SpaceHuggers/">第三人称射击游戏</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-2">
+<h3><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> 游戏案例二</h3>
+<ul>
+	<li><a href="https://haiyong.site/moyu/shitoujiandaobu">石头剪刀布</a></li>
+	<li><a href="https://haiyong.site/moyu/guomalu.html">过马路小游戏</a></li>
+	<li><a href="https://haiyong.site/moyu/shengchengshu.html">自定义生成树</a></li>
+	<li><a href="https://haiyong.site/moyu/2048.html">2048</a></li>
+	<li><a href="https://haiyong.site/moyu/wuziqi.html">五子棋</a></li>
+	<li><a href="https://haiyong.site/moyu/zhipaijiyi.html">纸牌记忆游戏</a></li>
+	<li><a href="https://haiyong.site/moyu/doumao.html">逗猫</a></li>
+	<li><a href="https://haiyong.site/moyu/baohujidan.html">保护鸡蛋</a></li>
+	<li><a href="https://haiyong.site/moyu/penhuolong.html">打喷嚏的喷火龙</a></li>
+	<li><a href="https://haiyong.site/moyu/pokemon.html">宠物精灵对战</a></li>
+	<li><a href="https://haiyong.site/moyu/qiefangkuai.html">切方块小游戏</a></li>
+	<li><a href="https://haiyong.site/moyu/rengongzhizh.html">人工智障</a></li>
+	<li><a href="https://haiyong.site/moyu/baohuduixin.html">保护芯堆</a></li>
+	<li><a href="https://haiyong.site/moyu/eluosi.html">俄罗斯方块</a></li>
+	<li><a href="https://haiyong.site/moyu/huaxue.html">户外滑雪</a></li>
+	<li><a href="https://haiyong.site/moyu/tan.html">视觉差贪吃蛇</a></li>
+	<li><a href="https://haiyong.site/moyu/cesu.html">CPS测速</a></li>
+	<li><a href="https://haiyong.site/moyu/santa-claus.html">圣诞老人过桥</a></li>
+	<li><a href="https://haiyong.site/moyu/sanzhiji.html">三只小鸡</a></li>
+	<li><a href="https://haiyong.site/moyu/tamagotchi/">Tamagotchi养成小游戏</a></li>
+	<li><a href="https://haiyong.site/moyu/mofang">3D酷炫拼魔方</a></li>
+	<li><a href="https://haiyong.site/moyu/tower-blocks.html">盖塔楼</a></li>
+	<li><a href="https://haiyong.site/moyu/xiaofeiyu.html">小飞鱼🐳</a></li>
+	<li><a href="https://haiyong.site/moyu/saolei.html">扫雷</a></li>
+	<li><a href="https://haiyong.site/moyu/wu.html">双人五子棋</a></li>
+	<li><a href="https://haiyong.site/moyu/zhizhuzhipai.html">蜘蛛纸牌</a></li>
+	<li><a href="https://haiyong.site/moyu/shejian.html">射箭游戏</a></li>
+	<li><a href="https://haiyong.site/moyu/dadishu.html">打地鼠</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-2">
+<h3><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> 游戏案例三</h3>
+<ul>
+	<li><a href="https://haiyong.site/moyu/laganziguoguan">拉杆子过关</a></li>
+	<li><a href="https://haiyong.site/moyu/doudizhu.html">斗地主</a></li>
+	<li><a href="https://haiyong.site/moyu/danzhu.html">弹珠打砖块</a></li>
+	<li><a href="https://haiyong.site/moyu/feiji.html">飞机躲避障碍物</a></li>
+	<li><a href="https://haiyong.site/moyu/feijizhadan.html">飞机炸弹💣</a></li>
+	<li><a href="https://haiyong.site/moyu/lion.html">爱吹风的小狮子🦁</a></li>
+	<li><a href="https://haiyong.site/moyu/xiaoxiongchixingxing.html">小熊吃星星 61关</a></li>
+	<li><a href="https://haiyong.site/moyu/chazhen.html">见缝插针</a></li>
+	<li><a href="https://haiyong.site/moyu/xxoo.html">AI井字棋</a></li>
+	<li><a href="https://haiyong.site/moyu/xxoo2.html">双人井字棋bug版</a></li>
+	<li><a href="https://haiyong.site/moyu/xxoo3.html">双人井字棋升级版</a></li>
+	<li><a href="https://haiyong.site/moyu/xxoo3.html">闯关小游戏</a></li>
+	<li><a href="https://haiyong.site/moyu/wuxianpaoku.html">无限跑酷</a></li>
+	<li><a href="https://haiyong.site/moyu/paocaimigong.html">虫子走迷宫🐛</a></li>
+	<li><a href="https://haiyong.site/moyu/siyifu">撕衣服👗</a></li>
+	<li><a href="https://haiyong.site/moyu/migong.html">鼠标🖱走迷宫</a></li>
+	<li><a href="https://haiyong.site/moyu/quwei.html">趣味闯关</a></li>
+	<li><a href="https://haiyong.site/moyu/dou.html">吃豆人游戏</a></li>
+	<li><a href="https://haiyong.site/moyu/danban.html">挡板小游戏</a></li>
+	<li><a href="https://haiyong.site/moyu/yingxiong.html">是英雄就下一百层</a></li>
+	<li><a href="https://haiyong.site/moyu/kill-the-king.html">杀死国王</a></li>
+	<li><a href="https://haiyong.site/moyu/touzi/">骰子</a></li>
+</ul>
+</div>
+<!-- <div class="col-xs-12 col-sm-6 col-md-4 col-lg-2">
+<h3><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> 游戏案例四</h3>
+<ul>
+
+</ul>
+</div> -->
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-2">
+<h3><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> 工具案例一</h3>
+<ul>
+	<li><a href="https://haiyong.site/tools/chengyujielong.html">成语接龙</a></li>	
+	<li><a href="https://haiyong.site/tools/daojishi">倒数计时器</a></li>	
+	<li><a href="https://haiyong.site/tools/openurls">批量网址打开工具</a></li>
+	<li><a href="https://haiyong.site/tools/qianming">签名生成器</a></li>
+	<li><a href="https://haiyong.site/tools/yinyue">音乐播放器</a></li>
+	<li><a href="https://haiyong.site/tools/age-calculator.html">年龄计算器</a></li>
+	<li><a href="https://haiyong.site/tools/color-generator.html">随机颜色生成器</a></li>
+	<li><a href="https://haiyong.site/tools/daimasumiao.html">代码素描</a></li>	
+	<li><a href="https://haiyong.site/tools/daxiaoxie.html">大小写转换</a></li>	
+	<li><a href="https://haiyong.site/tools/dice.html">自定义骰子</a></li>
+	<li><a href="https://haiyong.site/tools/form.html">可视化表单设计器</a></li>
+	<li><a href="https://haiyong.site/tools/goupibutong.html">狗屁不通文章生成器</a></li>
+	<li><a href="https://haiyong.site/tools/image-zoom.html">图片放大器</a></li>	
+	<li><a href="https://haiyong.site/tools/jsq.html">计算器</a></li>	
+	<li><a href="https://haiyong.site/tools/jsq2.html">计算器2.0</a></li>
+	<li><a href="https://haiyong.site/tools/jsq3.html">简单计算器3.0</a></li>
+	<li><a href="https://haiyong.site/tools/jsq4.html">科学计算器</a></li>	
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-2">
+<h3><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> 工具案例二</h3>
+<ul>
+	<li><a href="https://haiyong.site/tools/mima.html">密码生成器</a></li>
+	<li><a href="https://haiyong.site/tools/pdf.html">图片-PDF 转换器</a></li>
+	<li><a href="https://haiyong.site/tools/picture-of-code.html">代码美化截图</a></li>
+	<li><a href="https://haiyong.site/tools/qr_code.html">二维码生成器</a></li>
+	<li><a href="https://haiyong.site/tools/random-password-generator.html">自定义密码生成器</a></li>
+	<li><a href="https://haiyong.site/tools/shenfenzheng.html">身份证号码生成器</a></li>
+	<li><a href="https://haiyong.site/tools/simple-javascript-analog-clock.html">简单的javascript模拟时钟</a></li>
+	<li><a href="https://haiyong.site/tools/spin-the-wheel.html">自定义大转盘</a></li>
+	<li><a href="https://haiyong.site/tools/todolist.html">代办事项清单</a></li>
+	<li><a href="https://haiyong.site/tools/weather.html">天气实况</a></li>	
+	<li><a href="https://haiyong.site/tools/wenben.html">将文本内容保存到文件</a></li>
+	<li><a href="https://haiyong.site/tools/yan.html">颜色生成器</a></li>	
+	<li><a href="https://haiyong.site/tools/yane.html">配色器</a></li>
+	<li><a href="https://haiyong.site/tools/zifu.html">实时字符计数器</a></li>	
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-2">
+<h3><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> 动画案例一</h3>
+<ul>
+	<li><a href="https://haiyong.site/demo/yinghua.html">樱花</a></li>
+	<li><a href="https://haiyong.site/demo/xiaxue">下雪</a></li>
+	<li><a href="https://haiyong.site/demo/qicaiyu.html">七彩雨</a></li>
+	<li><a href="https://haiyong.site/demo/chuanyueshikong.html">时光机</a></li>
+	<li><a href="https://haiyong.site/demo/daynight.html">日夜切换</a></li>
+	<li><a href="https://haiyong.site/demo/clock3.html">八卦时钟</a></li>
+	<li><a href="https://haiyong.site/demo/clock1.html">白色简约时钟</a></li>
+	<li><a href="https://haiyong.site/demo/clock2.html">黑色酷炫时钟</a></li>
+	<li><a href="https://haiyong.site/demo/eluvletter">表白神器</a></li>
+	<li><a href="https://haiyong.site/demo/kaiguan.html">开关</a></li>
+	<li><a href="https://haiyong.site/demo/wave.html">水波文本动画</a></li>
+</ul>
+</div>	
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<h2 class="page-header"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> Java 开发文档 </h2>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Eclipse工具使用</h3>
+<ul>
+<li><a href="https://haiyong.site/post/e5e8ada6.html">JDK 和 Eclipse 环境搭建</a></li>
+<li><a href="https://haiyong.site/post/3292499.html">在Eclipse中配置JDK</a></li>
+<li><a href="https://haiyong.site/post/33b8db4d.html">在Eclipse中安装配置Maven</a></li>
+<li><a href="https://haiyong.site/post/70ff1d73.html">Windows MySQL安装</a></li>
+<li><a href="https://haiyong.site/post/4915326a.html">在Eclipse中安装配置Tomcat</a></li>
+<li><a href="https://haiyong.site/post/ff82f5e6.html">在Eclipse中安装SpringTools插件</a></li>
+<li><a href="https://haiyong.site/post/e70c77d1.html">在Chrome浏览器中安装JSON显示插件</a></li>
+<li><a href="https://haiyong.site/post/7bc92893.html">Tomcat 的安装与配置-详细配置</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> IDEA 工具使用</h3>
+<ul>
+<li><a href="https://haiyong.site/post/5c73023a.html">IntelliJ IDEA安装教程</a></li>
+<li><a href="https://haiyong.site/post/301ee66f.html">使用IntelliJ IDEA开发Java HelloWorld</a></li>
+<li><a href="https://haiyong.site/post/e854535a.html">使用IntelliJ IDEA开发Java Web HelloWorld</a></li>
+<li><a href="https://haiyong.site/doc/doc/idea_tomcat/index.html">IDEA-运行在Tomcat上的Maven Webapp</a></li>
+<li><a href="https://haiyong.site/doc/doc/idea_database/index.html">IDEA-配置可视化数据库视图</a></li>
+<li><a href="https://haiyong.site/post/cfe5a652.html">使用IntelliJ IDEA开发Maven HelloWorld</a></li>
+<li><a href="https://haiyong.site/post/670ee2ba.html">为IntelliJ IDEA安装插件--Lombok</a></li>
+<li><a href="https://haiyong.site/doc/index.html#download">下载IntelliJ IDEA</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> Git 工具使用</h3>
+<ul>
+<li><a href="https://haiyong.site/doc/doc/git/config/index.html">在IntelliJ IDEA中配置Git</a></li>
+<li><a href="https://haiyong.site/doc/doc/git/pull/pull.html">在IntelliJ IDEA中利用Git拉取项目</a></li>
+<li><a href="https://haiyong.site/doc/doc/git/push/push.html">在IntelliJ IDEA中使用Git推送项目</a></li>
+<li><a href="https://haiyong.site/doc/index.html#download">下载Git</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-cog" aria-hidden="true"></span> macOS环境搭建</h3>
+<ul>
+<li><a href="https://haiyong.site/doc/doc/mac/homebrew/homebrew.html">MacOS安装Homebrew</a></li>
+<li><a href="https://haiyong.site/doc/doc/mac/mysql/mysql.html">MacOS安装MariaDB（MySQL）</a></li>
+<li><a href="https://haiyong.site/doc/doc/mac/redis/redis.html">MacOS安装Redis</a></li>
+<li><a href="https://haiyong.site/doc/doc/mac/rabbitmq/rabbitmq.pdf">MacOS安装RabbitMQ</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-wrench" aria-hidden="true"></span> Java文档</h3>
+<ul>
+<li><a href="https://haiyong.site/doc/jdk6-docs/index.html">Java 6 API 中文版文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/jdk7-docs/index.html">Java 7 文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/jdk7-docs/api/index.html">Java 7 API 文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/jdk8/docs/index.html">Java 8 文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/jdk8/docs/api/index.html">Java 8 API 文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/javafx/api/index.html">JavaFX 文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/codingstyle/google-java-styleguide-zh.pdf">谷歌编码规范-文档</a> PDF</li>
+<li><a href="https://haiyong.site/doc/codingstyle/ali-java-CodingStandard.pdf">阿里编码规范-文档</a> PDF</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> Java 常用API文档</h3>
+<ul>
+<li><a href="https://github.com/alibaba/druid/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98" target="_blank">Druid 数据库连接池</a> HTML</li>
+<li><a href="https://haiyong.site/doc/commons-beanutils-1.8.3/apidocs/index.html">commons-beanutils-1.8.3</a> HTML</li>
+<li><a href="https://haiyong.site/doc/commons-codec-1.9/apidocs/index.html">commons-codec-1.9</a> HTML</li>
+<li><a href="https://haiyong.site/doc/commons-collections4-4.0/apidocs/index.html">commons-collections4-4.0</a> HTML</li>
+<li><a href="https://haiyong.site/doc/commons-dbcp-1.4/apidocs/index.html">commons-dbcp-1.4</a> HTML</li>
+<li><a href="https://haiyong.site/doc/commons-io-2.4/docs/index.html">commons-io-2.4</a> HTML</li>
+<li><a href="https://haiyong.site/doc/commons-lang3-3.3.2/apidocs/index.html">commons-lang3-3.3.2</a> HTML</li>
+<li><a href="https://haiyong.site/doc/commons-pool-1.5.4/apidocs/index.html">commons-pool-1.5.4</a> HTML</li>
+<li><a href="https://haiyong.site/doc/dom4j-1.6.1/docs/index.html">dom4j-1.6.1</a> HTML</li>
+<li><a href="https://haiyong.site/doc/dom4j-1.6.1/docs/apidocs/index.html">dom4j-1.6.1 API DOC</a> HTML</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<h2 class="page-header"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> 经典案例</h2>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> Java基础案例</h3>
+<ul>
+<li>飞机大战 <a href="https://pan.baidu.com/s/1MJxpdzxTmktU6-D_oSYRYQ">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/demo/Shooter.zip">下载链接</a> <a href="projects/shooter-images.zip">图片素材</a></li>
+<li>五子棋 
+<a href="https://haiyong.site/doc/zip/FiveChess.zip">下载链接</a></li>
+<li>俄罗斯方块 <a href="https://pan.baidu.com/s/15_QH8YlQrWowmK5PRGLJ9Q">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/demo/Tetris.zip">下载链接</a> </li>
+<li>飞扬小鸟 <a href="https://pan.baidu.com/s/1JGzLHDswX8b7BGEDLLYVOA">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/demo/FlappyBird.zip">下载链接</a></li>
+<li>打字游戏 <a href="https://pan.baidu.com/s/1cV0lbDpwfQHpPlCTNErleg">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/demo/TYPER.zip">下载链接</a></li>
+<li>贪吃蛇 <a href="https://pan.baidu.com/s/1lhoGqAbkNqR-kGsP99uP8Q">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/demo/Worm.zip">下载链接</a></li>
+<li>聊天室案例 <a href="https://pan.baidu.com/s/1WFhnDnIFHlKF98uWky729A">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/demo/chat.zip">下载链接</a></li>
+<li>JMonkeyEngine游戏引擎案例 <a href="https://pan.baidu.com/s/1XTrdFYwQncUFpU-eGbl6hg">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/demo/3DGameDemo.zip">下载链接</a></li>
+<li>飞机大战（演示案例）<a href="https://pan.baidu.com/s/1XTBJxymNPHUuYQ1uVpl-Ag">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/demo/aircraftjavase.zip">下载链接</a></li>
+<li>捕鱼达人 <a href="https://pan.baidu.com/s/1tcjL2ynLBFtuxi3D2LDc_Q">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/demo/FishGame.zip">下载链接</a></li>
+<li>海拥GUI应用包 <a href="projects/tedu_utils1.0.jar">下载</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> 教学演示工具</h3>
+<ul>
+<li>线程并发原理 <a href="https://pan.baidu.com/s/199CEHrspCbtHiARvzURjAA">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/demo/ConcurrentDemo.zip">下载链接</a></li>
+<li>进制演示工具
+<a href="https://haiyong.site/doc/projects/bintools.zip">下载</a></li>
+</ul>
+</div>
+
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-briefcase" aria-hidden="true"></span> WEB案例</h3>
+<ul>
+<li>学子商城原型v3 <a href="https://pan.baidu.com/s/1oFS4TzOwxXeKZPcdQ0TY_A">百度云盘</a> 密码:i656
+<a href="https://robinliu.3322.org:8888/download/demo/TeduStoreV3.zip">下载连接</a></li>
+<li><a href="https://haiyong.site/doc/tstore_v2/index.html">学子商城v2</a> HTML</li>
+<li><a href="https://haiyong.site/doc/tstore_v1/index.html">学子商城v1</a> HTML</li>
+<li>稻草问答原型 v202010 <a href="https://pan.baidu.com/s/1ojPIiBxX2ArJT8cf8-aAXg">百度云盘</a> 密码:m6y9
+<a href="https://robinliu.3322.org:8888/download/demo/straw_v202010.zip">下载连接</a> </li>
+<li>稻草问答SQL v202010 <a href="https://pan.baidu.com/s/1RLQb5ayWEx70TZ0BHDE3bA">百度云盘</a> 密码:ye9x
+<a href="https://robinliu.3322.org:8888/download/demo/straw_v20201013.zip">下载连接</a> </li>
+<li>OA项目资料 <a href="https://pan.baidu.com/s/1PS6V3gSASizHwbeWVwIo3Q">百度云盘</a> 密码:oqo7
+<a href="https://robinliu.3322.org:8888/download/demo/oa.zip">下载连接</a> </li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<h2 id="download" class="page-header"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> 常用下载</h2>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:10px;"></span>Windows必备</h3>
+<ul>
+<li>下载全部软件：<a href="https://pan.baidu.com/s/1QpOcf4o5IQF2wztxLbNjJA">百度云盘</a> 提取码: acuk</li>
+<li><span>JDK 8 Windows x86 64-bit 8u312b07 </span>
+<a href="https://cdn.azul.com/zulu/bin/zulu8.58.0.13-ca-jdk8.0.312-win_x64.msi">官网下载</a>
+</li>
+<li><span>IntelliJ IDEA Community 社区版 Win 21.1 </span>
+<a href="https://download.jetbrains.com/idea/ideaIC-2021.1.3.exe">官网下载</a>
+</li>
+<li><span>IntelliJ IDEA Ultimate 终极版 Win 21.1 </span>
+<a href="https://download.jetbrains.com/idea/ideaIU-2021.1.3.exe">官网下载</a>
+</li>
+<li><span>MariaDB 10.5.13 WinX64（MySQL）</span>
+<a href="https://mirrors.tuna.tsinghua.edu.cn/mariadb/mariadb-10.5.15/winx64-packages/mariadb-10.5.15-winx64.msi">官网下载</a>
+<a href="https://mirrors.aliyun.com/mariadb//mariadb-10.5.15/winx64-packages/mariadb-10.5.15-winx64.msi">官网下载</a>
+</li>
+<li><span>Node.js 16.14.2 LTS WinX64 </span>
+<a href="https://mirrors.nju.edu.cn/nodejs/latest-v16.x/node-v16.14.2-x64.msi">官网下载</a>
+<a href="https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/v16.14.2/node-v16.14.2-x64.msi">官网下载</a>
+</li>
+<li><span>Another Redis Desktop Manager 1.5.2 Win </span>
+<a href="https://gitee.com/qishibo/AnotherRedisDesktopManager/attach_files/958501/download/Another-Redis-Desktop-Manager.1.5.2.exe">官网下载</a>
+</li>
+<li><span>7 Zip 文件压缩工具 </span>
+<a href="https://www.7-zip.org/a/7z1900-x64.exe">官网下载</a>
+</li>
+<li><span>BvSshClient SSH客户端 </span>
+<a href="https://robinliu.3322.org:8888/download/BvSshClient-Inst.exe">下载链接</a>
+<a href="https://pan.baidu.com/s/1_fmtJehz1RwDyermZzJeqg">百度云盘</a> 提取码:mpdm
+</li>
+<li><span>EditPlus 5.2 </span>
+<a href="https://www.editplus.com/ftp/epp530_2542_64bit.exe">官网下载</a>
+</li>
+<li>
+<span>Git 2.33.0.2 Windows </span>
+<a href="https://npm.taobao.org/mirrors/git-for-windows/v2.33.0.windows.2/Git-2.33.0.2-64-bit.exe">官网下载</a>
+<a href="https://repo.huaweicloud.com/git-for-windows/v2.33.0.windows.2/Git-2.33.0.2-64-bit.exe">官网下载</a>
+</li>
+<li>
+<span>VirtualBox 6.1.30 Windows </span>
+<a href="https://mirrors.tuna.tsinghua.edu.cn/virtualbox/6.1.30/VirtualBox-6.1.30-148432-Win.exe">官网下载</a>
+</li>
+<li>
+<span>wget-1.21.3.exe </span>
+<a href="https://eternallybored.org/misc/wget/1.21.3/64/wget.exe">官网下载</a>
+</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:10px;"></span>Mac OS ARM 必备</h3>
+<ul>
+<li><span>JDK 8 macOS ARM 64-bit 8u312b07 </span>
+<a href="https://cdn.azul.com/zulu/bin/zulu8.58.0.13-ca-jdk8.0.312-macosx_aarch64.dmg">官网下载</a>
+</li>
+<li><span>IntelliJ IDEA Community 社区版 macOS ARM 64-bit </span>
+<a href="https://download.jetbrains.com/idea/ideaIC-2021.1.3-aarch64.dmg">官网下载</a>
+</li>
+<li><span>IntelliJ IDEA Ultimate 终极版 macOS ARM 64-bit </span>
+<a href="https://download.jetbrains.com/idea/ideaIU-2021.1.3-aarch64.dmg">官网下载</a>
+</li>
+<li><span>Node.js 16.14.2 LTS macOS </span>
+<a href="https://mirrors.nju.edu.cn/nodejs/latest-v16.x/node-v16.14.2.pkg">官网下载</a>
+<a href="https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/v16.14.2/node-v16.14.2.pkg">官网下载</a>
+</li>
+<li><span>Another Redis Desktop Manager 1.5.1 M1 ARM64 </span>
+<a href="https://gitee.com/qishibo/AnotherRedisDesktopManager/attach_files/934337/download/Another-Redis-Desktop-Manager-M1-arm64-1.5.1.dmg">官网下载</a>
+</li>
+<li><span>利用brew工具可以安装 MySQL Redis 等程序</span></li>
+<li>
+<span>Mac 包管理工具 Homebrew</span>
+<a href="doc/mac/homebrew/homebrew.html">MacOS安装Homebrew</a>
+</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:10px;"></span>Mac OS Intel 必备</h3>
+<ul>
+<li><span>JDK 8 macOS x86 64-bit 8u312b07 </span>
+<a href="https://cdn.azul.com/zulu/bin/zulu8.58.0.13-ca-jdk8.0.312-macosx_x64.dmg">官网下载</a>
+</li>
+<li><span>IntelliJ IDEA Community 社区版 macOS x86 64-bit </span>
+<a href="https://download.jetbrains.com/idea/ideaIC-2021.1.3.dmg">官网下载</a>
+</li>
+<li><span>IntelliJ IDEA Ultimate 终极版 macOS x86 64-bit </span>
+<a href="https://download.jetbrains.com/idea/ideaIU-2021.1.3.dmg">官网下载</a>
+</li>
+<li>
+<span>VirtualBox 6.1.30 macOS </span>
+<a href="https://mirrors.tuna.tsinghua.edu.cn/virtualbox/6.1.30/VirtualBox-6.1.30-148432-OSX.dmg">官网下载</a>
+</li>
+<li><span>Node.js 16.14.2 LTS macOS </span>
+<a href="https://mirrors.nju.edu.cn/nodejs/latest-v16.x/node-v16.14.2.pkg">官网下载</a>
+<a href="https://mirrors.tuna.tsinghua.edu.cn/nodejs-release/v16.14.2/node-v16.14.2.pkg">官网下载</a>
+</li>
+<li><span>Another Redis Desktop Manager 1.5.2 macOS </span>
+<a href="https://gitee.com/qishibo/AnotherRedisDesktopManager/attach_files/958502/download/Another-Redis-Desktop-Manager.1.5.2.dmg">官网下载</a>
+</li>
+<li><span>利用brew工具可以安装 MySQL Redis 等程序</span></li>
+<li>
+<span>Mac 包管理工具 brew</span>
+<a href="https://brew.sh/index_zh-cn">Homebrew 主页</a>
+</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:10px;"></span>Windows</h3>
+<ul>
+<li>重要提示：利用迅雷软件下载 <a>官网下载</a> 链接可以提高下载速度。</li>
+<li><span>Typora (Markdown 工具) </span><a href="https://typora.io/windows/typora-setup-x64.exe">官网下载</a></li>
+<li><span>Typora 测试版 </span><a href="https://robinliu.3322.org:8888/download/typora-update-x64-1117.exe">下载链接</a></li>
+<li><span>7 Zip 文件压缩工具 </span><a href="https://pan.baidu.com/s/1NsPNiD2K5OQRpFweTcT3xA">百度云盘</a>
+<a href="https://www.7-zip.org/a/7z1900-x64.exe">官网下载</a></li>
+<li><span>FastStone Capture 9.0 抓屏(绘图)工具 </span><a href="https://robinliu.3322.org:8888/download/FSCaptureSetup93.exe">下载链接</a></li>
+<li><span>JDK 8 WinX64 </span><a href="https://pan.baidu.com/s/1UHLSbTaZNUBPlDTv-xZibw">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/jdk-8u241-windows-x64.exe">下载链接</a></li>
+<li><span>Zoomlt-放大镜 </span> <a href="https://robinliu.3322.org:8888/download/zoomIt.zip">下载链接</a></li>
+<li><span>Chrome浏览器 </span><a href="https://www.google.cn/chrome/index.html">官网</a> </li>
+<li><span>开源字体 </span><a href="https://pan.baidu.com/s/1JTXwVxCUcMIFb9iDm8HhUg">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/fonts.zip">下载链接</a></li>
+<li><span>开源编程字体JetBrains Mono </span><a href="resource/JetBrainsMono-1.0.3.zip">下载</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:1px;"></span>Elasticsearch</h3>
+<ul>
+<li><span>Elasticsearch 7.6.2 Windows </span><a href="https://mirrors.huaweicloud.com/elasticsearch/7.6.2/elasticsearch-7.6.2-windows-x86_64.zip">官网下载</a> </li>
+<li><span>Elasticsearch 7.6.2 macOS </span><a href="https://mirrors.huaweicloud.com/elasticsearch/7.6.2/elasticsearch-7.6.2-darwin-x86_64.tar.gz">官网下载</a> </li>
+<li><span>Elasticsearch 7.6.2 CentOS </span><a href="https://mirrors.huaweicloud.com/elasticsearch/7.6.2/elasticsearch-7.6.2-x86_64.rpm">官网下载</a> </li>
+<li><span>Elasticsearch ik plugin 7.6.2</span>
+<a href="https://github.com/medcl/elasticsearch-analysis-ik/releases/download/v7.6.2/elasticsearch-analysis-ik-7.6.2.zip">官网下载</a>
+<a href="https://robinliu.3322.org:8888/download/elasticsearch-analysis-ik-7.6.2.zip">下载链接</a>
+<a href="https://pan.baidu.com/s/1m807c0mGvKuHya_uDFxh3Q">百度云盘</a> 密码:zz2f
+</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:1px;"></span>Git</h3>
+<ul>
+<li>
+<span>Git 2.33.0.2 Windows </span>
+<a href="https://npm.taobao.org/mirrors/git-for-windows/v2.33.0.windows.2/Git-2.33.0.2-64-bit.exe">官网下载</a>
+<a href="https://repo.huaweicloud.com/git-for-windows/v2.33.0.windows.2/Git-2.33.0.2-64-bit.exe">官网下载</a>
+</li>
+<li>
+<span>Git for macOS 2.33.0 </span>
+<a href="https://repo.huaweicloud.com/git-for-macos/git-2.33.0-intel-universal-mavericks.dmg">官网下载</a>
+</li>
+<li>
+<span>TortoiseGit 2.12.0.0 </span>
+<a href="https://repo.huaweicloud.com/tortoisegit/2.12.0.0/TortoiseGit-2.12.0.0-64bit.msi">官网下载</a>
+中文语言包：<a href="https://repo.huaweicloud.com/tortoisegit/2.12.0.0/TortoiseGit-LanguagePack-2.12.0.0-64bit-zh_CN.msi">官网下载</a>
+</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:1px;"></span>Redis</h3>
+<ul>
+<li><span>Redis 3.2.100 Windows x64 msi</span>
+<a href="https://robinliu.3322.org:8888/download/Redis-x64-3.2.100.msi">下载链接</a>
+<a href="https://pan.baidu.com/s/1lHPFAyazgGS-6U6str6xtg">百度云盘</a> 密码:cib8
+</li>
+<li><span>Redis 3.2.100 Windows x64 zip</span>
+<a href="https://robinliu.3322.org:8888/download/Redis-x64-3.2.100.zip">下载链接</a>
+<a href="https://pan.baidu.com/s/15qTwJZjYlGhFYDYYSbpX1A">百度云盘</a> 密码:p1h3
+</li>
+<li><span>Redis 3.2.13 Mac/Linux </span><a href="redis/redis-3.2.13.tar.gz">下载</a>
+<a href="https://robinliu.3322.org:8888/download/redis-3.2.13.tar.gz">下载链接</a>
+<a href="https://github.com/redis/redis/archive/3.2.13.tar.gz">官网下载</a> </li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:1px;"></span>Kafka</h3>
+<ul>
+<li><span>Kafka 2.5.0 </span><a href="https://mirrors.tuna.tsinghua.edu.cn/apache/kafka/2.5.0/kafka_2.13-2.5.0.tgz">官网下载</a>
+<a href="https://mirrors.huaweicloud.com/apache/kafka/2.5.0/kafka_2.13-2.5.0.tgz">官网下载</a></li>
+<li><span>Kafka 2.4.1 </span><a href="https://mirrors.tuna.tsinghua.edu.cn/apache/kafka/2.4.1/kafka_2.13-2.4.1.tgz">官网下载</a>
+<a href="https://mirrors.huaweicloud.com/apache/kafka/2.4.1/kafka_2.13-2.4.1.tgz">官网下载</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:1px;"></span>Tomcat</h3>
+<ul>
+<li><span>Tomcat 7.0.96 Windows</span><a href="https://mirrors.huaweicloud.com/apache/tomcat/tomcat-7/v7.0.96/bin/apache-tomcat-7.0.96.zip">官网下载</a> </li>
+<li><span>Tomcat 7.0.96 源码 </span><a href="https://mirrors.huaweicloud.com/apache/tomcat/tomcat-7/v7.0.96/src/apache-tomcat-7.0.96-src.zip">官网下载</a> </li>
+<li><span>Tomcat 8.5.45 Windows</span><a href="https://mirrors.huaweicloud.com/apache/tomcat/tomcat-8/v8.5.45/bin/apache-tomcat-8.5.45.zip">官网下载</a> </li>
+<li><span>Tomcat 8.5.45 源码 </span><a href="https://mirrors.huaweicloud.com/apache/tomcat/tomcat-8/v8.5.45/src/apache-tomcat-8.5.45-src.zip">官网下载</a> </li>
+<li><span>Tomcat 9.0.37 Windows</span><a href="https://mirrors.huaweicloud.com/apache/tomcat/tomcat-9/v9.0.37/bin/apache-tomcat-9.0.37.zip">官网下载</a> </li>
+<li><span>Tomcat 9.0.37 源码 </span><a href="https://mirrors.huaweicloud.com/apache/tomcat/tomcat-9/v9.0.37/src/apache-tomcat-9.0.37-src.zip">官网下载</a> </li>
+<li><span>Tomcat 9.0.37 Mac/Linux </span><a href="https://mirrors.huaweicloud.com/apache/tomcat/tomcat-9/v9.0.37/bin/apache-tomcat-9.0.37.tar.gz">官网下载</a> </li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:1px;"></span>JAVA</h3>
+<ul>
+<li><span>Maven 3.6.2 </span><a href="https://mirrors.huaweicloud.com/apache/maven/maven-3/3.6.2/binaries/apache-maven-3.6.2-bin.zip">官网下载</a> </li>
+<li>管理控制台模板AdminLTE 2.4.5 <a href="adminlte/AdminLTE-2.4.5/index.html">在线演示</a>
+<a href="https://pan.baidu.com/s/1mjigGjWaKRjAnu8BoFoztw">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/AdminLTE-2.4.5.zip">下载链接</a></li>
+<li><span>JQuery 3.4.1 </span><a href="https://pan.baidu.com/s/1z32SqHLkesa_mZXTe9-slA">百度云盘</a>
+<a href="jquery/jquery-3.4.1.zip">下载</a></li>
+<li><span>二维码API zxing-3.3.3.jar</span> <a href="zxing/zxing-3.3.3.jar">下载</a></li>
+<li><span>二维码API qrcode</span> <a href="zxing/qrcode.zip">下载</a></li>
+<li><span>Office API Apache POI</span> <a href="https://mirrors.huaweicloud.com/apache/poi/release/bin/pooli-bin-4.1.2-20200217.zip">官网下载</a></li>
+<li><span>网站模板amin</span> <a href="https://colorlib.com/preview/#amin">DEMO</a>
+<a href="https://colorlib.com/download/5784/?dlm-dp-dl-force=1&dlm-dp-dl-nonce=304bdf874f">下载</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:1px;"></span>配置文件下载</h3>
+<ul>
+<li><span>阿里云Maven仓库配置 </span><a href="config/maven.aliyun.com.zip">maven.aliyun.com.zip</a> </li>
+<li><span>华为Maven仓库配置 </span><a href="config/maven.huawei.com.zip">maven.huawei.com.zip</a> </li>
+<li><span>Spring配置文件 </span><a href="config/spring-context.zip">spring-context.zip</a> </li>
+<li><span>MyBatis配置文件 </span><a href="config/mybatis-config.xml.zip">mybatis-config.xml.zip</a> </li>
+<li><span>MySQL JDBC Properties </span><a href="config/jdbc.properties.zip">jdbc.properties.zip</a> </li>
+<li><span>MyBatis Mapper映射文件 </span><a href="config/Mapper.xml.zip">Mapper.xml.zip</a> </li>
+<li><span>Spring MyBatis配置文件 </span><a href="config/spring-mybatis.xml.zip">spring-mybatis.xml.zip</a> </li>
+<li><span>MyBatis Log4j配置</span><a href="config/mybatis.log4j.properties.zip">log4j.properties.zip</a> </li>
+<li><span>MyBatis Plus 代码生成器模板</span><a href="config/mybatis-plus-generator.zip">mybatis-plus-generator.zip</a> </li>
+<li><span>Servlet 3.0 web.xml </span><a href="config/WEB-INF.zip">WEB-INF.zip</a> </li>
+<li><span>pom.xml常用配置</span><a href="config/maven_pom.html">pom.xml常用配置</a> </li>
+<li><span>Log4j Properties </span><a href="config/log4j.properties.zip">log4j.properties.zip</a> </li>
+<li><span>Nginx 反向代理配置模板</span><a href="config/vrd.conf.zip">下载</a> </li>
+<li><span>CentOS MariaDB UTF-8配置文件</span><a href="config/mariadb-server.cnf">下载</a> </li>
+<li><span>JavaScript 组件库</span><a href="config/CDN.html"> CDN </a> </li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:10px;"></span>Mac</h3>
+<ul>
+<li><span>JDK 8u211 macOS </span><a href="https://pan.baidu.com/s/1U9e4FM_OhNS80171vLoElQ">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/jdk-8u241-macosx-x64.dmg" data-href="">下载链接</a></li>
+<li><span>Eclipse JavaEE macOS </span><a href="https://pan.baidu.com/s/1lUks_H-F_f7JwqFrgKQuwQ">百度云盘</a>
+<a href="https://mirrors.tuna.tsinghua.edu.cn/eclipse/technology/epp/downloads/release/2019-12/R/eclipse-jee-2019-12-R-macosx-cocoa-x86_64.dmg">官网下载</a>
+<a href="http://mirrors.ustc.edu.cn/eclipse/technology/epp/downloads/release/2019-12/R/eclipse-jee-2019-12-R-macosx-cocoa-x86_64.dmg">官网下载</a>
+</li>
+<li><span>MySQL 5.7.25 macOS </span><a href="https://pan.baidu.com/s/1Z5HQn1NdBY0QSHWlK-FEoQ">百度云盘</a>
+<a href="https://mirrors.huaweicloud.com/mysql/Downloads/MySQL-5.7/mysql-5.7.25-macos10.14-x86_64.dmg">官网下载</a></li>
+<li><span>Typora (Markdown 工具) </span> <a href="https://typora.io/download/Typora.dmg">官网下载</a></li>
+<li><span>HBuilder X 极客开发工具 </span><a href="https://download.dcloud.net.cn/HBuilderX.2.6.11.20200409.dmg">官网下载</a></li>
+<li><span>Chrome macOS</span><a href="https://www.google.cn/chrome/index.html">官网</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:10px;"></span>Linux</h3>
+<ul>
+<li><span>Java 8 Linux X64 </span><a href="https://pan.baidu.com/s/1SCJ-am8hn2TmMBpmVxcauQ">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/jdk-8u251-linux-x64.tar.gz">下载链接</a></li>
+<li><span>Eclipse JavaEE Linux X64 </span><a href="https://pan.baidu.com/s/1ozoFGP1o6o12UUO7iyOTjQ">百度云盘</a>
+<a href="https://mirrors.tuna.tsinghua.edu.cn/eclipse/technology/epp/downloads/release/2019-12/R/eclipse-jee-2019-12-R-linux-gtk-x86_64.tar.gz">官网下载</a></li>
+<li><span>CentOS 8 VirtualBox 教学镜像</span><a href="https://pan.baidu.com/s/1eSRT6Y5rj_GKzumQE_vSEg">百度云盘</a> 密码:wwvd</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:10px;"></span>Windows 32</h3>
+<ul>
+<li><span>Java 8 Win32 </span><a href="https://pan.baidu.com/s/1xVfI0k_sssEc5XMwa45-9w">百度云盘</a>
+<a href="https://robinliu.3322.org:8888/download/jdk-8u241-windows-i586.exe">下载链接</a></li>
+<li><span>Eclipse JavaEE Win32</span><a href="https://pan.baidu.com/s/1-oBG1jOU3MpBhKHNLpQwPA">百度云盘</a>
+<a href="https://mirrors.tuna.tsinghua.edu.cn/eclipse/technology/epp/downloads/release/2018-09/R/eclipse-jee-2018-09-win32.zip">官网下载</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+<h3><span class="glyphicon glyphicon-cloud-download" aria-hidden="true" style="margin-right:10px;"></span>TTS课件下载</h3>
+<ul>
+<li><span>就业冲刺课程（Linux Nginx Redis）课件 </span><a href="https://robinliu.3322.org:8888/download/demo/sprint.zip">下载链接</a></li>
+<li><span>JSD1906~JSD1911系列班级（VIP2.0）</span><a href="https://robinliu.3322.org:8888/download/demo/JSDVIPv7_vip1905_1903-1901.zip">下载链接</a></li>
+<li><span>JSD1912系列班级（VIP3.0）</span><a href="https://robinliu.3322.org:8888/download/demo/JSDVN_V8.zip">下载链接</a></li>
+<li><span>课堂课件下载</span> <a href="tts">TTS课件</a></li>
+<li><span>JSA课件下载</span> <a href="https://robinliu.3322.org:8888/download/demo/JSA.zip">下载链接</a>
+<a href="https://pan.baidu.com/s/1JcxZceFRyHMzYdio4bYd9A">百度云盘</a> 密码: 19r0 </li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<h2 class="page-header"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> 数据库文档</h2>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-tasks" aria-hidden="true"></span> Oracle 文档</h3>
+<ul>
+<li><a href="https://haiyong.site/doc/oracle/Readme.pdf">Oracle Readme</a> PDF</li>
+<li><a href="https://haiyong.site/doc/oracle/GettingStartedGuide.pdf">Getting Started Guide</a> PDF</li>
+<li><a href="https://haiyong.site/doc/oracle/InstallationGuideLinux.pdf">Installation Guide Linux</a> PDF</li>
+<li><a href="https://haiyong.site/doc/oracle/InstallationGuideWindows.pdf">Installation Guide Windows</a> PDF</li>
+<li><a href="https://haiyong.site/doc/oracle/ApplicationExpressDeveloperGuide.pdf">Application Express Developer Guide</a> PDF</li>
+<li><a href="https://haiyong.site/doc/oracle/DBA.pdf">DBA</a> PDF</li>
+<li><a href="https://haiyong.site/doc/oracle/DevelopersGuide.pdf">Developer's Guide</a> PDF</li>
+<li><a href="https://haiyong.site/doc/oracle/JavaDeveloperGuide.pdf">Java Developer Guide (JDBC) </a> PDF</li>
+<li><a href="https://haiyong.site/doc/oracle/jdbc_javadoc/index.html">JDBC Java DOC </a> HTML</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3>
+<span class="glyphicon glyphicon-align-justify" aria-hidden="true"></span> MySQL 文档</h3>
+<ul>
+<li><a href="https://haiyong.site/doc/mysql-connector-java-5.1.38/docs/connector-j.html">MySQL JDBC 文档</a> HTML</li>
+<li><a href="http://doc.canglaoshi.org/mysql5.1/index.html">MySQL 5.1 中文文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/mysql5.5-en/index.html">MySQL 5.5 英文文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/mysql-jdbc5.1/index.html">MySQL JDBC 英文文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/mysql/MySQL123.pdf">MySQL 必知必会</a> PDF</li>
+<li><a href="https://haiyong.site/doc/mysql/MySQL5.5cn.pdf">MySQL 5.5 中文文档</a> PDF</li>
+<li><a href="https://haiyong.site/doc/mysql_mac/index.html">MySQL Mac 安装步骤</a> PDF</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<h2 class="page-header"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> WEB 开发文档</h2>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-cutlery" aria-hidden="true"></span> Web 前端文档</h3>
+<ul>
+<li><a href="https://haiyong.site/doc/w3/index.html">全部</a> HTML</li>
+<li><a href="https://haiyong.site/doc/jquery/index.html">JQuery API DOC</a> HTML</li>
+<li><a href="https://haiyong.site/doc/w3/jquery/index.html">JQuery 教程</a> HTML</li>
+<li><a href="https://haiyong.site/doc/w3/html/index.html">HTML</a> HTML</li>
+<li><a href="https://haiyong.site/doc/w3/css/index.html">CSS</a> HTML</li>
+<li><a href="https://haiyong.site/doc/w3/b.html">JavaScript</a> HTML</li>
+<li><a href="https://haiyong.site/doc/w3/x.html">XML</a> HTML</li>
+<li><a href="https://haiyong.site/doc/bootstrap3/index.html">Bootstrap V3 中文文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/fontawesome/index.html">Font Awesome 字体图标</a> HTML</li>
+<li><a href="https://haiyong.site/doc/bootstrap3/bootstrap-3.3.7-start.zip">Bootstrap V3.3.7 Starter</a> ZIP</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> Java WEB 文档</h3>
+<ul>
+<li><a href="https://haiyong.site/doc/tomcat-7.0-doc/index.html">Tomcat 7.0 文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/tomcat-7.0-doc/servletapi/index.html">Servlet 3.0 API</a> HTML</li>
+<li><a href="https://haiyong.site/doc/tomcat-7.0-doc/jspapi/index.html">JSP 2.2 API</a> HTML</li>
+<li><a href="https://haiyong.site/doc/commons-fileupload-1.2.2/site/index.html">commons-fileupload-1.2.2</a> HTML</li>
+<li><a href="https://haiyong.site/doc/commons-fileupload-1.2.2/site/apidocs/index.html">commons-fileupload-1.2.2 API 文档</a> HTML</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-cloud" aria-hidden="true"></span> Mozilla WEB 文档</h3>
+<ul>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTTP">HTTP</a> HTML</li>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML">HTML</a> HTML</li>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/CSS">CSS</a> HTML</li>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript">JavaScript</a> HTML</li>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/Guide/Graphics">Web 图形开发</a> HTML</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<h2 class="page-header"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> Java 框架文档</h2>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Hibernate</h3>
+<ul>
+<li><a href="https://haiyong.site/doc/hibernate3.5/hibernate_reference-3.5.pdf">Hibernate3.5 中文参考文档</a> PDF</li>
+<li><a href="https://haiyong.site/doc/hibernate4/HibernateGettingStartedGuide.pdf">Hibernate 4 Getting Started Guide 中文</a> PDF</li>
+<li><a href="https://haiyong.site/doc/hibernate4/HibernateDeveloperGuide.pdf">Hibernate Developer Guide 中文</a> PDF</li>
+<li><a href="https://haiyong.site/doc/hibernate4/HIBERNATE-RelationalPersistenceforIdiomaticJava.pdf">HIBERNATE Relational Persistence for Idiomatic Java 中文</a> PDF</li>
+<li><a href="https://haiyong.site/doc/hibernate4/quickstart/en-US/html">Hibernate Getting Started Guide</a> HTML</li>
+<li><a href="https://haiyong.site/doc/hibernate4/devguide/en-US/html">Hibernate Developer Guide</a> HTML</li>
+<li><a href="https://haiyong.site/doc/hibernate4/manual/en-US/html">HIBERNATE Relational Persistence for Idiomatic Java</a> HTML</li>
+<li><a href="https://haiyong.site/doc/hibernate4/javadocs">Hibernate 4 API Java DOC</a> HTML</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-tree-deciduous" aria-hidden="true"></span> Struts2</h3>
+<ul>
+<li><a href="https://haiyong.site/doc/struts2/struts2-cn.pdf">Struts2 中文文档</a> PDF</li>
+<li><a href="https://haiyong.site/doc/struts2/docs/index.html">Struts2 DOC</a> HTML</li>
+<li><a href="https://haiyong.site/doc/struts2/struts2-core/apidocs/index.html">Struts2 API DOC</a> HTML</li>
+<li><a href="https://haiyong.site/doc/struts2/xwork-core/apidocs">Struts2 XWork DOC</a> HTML</li>
+<li><a href="https://haiyong.site/doc/struts2/struts2-plugins/struts2-json-plugin/apidocs/index.html">Struts2 JSON Plugin</a> HTML</li>
+<li><a href="https://haiyong.site/doc/struts2/struts2-plugins/struts2-spring-plugin/apidocs/index.html">Struts2 Spring Plugin</a> HTML</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-leaf" aria-hidden="true"></span> Spring</h3>
+<ul>
+<li><a href="https://haiyong.site/doc/spring-framework-3.2.8/spring-framework-reference/html/index.html">Spring framework 3.2.8 参考文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/spring-framework-3.2.8/javadoc-api/index.html">Spring framework 3.2.8 API 文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/spring4doc/index.html">Spring framework 4 中文参考文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/spring-framework-4.2.0/javadoc-api/index.html">Spring framework 4.2.0 API 文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/https://docs.spring.io/spring/docs/5.2.4.RELEASE/spring-framework-reference/">Spring Framework Documentation</a> HTML</li>
+<li><a href="https://haiyong.site/doc/https://docs.spring.io/spring/docs/5.2.4.RELEASE/javadoc-api/">Spring framework 5 API DOC</a> HTML</li>
+<li><a href="https://haiyong.site/doc/https://docs.spring.io/spring-boot/docs/2.2.5.RELEASE/reference/html/">Spring Boot Reference Documentation</a> HTML</li>
+<li><a href="https://haiyong.site/doc/https://docs.spring.io/spring-boot/docs/2.2.5.RELEASE/api/">Spring Boot API DOC</a> HTML</li>
+<li><a href="https://haiyong.site/doc/https://www.springcloud.cc/spring-cloud-dalston.html">SpringCloud 中文文档</a> HTML</li>
+<li><a href="https://haiyong.site/doc/https://cloud.spring.io/spring-cloud-static/Hoxton.SR2/reference/html/spring-cloud.html">SpringCloud Reference Documentation</a> HTML</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-oil" aria-hidden="true"></span> MyBatis</h3>
+<ul>
+<li><a href="https://haiyong.site/doc/mybatis/mybatis-3/zh/index.html">MyBatis 3 中文</a> HTML</li>
+<li><a href="https://haiyong.site/doc/mybatis/spring/zh/index.html">MyBatis-Spring</a> HTML</li>
+<li><a href="https://haiyong.site/doc/mybatis/spring-boot-starter/mybatis-spring-boot-autoconfigure/index.html">MyBatis-SpringBoot</a> HTML</li>
+<li><a href="https://haiyong.site/doc/mybatis/redis-cache/index.html">MyBatis-Redis</a> HTML</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<h2 class="page-header"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span> 移动端开发</h2>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Flutter</h3>
+<ul>
+<li><a href="https://flutterchina.club/get-started/" targer="_blank">Flutter起步</a> 中文 HTML</li>
+<li><a href="https://flutterchina.club/docs/" targer="_blank">Flutter文档</a> 中文 HTML</li>
+<li><a href="https://book.flutterchina.club/" targer="_blank">《Flutter实战》</a> 中文 HTML</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<h2 class="page-header"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> Python开发文档</h2>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Python 安装</h3>
+<ul>
+<li><a href="https://haiyong.site/doc/python/windows.html">在Windows上安装Python</a> 中文 HTML</li>
+<li><a href="https://haiyong.site/doc/python/mac.html">在Mac上安装Python</a> 中文 HTML</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> Python 手册</h3>
+<ul>
+<li><a href="https://haiyong.site/doc/python/pythontutorial3/index.html">Python 3 教程</a> 中文 HTML</li>
+<li><a href="https://haiyong.site/doc/python/pythontutorial27/index.html">Python 2.7 教程</a> 中文 HTML</li>
+<li><a href="https://haiyong.site/doc/python/python-3.5.1-docs-html/index.html">Python 3.5.1 参考手册</a> 英文 HTML</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<h2 class="page-header"><span class="glyphicon glyphicon-book" aria-hidden="true"></span> 互联网</h2>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-tree-conifer" aria-hidden="true"></span> 经典文档</h3>
+<ul>
+<li>阿兰·图灵 论可计算数及其在判定问题上的应用(1936) <a href="resource/Turing_Paper_1936.pdf">PDF</a> </li>
+<li>User Datagram Protocol(UDP) <a href="https://haiyong.site/doc/rfc/rfc768.txt">RFC768</a> </li>
+<li>Transmission Control Protocol(TCP) <a href="https://haiyong.site/doc/rfc/rfc793.txt">RFC793</a> </li>
+<li>Form-based File Upload in HTML <a href="https://haiyong.site/doc/rfc/rfc1867.txt">RFC1867</a> <a href="rfc-cn/RFC1867.txt">RFC1867中文</a> </li>
+<li>Hypertext Transfer Protocol -- HTTP/1.0 <a href="https://haiyong.site/doc/rfc/rfc1945.txt">RFC1945</a> <a href="rfc-cn/RFC1945.txt">RFC1945中文</a></li>
+<li>Hypertext Transfer Protocol -- HTTP/1.1 <a href="https://haiyong.site/doc/rfc/rfc2616.txt">RFC2616</a></li>
+<li>HTTP State Management Mechanism <a href="https://haiyong.site/doc/rfc/rfc6265.txt">RFC6265</a></li>
+<li>UTF-8, a transformation format of ISO 10646 <a href="https://tools.ietf.org/html/rfc3629">RFC3629</a></li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="fa fa-plug" aria-hidden="true"></span> 互联网相关</h3>
+<ul>
+<li><a href="https://haiyong.site/doc/linux/linux-cmd.html">50条Linux常用命令</a> 中文 HTML</li>
+<li><a href="https://haiyong.site/doc/nginx_docs/cn/index.html">Nginx文档</a> 中文 HTML</li>
+<li><a href="https://haiyong.site/doc/nginx/nginx-1.12.0.tar.gz">下载Nginx 1.12.0 源码</a></li>
+<li><a href="https://haiyong.site/doc/redis/redis-gh-pages/index.html">Redis命令手册</a> 中文 HTML</li>
+<li><a href="https://haiyong.site/doc/redis/redis-3.0.0.tar.gz">下载Redis 3.0.0</a></li>
+<li><a href="https://haiyong.site/doc/squid/index.html">Squid文档</a> 中文 HTML</li>
+<li><a href="https://www.unicode.org/Public/UCD/latest/charts/CodeCharts.pdf">Unicode 编码表</a> 英文 PDF</li>
+</ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+<h3><span class="glyphicon glyphicon-th-list" aria-hidden="true"></span> 免费资源</h3>
+<ul>
+<li><span>简历模板 </span><a href="https://pan.baidu.com/s/1oCjAcqj5G-SBc34HvjEQYQ?pwd=0520">百度云盘</a> 提取码: 0520 </li>
+<li><span>PPT模板 </span><a href="https://pan.baidu.com/s/1Z7m8iD4f1uLbftuw02Y5Lg?pwd=0520">百度云盘</a> 提取码: 0520 </li>
+</ul>
+</div>
+</div>
+<hr>
+<p class="text-center">文档全部来自互联网, 文档版权属于各自发布组织</p>
+<p class="text-center">诚信 · 创新 · 开放 · 合作</p>
+<p class="text-center"><a href="https://beian.miit.gov.cn/" rel="nofollow" target="_blank">皖ICP备2021010710</a></p>
+<script>
+				var tedu="http://doc.tedu.cn/s/";
+				var robin="https://robinliu.3322.org:8888/";
+				var host = location.host;
+				$('a').click(function(){
+					if(!this.href){
+						return;
+					}
+					var text = $(this).text();
+					var href = this.href;
+					console.log('Click:'+href);
+					console.log('text:'+text);
+					if(host == 'doc.tedu.cn'){
+						if(text=="百度云盘"){
+							alert('内网不支持 [百度云盘]');
+							return false;
+						}
+						if(text=="官网下载"){
+							var file = href.substring(href.lastIndexOf('/'));
+							//console.log('file:'+file);
+							href = tedu+"download"+file;
+							console.log("转向新地址："+href);
+							location.href = href;
+							return false;
+						}
+						if(text=="下载链接"){
+							href = href.replace(robin, tedu);
+							console.log("转向新地址："+href);
+							location.href = href;
+							return false;
+						}	
+					}
+				});
+			</script>
+</div>
+	<footer class="page-footer">
+	  <span>游戏👉</span>
+	  <a href="https://haiyong.site/about" target="_blank">
+		<img class="touxiang"  src="https://haiyong.site/img/favicon.png">
+	  </a>
+	</footer>
+</body>
+</html>
+
