@@ -12,7 +12,7 @@
 1.爱吹风的小狮子：[https://haiyong.site/moyu/lion.html](https://haiyong.site/moyu/lion.html)\
 2.响应式2048小游戏：[https://haiyong.site/moyu/2048.html](https://haiyong.site/moyu/2048.html)\
 3.飞机躲避障碍：[https://haiyong.site/moyu/feiji.html](https://haiyong.site/moyu/feiji.html)\
-4.圣诞老人过桥：[https://haiyong.site/moyu/Santa-Claus.html](https://haiyong.site/moyu/Santa-Claus.html)\
+4.圣诞老人过桥：[https://haiyong.site/moyu/santa-claus.html](https://haiyong.site/moyu/santa-claus.html)\
 5.切方块：[https://haiyong.site/moyu/qiefangkuai.html](https://haiyong.site/moyu/qiefangkuai.html)\
 6.打地鼠：[https://haiyong.site/moyu/catch-mole.html](https://haiyong.site/moyu/catch-mole.html)\
 7.JS闯关小游戏：[https://haiyong.site/moyu/simplejsgame.html](https://haiyong.site/moyu/simplejsgame.html)\
