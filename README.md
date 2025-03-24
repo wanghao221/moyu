@@ -28,13 +28,13 @@
 | 6 | `赛车游戏-slowroads`：<https://game.haiyong.site/slowroads> | 赛车游戏-slowroads |
 | 7 | `跳一跳`：<https://game.haiyong.site/tyt> | 跳一跳 |
 | 8 | `绝地战线`：<https://game.haiyong.site/jdzx> | 绝地战线 |
-| 9 | `马戏团 (J) `：<https://game.haiyong.site/fc/21maxituan.html> | 马戏团 (J) Circus Charlie \[!\] |
+| 9 | `马戏团 (J) `：<https://game.haiyong.site/fc/21maxituan.html> | 马戏团 (J) Circus Charlie [!] |
 | 10 | `猪小弟 (J)`：<https://game.haiyong.site/fc/20zhuxiaodi.html> | 猪小弟 (J) Pooyan-fc红白机 |
-| 11 | `炸弹人1 (J) `：<https://game.haiyong.site/fc/19zhadanren1.html> | 炸弹人1 (J) Bomberman \[!\]-fc红白机 |
+| 11 | `炸弹人1 (J) `：<https://game.haiyong.site/fc/19zhadanren1.html> | 炸弹人1 (J) Bomberman [!]-fc红白机 |
 | 12 | `敲冰块 (J)`：<https://game.haiyong.site/fc/18qiaobingkuai.html> | 敲冰块 (J) Ice Climber |
-| 13 | `成龙踢馆1 (J) `：<https://game.haiyong.site/fc/17chenglongtiguan1.html> | 成龙踢馆1 (J) Spartan X \[!\]-fc红白机 |
-| 14 | `快乐猫 (J) `：<https://game.haiyong.site/fc/16kuailemao.html> | 快乐猫 (J) Mappy \[!\] |
-| 15 | `地底探险1 (J) `：<https://game.haiyong.site/fc/15diditanxian1.html> | 地底探险1 (J) Spelunker \[!\] |
+| 13 | `成龙踢馆1 (J) `：<https://game.haiyong.site/fc/17chenglongtiguan1.html> | 成龙踢馆1 (J) Spartan X [!]-fc红白机 |
+| 14 | `快乐猫 (J) `：<https://game.haiyong.site/fc/16kuailemao.html> | 快乐猫 (J) Mappy [!] |
+| 15 | `地底探险1 (J) `：<https://game.haiyong.site/fc/15diditanxian1.html> | 地底探险1 (J) Spelunker [!] |
 | 16 | `Zelda II`：<https://game.haiyong.site/fc/14zeldaII.html> | Zelda II - The Adventure of Link(U)-fc红白机 |
 | 17 | `高尔夫 Golf (JU)`：<https://game.haiyong.site/fc/13gaoerfu.html> | 高尔夫 Golf (JU)-fc红白机 |
 | 18 | `网球Tennis(JU)`：<https://game.haiyong.site/fc/12wangqiu.html> | 网球Tennis(JU)-fc红白机 |
@@ -280,1274 +280,1274 @@
 | 258 | `杀死国王`：<https://game.haiyong.site/kill-the-king.html> | 其实只要疯狂点击空格键就行 |
 | 259 | `骰子游戏`：<https://haiyong.site/lanqiao/16.html> | 纯靠运气 |
 | 260 | `双人五子棋`：<https://game.haiyong.site/wu> | 双人五子棋 |
-| 261 | `1942(简)[6502](JU)[STG](0.62Mb)`：<https://fc.haiyong.site/games/1942%28%E7%AE%80%29%5B6502%5D%28JU%29%5BSTG%5D%280.62Mb%29/> | 1942(简)\[6502\](JU)\[STG\](0.62Mb) |
-| 262 | `1942(简)[MS](JU)[STG](0.31Mb)`：<https://fc.haiyong.site/games/1942%28%E7%AE%80%29%5BMS%5D%28JU%29%5BSTG%5D%280.31Mb%29/> | 1942(简)\[MS\](JU)\[STG\](0.31Mb) |
-| 263 | `1942(简)[高伟](JU)[STG](0.31Mb)`：<https://fc.haiyong.site/games/1942%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JU%29%5BSTG%5D%280.31Mb%29/> | 1942(简)\[高伟\](JU)\[STG\](0.31Mb) |
-| 264 | `1943 - 中途岛海战(v1.0)(简)[KasuraJ](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/1943%20-%20%E4%B8%AD%E9%80%94%E5%B2%9B%E6%B5%B7%E6%88%98%28v1.0%29%28%E7%AE%80%29%5BKasuraJ%5D%28JP%29%5BSTG%5D%282Mb%29/> | 1943 - 中途岛海战(v1.0)(简)\[KasuraJ\](JP)\[STG\](2Mb) |
-| 265 | `1944(v1.0)(简)[MS](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/1944%28v1.0%29%28%E7%AE%80%29%5BMS%5D%28JP%29%5BSTG%5D%281Mb%29/> | 1944(v1.0)(简)\[MS\](JP)\[STG\](1Mb) |
+| 261 | `1942(简)[6502](JU)[STG](0.62Mb)`：<https://fc.haiyong.site/games/1942(简)[6502](JU)[STG](0.62Mb)/> | 1942(简)[6502](JU)[STG](0.62Mb) |
+| 262 | `1942(简)[MS](JU)[STG](0.31Mb)`：<https://fc.haiyong.site/games/1942(简)[MS](JU)[STG](0.31Mb)/> | 1942(简)[MS](JU)[STG](0.31Mb) |
+| 263 | `1942(简)[高伟](JU)[STG](0.31Mb)`：<https://fc.haiyong.site/games/1942(简)[高伟](JU)[STG](0.31Mb)/> | 1942(简)[高伟](JU)[STG](0.31Mb) |
+| 264 | `1943 - 中途岛海战(v1.0)(简)[KasuraJ](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/1943 - 中途岛海战(v1.0)(简)[KasuraJ](JP)[STG](2Mb)/> | 1943 - 中途岛海战(v1.0)(简)[KasuraJ](JP)[STG](2Mb) |
+| 265 | `1944(v1.0)(简)[MS](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/1944(v1.0)(简)[MS](JP)[STG](1Mb)/> | 1944(v1.0)(简)[MS](JP)[STG](1Mb) |
 | 266 | `1chaojimali`：<https://fc.haiyong.site/games/1chaojimali/> | 1chaojimali |
 | 267 | `2hundouluo`：<https://fc.haiyong.site/games/2hundouluo/> | 2hundouluo |
-| 268 | `4人麻将(简)[星空](JP)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/4%E4%BA%BA%E9%BA%BB%E5%B0%86%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28JP%29%5BTAB%5D%280.18Mb%29/> | 4人麻将(简)\[星空\](JP)\[TAB\](0.18Mb) |
-| 269 | `75宾果(繁)[圣谦](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/75%E5%AE%BE%E6%9E%9C%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BTAB%5D%280.5Mb%29/> | 75宾果(繁)\[圣谦\](CN)\[TAB\](0.5Mb) |
-| 270 | `ABM学习卡(v5.0)(简)[maxzhou88](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/ABM%E5%AD%A6%E4%B9%A0%E5%8D%A1%28v5.0%29%28%E7%AE%80%29%5Bmaxzhou88%5D%28CN%29%5BETC%5D%288Mb%29/> | ABM学习卡(v5.0)(简)\[maxzhou88\](CN)\[ETC\](8Mb) |
-| 271 | `A麻将俱乐部(v1.1)(简)[汉化你妹](EU)[TAB](2Mb)`：<https://fc.haiyong.site/games/A%E9%BA%BB%E5%B0%86%E4%BF%B1%E4%B9%90%E9%83%A8%28v1.1%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28EU%29%5BTAB%5D%282Mb%29/> | A麻将俱乐部(v1.1)(简)\[汉化你妹\](EU)\[TAB\](2Mb) |
-| 272 | `A麻将俱乐部(简)[圣谦](CN)[TAB](0.75Mb)`：<https://fc.haiyong.site/games/A%E9%BA%BB%E5%B0%86%E4%BF%B1%E4%B9%90%E9%83%A8%28%E7%AE%80%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BTAB%5D%280.75Mb%29/> | A麻将俱乐部(简)\[圣谦\](CN)\[TAB\](0.75Mb) |
-| 273 | `A麻将俱乐部(简)[星空](CN)[TAB](1Mb)`：<https://fc.haiyong.site/games/A%E9%BA%BB%E5%B0%86%E4%BF%B1%E4%B9%90%E9%83%A8%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28CN%29%5BTAB%5D%281Mb%29/> | A麻将俱乐部(简)\[星空\](CN)\[TAB\](1Mb) |
-| 274 | `B计划(简)[高伟](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/B%E8%AE%A1%E5%88%92%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.31Mb%29/> | B计划(简)\[高伟\](JP)\[STG\](0.31Mb) |
-| 275 | `CAPCOM音乐30合一(v1.3)(简)[九班][ETC](4Mb)`：<https://fc.haiyong.site/games/CAPCOM%E9%9F%B3%E4%B9%9030%E5%90%88%E4%B8%80%28v1.3%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%5BETC%5D%284Mb%29/> | CAPCOM音乐30合一(v1.3)(简)\[九班\]\[ETC\](4Mb) |
-| 276 | `F1赛车(简)[Madcell](JP)[RAC](0.25Mb)`：<https://fc.haiyong.site/games/F1%E8%B5%9B%E8%BD%A6%28%E7%AE%80%29%5BMadcell%5D%28JP%29%5BRAC%5D%280.25Mb%29/> | F1赛车(简)\[Madcell\](JP)\[RAC\](0.25Mb) |
-| 277 | `F1赛车(简)[MS](JP)[RAC](0.18Mb)`：<https://fc.haiyong.site/games/F1%E8%B5%9B%E8%BD%A6%28%E7%AE%80%29%5BMS%5D%28JP%29%5BRAC%5D%280.18Mb%29/> | F1赛车(简)\[MS\](JP)\[RAC\](0.18Mb) |
-| 278 | `FC原人(v0.9)(简)[高伟](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/FC%E5%8E%9F%E4%BA%BA%28v0.9%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%283Mb%29/> | FC原人(v0.9)(简)\[高伟\](JP)\[ACT\](3Mb) |
-| 279 | `FC原人(简)[MS](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/FC%E5%8E%9F%E4%BA%BA%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%283Mb%29/> | FC原人(简)\[MS\](JP)\[ACT\](3Mb) |
-| 280 | `JuJu传说(v1.1)(简)[MS](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/JuJu%E4%BC%A0%E8%AF%B4%28v1.1%29%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%283Mb%29/> | JuJu传说(v1.1)(简)\[MS\](JP)\[ACT\](3Mb) |
-| 281 | `Microsoft Windows 98(简)[maxzhou88](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/Microsoft%20Windows%2098%28%E7%AE%80%29%5Bmaxzhou88%5D%28CN%29%5BETC%5D%284Mb%29/> | Microsoft Windows 98(简)\[maxzhou88\](CN)\[ETC\](4Mb) |
-| 282 | `MXMDHTWO学习卡(简)[小天才](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/MXMDHTWO%E5%AD%A6%E4%B9%A0%E5%8D%A1%28%E7%AE%80%29%5B%E5%B0%8F%E5%A4%A9%E6%89%8D%5D%28CN%29%5BETC%5D%284Mb%29/> | MXMDHTWO学习卡(简)\[小天才\](CN)\[ETC\](4Mb) |
-| 283 | `Q波特(v2020)(简)[虫虫](US)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/Q%E6%B3%A2%E7%89%B9%28v2020%29%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28US%29%5BACT%5D%280.5Mb%29/> | Q波特(v2020)(简)\[虫虫\](US)\[ACT\](0.5Mb) |
-| 284 | `Q波特(简)[高伟](US)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/Q%E6%B3%A2%E7%89%B9%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BACT%5D%280.5Mb%29/> | Q波特(简)\[高伟\](US)\[ACT\](0.5Mb) |
-| 285 | `Q版沙罗曼蛇(简)[俞亮](EU)[STG](2Mb)`：<https://fc.haiyong.site/games/Q%E7%89%88%E6%B2%99%E7%BD%97%E6%9B%BC%E8%9B%87%28%E7%AE%80%29%5B%E4%BF%9E%E4%BA%AE%5D%28EU%29%5BSTG%5D%282Mb%29/> | Q版沙罗曼蛇(简)\[俞亮\](EU)\[STG\](2Mb) |
-| 286 | `Raf世界(v2.0)(简)[九班](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/Raf%E4%B8%96%E7%95%8C%28v2.0%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BACT%5D%282Mb%29/> | Raf世界(v2.0)(简)\[九班\](JP)\[ACT\](2Mb) |
-| 287 | `SD英雄总决战 - 打倒！恶之军团(简)[Zero Boy](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/SD%E8%8B%B1%E9%9B%84%E6%80%BB%E5%86%B3%E6%88%98%20-%20%E6%89%93%E5%80%92%EF%BC%81%E6%81%B6%E4%B9%8B%E5%86%9B%E5%9B%A2%28%E7%AE%80%29%5BZero%20Boy%5D%28JP%29%5BACT%5D%282Mb%29/> | SD英雄总决战 - 打倒！恶之军团(简)\[Zero Boy\](JP)\[ACT\](2Mb) |
-| 288 | `SD英雄总决战 - 打倒！邪恶军团(修正版)(简)[MS+星夜之幻](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/SD%E8%8B%B1%E9%9B%84%E6%80%BB%E5%86%B3%E6%88%98%20-%20%E6%89%93%E5%80%92%EF%BC%81%E9%82%AA%E6%81%B6%E5%86%9B%E5%9B%A2%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5BMS%2B%E6%98%9F%E5%A4%9C%E4%B9%8B%E5%B9%BB%5D%28JP%29%5BACT%5D%282Mb%29/> | SD英雄总决战 - 打倒！邪恶军团(修正版)(简)\[MS+星夜之幻\](JP)\[ACT\](2Mb) |
-| 289 | `SD高达外传 - 骑士高达故事3 - 传说之骑士团(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/SD%E9%AB%98%E8%BE%BE%E5%A4%96%E4%BC%A0%20-%20%E9%AA%91%E5%A3%AB%E9%AB%98%E8%BE%BE%E6%95%85%E4%BA%8B3%20-%20%E4%BC%A0%E8%AF%B4%E4%B9%8B%E9%AA%91%E5%A3%AB%E5%9B%A2%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%286Mb%29/> | SD高达外传 - 骑士高达故事3 - 传说之骑士团(简)\[外星科技\](JP)\[RPG\](6Mb) |
-| 290 | `YieAr功夫(v1.0)(简)[九班](JP)[FTG](0.18Mb)`：<https://fc.haiyong.site/games/YieAr%E5%8A%9F%E5%A4%AB%28v1.0%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BFTG%5D%280.18Mb%29/> | YieAr功夫(v1.0)(简)\[九班\](JP)\[FTG\](0.18Mb) |
-| 291 | `YieAr功夫(简)[高伟](JP)[FTG](0.18Mb)`：<https://fc.haiyong.site/games/YieAr%E5%8A%9F%E5%A4%AB%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BFTG%5D%280.18Mb%29/> | YieAr功夫(简)\[高伟\](JP)\[FTG\](0.18Mb) |
-| 292 | `一揆(简)[无极](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E4%B8%80%E6%8F%86%28%E7%AE%80%29%5B%E6%97%A0%E6%9E%81%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 一揆(简)\[无极\](JP)\[ACT\](0.18Mb) |
-| 293 | `七国大战(简)[南晶科技](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E4%B8%83%E5%9B%BD%E5%A4%A7%E6%88%98%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%288Mb%29/> | 七国大战(简)\[南晶科技\](CN)\[SLG\](8Mb) |
-| 294 | `七宝奇谋(修正版)(简)[王龙+MS](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/%E4%B8%83%E5%AE%9D%E5%A5%87%E8%B0%8B%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E7%8E%8B%E9%BE%99%2BMS%5D%28JP%29%5BACT%5D%280.37Mb%29/> | 七宝奇谋(修正版)(简)\[王龙+MS\](JP)\[ACT\](0.37Mb) |
-| 295 | `七宝奇谋(简)[高伟](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/%E4%B8%83%E5%AE%9D%E5%A5%87%E8%B0%8B%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.37Mb%29/> | 七宝奇谋(简)\[高伟\](JP)\[ACT\](0.37Mb) |
-| 296 | `七龙珠(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E4%B8%83%E9%BE%99%E7%8F%A0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%286Mb%29/> | 七龙珠(简)\[外星科技\](JP)\[RPG\](6Mb) |
-| 297 | `三十六计(繁)[外星科技](CN)[TAB](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%8D%81%E5%85%AD%E8%AE%A1%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BTAB%5D%284Mb%29/> | 三十六计(繁)\[外星科技\](CN)\[TAB\](4Mb) |
-| 298 | `三只小猪(v1.0)(简)[MS](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%8F%AA%E5%B0%8F%E7%8C%AA%28v1.0%29%28%E7%AE%80%29%5BMS%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 三只小猪(v1.0)(简)\[MS\](JP)\[STG\](0.18Mb) |
-| 299 | `三只小猪(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%8F%AA%E5%B0%8F%E7%8C%AA%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 三只小猪(简)\[高伟\](JP)\[STG\](0.18Mb) |
-| 300 | `三国大乱斗 - 战国(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%A4%A7%E4%B9%B1%E6%96%97%20-%20%E6%88%98%E5%9B%BD%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 三国大乱斗 - 战国(简)\[南晶科技\](CN)\[RPG\](8Mb) |
-| 301 | `三国志 - 中原之霸者(简)[谈魈疯生](JP)[SLG](3Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%97%20-%20%E4%B8%AD%E5%8E%9F%E4%B9%8B%E9%9C%B8%E8%80%85%28%E7%AE%80%29%5B%E8%B0%88%E9%AD%88%E7%96%AF%E7%94%9F%5D%28JP%29%5BSLG%5D%283Mb%29/> | 三国志 - 中原之霸者(简)\[谈魈疯生\](JP)\[SLG\](3Mb) |
-| 302 | `三国志 - 傲视天地(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%97%20-%20%E5%82%B2%E8%A7%86%E5%A4%A9%E5%9C%B0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 三国志 - 傲视天地(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 303 | `三国志 - 千军破(简)[恒格电子](JP)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%97%20-%20%E5%8D%83%E5%86%9B%E7%A0%B4%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BSLG%5D%288Mb%29/> | 三国志 - 千军破(简)\[恒格电子\](JP)\[SLG\](8Mb) |
-| 304 | `三国志 - 吕布传(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%97%20-%20%E5%90%95%E5%B8%83%E4%BC%A0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 三国志 - 吕布传(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 305 | `三国志 - 曹操传(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%97%20-%20%E6%9B%B9%E6%93%8D%E4%BC%A0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 三国志 - 曹操传(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 306 | `三国志 - 群雄争霸(繁)[Asder](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%97%20-%20%E7%BE%A4%E9%9B%84%E4%BA%89%E9%9C%B8%28%E7%B9%81%29%5BAsder%5D%28CN%29%5BFTG%5D%283Mb%29/> | 三国志 - 群雄争霸(繁)\[Asder\](CN)\[FTG\](3Mb) |
-| 307 | `三国志 - 蜀汉风云(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%97%20-%20%E8%9C%80%E6%B1%89%E9%A3%8E%E4%BA%91%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 三国志 - 蜀汉风云(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 308 | `三国志 - 蜀魏争霸(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%97%20-%20%E8%9C%80%E9%AD%8F%E4%BA%89%E9%9C%B8%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 三国志 - 蜀魏争霸(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 309 | `三国志 - 赤壁之战(繁)[Asder](CN)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%97%20-%20%E8%B5%A4%E5%A3%81%E4%B9%8B%E6%88%98%28%E7%B9%81%29%5BAsder%5D%28CN%29%5BACT%5D%283Mb%29/> | 三国志 - 赤壁之战(繁)\[Asder\](CN)\[ACT\](3Mb) |
-| 310 | `三国志 - 雄霸天下(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%97%20-%20%E9%9B%84%E9%9C%B8%E5%A4%A9%E4%B8%8B%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 三国志 - 雄霸天下(简)\[外星科技\](CN)\[SLG\](4Mb) |
-| 311 | `三国志(简)[外星科技](JP)[SLG](3Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%97%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BSLG%5D%283Mb%29/> | 三国志(简)\[外星科技\](JP)\[SLG\](3Mb) |
-| 312 | `三国志2 - 霸王的大陆(v0.96)(v20210720)(简)[霸王的大陆](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%972%20-%20%E9%9C%B8%E7%8E%8B%E7%9A%84%E5%A4%A7%E9%99%86%28v0.96%29%28v20210720%29%28%E7%AE%80%29%5B%E9%9C%B8%E7%8E%8B%E7%9A%84%E5%A4%A7%E9%99%86%5D%28JP%29%5BSLG%5D%284Mb%29/> | 三国志2 - 霸王的大陆(v0.96)(v20210720)(简)\[霸王的大陆\](JP)\[SLG\](4Mb) |
-| 313 | `三国志2 - 霸王的大陆(v0.9976)(v20180201)(简)[2434917](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%972%20-%20%E9%9C%B8%E7%8E%8B%E7%9A%84%E5%A4%A7%E9%99%86%28v0.9976%29%28v20180201%29%28%E7%AE%80%29%5B2434917%5D%28JP%29%5BSLG%5D%284Mb%29/> | 三国志2 - 霸王的大陆(v0.9976)(v20180201)(简)\[2434917\](JP)\[SLG\](4Mb) |
-| 314 | `三国志2 - 霸王的大陆(v0.9976)(v20190919)(简)[心伤谁知](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%972%20-%20%E9%9C%B8%E7%8E%8B%E7%9A%84%E5%A4%A7%E9%99%86%28v0.9976%29%28v20190919%29%28%E7%AE%80%29%5B%E5%BF%83%E4%BC%A4%E8%B0%81%E7%9F%A5%5D%28JP%29%5BSLG%5D%284Mb%29/> | 三国志2 - 霸王的大陆(v0.9976)(v20190919)(简)\[心伤谁知\](JP)\[SLG\](4Mb) |
-| 315 | `三国志2 - 霸王的大陆(v3.1)(v20210508)(简)[霸王的大陆](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%972%20-%20%E9%9C%B8%E7%8E%8B%E7%9A%84%E5%A4%A7%E9%99%86%28v3.1%29%28v20210508%29%28%E7%AE%80%29%5B%E9%9C%B8%E7%8E%8B%E7%9A%84%E5%A4%A7%E9%99%86%5D%28JP%29%5BSLG%5D%284Mb%29/> | 三国志2 - 霸王的大陆(v3.1)(v20210508)(简)\[霸王的大陆\](JP)\[SLG\](4Mb) |
-| 318 | `三国志2(加强版)(简)[外星游戏大厅](JP)[SLG](6Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%972%28%E5%8A%A0%E5%BC%BA%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%8E%85%5D%28JP%29%5BSLG%5D%286Mb%29/> | 三国志2(加强版)(简)\[外星游戏大厅\](JP)\[SLG\](6Mb) |
-| 319 | `三国志2(简)[外星科技](JP)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%972%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BSLG%5D%288Mb%29/> | 三国志2(简)\[外星科技\](JP)\[SLG\](8Mb) |
-| 320 | `三国志2(简)[恒格电子](JP)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%972%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BSLG%5D%288Mb%29/> | 三国志2(简)\[恒格电子\](JP)\[SLG\](8Mb) |
-| 321 | `三国志4 - 赤壁风云(繁)[Future](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%974%20-%20%E8%B5%A4%E5%A3%81%E9%A3%8E%E4%BA%91%28%E7%B9%81%29%5BFuture%5D%28CN%29%5BACT%5D%284Mb%29/> | 三国志4 - 赤壁风云(繁)\[Future\](CN)\[ACT\](4Mb) |
-| 322 | `三国志英杰传(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%97%E8%8B%B1%E6%9D%B0%E4%BC%A0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 三国志英杰传(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 323 | `三国志英杰传(繁)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%97%E8%8B%B1%E6%9D%B0%E4%BC%A0%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 三国志英杰传(繁)\[外星科技\](JP)\[RPG\](4Mb) |
-| 324 | `三国忠烈传(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E5%BF%A0%E7%83%88%E4%BC%A0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 三国忠烈传(简)\[外星科技\](CN)\[RPG\](4Mb) |
-| 325 | `三国无双 - 猛将传(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E6%97%A0%E5%8F%8C%20-%20%E7%8C%9B%E5%B0%86%E4%BC%A0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 三国无双 - 猛将传(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 326 | `三国春秋 - 四川省(繁)[卡圣](CN)[TAB](2Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E6%98%A5%E7%A7%8B%20-%20%E5%9B%9B%E5%B7%9D%E7%9C%81%28%E7%B9%81%29%5B%E5%8D%A1%E5%9C%A3%5D%28CN%29%5BTAB%5D%282Mb%29/> | 三国春秋 - 四川省(繁)\[卡圣\](CN)\[TAB\](2Mb) |
-| 327 | `三国桃园记(简)[未知](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E6%A1%83%E5%9B%AD%E8%AE%B0%28%E7%AE%80%29%5B%E6%9C%AA%E7%9F%A5%5D%28CN%29%5BRPG%5D%284Mb%29/> | 三国桃园记(简)\[未知\](CN)\[RPG\](4Mb) |
-| 328 | `三国群侠传(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E7%BE%A4%E4%BE%A0%E4%BC%A0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 三国群侠传(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 329 | `三国群英传(简)[晶科泰](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E5%9B%BD%E7%BE%A4%E8%8B%B1%E4%BC%A0%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BSLG%5D%288Mb%29/> | 三国群英传(简)\[晶科泰\](CN)\[SLG\](8Mb) |
-| 330 | `三目童子(v3)(简)[逆游的五彩鱼](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E7%9B%AE%E7%AB%A5%E5%AD%90%28v3%29%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28JP%29%5BACT%5D%283Mb%29/> | 三目童子(v3)(简)\[逆游的五彩鱼\](JP)\[ACT\](3Mb) |
-| 331 | `三目童子(简)[asiwish](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E7%9B%AE%E7%AB%A5%E5%AD%90%28%E7%AE%80%29%5Basiwish%5D%28JP%29%5BACT%5D%282Mb%29/> | 三目童子(简)\[asiwish\](JP)\[ACT\](2Mb) |
-| 332 | `三目童子(简)[Jeff.Ma](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E7%9B%AE%E7%AB%A5%E5%AD%90%28%E7%AE%80%29%5BJeff.Ma%5D%28JP%29%5BACT%5D%282Mb%29/> | 三目童子(简)\[Jeff.Ma\](JP)\[ACT\](2Mb) |
-| 333 | `三目童子(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E7%9B%AE%E7%AB%A5%E5%AD%90%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%282Mb%29/> | 三目童子(简)\[MS\](JP)\[ACT\](2Mb) |
-| 334 | `三目童子(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E7%9B%AE%E7%AB%A5%E5%AD%90%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 三目童子(简)\[高伟\](JP)\[ACT\](2Mb) |
-| 335 | `三眼神童(v1.1)(简)[星空](JP)[ACT](2.12Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E7%9C%BC%E7%A5%9E%E7%AB%A5%28v1.1%29%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28JP%29%5BACT%5D%282.12Mb%29/> | 三眼神童(v1.1)(简)\[星空\](JP)\[ACT\](2.12Mb) |
-| 336 | `三眼神童(修改版)(简)[Flow Wolf](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E4%B8%89%E7%9C%BC%E7%A5%9E%E7%AB%A5%28%E4%BF%AE%E6%94%B9%E7%89%88%29%28%E7%AE%80%29%5BFlow%20Wolf%5D%28JP%29%5BACT%5D%282Mb%29/> | 三眼神童(修改版)(简)\[Flow Wolf\](JP)\[ACT\](2Mb) |
-| 337 | `上古神剑(繁)[恒格电子](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E4%B8%8A%E5%8F%A4%E7%A5%9E%E5%89%91%28%E7%B9%81%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BSLG%5D%288Mb%29/> | 上古神剑(繁)\[恒格电子\](CN)\[SLG\](8Mb) |
-| 338 | `上古神殿(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E4%B8%8A%E5%8F%A4%E7%A5%9E%E6%AE%BF%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%286Mb%29/> | 上古神殿(简)\[外星科技\](JP)\[RPG\](6Mb) |
-| 339 | `上尉密令(简)[LSP](3Mb)`：<https://fc.haiyong.site/games/%E4%B8%8A%E5%B0%89%E5%AF%86%E4%BB%A4%28%E7%AE%80%29%5BLSP%5D%283Mb%29/> | 上尉密令(简)\[LSP\](3Mb) |
-| 340 | `上海2(简)[高伟](JP)[PUZ](1Mb)`：<https://fc.haiyong.site/games/%E4%B8%8A%E6%B5%B72%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BPUZ%5D%281Mb%29/> | 上海2(简)\[高伟\](JP)\[PUZ\](1Mb) |
-| 341 | `上海大亨(简)[外星科技](CN)[TAB](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%8A%E6%B5%B7%E5%A4%A7%E4%BA%A8%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BTAB%5D%284Mb%29/> | 上海大亨(简)\[外星科技\](CN)\[TAB\](4Mb) |
-| 342 | `不可能完成的任务(简)[LSP](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%AE%8C%E6%88%90%E7%9A%84%E4%BB%BB%E5%8A%A1%28%E7%AE%80%29%5BLSP%5D%28US%29%5BACT%5D%284Mb%29/> | 不可能完成的任务(简)\[LSP\](US)\[ACT\](4Mb) |
-| 343 | `东周列国志(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%9C%E5%91%A8%E5%88%97%E5%9B%BD%E5%BF%97%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 东周列国志(简)\[外星科技\](CN)\[SLG\](4Mb) |
-| 344 | `东方传说 - 封印岛(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%9C%E6%96%B9%E4%BC%A0%E8%AF%B4%20-%20%E5%B0%81%E5%8D%B0%E5%B2%9B%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 东方传说 - 封印岛(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 345 | `东方的传说(简)[外星科技+qqgba](JP)[RPG](1Mb)`：<https://fc.haiyong.site/games/%E4%B8%9C%E6%96%B9%E7%9A%84%E4%BC%A0%E8%AF%B4%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2Bqqgba%5D%28JP%29%5BRPG%5D%281Mb%29/> | 东方的传说(简)\[外星科技+qqgba\](JP)\[RPG\](1Mb) |
-| 346 | `东方的传说(繁)[外星科技](JP)[RPG](1Mb)`：<https://fc.haiyong.site/games/%E4%B8%9C%E6%96%B9%E7%9A%84%E4%BC%A0%E8%AF%B4%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%281Mb%29/> | 东方的传说(繁)\[外星科技\](JP)\[RPG\](1Mb) |
-| 347 | `东风(修正版)[天使汉化组](JP)[TAB](2Mb)`：<https://fc.haiyong.site/games/%E4%B8%9C%E9%A3%8E%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%5B%E5%A4%A9%E4%BD%BF%E6%B1%89%E5%8C%96%E7%BB%84%5D%28JP%29%5BTAB%5D%282Mb%29/> | 东风(修正版)\[天使汉化组\](JP)\[TAB\](2Mb) |
-| 348 | `丝路传奇(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E4%B8%9D%E8%B7%AF%E4%BC%A0%E5%A5%87%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 丝路传奇(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 349 | `中东战争(v1.1)(简)[星空](US)[STG](2Mb)`：<https://fc.haiyong.site/games/%E4%B8%AD%E4%B8%9C%E6%88%98%E4%BA%89%28v1.1%29%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28US%29%5BSTG%5D%282Mb%29/> | 中东战争(v1.1)(简)\[星空\](US)\[STG\](2Mb) |
-| 350 | `中东战争(v1.1)(简)[汉化你妹](US)[STG](3Mb)`：<https://fc.haiyong.site/games/%E4%B8%AD%E4%B8%9C%E6%88%98%E4%BA%89%28v1.1%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28US%29%5BSTG%5D%283Mb%29/> | 中东战争(v1.1)(简)\[汉化你妹\](US)\[STG\](3Mb) |
-| 351 | `中东战争(简)[高伟](US)[STG](2Mb)`：<https://fc.haiyong.site/games/%E4%B8%AD%E4%B8%9C%E6%88%98%E4%BA%89%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BSTG%5D%282Mb%29/> | 中东战争(简)\[高伟\](US)\[STG\](2Mb) |
-| 352 | `中华大仙(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E4%B8%AD%E5%8D%8E%E5%A4%A7%E4%BB%99%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 中华大仙(简)\[高伟\](JP)\[STG\](2Mb) |
-| 353 | `中华英雄(简)[南通科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%AD%E5%8D%8E%E8%8B%B1%E9%9B%84%28%E7%AE%80%29%5B%E5%8D%97%E9%80%9A%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 中华英雄(简)\[南通科技\](CN)\[SLG\](4Mb) |
-| 354 | `中国兔宝宝(繁)[JY Company](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E4%B8%AD%E5%9B%BD%E5%85%94%E5%AE%9D%E5%AE%9D%28%E7%B9%81%29%5BJY%20Company%5D%28CN%29%5BACT%5D%284Mb%29/> | 中国兔宝宝(繁)\[JY Company\](CN)\[ACT\](4Mb) |
-| 355 | `中国大亨 - 迈向大富翁之路(繁)[圣谦](CN)[TAB](3Mb)`：<https://fc.haiyong.site/games/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BA%A8%20-%20%E8%BF%88%E5%90%91%E5%A4%A7%E5%AF%8C%E7%BF%81%E4%B9%8B%E8%B7%AF%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BTAB%5D%283Mb%29/> | 中国大亨 - 迈向大富翁之路(繁)\[圣谦\](CN)\[TAB\](3Mb) |
-| 356 | `中国象棋(繁)[小天才](CN)[TAB](0.31Mb)`：<https://fc.haiyong.site/games/%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%28%E7%B9%81%29%5B%E5%B0%8F%E5%A4%A9%E6%89%8D%5D%28CN%29%5BTAB%5D%280.31Mb%29/> | 中国象棋(繁)\[小天才\](CN)\[TAB\](0.31Mb) |
-| 357 | `中国麻将(简)[未知](JP)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/%E4%B8%AD%E5%9B%BD%E9%BA%BB%E5%B0%86%28%E7%AE%80%29%5B%E6%9C%AA%E7%9F%A5%5D%28JP%29%5BTAB%5D%280.18Mb%29/> | 中国麻将(简)\[未知\](JP)\[TAB\](0.18Mb) |
-| 358 | `中学英文题库+神童魔棒+音乐欣赏(简)[外星科技](CN)[ETC](3Mb)`：<https://fc.haiyong.site/games/%E4%B8%AD%E5%AD%A6%E8%8B%B1%E6%96%87%E9%A2%98%E5%BA%93%2B%E7%A5%9E%E7%AB%A5%E9%AD%94%E6%A3%92%2B%E9%9F%B3%E4%B9%90%E6%AC%A3%E8%B5%8F%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BETC%5D%283Mb%29/> | 中学英文题库+神童魔棒+音乐欣赏(简)\[外星科技\](CN)\[ETC\](3Mb) |
-| 359 | `乱世三国(简)[南晶科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E4%B9%B1%E4%B8%96%E4%B8%89%E5%9B%BD%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 乱世三国(简)\[南晶科技\](CN)\[SLG\](4Mb) |
-| 360 | `争霸世纪(繁)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E4%BA%89%E9%9C%B8%E4%B8%96%E7%BA%AA%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 争霸世纪(繁)\[外星科技\](CN)\[SLG\](4Mb) |
-| 361 | `二战 - 经典战役(简)[恒格电子](JP)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E4%BA%8C%E6%88%98%20-%20%E7%BB%8F%E5%85%B8%E6%88%98%E5%BD%B9%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BSLG%5D%288Mb%29/> | 二战 - 经典战役(简)\[恒格电子\](JP)\[SLG\](8Mb) |
-| 362 | `五子棋(繁)[厌鱼猫猫](JP)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/%E4%BA%94%E5%AD%90%E6%A3%8B%28%E7%B9%81%29%5B%E5%8E%8C%E9%B1%BC%E7%8C%AB%E7%8C%AB%5D%28JP%29%5BTAB%5D%280.18Mb%29/> | 五子棋(繁)\[厌鱼猫猫\](JP)\[TAB\](0.18Mb) |
-| 363 | `亚当斯一家 - 法斯特叔叔的探索(v1.0)(简)[DMG](US)[STG](3Mb)`：<https://fc.haiyong.site/games/%E4%BA%9A%E5%BD%93%E6%96%AF%E4%B8%80%E5%AE%B6%20-%20%E6%B3%95%E6%96%AF%E7%89%B9%E5%8F%94%E5%8F%94%E7%9A%84%E6%8E%A2%E7%B4%A2%28v1.0%29%28%E7%AE%80%29%5BDMG%5D%28US%29%5BSTG%5D%283Mb%29/> | 亚当斯一家 - 法斯特叔叔的探索(v1.0)(简)\[DMG\](US)\[STG\](3Mb) |
-| 364 | `亚特鲁战记(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E4%BA%9A%E7%89%B9%E9%B2%81%E6%88%98%E8%AE%B0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 亚特鲁战记(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 365 | `亡灵崛起(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E4%BA%A1%E7%81%B5%E5%B4%9B%E8%B5%B7%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 亡灵崛起(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 366 | `交叉火力(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E4%BA%A4%E5%8F%89%E7%81%AB%E5%8A%9B%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 交叉火力(简)\[高伟\](JP)\[STG\](2Mb) |
-| 367 | `人间兵器(v2.0)(简)[星空](JP)[ACT](2.31Mb)`：<https://fc.haiyong.site/games/%E4%BA%BA%E9%97%B4%E5%85%B5%E5%99%A8%28v2.0%29%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28JP%29%5BACT%5D%282.31Mb%29/> | 人间兵器(v2.0)(简)\[星空\](JP)\[ACT\](2.31Mb) |
-| 368 | `人间兵器(简)[TPU](JP)[ACT](2.25Mb)`：<https://fc.haiyong.site/games/%E4%BA%BA%E9%97%B4%E5%85%B5%E5%99%A8%28%E7%AE%80%29%5BTPU%5D%28JP%29%5BACT%5D%282.25Mb%29/> | 人间兵器(简)\[TPU\](JP)\[ACT\](2.25Mb) |
-| 369 | `仓库世家+动脑筋(简)[小霸王](CN)[PUZ](4Mb)`：<https://fc.haiyong.site/games/%E4%BB%93%E5%BA%93%E4%B8%96%E5%AE%B6%2B%E5%8A%A8%E8%84%91%E7%AD%8B%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BPUZ%5D%284Mb%29/> | 仓库世家+动脑筋(简)\[小霸王\](CN)\[PUZ\](4Mb) |
-| 370 | `仙剑奇侠(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 仙剑奇侠(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 371 | `仙剑神曲(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E4%BB%99%E5%89%91%E7%A5%9E%E6%9B%B2%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 仙剑神曲(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 372 | `仙剑问情(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E4%BB%99%E5%89%91%E9%97%AE%E6%83%85%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 仙剑问情(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 373 | `仙界精灵(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E4%BB%99%E7%95%8C%E7%B2%BE%E7%81%B5%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 仙界精灵(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 374 | `任天堂战争(简)[快乐的龙](JP)[SLG](2Mb)`：<https://fc.haiyong.site/games/%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%88%98%E4%BA%89%28%E7%AE%80%29%5B%E5%BF%AB%E4%B9%90%E7%9A%84%E9%BE%99%5D%28JP%29%5BSLG%5D%282Mb%29/> | 任天堂战争(简)\[快乐的龙\](JP)\[SLG\](2Mb) |
-| 375 | `任天堂战争[九班汉化](JP)[SLG](2Mb)`：<https://fc.haiyong.site/games/%E4%BB%BB%E5%A4%A9%E5%A0%82%E6%88%98%E4%BA%89%5B%E4%B9%9D%E7%8F%AD%E6%B1%89%E5%8C%96%5D%28JP%29%5BSLG%5D%282Mb%29/> | 任天堂战争\[九班汉化\](JP)\[SLG\](2Mb) |
-| 376 | `企鹅先生冒险之旅(简)[MS](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E4%BC%81%E9%B9%85%E5%85%88%E7%94%9F%E5%86%92%E9%99%A9%E4%B9%8B%E6%97%85%28%E7%AE%80%29%5BMS%5D%28JP%29%5BPUZ%5D%280.18Mb%29/> | 企鹅先生冒险之旅(简)\[MS\](JP)\[PUZ\](0.18Mb) |
-| 377 | `伊苏 - 菲尔盖纳之誓约(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E4%BC%8A%E8%8B%8F%20-%20%E8%8F%B2%E5%B0%94%E7%9B%96%E7%BA%B3%E4%B9%8B%E8%AA%93%E7%BA%A6%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 伊苏 - 菲尔盖纳之誓约(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 378 | `伊苏6 - 纳比斯订的方舟(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E4%BC%8A%E8%8B%8F6%20-%20%E7%BA%B3%E6%AF%94%E6%96%AF%E8%AE%A2%E7%9A%84%E6%96%B9%E8%88%9F%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 伊苏6 - 纳比斯订的方舟(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 379 | `伊苏的起源 - 尤妮卡(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E4%BC%8A%E8%8B%8F%E7%9A%84%E8%B5%B7%E6%BA%90%20-%20%E5%B0%A4%E5%A6%AE%E5%8D%A1%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 伊苏的起源 - 尤妮卡(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 380 | `伊苏的起源 - 尤格(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E4%BC%8A%E8%8B%8F%E7%9A%84%E8%B5%B7%E6%BA%90%20-%20%E5%B0%A4%E6%A0%BC%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 伊苏的起源 - 尤格(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 381 | `伏魔英雄传(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E4%BC%8F%E9%AD%94%E8%8B%B1%E9%9B%84%E4%BC%A0%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 伏魔英雄传(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 383 | `侠客传奇(繁)[晶科泰](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E4%BE%A0%E5%AE%A2%E4%BC%A0%E5%A5%87%28%E7%B9%81%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%282Mb%29/> | 侠客传奇(繁)\[晶科泰\](CN)\[RPG\](2Mb) |
-| 384 | `侠客情 - 荆轲刺秦王(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E4%BE%A0%E5%AE%A2%E6%83%85%20-%20%E8%8D%86%E8%BD%B2%E5%88%BA%E7%A7%A6%E7%8E%8B%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 侠客情 - 荆轲刺秦王(简)\[外星科技\](CN)\[RPG\](4Mb) |
-| 385 | `俄罗斯方块(v1.1)(简)[九班](US)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97%28v1.1%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28US%29%5BPUZ%5D%280.5Mb%29/> | 俄罗斯方块(v1.1)(简)\[九班\](US)\[PUZ\](0.5Mb) |
-| 386 | `俄罗斯方块(修正版)(简)[8GUA+MS](US)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B8GUA%2BMS%5D%28US%29%5BPUZ%5D%280.5Mb%29/> | 俄罗斯方块(修正版)(简)\[8GUA+MS\](US)\[PUZ\](0.5Mb) |
-| 387 | `俄罗斯方块(简)[夜幕星辰](US)[PUZ](0.37Mb)`：<https://fc.haiyong.site/games/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97%28%E7%AE%80%29%5B%E5%A4%9C%E5%B9%95%E6%98%9F%E8%BE%B0%5D%28US%29%5BPUZ%5D%280.37Mb%29/> | 俄罗斯方块(简)\[夜幕星辰\](US)\[PUZ\](0.37Mb) |
-| 388 | `俄罗斯方块(简)[虫虫](US)[PUZ](0.37Mb)`：<https://fc.haiyong.site/games/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28US%29%5BPUZ%5D%280.37Mb%29/> | 俄罗斯方块(简)\[虫虫\](US)\[PUZ\](0.37Mb) |
-| 389 | `俄罗斯方块2(简)[高伟](JP)[PUZ](2Mb)`：<https://fc.haiyong.site/games/%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%972%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BPUZ%5D%282Mb%29/> | 俄罗斯方块2(简)\[高伟\](JP)\[PUZ\](2Mb) |
-| 390 | `倚天传说(简)[小霸王](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%80%9A%E5%A4%A9%E4%BC%A0%E8%AF%B4%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 倚天传说(简)\[小霸王\](CN)\[RPG\](16Mb) |
-| 391 | `倚天剑传奇(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%80%9A%E5%A4%A9%E5%89%91%E4%BC%A0%E5%A5%87%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 倚天剑传奇(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 392 | `倚天屠龙记(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%80%9A%E5%A4%A9%E5%B1%A0%E9%BE%99%E8%AE%B0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 倚天屠龙记(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 393 | `假面忍者 - 花丸(简)[Peacock Wang](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%81%87%E9%9D%A2%E5%BF%8D%E8%80%85%20-%20%E8%8A%B1%E4%B8%B8%28%E7%AE%80%29%5BPeacock%20Wang%5D%28JP%29%5BACT%5D%282Mb%29/> | 假面忍者 - 花丸(简)\[Peacock Wang\](JP)\[ACT\](2Mb) |
-| 394 | `假面的忍者 - 赤影(v1.0)(简)[MS](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E5%81%87%E9%9D%A2%E7%9A%84%E5%BF%8D%E8%80%85%20-%20%E8%B5%A4%E5%BD%B1%28v1.0%29%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%281Mb%29/> | 假面的忍者 - 赤影(v1.0)(简)\[MS\](JP)\[ACT\](1Mb) |
-| 395 | `偷看扑克(简)[星空](CN)[TAB](0.75Mb)`：<https://fc.haiyong.site/games/%E5%81%B7%E7%9C%8B%E6%89%91%E5%85%8B%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28CN%29%5BTAB%5D%280.75Mb%29/> | 偷看扑克(简)\[星空\](CN)\[TAB\](0.75Mb) |
-| 396 | `傲剑江湖(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%82%B2%E5%89%91%E6%B1%9F%E6%B9%96%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 傲剑江湖(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 397 | `傲视三国志(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%82%B2%E8%A7%86%E4%B8%89%E5%9B%BD%E5%BF%97%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 傲视三国志(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 398 | `傲视天地(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%82%B2%E8%A7%86%E5%A4%A9%E5%9C%B0%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 傲视天地(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 399 | `光之神话 - 天使岛传说(简)[MS](UE)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E5%85%89%E4%B9%8B%E7%A5%9E%E8%AF%9D%20-%20%E5%A4%A9%E4%BD%BF%E5%B2%9B%E4%BC%A0%E8%AF%B4%28%E7%AE%80%29%5BMS%5D%28UE%29%5BACT%5D%281Mb%29/> | 光之神话 - 天使岛传说(简)\[MS\](UE)\[ACT\](1Mb) |
-| 400 | `光之神话 - 射箭小天使(简)[虫虫](UE)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E5%85%89%E4%B9%8B%E7%A5%9E%E8%AF%9D%20-%20%E5%B0%84%E7%AE%AD%E5%B0%8F%E5%A4%A9%E4%BD%BF%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28UE%29%5BACT%5D%281Mb%29/> | 光之神话 - 射箭小天使(简)\[虫虫\](UE)\[ACT\](1Mb) |
-| 401 | `光明之神(繁)[酷哥电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%85%89%E6%98%8E%E4%B9%8B%E7%A5%9E%28%E7%B9%81%29%5B%E9%85%B7%E5%93%A5%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%284Mb%29/> | 光明之神(繁)\[酷哥电子\](CN)\[RPG\](4Mb) |
-| 402 | `兔子邦妮 - 疯狂城堡(简)[高伟](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%85%94%E5%AD%90%E9%82%A6%E5%A6%AE%20-%20%E7%96%AF%E7%8B%82%E5%9F%8E%E5%A0%A1%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BACT%5D%282Mb%29/> | 兔子邦妮 - 疯狂城堡(简)\[高伟\](US)\[ACT\](2Mb) |
-| 403 | `兔宝宝历险记2 - 欢迎来到蒙特那乐园(简)[烈火暴龙](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%85%94%E5%AE%9D%E5%AE%9D%E5%8E%86%E9%99%A9%E8%AE%B02%20-%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E8%92%99%E7%89%B9%E9%82%A3%E4%B9%90%E5%9B%AD%28%E7%AE%80%29%5B%E7%83%88%E7%81%AB%E6%9A%B4%E9%BE%99%5D%28JP%29%5BACT%5D%282Mb%29/> | 兔宝宝历险记2 - 欢迎来到蒙特那乐园(简)\[烈火暴龙\](JP)\[ACT\](2Mb) |
-| 404 | `兔宝宝大冒险(简)[逆游的五彩鱼](JP)[ACT](2.62Mb)`：<https://fc.haiyong.site/games/%E5%85%94%E5%AE%9D%E5%AE%9D%E5%A4%A7%E5%86%92%E9%99%A9%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28JP%29%5BACT%5D%282.62Mb%29/> | 兔宝宝大冒险(简)\[逆游的五彩鱼\](JP)\[ACT\](2.62Mb) |
-| 405 | `兔宝宝大冒险[MS汉化+腓特烈修正第三关循环问题](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%85%94%E5%AE%9D%E5%AE%9D%E5%A4%A7%E5%86%92%E9%99%A9%5BMS%E6%B1%89%E5%8C%96%2B%E8%85%93%E7%89%B9%E7%83%88%E4%BF%AE%E6%AD%A3%E7%AC%AC%E4%B8%89%E5%85%B3%E5%BE%AA%E7%8E%AF%E9%97%AE%E9%A2%98%5D%28JP%29%5BACT%5D%282Mb%29/> | 兔宝宝大冒险\[MS汉化+腓特烈修正第三关循环问题\](JP)\[ACT\](2Mb) |
-| 406 | `兔宝宝的大冒险2 - 欢迎光临蒙塔纳乐园(简)[逆游的五彩鱼](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%85%94%E5%AE%9D%E5%AE%9D%E7%9A%84%E5%A4%A7%E5%86%92%E9%99%A92%20-%20%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4%E8%92%99%E5%A1%94%E7%BA%B3%E4%B9%90%E5%9B%AD%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28JP%29%5BACT%5D%284Mb%29/> | 兔宝宝的大冒险2 - 欢迎光临蒙塔纳乐园(简)\[逆游的五彩鱼\](JP)\[ACT\](4Mb) |
-| 407 | `八只眼(v0.9)(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%85%AB%E5%8F%AA%E7%9C%BC%28v0.9%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 八只眼(v0.9)(简)\[高伟\](JP)\[ACT\](2Mb) |
-| 408 | `八宝奇珠(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%85%AB%E5%AE%9D%E5%A5%87%E7%8F%A0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 八宝奇珠(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 409 | `八德中英文电脑学习卡(v3.1)(简)[八德](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E5%85%AB%E5%BE%B7%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E8%84%91%E5%AD%A6%E4%B9%A0%E5%8D%A1%28v3.1%29%28%E7%AE%80%29%5B%E5%85%AB%E5%BE%B7%5D%28CN%29%5BETC%5D%284Mb%29/> | 八德中英文电脑学习卡(v3.1)(简)\[八德\](CN)\[ETC\](4Mb) |
-| 410 | `公路之星(v1.0)(简)[九班](JP)[RAC](1Mb)`：<https://fc.haiyong.site/games/%E5%85%AC%E8%B7%AF%E4%B9%8B%E6%98%9F%28v1.0%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BRAC%5D%281Mb%29/> | 公路之星(v1.0)(简)\[九班\](JP)\[RAC\](1Mb) |
-| 411 | `公路之星(简)[高伟](JP)[RAC](1Mb)`：<https://fc.haiyong.site/games/%E5%85%AC%E8%B7%AF%E4%B9%8B%E6%98%9F%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BRAC%5D%281Mb%29/> | 公路之星(简)\[高伟\](JP)\[RAC\](1Mb) |
-| 412 | `公路之星2(v1.0)(简)[九班](US)[RAC](1Mb)`：<https://fc.haiyong.site/games/%E5%85%AC%E8%B7%AF%E4%B9%8B%E6%98%9F2%28v1.0%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28US%29%5BRAC%5D%281Mb%29/> | 公路之星2(v1.0)(简)\[九班\](US)\[RAC\](1Mb) |
-| 413 | `公路之星2(简)[高伟](US)[RAC](1Mb)`：<https://fc.haiyong.site/games/%E5%85%AC%E8%B7%AF%E4%B9%8B%E6%98%9F2%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BRAC%5D%281Mb%29/> | 公路之星2(简)\[高伟\](US)\[RAC\](1Mb) |
-| 414 | `公路赛车(简)[阿渊](JP)[RAC](0.5Mb)`：<https://fc.haiyong.site/games/%E5%85%AC%E8%B7%AF%E8%B5%9B%E8%BD%A6%28%E7%AE%80%29%5B%E9%98%BF%E6%B8%8A%5D%28JP%29%5BRAC%5D%280.5Mb%29/> | 公路赛车(简)\[阿渊\](JP)\[RAC\](0.5Mb) |
-| 415 | `六角方块(繁)[小天才](CN)[PUZ](0.75Mb)`：<https://fc.haiyong.site/games/%E5%85%AD%E8%A7%92%E6%96%B9%E5%9D%97%28%E7%B9%81%29%5B%E5%B0%8F%E5%A4%A9%E6%89%8D%5D%28CN%29%5BPUZ%5D%280.75Mb%29/> | 六角方块(繁)\[小天才\](CN)\[PUZ\](0.75Mb) |
-| 416 | `兴奋摩托车(简)[F0REVERD](JU)[RAC](0.18Mb)`：<https://fc.haiyong.site/games/%E5%85%B4%E5%A5%8B%E6%91%A9%E6%89%98%E8%BD%A6%28%E7%AE%80%29%5BF0REVERD%5D%28JU%29%5BRAC%5D%280.18Mb%29/> | 兴奋摩托车(简)\[F0REVERD\](JU)\[RAC\](0.18Mb) |
-| 417 | `兴奋自动二轮(繁)[未知](JU)[RAC](0.18Mb)`：<https://fc.haiyong.site/games/%E5%85%B4%E5%A5%8B%E8%87%AA%E5%8A%A8%E4%BA%8C%E8%BD%AE%28%E7%B9%81%29%5B%E6%9C%AA%E7%9F%A5%5D%28JU%29%5BRAC%5D%280.18Mb%29/> | 兴奋自动二轮(繁)\[未知\](JU)\[RAC\](0.18Mb) |
-| 418 | `兵蜂(v4)(简)[MS](JP)[STG](0.37Mb)`：<https://fc.haiyong.site/games/%E5%85%B5%E8%9C%82%28v4%29%28%E7%AE%80%29%5BMS%5D%28JP%29%5BSTG%5D%280.37Mb%29/> | 兵蜂(v4)(简)\[MS\](JP)\[STG\](0.37Mb) |
-| 419 | `兵蜂(简)[高伟](JP)[STG](0.37Mb)`：<https://fc.haiyong.site/games/%E5%85%B5%E8%9C%82%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.37Mb%29/> | 兵蜂(简)\[高伟\](JP)\[STG\](0.37Mb) |
-| 420 | `兵蜂3 - 波可波可大魔王(简)[MS](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%85%B5%E8%9C%823%20-%20%E6%B3%A2%E5%8F%AF%E6%B3%A2%E5%8F%AF%E5%A4%A7%E9%AD%94%E7%8E%8B%28%E7%AE%80%29%5BMS%5D%28JP%29%5BSTG%5D%282Mb%29/> | 兵蜂3 - 波可波可大魔王(简)\[MS\](JP)\[STG\](2Mb) |
-| 421 | `兵蜂3(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%85%B5%E8%9C%823%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 兵蜂3(简)\[高伟\](JP)\[STG\](2Mb) |
-| 422 | `兽王记(v3)(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%85%BD%E7%8E%8B%E8%AE%B0%28v3%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 兽王记(v3)(简)\[高伟\](JP)\[ACT\](2Mb) |
-| 423 | `农场小精灵(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%86%9C%E5%9C%BA%E5%B0%8F%E7%B2%BE%E7%81%B5%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 农场小精灵(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 424 | `冰上曲棍球(简)[高伟](US)[SPG](0.31Mb)`：<https://fc.haiyong.site/games/%E5%86%B0%E4%B8%8A%E6%9B%B2%E6%A3%8D%E7%90%83%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BSPG%5D%280.31Mb%29/> | 冰上曲棍球(简)\[高伟\](US)\[SPG\](0.31Mb) |
-| 425 | `冰山登山者(简)[未知](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%86%B0%E5%B1%B1%E7%99%BB%E5%B1%B1%E8%80%85%28%E7%AE%80%29%5B%E6%9C%AA%E7%9F%A5%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 冰山登山者(简)\[未知\](JP)\[ACT\](0.18Mb) |
-| 426 | `冲冲赖皮狗(简)[Advance](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%86%B2%E5%86%B2%E8%B5%96%E7%9A%AE%E7%8B%97%28%E7%AE%80%29%5BAdvance%5D%28JP%29%5BACT%5D%283Mb%29/> | 冲冲赖皮狗(简)\[Advance\](JP)\[ACT\](3Mb) |
-| 427 | `冲啊冲啊！热血曲棍球部 - 人仰马翻大乱斗(简)[热血的鱼缸](JP)[SPG](4Mb)`：<https://fc.haiyong.site/games/%E5%86%B2%E5%95%8A%E5%86%B2%E5%95%8A%EF%BC%81%E7%83%AD%E8%A1%80%E6%9B%B2%E6%A3%8D%E7%90%83%E9%83%A8%20-%20%E4%BA%BA%E4%BB%B0%E9%A9%AC%E7%BF%BB%E5%A4%A7%E4%B9%B1%E6%96%97%28%E7%AE%80%29%5B%E7%83%AD%E8%A1%80%E7%9A%84%E9%B1%BC%E7%BC%B8%5D%28JP%29%5BSPG%5D%284Mb%29/> | 冲啊冲啊！热血曲棍球部 - 人仰马翻大乱斗(简)\[热血的鱼缸\](JP)\[SPG\](4Mb) |
-| 428 | `冲啊冲啊！热血曲棍球部 - 人仰马翻大乱斗(繁)[热血的鱼缸](JP)[SPG](4Mb)`：<https://fc.haiyong.site/games/%E5%86%B2%E5%95%8A%E5%86%B2%E5%95%8A%EF%BC%81%E7%83%AD%E8%A1%80%E6%9B%B2%E6%A3%8D%E7%90%83%E9%83%A8%20-%20%E4%BA%BA%E4%BB%B0%E9%A9%AC%E7%BF%BB%E5%A4%A7%E4%B9%B1%E6%96%97%28%E7%B9%81%29%5B%E7%83%AD%E8%A1%80%E7%9A%84%E9%B1%BC%E7%BC%B8%5D%28JP%29%5BSPG%5D%284Mb%29/> | 冲啊冲啊！热血曲棍球部 - 人仰马翻大乱斗(繁)\[热血的鱼缸\](JP)\[SPG\](4Mb) |
-| 429 | `决战太平洋(繁)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E5%86%B3%E6%88%98%E5%A4%AA%E5%B9%B3%E6%B4%8B%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 决战太平洋(繁)\[外星科技\](CN)\[SLG\](4Mb) |
-| 430 | `凯蒂猫世界(简)[虫虫](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E5%87%AF%E8%92%82%E7%8C%AB%E4%B8%96%E7%95%8C%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 凯蒂猫世界(简)\[虫虫\](JP)\[ACT\](0.5Mb) |
-| 431 | `凯蒂猫气球世界(简)[虫虫](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E5%87%AF%E8%92%82%E7%8C%AB%E6%B0%94%E7%90%83%E4%B8%96%E7%95%8C%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BACT%5D%281Mb%29/> | 凯蒂猫气球世界(简)\[虫虫\](JP)\[ACT\](1Mb) |
-| 432 | `刀剑英雄传(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%88%80%E5%89%91%E8%8B%B1%E9%9B%84%E4%BC%A0%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 刀剑英雄传(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 433 | `列车奇案(简)[酷哥电子](JP)[AVG](4Mb)`：<https://fc.haiyong.site/games/%E5%88%97%E8%BD%A6%E5%A5%87%E6%A1%88%28%E7%AE%80%29%5B%E9%85%B7%E5%93%A5%E7%94%B5%E5%AD%90%5D%28JP%29%5BAVG%5D%284Mb%29/> | 列车奇案(简)\[酷哥电子\](JP)\[AVG\](4Mb) |
-| 434 | `创世纪英雄(繁)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%88%9B%E4%B8%96%E7%BA%AA%E8%8B%B1%E9%9B%84%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 创世纪英雄(繁)\[外星科技\](JP)\[RPG\](4Mb) |
-| 435 | `前线大作战(简)[MS](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%89%8D%E7%BA%BF%E5%A4%A7%E4%BD%9C%E6%88%98%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 前线大作战(简)\[MS\](JP)\[ACT\](0.18Mb) |
-| 436 | `前线大作战(简)[高伟](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%89%8D%E7%BA%BF%E5%A4%A7%E4%BD%9C%E6%88%98%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 前线大作战(简)\[高伟\](JP)\[ACT\](0.18Mb) |
-| 437 | `剑侠情缘(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%89%91%E4%BE%A0%E6%83%85%E7%BC%98%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 剑侠情缘(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 438 | `剑侠情缘(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%89%91%E4%BE%A0%E6%83%85%E7%BC%98%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 剑侠情缘(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 439 | `剑侠情缘(简)[酷哥电子](CN)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E5%89%91%E4%BE%A0%E6%83%85%E7%BC%98%28%E7%AE%80%29%5B%E9%85%B7%E5%93%A5%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%286Mb%29/> | 剑侠情缘(简)\[酷哥电子\](CN)\[RPG\](6Mb) |
-| 440 | `剑王(v1)(简)[高伟](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%89%91%E7%8E%8B%28v1%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BACT%5D%282Mb%29/> | 剑王(v1)(简)\[高伟\](US)\[ACT\](2Mb) |
-| 441 | `剑王(简)[虫虫](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%89%91%E7%8E%8B%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BACT%5D%282Mb%29/> | 剑王(简)\[虫虫\](JP)\[ACT\](2Mb) |
-| 442 | `剑王(简)[金明](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%89%91%E7%8E%8B%28%E7%AE%80%29%5B%E9%87%91%E6%98%8E%5D%28US%29%5BACT%5D%282Mb%29/> | 剑王(简)\[金明\](US)\[ACT\](2Mb) |
-| 443 | `力量刀锋(v1)(简)[逆游的五彩鱼](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%8A%9B%E9%87%8F%E5%88%80%E9%94%8B%28v1%29%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28US%29%5BACT%5D%283Mb%29/> | 力量刀锋(v1)(简)\[逆游的五彩鱼\](US)\[ACT\](3Mb) |
-| 444 | `力量刀锋2(简)[逆游的五彩鱼](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%8A%9B%E9%87%8F%E5%88%80%E9%94%8B2%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28US%29%5BACT%5D%284Mb%29/> | 力量刀锋2(简)\[逆游的五彩鱼\](US)\[ACT\](4Mb) |
-| 445 | `加纳战机(v1.0)(简)[九班+KasuraJ](US)[STG](3Mb)`：<https://fc.haiyong.site/games/%E5%8A%A0%E7%BA%B3%E6%88%98%E6%9C%BA%28v1.0%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%2BKasuraJ%5D%28US%29%5BSTG%5D%283Mb%29/> | 加纳战机(v1.0)(简)\[九班+KasuraJ\](US)\[STG\](3Mb) |
-| 446 | `加纳战机(简)[孔雀天](US)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%8A%A0%E7%BA%B3%E6%88%98%E6%9C%BA%28%E7%AE%80%29%5B%E5%AD%94%E9%9B%80%E5%A4%A9%5D%28US%29%5BSTG%5D%282Mb%29/> | 加纳战机(简)\[孔雀天\](US)\[STG\](2Mb) |
-| 447 | `加菲猫一周(简)[快乐的龙](JP)[ACT](5.25Mb)`：<https://fc.haiyong.site/games/%E5%8A%A0%E8%8F%B2%E7%8C%AB%E4%B8%80%E5%91%A8%28%E7%AE%80%29%5B%E5%BF%AB%E4%B9%90%E7%9A%84%E9%BE%99%5D%28JP%29%5BACT%5D%285.25Mb%29/> | 加菲猫一周(简)\[快乐的龙\](JP)\[ACT\](5.25Mb) |
-| 448 | `动动脑2 - 国中英文(繁)[圣谦](CN)[ETC](0.5Mb)`：<https://fc.haiyong.site/games/%E5%8A%A8%E5%8A%A8%E8%84%912%20-%20%E5%9B%BD%E4%B8%AD%E8%8B%B1%E6%96%87%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BETC%5D%280.5Mb%29/> | 动动脑2 - 国中英文(繁)\[圣谦\](CN)\[ETC\](0.5Mb) |
-| 450 | `勇者传说(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%8B%87%E8%80%85%E4%BC%A0%E8%AF%B4%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 勇者传说(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 451 | `勇者斗恶龙 - 勇者的试练(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8B%87%E8%80%85%E6%96%97%E6%81%B6%E9%BE%99%20-%20%E5%8B%87%E8%80%85%E7%9A%84%E8%AF%95%E7%BB%83%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 勇者斗恶龙 - 勇者的试练(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 452 | `勇者斗恶龙(修正版)(简)[外星科技+willzyj](JP)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E5%8B%87%E8%80%85%E6%96%97%E6%81%B6%E9%BE%99%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2Bwillzyj%5D%28JP%29%5BRPG%5D%282Mb%29/> | 勇者斗恶龙(修正版)(简)\[外星科技+willzyj\](JP)\[RPG\](2Mb) |
-| 453 | `勇者斗恶龙(修正版)(简)[外星科技+庞先生](JP)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E5%8B%87%E8%80%85%E6%96%97%E6%81%B6%E9%BE%99%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E5%BA%9E%E5%85%88%E7%94%9F%5D%28JP%29%5BRPG%5D%282Mb%29/> | 勇者斗恶龙(修正版)(简)\[外星科技+庞先生\](JP)\[RPG\](2Mb) |
-| 454 | `勇者斗恶龙2(修正版)(简)[外星科技+庞先生](JP)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E5%8B%87%E8%80%85%E6%96%97%E6%81%B6%E9%BE%992%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E5%BA%9E%E5%85%88%E7%94%9F%5D%28JP%29%5BRPG%5D%282Mb%29/> | 勇者斗恶龙2(修正版)(简)\[外星科技+庞先生\](JP)\[RPG\](2Mb) |
-| 455 | `勇者斗恶龙3 - 罪恶渊源(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8B%87%E8%80%85%E6%96%97%E6%81%B6%E9%BE%993%20-%20%E7%BD%AA%E6%81%B6%E6%B8%8A%E6%BA%90%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 勇者斗恶龙3 - 罪恶渊源(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 456 | `勇者斗恶龙3(修正版)(简)[外星科技+庞先生](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%8B%87%E8%80%85%E6%96%97%E6%81%B6%E9%BE%993%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E5%BA%9E%E5%85%88%E7%94%9F%5D%28JP%29%5BRPG%5D%284Mb%29/> | 勇者斗恶龙3(修正版)(简)\[外星科技+庞先生\](JP)\[RPG\](4Mb) |
-| 457 | `勇者斗恶龙4(简)[外星科技](JP)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E5%8B%87%E8%80%85%E6%96%97%E6%81%B6%E9%BE%994%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%282Mb%29/> | 勇者斗恶龙4(简)\[外星科技\](JP)\[RPG\](2Mb) |
-| 458 | `勇者斗恶龙5(简)[外星科技](JP)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E5%8B%87%E8%80%85%E6%96%97%E6%81%B6%E9%BE%995%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%282Mb%29/> | 勇者斗恶龙5(简)\[外星科技\](JP)\[RPG\](2Mb) |
-| 459 | `勇者斗恶龙6(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%8B%87%E8%80%85%E6%96%97%E6%81%B6%E9%BE%996%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 勇者斗恶龙6(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 460 | `勇者斗恶龙7(简)[外星科技](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8B%87%E8%80%85%E6%96%97%E6%81%B6%E9%BE%997%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%288Mb%29/> | 勇者斗恶龙7(简)\[外星科技\](JP)\[RPG\](8Mb) |
-| 461 | `勇者斗恶龙8(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%8B%87%E8%80%85%E6%96%97%E6%81%B6%E9%BE%998%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 勇者斗恶龙8(简)\[外星科技\](CN)\[RPG\](4Mb) |
-| 462 | `勇者黑暗世界 - 混沌世界(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8B%87%E8%80%85%E9%BB%91%E6%9A%97%E4%B8%96%E7%95%8C%20-%20%E6%B7%B7%E6%B2%8C%E4%B8%96%E7%95%8C%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 勇者黑暗世界 - 混沌世界(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 463 | `包青天(繁)[卡圣](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%8C%85%E9%9D%92%E5%A4%A9%28%E7%B9%81%29%5B%E5%8D%A1%E5%9C%A3%5D%28CN%29%5BACT%5D%284Mb%29/> | 包青天(繁)\[卡圣\](CN)\[ACT\](4Mb) |
-| 464 | `包青天(解密版)(繁)[外星科技+WXN](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/%E5%8C%85%E9%9D%92%E5%A4%A9%28%E8%A7%A3%E5%AF%86%E7%89%88%29%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BWXN%5D%28CN%29%5BFTG%5D%283Mb%29/> | 包青天(解密版)(繁)\[外星科技+WXN\](CN)\[FTG\](3Mb) |
-| 465 | `北斗神拳(简)[虫儿](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E5%8C%97%E6%96%97%E7%A5%9E%E6%8B%B3%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 北斗神拳(简)\[虫儿\](JP)\[ACT\](0.5Mb) |
-| 466 | `匹诺槽的复苏(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%8C%B9%E8%AF%BA%E6%A7%BD%E7%9A%84%E5%A4%8D%E8%8B%8F%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 匹诺槽的复苏(简)\[外星科技\](CN)\[RPG\](4Mb) |
-| 467 | `千足虫(简)[虫虫](US)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%8D%83%E8%B6%B3%E8%99%AB%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28US%29%5BSTG%5D%280.18Mb%29/> | 千足虫(简)\[虫虫\](US)\[STG\](0.18Mb) |
-| 468 | `半熟英雄(修正版)(简)[外星科技+Vanyogin](JP)[SLG](2Mb)`：<https://fc.haiyong.site/games/%E5%8D%8A%E7%86%9F%E8%8B%B1%E9%9B%84%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BVanyogin%5D%28JP%29%5BSLG%5D%282Mb%29/> | 半熟英雄(修正版)(简)\[外星科技+Vanyogin\](JP)\[SLG\](2Mb) |
-| 469 | `半熟英雄(修正版)(简)[外星科技+寒雪使者](JP)[SLG](2Mb)`：<https://fc.haiyong.site/games/%E5%8D%8A%E7%86%9F%E8%8B%B1%E9%9B%84%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E5%AF%92%E9%9B%AA%E4%BD%BF%E8%80%85%5D%28JP%29%5BSLG%5D%282Mb%29/> | 半熟英雄(修正版)(简)\[外星科技+寒雪使者\](JP)\[SLG\](2Mb) |
-| 470 | `卓越之剑(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8D%93%E8%B6%8A%E4%B9%8B%E5%89%91%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 卓越之剑(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 471 | `南极冒险(v2.0)(简)[九班](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%8D%97%E6%9E%81%E5%86%92%E9%99%A9%28v2.0%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 南极冒险(v2.0)(简)\[九班\](JP)\[ACT\](0.18Mb) |
-| 472 | `南极大冒险(v20100423)(繁)[Nokoh](JP)[ACT](0.25Mb)`：<https://fc.haiyong.site/games/%E5%8D%97%E6%9E%81%E5%A4%A7%E5%86%92%E9%99%A9%28v20100423%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%280.25Mb%29/> | 南极大冒险(v20100423)(繁)\[Nokoh\](JP)\[ACT\](0.25Mb) |
-| 473 | `卡拉OK(简)[小霸王](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/%E5%8D%A1%E6%8B%89OK%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%288Mb%29/> | 卡拉OK(简)\[小霸王\](CN)\[ETC\](8Mb) |
-| 474 | `卡洛夫(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%8D%A1%E6%B4%9B%E5%A4%AB%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 卡洛夫(简)\[高伟\](JP)\[STG\](2Mb) |
-| 475 | `原始人(简)[南晶科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%8E%9F%E5%A7%8B%E4%BA%BA%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%284Mb%29/> | 原始人(简)\[南晶科技\](CN)\[ACT\](4Mb) |
-| 476 | `原始人2(简)[南晶科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%8E%9F%E5%A7%8B%E4%BA%BA2%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%284Mb%29/> | 原始人2(简)\[南晶科技\](CN)\[ACT\](4Mb) |
-| 477 | `双响炮(简)[普泽](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E5%93%8D%E7%82%AE%28%E7%AE%80%29%5B%E6%99%AE%E6%B3%BD%5D%28CN%29%5BTAB%5D%280.5Mb%29/> | 双响炮(简)\[普泽\](CN)\[TAB\](0.5Mb) |
-| 478 | `双截龙(简)[吸血男爵](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E6%88%AA%E9%BE%99%28%E7%AE%80%29%5B%E5%90%B8%E8%A1%80%E7%94%B7%E7%88%B5%5D%28US%29%5BACT%5D%282Mb%29/> | 双截龙(简)\[吸血男爵\](US)\[ACT\](2Mb) |
-| 479 | `双截龙(简)[靳大治](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E6%88%AA%E9%BE%99%28%E7%AE%80%29%5B%E9%9D%B3%E5%A4%A7%E6%B2%BB%5D%28US%29%5BACT%5D%282Mb%29/> | 双截龙(简)\[靳大治\](US)\[ACT\](2Mb) |
-| 480 | `双截龙(简)[高伟](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E6%88%AA%E9%BE%99%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BACT%5D%282Mb%29/> | 双截龙(简)\[高伟\](US)\[ACT\](2Mb) |
-| 481 | `双截龙2 - 复仇(v1.1)(简)[星空](JP)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E6%88%AA%E9%BE%992%20-%20%E5%A4%8D%E4%BB%87%28v1.1%29%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28JP%29%5BACT%5D%282.5Mb%29/> | 双截龙2 - 复仇(v1.1)(简)\[星空\](JP)\[ACT\](2.5Mb) |
-| 482 | `双截龙2 - 复仇(简)[Madcell](JP)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E6%88%AA%E9%BE%992%20-%20%E5%A4%8D%E4%BB%87%28%E7%AE%80%29%5BMadcell%5D%28JP%29%5BACT%5D%282.5Mb%29/> | 双截龙2 - 复仇(简)\[Madcell\](JP)\[ACT\](2.5Mb) |
-| 483 | `双截龙2 - 复仇(简)[阿渊](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E6%88%AA%E9%BE%992%20-%20%E5%A4%8D%E4%BB%87%28%E7%AE%80%29%5B%E9%98%BF%E6%B8%8A%5D%28JP%29%5BACT%5D%282Mb%29/> | 双截龙2 - 复仇(简)\[阿渊\](JP)\[ACT\](2Mb) |
-| 484 | `双截龙3 - 神秘的魔石之谜(v1.1)(简)[星空](US)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E6%88%AA%E9%BE%993%20-%20%E7%A5%9E%E7%A7%98%E7%9A%84%E9%AD%94%E7%9F%B3%E4%B9%8B%E8%B0%9C%28v1.1%29%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28US%29%5BACT%5D%282.5Mb%29/> | 双截龙3 - 神秘的魔石之谜(v1.1)(简)\[星空\](US)\[ACT\](2.5Mb) |
-| 485 | `双截龙3 - 神秘魔石之谜(简)[asiwish](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E6%88%AA%E9%BE%993%20-%20%E7%A5%9E%E7%A7%98%E9%AD%94%E7%9F%B3%E4%B9%8B%E8%B0%9C%28%E7%AE%80%29%5Basiwish%5D%28JP%29%5BACT%5D%282Mb%29/> | 双截龙3 - 神秘魔石之谜(简)\[asiwish\](JP)\[ACT\](2Mb) |
-| 486 | `双截龙3 - 神秘魔石之谜(简)[幻想](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E6%88%AA%E9%BE%993%20-%20%E7%A5%9E%E7%A7%98%E9%AD%94%E7%9F%B3%E4%B9%8B%E8%B0%9C%28%E7%AE%80%29%5B%E5%B9%BB%E6%83%B3%5D%28US%29%5BACT%5D%282Mb%29/> | 双截龙3 - 神秘魔石之谜(简)\[幻想\](US)\[ACT\](2Mb) |
-| 487 | `双截龙3 - 罗塞塔石碑(简)[Madcell](JP)[ACT](2.25Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E6%88%AA%E9%BE%993%20-%20%E7%BD%97%E5%A1%9E%E5%A1%94%E7%9F%B3%E7%A2%91%28%E7%AE%80%29%5BMadcell%5D%28JP%29%5BACT%5D%282.25Mb%29/> | 双截龙3 - 罗塞塔石碑(简)\[Madcell\](JP)\[ACT\](2.25Mb) |
-| 488 | `双月传(修正版)(简)[外星科技+Vanyogin](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E6%9C%88%E4%BC%A0%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BVanyogin%5D%28JP%29%5BRPG%5D%288Mb%29/> | 双月传(修正版)(简)\[外星科技+Vanyogin\](JP)\[RPG\](8Mb) |
-| 489 | `双月传(简)[外星科技](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E6%9C%88%E4%BC%A0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%288Mb%29/> | 双月传(简)\[外星科技\](JP)\[RPG\](8Mb) |
-| 490 | `双鹰 - 乔兄弟的复仇(简)[烈火暴龙](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E9%B9%B0%20-%20%E4%B9%94%E5%85%84%E5%BC%9F%E7%9A%84%E5%A4%8D%E4%BB%87%28%E7%AE%80%29%5B%E7%83%88%E7%81%AB%E6%9A%B4%E9%BE%99%5D%28JP%29%5BSTG%5D%281Mb%29/> | 双鹰 - 乔兄弟的复仇(简)\[烈火暴龙\](JP)\[STG\](1Mb) |
-| 491 | `双鹰 - 乔兄弟的复仇(简)[虫儿](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E9%B9%B0%20-%20%E4%B9%94%E5%85%84%E5%BC%9F%E7%9A%84%E5%A4%8D%E4%BB%87%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JP%29%5BSTG%5D%281Mb%29/> | 双鹰 - 乔兄弟的复仇(简)\[虫儿\](JP)\[STG\](1Mb) |
-| 492 | `双鹰(繁)[洁晖](CN)[STG](0.5Mb)`：<https://fc.haiyong.site/games/%E5%8F%8C%E9%B9%B0%28%E7%B9%81%29%5B%E6%B4%81%E6%99%96%5D%28CN%29%5BSTG%5D%280.5Mb%29/> | 双鹰(繁)\[洁晖\](CN)\[STG\](0.5Mb) |
-| 493 | `反恐精英(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%8D%E6%81%90%E7%B2%BE%E8%8B%B1%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 反恐精英(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 494 | `反恐风暴 - 海湾战争(简)[晶科泰](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E5%8F%8D%E6%81%90%E9%A3%8E%E6%9A%B4%20-%20%E6%B5%B7%E6%B9%BE%E6%88%98%E4%BA%89%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28JP%29%5BSLG%5D%284Mb%29/> | 反恐风暴 - 海湾战争(简)\[晶科泰\](JP)\[SLG\](4Mb) |
-| 495 | `反重力战士(简)[虫虫](US)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%8F%8D%E9%87%8D%E5%8A%9B%E6%88%98%E5%A3%AB%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28US%29%5BSTG%5D%282Mb%29/> | 反重力战士(简)\[虫虫\](US)\[STG\](2Mb) |
-| 496 | `变形战机Z(简)[muxly](JP)[STG](0.37Mb)`：<https://fc.haiyong.site/games/%E5%8F%98%E5%BD%A2%E6%88%98%E6%9C%BAZ%28%E7%AE%80%29%5Bmuxly%5D%28JP%29%5BSTG%5D%280.37Mb%29/> | 变形战机Z(简)\[muxly\](JP)\[STG\](0.37Mb) |
-| 497 | `变形战机Z(简)[虫虫](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%8F%98%E5%BD%A2%E6%88%98%E6%9C%BAZ%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 变形战机Z(简)\[虫虫\](JP)\[STG\](0.18Mb) |
-| 498 | `口袋妖怪 - 绿叶版(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E5%A6%96%E6%80%AA%20-%20%E7%BB%BF%E5%8F%B6%E7%89%88%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋妖怪 - 绿叶版(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 499 | `口袋妖怪 - 钻石版(繁)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E5%A6%96%E6%80%AA%20-%20%E9%92%BB%E7%9F%B3%E7%89%88%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋妖怪 - 钻石版(繁)\[外星科技\](CN)\[RPG\](8Mb) |
-| 500 | `口袋宝石 - 红(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E5%AE%9D%E7%9F%B3%20-%20%E7%BA%A2%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 口袋宝石 - 红(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 501 | `口袋宝石 - 蓝(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E5%AE%9D%E7%9F%B3%20-%20%E8%93%9D%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 口袋宝石 - 蓝(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 502 | `口袋宝石 - 金(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E5%AE%9D%E7%9F%B3%20-%20%E9%87%91%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 口袋宝石 - 金(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 503 | `口袋宝石 - 银(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E5%AE%9D%E7%9F%B3%20-%20%E9%93%B6%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 口袋宝石 - 银(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 504 | `口袋怪兽 - 水晶版(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E6%80%AA%E5%85%BD%20-%20%E6%B0%B4%E6%99%B6%E7%89%88%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋怪兽 - 水晶版(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 505 | `口袋怪兽 - 珍珠版(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E6%80%AA%E5%85%BD%20-%20%E7%8F%8D%E7%8F%A0%E7%89%88%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋怪兽 - 珍珠版(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 506 | `口袋怪兽 - 白玉版(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E6%80%AA%E5%85%BD%20-%20%E7%99%BD%E7%8E%89%E7%89%88%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋怪兽 - 白玉版(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 507 | `口袋怪兽 - 白金版(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E6%80%AA%E5%85%BD%20-%20%E7%99%BD%E9%87%91%E7%89%88%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋怪兽 - 白金版(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 508 | `口袋怪兽 - 绿叶版(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E6%80%AA%E5%85%BD%20-%20%E7%BB%BF%E5%8F%B6%E7%89%88%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋怪兽 - 绿叶版(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 509 | `口袋怪兽 - 翡翠版(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E6%80%AA%E5%85%BD%20-%20%E7%BF%A1%E7%BF%A0%E7%89%88%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋怪兽 - 翡翠版(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 510 | `口袋怪兽 - 钻石版(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E6%80%AA%E5%85%BD%20-%20%E9%92%BB%E7%9F%B3%E7%89%88%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋怪兽 - 钻石版(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 511 | `口袋怪兽 绿 - 绿叶版(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E6%80%AA%E5%85%BD%20%E7%BB%BF%20-%20%E7%BB%BF%E5%8F%B6%E7%89%88%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋怪兽 绿 - 绿叶版(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 512 | `口袋怪兽2(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E6%80%AA%E5%85%BD2%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋怪兽2(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 513 | `口袋怪兽3(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E6%80%AA%E5%85%BD3%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋怪兽3(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 514 | `口袋水晶(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E6%B0%B4%E6%99%B6%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 口袋水晶(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 515 | `口袋精灵 - 水晶(繁)[火星电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E7%B2%BE%E7%81%B5%20-%20%E6%B0%B4%E6%99%B6%28%E7%B9%81%29%5B%E7%81%AB%E6%98%9F%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋精灵 - 水晶(繁)\[火星电子\](CN)\[RPG\](8Mb) |
-| 516 | `口袋精灵 - 金(简)[火星电子+147201688](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E7%B2%BE%E7%81%B5%20-%20%E9%87%91%28%E7%AE%80%29%5B%E7%81%AB%E6%98%9F%E7%94%B5%E5%AD%90%2B147201688%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋精灵 - 金(简)\[火星电子+147201688\](CN)\[RPG\](8Mb) |
-| 517 | `口袋精灵 - 金(繁)[火星电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E7%B2%BE%E7%81%B5%20-%20%E9%87%91%28%E7%B9%81%29%5B%E7%81%AB%E6%98%9F%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋精灵 - 金(繁)\[火星电子\](CN)\[RPG\](8Mb) |
-| 518 | `口袋精灵 - 金(解密版)(简)[外星科技+WXN](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E7%B2%BE%E7%81%B5%20-%20%E9%87%91%28%E8%A7%A3%E5%AF%86%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BWXN%5D%28CN%29%5BRPG%5D%288Mb%29/> | 口袋精灵 - 金(解密版)(简)\[外星科技+WXN\](CN)\[RPG\](8Mb) |
-| 519 | `口袋里的魔鬼(v1.0)(简)[DMG](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E9%87%8C%E7%9A%84%E9%AD%94%E9%AC%BC%28v1.0%29%28%E7%AE%80%29%5BDMG%5D%28US%29%5BACT%5D%283Mb%29/> | 口袋里的魔鬼(v1.0)(简)\[DMG\](US)\[ACT\](3Mb) |
-| 520 | `口袋里的魔鬼(简)[MM之神](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E9%87%8C%E7%9A%84%E9%AD%94%E9%AC%BC%28%E7%AE%80%29%5BMM%E4%B9%8B%E7%A5%9E%5D%28US%29%5BACT%5D%282Mb%29/> | 口袋里的魔鬼(简)\[MM之神\](US)\[ACT\](2Mb) |
-| 521 | `口袋钻石(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%8F%A3%E8%A2%8B%E9%92%BB%E7%9F%B3%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 口袋钻石(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 522 | `古墓丽影(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%8F%A4%E5%A2%93%E4%B8%BD%E5%BD%B1%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 古墓丽影(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 523 | `古巴战士[惊风汉化](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%8F%A4%E5%B7%B4%E6%88%98%E5%A3%AB%5B%E6%83%8A%E9%A3%8E%E6%B1%89%E5%8C%96%5D%28JP%29%5BSTG%5D%282Mb%29/> | 古巴战士\[惊风汉化\](JP)\[STG\](2Mb) |
-| 524 | `可鲁可鲁世界(简)[虫儿](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%8F%AF%E9%B2%81%E5%8F%AF%E9%B2%81%E4%B8%96%E7%95%8C%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JUE%29%5BACT%5D%280.18Mb%29/> | 可鲁可鲁世界(简)\[虫儿\](JUE)\[ACT\](0.18Mb) |
-| 525 | `台湾花牌麻雀(繁)[圣谦](CN)[TAB](0.37Mb)`：<https://fc.haiyong.site/games/%E5%8F%B0%E6%B9%BE%E8%8A%B1%E7%89%8C%E9%BA%BB%E9%9B%80%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BTAB%5D%280.37Mb%29/> | 台湾花牌麻雀(繁)\[圣谦\](CN)\[TAB\](0.37Mb) |
-| 526 | `台湾麻雀(繁)[圣谦](CN)[TAB](0.37Mb)`：<https://fc.haiyong.site/games/%E5%8F%B0%E6%B9%BE%E9%BA%BB%E9%9B%80%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BTAB%5D%280.37Mb%29/> | 台湾麻雀(繁)\[圣谦\](CN)\[TAB\](0.37Mb) |
-| 527 | `吃豆(简)[小古](JP)[PUZ](0.43Mb)`：<https://fc.haiyong.site/games/%E5%90%83%E8%B1%86%28%E7%AE%80%29%5B%E5%B0%8F%E5%8F%A4%5D%28JP%29%5BPUZ%5D%280.43Mb%29/> | 吃豆(简)\[小古\](JP)\[PUZ\](0.43Mb) |
-| 528 | `吃豆人小姐(简)[虫虫](US)[PUZ](0.31Mb)`：<https://fc.haiyong.site/games/%E5%90%83%E8%B1%86%E4%BA%BA%E5%B0%8F%E5%A7%90%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28US%29%5BPUZ%5D%280.31Mb%29/> | 吃豆人小姐(简)\[虫虫\](US)\[PUZ\](0.31Mb) |
-| 529 | `吃豆小精灵(简)[MS](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E5%90%83%E8%B1%86%E5%B0%8F%E7%B2%BE%E7%81%B5%28%E7%AE%80%29%5BMS%5D%28JP%29%5BPUZ%5D%280.18Mb%29/> | 吃豆小精灵(简)\[MS\](JP)\[PUZ\](0.18Mb) |
-| 530 | `吃豆小精灵(简)[叶枫](JP)[PUZ](0.25Mb)`：<https://fc.haiyong.site/games/%E5%90%83%E8%B1%86%E5%B0%8F%E7%B2%BE%E7%81%B5%28%E7%AE%80%29%5B%E5%8F%B6%E6%9E%AB%5D%28JP%29%5BPUZ%5D%280.25Mb%29/> | 吃豆小精灵(简)\[叶枫\](JP)\[PUZ\](0.25Mb) |
-| 531 | `吃豆小精灵(简)[高伟](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E5%90%83%E8%B1%86%E5%B0%8F%E7%B2%BE%E7%81%B5%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BPUZ%5D%280.18Mb%29/> | 吃豆小精灵(简)\[高伟\](JP)\[PUZ\](0.18Mb) |
-| 532 | `合金装备(公测2)(简)[热血的鱼缸](JP)[AVG](2Mb)`：<https://fc.haiyong.site/games/%E5%90%88%E9%87%91%E8%A3%85%E5%A4%87%28%E5%85%AC%E6%B5%8B2%29%28%E7%AE%80%29%5B%E7%83%AD%E8%A1%80%E7%9A%84%E9%B1%BC%E7%BC%B8%5D%28JP%29%5BAVG%5D%282Mb%29/> | 合金装备(公测2)(简)\[热血的鱼缸\](JP)\[AVG\](2Mb) |
-| 533 | `合金装备(燃烧战车)[AXI AHE](2Mb)`：<https://fc.haiyong.site/games/%E5%90%88%E9%87%91%E8%A3%85%E5%A4%87%28%E7%87%83%E7%83%A7%E6%88%98%E8%BD%A6%29%5BAXI%20AHE%5D%282Mb%29/> | 合金装备(燃烧战车)\[AXI AHE\](2Mb) |
-| 534 | `合金风暴(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%90%88%E9%87%91%E9%A3%8E%E6%9A%B4%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 合金风暴(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 536 | `吉米克！(简)[雷精灵](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%90%89%E7%B1%B3%E5%85%8B%EF%BC%81%28%E7%AE%80%29%5B%E9%9B%B7%E7%B2%BE%E7%81%B5%5D%28JP%29%5BACT%5D%284Mb%29/> | 吉米克！(简)\[雷精灵\](JP)\[ACT\](4Mb) |
-| 537 | `吞食天地 - 三国外传(不花屏版)(简)[先锋卡通](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%90%9E%E9%A3%9F%E5%A4%A9%E5%9C%B0%20-%20%E4%B8%89%E5%9B%BD%E5%A4%96%E4%BC%A0%28%E4%B8%8D%E8%8A%B1%E5%B1%8F%E7%89%88%29%28%E7%AE%80%29%5B%E5%85%88%E9%94%8B%E5%8D%A1%E9%80%9A%5D%28JP%29%5BRPG%5D%288Mb%29/> | 吞食天地 - 三国外传(不花屏版)(简)\[先锋卡通\](JP)\[RPG\](8Mb) |
-| 538 | `吞食天地 - 三国外传(修正版)(简)[先锋卡通+Necrosaro](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/%E5%90%9E%E9%A3%9F%E5%A4%A9%E5%9C%B0%20-%20%E4%B8%89%E5%9B%BD%E5%A4%96%E4%BC%A0%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%85%88%E9%94%8B%E5%8D%A1%E9%80%9A%2BNecrosaro%5D%28JP%29%5BRPG%5D%285Mb%29/> | 吞食天地 - 三国外传(修正版)(简)\[先锋卡通+Necrosaro\](JP)\[RPG\](5Mb) |
-| 539 | `吞食天地 - 三国外传(修正版)(繁)[先锋卡通+BonnyXie](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/%E5%90%9E%E9%A3%9F%E5%A4%A9%E5%9C%B0%20-%20%E4%B8%89%E5%9B%BD%E5%A4%96%E4%BC%A0%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%B9%81%29%5B%E5%85%88%E9%94%8B%E5%8D%A1%E9%80%9A%2BBonnyXie%5D%28JP%29%5BRPG%5D%285Mb%29/> | 吞食天地 - 三国外传(修正版)(繁)\[先锋卡通+BonnyXie\](JP)\[RPG\](5Mb) |
-| 540 | `吞食天地 - 三国外传(简)[laopix](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/%E5%90%9E%E9%A3%9F%E5%A4%A9%E5%9C%B0%20-%20%E4%B8%89%E5%9B%BD%E5%A4%96%E4%BC%A0%28%E7%AE%80%29%5Blaopix%5D%28JP%29%5BRPG%5D%285Mb%29/> | 吞食天地 - 三国外传(简)\[laopix\](JP)\[RPG\](5Mb) |
-| 541 | `吞食天地(简)[kwjxqy](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%90%9E%E9%A3%9F%E5%A4%A9%E5%9C%B0%28%E7%AE%80%29%5Bkwjxqy%5D%28JP%29%5BRPG%5D%284Mb%29/> | 吞食天地(简)\[kwjxqy\](JP)\[RPG\](4Mb) |
-| 542 | `吞食天地(简)[酷哥电子](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%90%9E%E9%A3%9F%E5%A4%A9%E5%9C%B0%28%E7%AE%80%29%5B%E9%85%B7%E5%93%A5%E7%94%B5%E5%AD%90%5D%28JP%29%5BRPG%5D%284Mb%29/> | 吞食天地(简)\[酷哥电子\](JP)\[RPG\](4Mb) |
-| 543 | `吞食天地2 - 秋风五丈原(v2.87)(v20190111)(简)[NT](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/%E5%90%9E%E9%A3%9F%E5%A4%A9%E5%9C%B02%20-%20%E7%A7%8B%E9%A3%8E%E4%BA%94%E4%B8%88%E5%8E%9F%28v2.87%29%28v20190111%29%28%E7%AE%80%29%5BNT%5D%28JP%29%5BRPG%5D%285Mb%29/> | 吞食天地2 - 秋风五丈原(v2.87)(v20190111)(简)\[NT\](JP)\[RPG\](5Mb) |
-| 544 | `吞食天地2 - 秋风五丈原(吞1音乐)(v20170225)[NT汉化组](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/%E5%90%9E%E9%A3%9F%E5%A4%A9%E5%9C%B02%20-%20%E7%A7%8B%E9%A3%8E%E4%BA%94%E4%B8%88%E5%8E%9F%28%E5%90%9E1%E9%9F%B3%E4%B9%90%29%28v20170225%29%5BNT%E6%B1%89%E5%8C%96%E7%BB%84%5D%28JP%29%5BRPG%5D%285Mb%29/> | 吞食天地2 - 秋风五丈原(吞1音乐)(v20170225)\[NT汉化组\](JP)\[RPG\](5Mb) |
-| 545 | `吞食天地2 - 秋风五丈原(吞2音乐)(v20170225)[NT汉化组](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/%E5%90%9E%E9%A3%9F%E5%A4%A9%E5%9C%B02%20-%20%E7%A7%8B%E9%A3%8E%E4%BA%94%E4%B8%88%E5%8E%9F%28%E5%90%9E2%E9%9F%B3%E4%B9%90%29%28v20170225%29%5BNT%E6%B1%89%E5%8C%96%E7%BB%84%5D%28JP%29%5BRPG%5D%285Mb%29/> | 吞食天地2 - 秋风五丈原(吞2音乐)(v20170225)\[NT汉化组\](JP)\[RPG\](5Mb) |
-| 546 | `吞食天地2 - 诸葛孔明传(简)[同能网](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/%E5%90%9E%E9%A3%9F%E5%A4%A9%E5%9C%B02%20-%20%E8%AF%B8%E8%91%9B%E5%AD%94%E6%98%8E%E4%BC%A0%28%E7%AE%80%29%5B%E5%90%8C%E8%83%BD%E7%BD%91%5D%28JP%29%5BRPG%5D%285Mb%29/> | 吞食天地2 - 诸葛孔明传(简)\[同能网\](JP)\[RPG\](5Mb) |
-| 547 | `吞食天地6 - 刘备传(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%90%9E%E9%A3%9F%E5%A4%A9%E5%9C%B06%20-%20%E5%88%98%E5%A4%87%E4%BC%A0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 吞食天地6 - 刘备传(简)\[南晶科技\](CN)\[RPG\](8Mb) |
-| 548 | `启智屋A(简)[小霸王](CN)[PUZ](2Mb)`：<https://fc.haiyong.site/games/%E5%90%AF%E6%99%BA%E5%B1%8BA%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BPUZ%5D%282Mb%29/> | 启智屋A(简)\[小霸王\](CN)\[PUZ\](2Mb) |
-| 549 | `启智屋B(简)[小霸王](CN)[PUZ](2Mb)`：<https://fc.haiyong.site/games/%E5%90%AF%E6%99%BA%E5%B1%8BB%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BPUZ%5D%282Mb%29/> | 启智屋B(简)\[小霸王\](CN)\[PUZ\](2Mb) |
-| 550 | `哆啦A梦 - 超时空历险(v2)(修正版)(简)[外星科技+无敌阿尔宙斯](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%93%86%E5%95%A6A%E6%A2%A6%20-%20%E8%B6%85%E6%97%B6%E7%A9%BA%E5%8E%86%E9%99%A9%28v2%29%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E6%97%A0%E6%95%8C%E9%98%BF%E5%B0%94%E5%AE%99%E6%96%AF%5D%28JP%29%5BRPG%5D%284Mb%29/> | 哆啦A梦 - 超时空历险(v2)(修正版)(简)\[外星科技+无敌阿尔宙斯\](JP)\[RPG\](4Mb) |
-| 551 | `哆啦A梦 - 超时空历险(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%93%86%E5%95%A6A%E6%A2%A6%20-%20%E8%B6%85%E6%97%B6%E7%A9%BA%E5%8E%86%E9%99%A9%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 哆啦A梦 - 超时空历险(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 552 | `哆啦A梦(v20090616)(繁)[Nokoh](JP)[ACT](1.37Mb)`：<https://fc.haiyong.site/games/%E5%93%86%E5%95%A6A%E6%A2%A6%28v20090616%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%281.37Mb%29/> | 哆啦A梦(v20090616)(繁)\[Nokoh\](JP)\[ACT\](1.37Mb) |
-| 553 | `哇咿哇咿世界(v20220222)(繁)[Nokoh](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%93%87%E5%92%BF%E5%93%87%E5%92%BF%E4%B8%96%E7%95%8C%28v20220222%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%284Mb%29/> | 哇咿哇咿世界(v20220222)(繁)\[Nokoh\](JP)\[ACT\](4Mb) |
-| 555 | `哈利传奇(简)[天空联盟](CN)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%93%88%E5%88%A9%E4%BC%A0%E5%A5%87%28%E7%AE%80%29%5B%E5%A4%A9%E7%A9%BA%E8%81%94%E7%9B%9F%5D%28CN%29%5BACT%5D%282Mb%29/> | 哈利传奇(简)\[天空联盟\](CN)\[ACT\](2Mb) |
-| 556 | `哥伦布传(修正版)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%93%A5%E4%BC%A6%E5%B8%83%E4%BC%A0%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 哥伦布传(修正版)\[外星科技\](JP)\[RPG\](4Mb) |
-| 557 | `哪吒传奇(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%93%AA%E5%90%92%E4%BC%A0%E5%A5%87%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 哪吒传奇(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 558 | `唐伯虎点秋香(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%94%90%E4%BC%AF%E8%99%8E%E7%82%B9%E7%A7%8B%E9%A6%99%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 唐伯虎点秋香(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 559 | `唐老鸭历险记2(v1.2)(简)[DMG](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%94%90%E8%80%81%E9%B8%AD%E5%8E%86%E9%99%A9%E8%AE%B02%28v1.2%29%28%E7%AE%80%29%5BDMG%5D%28JP%29%5BACT%5D%282Mb%29/> | 唐老鸭历险记2(v1.2)(简)\[DMG\](JP)\[ACT\](2Mb) |
-| 560 | `嘉蒂外传(v1.1)(简)[汉化你妹](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%98%89%E8%92%82%E5%A4%96%E4%BC%A0%28v1.1%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BSTG%5D%282Mb%29/> | 嘉蒂外传(v1.1)(简)\[汉化你妹\](JP)\[STG\](2Mb) |
-| 561 | `四川麻将(繁)[洁晖](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/%E5%9B%9B%E5%B7%9D%E9%BA%BB%E5%B0%86%28%E7%B9%81%29%5B%E6%B4%81%E6%99%96%5D%28CN%29%5BTAB%5D%280.5Mb%29/> | 四川麻将(繁)\[洁晖\](CN)\[TAB\](0.5Mb) |
-| 562 | `四川麻雀 - 制服篇(简)[圣谦](CN)[TAB](0.75Mb)`：<https://fc.haiyong.site/games/%E5%9B%9B%E5%B7%9D%E9%BA%BB%E9%9B%80%20-%20%E5%88%B6%E6%9C%8D%E7%AF%87%28%E7%AE%80%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BTAB%5D%280.75Mb%29/> | 四川麻雀 - 制服篇(简)\[圣谦\](CN)\[TAB\](0.75Mb) |
-| 563 | `围棋大战(简)[DC](JP)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/%E5%9B%B4%E6%A3%8B%E5%A4%A7%E6%88%98%28%E7%AE%80%29%5BDC%5D%28JP%29%5BTAB%5D%280.5Mb%29/> | 围棋大战(简)\[DC\](JP)\[TAB\](0.5Mb) |
-| 564 | `国夫君的热血新记录！ - 要得到所有金牌(简)[小滩](JP)[SPG](2Mb)`：<https://fc.haiyong.site/games/%E5%9B%BD%E5%A4%AB%E5%90%9B%E7%9A%84%E7%83%AD%E8%A1%80%E6%96%B0%E8%AE%B0%E5%BD%95%EF%BC%81%20-%20%E8%A6%81%E5%BE%97%E5%88%B0%E6%89%80%E6%9C%89%E9%87%91%E7%89%8C%28%E7%AE%80%29%5B%E5%B0%8F%E6%BB%A9%5D%28JP%29%5BSPG%5D%282Mb%29/> | 国夫君的热血新记录！ - 要得到所有金牌(简)\[小滩\](JP)\[SPG\](2Mb) |
-| 565 | `国夫君的热血足球联盟(简)[惊风+空气](JP)[SPG](3Mb)`：<https://fc.haiyong.site/games/%E5%9B%BD%E5%A4%AB%E5%90%9B%E7%9A%84%E7%83%AD%E8%A1%80%E8%B6%B3%E7%90%83%E8%81%94%E7%9B%9F%28%E7%AE%80%29%5B%E6%83%8A%E9%A3%8E%2B%E7%A9%BA%E6%B0%94%5D%28JP%29%5BSPG%5D%283Mb%29/> | 国夫君的热血足球联盟(简)\[惊风+空气\](JP)\[SPG\](3Mb) |
-| 566 | `国夫的热血新记录！ - 要得到所有金牌(简)[空气](JP)[SPG](2Mb)`：<https://fc.haiyong.site/games/%E5%9B%BD%E5%A4%AB%E7%9A%84%E7%83%AD%E8%A1%80%E6%96%B0%E8%AE%B0%E5%BD%95%EF%BC%81%20-%20%E8%A6%81%E5%BE%97%E5%88%B0%E6%89%80%E6%9C%89%E9%87%91%E7%89%8C%28%E7%AE%80%29%5B%E7%A9%BA%E6%B0%94%5D%28JP%29%5BSPG%5D%282Mb%29/> | 国夫的热血新记录！ - 要得到所有金牌(简)\[空气\](JP)\[SPG\](2Mb) |
-| 567 | `国王骑士(v0.9)(简)[高伟](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/%E5%9B%BD%E7%8E%8B%E9%AA%91%E5%A3%AB%28v0.9%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.5Mb%29/> | 国王骑士(v0.9)(简)\[高伟\](JP)\[STG\](0.5Mb) |
-| 568 | `国雄君的热血全员集合(v0.8)(简)[热血的鱼缸](JP)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/%E5%9B%BD%E9%9B%84%E5%90%9B%E7%9A%84%E7%83%AD%E8%A1%80%E5%85%A8%E5%91%98%E9%9B%86%E5%90%88%28v0.8%29%28%E7%AE%80%29%5B%E7%83%AD%E8%A1%80%E7%9A%84%E9%B1%BC%E7%BC%B8%5D%28JP%29%5BACT%5D%282.5Mb%29/> | 国雄君的热血全员集合(v0.8)(简)\[热血的鱼缸\](JP)\[ACT\](2.5Mb) |
-| 569 | `国雄的时代剧全员集合！(v0.91)(繁)[热血的鱼缸](JP)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/%E5%9B%BD%E9%9B%84%E7%9A%84%E6%97%B6%E4%BB%A3%E5%89%A7%E5%85%A8%E5%91%98%E9%9B%86%E5%90%88%EF%BC%81%28v0.91%29%28%E7%B9%81%29%5B%E7%83%AD%E8%A1%80%E7%9A%84%E9%B1%BC%E7%BC%B8%5D%28JP%29%5BACT%5D%282.5Mb%29/> | 国雄的时代剧全员集合！(v0.91)(繁)\[热血的鱼缸\](JP)\[ACT\](2.5Mb) |
-| 570 | `图形推理+智力拼图(简)[先锋卡通](CN)[PUZ](4Mb)`：<https://fc.haiyong.site/games/%E5%9B%BE%E5%BD%A2%E6%8E%A8%E7%90%86%2B%E6%99%BA%E5%8A%9B%E6%8B%BC%E5%9B%BE%28%E7%AE%80%29%5B%E5%85%88%E9%94%8B%E5%8D%A1%E9%80%9A%5D%28CN%29%5BPUZ%5D%284Mb%29/> | 图形推理+智力拼图(简)\[先锋卡通\](CN)\[PUZ\](4Mb) |
-| 571 | `圣剑传说(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E5%89%91%E4%BC%A0%E8%AF%B4%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 圣剑传说(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 572 | `圣斗士星矢 - 北欧突击篇(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E6%96%97%E5%A3%AB%E6%98%9F%E7%9F%A2%20-%20%E5%8C%97%E6%AC%A7%E7%AA%81%E5%87%BB%E7%AF%87%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 圣斗士星矢 - 北欧突击篇(简)\[南晶科技\](CN)\[RPG\](8Mb) |
-| 573 | `圣斗士星矢 - 天马之幻想(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E6%96%97%E5%A3%AB%E6%98%9F%E7%9F%A2%20-%20%E5%A4%A9%E9%A9%AC%E4%B9%8B%E5%B9%BB%E6%83%B3%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 圣斗士星矢 - 天马之幻想(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 574 | `圣斗士星矢 - 黄金传说(v1.0)(简)[汉化你妹](JP)[RPG](10Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E6%96%97%E5%A3%AB%E6%98%9F%E7%9F%A2%20-%20%E9%BB%84%E9%87%91%E4%BC%A0%E8%AF%B4%28v1.0%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BRPG%5D%2810Mb%29/> | 圣斗士星矢 - 黄金传说(v1.0)(简)\[汉化你妹\](JP)\[RPG\](10Mb) |
-| 575 | `圣斗士星矢 - 黄金传说完结篇(v1.0)(简)[汉化你妹](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E6%96%97%E5%A3%AB%E6%98%9F%E7%9F%A2%20-%20%E9%BB%84%E9%87%91%E4%BC%A0%E8%AF%B4%E5%AE%8C%E7%BB%93%E7%AF%87%28v1.0%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BRPG%5D%284Mb%29/> | 圣斗士星矢 - 黄金传说完结篇(v1.0)(简)\[汉化你妹\](JP)\[RPG\](4Mb) |
-| 576 | `圣斗士星矢 - 黄金传说完结篇(v1.0)(繁)[汉化你妹](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E6%96%97%E5%A3%AB%E6%98%9F%E7%9F%A2%20-%20%E9%BB%84%E9%87%91%E4%BC%A0%E8%AF%B4%E5%AE%8C%E7%BB%93%E7%AF%87%28v1.0%29%28%E7%B9%81%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BRPG%5D%284Mb%29/> | 圣斗士星矢 - 黄金传说完结篇(v1.0)(繁)\[汉化你妹\](JP)\[RPG\](4Mb) |
-| 577 | `圣斗士星矢 - 黄金传说完结篇(简)[勇者](JP)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E6%96%97%E5%A3%AB%E6%98%9F%E7%9F%A2%20-%20%E9%BB%84%E9%87%91%E4%BC%A0%E8%AF%B4%E5%AE%8C%E7%BB%93%E7%AF%87%28%E7%AE%80%29%5B%E5%8B%87%E8%80%85%5D%28JP%29%5BRPG%5D%282Mb%29/> | 圣斗士星矢 - 黄金传说完结篇(简)\[勇者\](JP)\[RPG\](2Mb) |
-| 578 | `圣火列传(繁)[全崴资讯](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E7%81%AB%E5%88%97%E4%BC%A0%28%E7%B9%81%29%5B%E5%85%A8%E5%B4%B4%E8%B5%84%E8%AE%AF%5D%28CN%29%5BRPG%5D%282Mb%29/> | 圣火列传(繁)\[全崴资讯\](CN)\[RPG\](2Mb) |
-| 579 | `圣火列传(繁)[晶科泰](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E7%81%AB%E5%88%97%E4%BC%A0%28%E7%B9%81%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%282Mb%29/> | 圣火列传(繁)\[晶科泰\](CN)\[RPG\](2Mb) |
-| 580 | `圣火少侠(繁)[南晶科技](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E7%81%AB%E5%B0%91%E4%BE%A0%28%E7%B9%81%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%282Mb%29/> | 圣火少侠(繁)\[南晶科技\](CN)\[RPG\](2Mb) |
-| 581 | `圣火徽章 - 索非亚复苏(简)[外星科技](JP)[SLG](5Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E7%81%AB%E5%BE%BD%E7%AB%A0%20-%20%E7%B4%A2%E9%9D%9E%E4%BA%9A%E5%A4%8D%E8%8B%8F%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BSLG%5D%285Mb%29/> | 圣火徽章 - 索非亚复苏(简)\[外星科技\](JP)\[SLG\](5Mb) |
-| 582 | `圣火徽章(简)[外星科技](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E7%81%AB%E5%BE%BD%E7%AB%A0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%285Mb%29/> | 圣火徽章(简)\[外星科技\](JP)\[RPG\](5Mb) |
-| 583 | `圣火徽章3(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E7%81%AB%E5%BE%BD%E7%AB%A03%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 圣火徽章3(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 585 | `圣火徽章外传(简)[酷哥电子](JP)[SLG](5Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E7%81%AB%E5%BE%BD%E7%AB%A0%E5%A4%96%E4%BC%A0%28%E7%AE%80%29%5B%E9%85%B7%E5%93%A5%E7%94%B5%E5%AD%90%5D%28JP%29%5BSLG%5D%285Mb%29/> | 圣火徽章外传(简)\[酷哥电子\](JP)\[SLG\](5Mb) |
-| 587 | `圣铃传说(v2)(简)[MS](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E9%93%83%E4%BC%A0%E8%AF%B4%28v2%29%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%283Mb%29/> | 圣铃传说(v2)(简)\[MS\](JP)\[ACT\](3Mb) |
-| 588 | `圣铃传说(简)[高伟](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E9%93%83%E4%BC%A0%E8%AF%B4%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%283Mb%29/> | 圣铃传说(简)\[高伟\](JP)\[ACT\](3Mb) |
-| 589 | `圣魔术师(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%9C%A3%E9%AD%94%E6%9C%AF%E5%B8%88%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 圣魔术师(简)\[高伟\](JP)\[ACT\](2Mb) |
-| 590 | `地狱极乐丸(v1.0)(简)[DMG](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%9C%B0%E7%8B%B1%E6%9E%81%E4%B9%90%E4%B8%B8%28v1.0%29%28%E7%AE%80%29%5BDMG%5D%28JP%29%5BACT%5D%283Mb%29/> | 地狱极乐丸(v1.0)(简)\[DMG\](JP)\[ACT\](3Mb) |
-| 591 | `地狱神探(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%9C%B0%E7%8B%B1%E7%A5%9E%E6%8E%A2%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 地狱神探(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 592 | `地道战(繁)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%9C%B0%E9%81%93%E6%88%98%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%284Mb%29/> | 地道战(繁)\[外星科技\](CN)\[ACT\](4Mb) |
-| 593 | `坦克1990(简)[九班](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/%E5%9D%A6%E5%85%8B1990%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BSTG%5D%280.31Mb%29/> | 坦克1990(简)\[九班\](JP)\[STG\](0.31Mb) |
-| 594 | `坦克仔(简)[张晓波](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%9D%A6%E5%85%8B%E4%BB%94%28%E7%AE%80%29%5B%E5%BC%A0%E6%99%93%E6%B3%A2%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 坦克仔(简)\[张晓波\](JP)\[STG\](0.18Mb) |
-| 595 | `坦克大作战(简)[流心小雨](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%9D%A6%E5%85%8B%E5%A4%A7%E4%BD%9C%E6%88%98%28%E7%AE%80%29%5B%E6%B5%81%E5%BF%83%E5%B0%8F%E9%9B%A8%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 坦克大作战(简)\[流心小雨\](JP)\[STG\](0.18Mb) |
-| 596 | `坦克大战(简)[3DM](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%9D%A6%E5%85%8B%E5%A4%A7%E6%88%98%28%E7%AE%80%29%5B3DM%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 坦克大战(简)\[3DM\](JP)\[STG\](0.18Mb) |
-| 597 | `坦克大战(简)[ENTA](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%9D%A6%E5%85%8B%E5%A4%A7%E6%88%98%28%E7%AE%80%29%5BENTA%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 坦克大战(简)\[ENTA\](JP)\[STG\](0.18Mb) |
-| 598 | `坦克大战(简)[虫虫](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%9D%A6%E5%85%8B%E5%A4%A7%E6%88%98%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 坦克大战(简)\[虫虫\](JP)\[STG\](0.18Mb) |
-| 599 | `坦克大战(简)[郭元](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%9D%A6%E5%85%8B%E5%A4%A7%E6%88%98%28%E7%AE%80%29%5B%E9%83%AD%E5%85%83%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 坦克大战(简)\[郭元\](JP)\[STG\](0.18Mb) |
-| 600 | `坦克大战(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%9D%A6%E5%85%8B%E5%A4%A7%E6%88%98%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 坦克大战(简)\[高伟\](JP)\[STG\](0.18Mb) |
-| 601 | `坦克大战2008(简)[叶枫](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%9D%A6%E5%85%8B%E5%A4%A7%E6%88%982008%28%E7%AE%80%29%5B%E5%8F%B6%E6%9E%AB%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 坦克大战2008(简)\[叶枫\](JP)\[STG\](0.18Mb) |
-| 602 | `坦克游戏大战(简)[流心小雨](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%9D%A6%E5%85%8B%E6%B8%B8%E6%88%8F%E5%A4%A7%E6%88%98%28%E7%AE%80%29%5B%E6%B5%81%E5%BF%83%E5%B0%8F%E9%9B%A8%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 坦克游戏大战(简)\[流心小雨\](JP)\[STG\](0.18Mb) |
-| 603 | `坦克风云(简)[金明](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%9D%A6%E5%85%8B%E9%A3%8E%E4%BA%91%28%E7%AE%80%29%5B%E9%87%91%E6%98%8E%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 坦克风云(简)\[金明\](JP)\[STG\](0.18Mb) |
-| 604 | `坦克风云(繁)[三协资讯](CN)[STG](0.5Mb)`：<https://fc.haiyong.site/games/%E5%9D%A6%E5%85%8B%E9%A3%8E%E4%BA%91%28%E7%B9%81%29%5B%E4%B8%89%E5%8D%8F%E8%B5%84%E8%AE%AF%5D%28CN%29%5BSTG%5D%280.5Mb%29/> | 坦克风云(繁)\[三协资讯\](CN)\[STG\](0.5Mb) |
-| 605 | `埃及(简)[MS](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E5%9F%83%E5%8F%8A%28%E7%AE%80%29%5BMS%5D%28JP%29%5BPUZ%5D%280.5Mb%29/> | 埃及(简)\[MS\](JP)\[PUZ\](0.5Mb) |
-| 606 | `城堡探险(简)[MM之神](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E5%9F%8E%E5%A0%A1%E6%8E%A2%E9%99%A9%28%E7%AE%80%29%5BMM%E4%B9%8B%E7%A5%9E%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 城堡探险(简)\[MM之神\](JP)\[ACT\](0.5Mb) |
-| 607 | `基督山恩仇记(繁)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E5%9F%BA%E7%9D%A3%E5%B1%B1%E6%81%A9%E4%BB%87%E8%AE%B0%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 基督山恩仇记(繁)\[外星科技\](CN)\[SLG\](4Mb) |
-| 608 | `塞外奇侠传(简)[恒格电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%A1%9E%E5%A4%96%E5%A5%87%E4%BE%A0%E4%BC%A0%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%284Mb%29/> | 塞外奇侠传(简)\[恒格电子\](CN)\[RPG\](4Mb) |
-| 609 | `塞尔达传说 - 三神之力(简)[外星科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4%20-%20%E4%B8%89%E7%A5%9E%E4%B9%8B%E5%8A%9B%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 塞尔达传说 - 三神之力(简)\[外星科技\](CN)\[RPG\](16Mb) |
-| 610 | `塞尔达传说 - 神奇的帽子(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4%20-%20%E7%A5%9E%E5%A5%87%E7%9A%84%E5%B8%BD%E5%AD%90%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 塞尔达传说 - 神奇的帽子(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 611 | `塞尔达传说(Zpix)(简)[小笨笨](US)[RPG](1Mb)`：<https://fc.haiyong.site/games/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4%28Zpix%29%28%E7%AE%80%29%5B%E5%B0%8F%E7%AC%A8%E7%AC%A8%5D%28US%29%5BRPG%5D%281Mb%29/> | 塞尔达传说(Zpix)(简)\[小笨笨\](US)\[RPG\](1Mb) |
-| 612 | `塞尔达传说(简)[小笨笨](US)[RPG](1Mb)`：<https://fc.haiyong.site/games/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B4%28%E7%AE%80%29%5B%E5%B0%8F%E7%AC%A8%E7%AC%A8%5D%28US%29%5BRPG%5D%281Mb%29/> | 塞尔达传说(简)\[小笨笨\](US)\[RPG\](1Mb) |
-| 613 | `塞尔达传说2 - 林克的冒险(简)[小笨笨](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%A1%9E%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B42%20-%20%E6%9E%97%E5%85%8B%E7%9A%84%E5%86%92%E9%99%A9%28%E7%AE%80%29%5B%E5%B0%8F%E7%AC%A8%E7%AC%A8%5D%28US%29%5BACT%5D%282Mb%29/> | 塞尔达传说2 - 林克的冒险(简)\[小笨笨\](US)\[ACT\](2Mb) |
-| 614 | `外星战士(简)[外星科技+147201688](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%A4%96%E6%98%9F%E6%88%98%E5%A3%AB%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B147201688%5D%28CN%29%5BRPG%5D%284Mb%29/> | 外星战士(简)\[外星科技+147201688\](CN)\[RPG\](4Mb) |
-| 615 | `外星战士(繁)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%A4%96%E6%98%9F%E6%88%98%E5%A3%AB%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 外星战士(繁)\[外星科技\](CN)\[RPG\](4Mb) |
-| 616 | `外星战士2(简)[外星科技+147201688](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%A4%96%E6%98%9F%E6%88%98%E5%A3%AB2%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B147201688%5D%28CN%29%5BRPG%5D%288Mb%29/> | 外星战士2(简)\[外星科技+147201688\](CN)\[RPG\](8Mb) |
-| 617 | `外星战士2(繁)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%A4%96%E6%98%9F%E6%88%98%E5%A3%AB2%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 外星战士2(繁)\[外星科技\](CN)\[RPG\](8Mb) |
-| 618 | `外星战将(修正版)(简)[AXI+庞先生](JP)[ACT](3.25Mb)`：<https://fc.haiyong.site/games/%E5%A4%96%E6%98%9F%E6%88%98%E5%B0%86%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5BAXI%2B%E5%BA%9E%E5%85%88%E7%94%9F%5D%28JP%29%5BACT%5D%283.25Mb%29/> | 外星战将(修正版)(简)\[AXI+庞先生\](JP)\[ACT\](3.25Mb) |
-| 619 | `外星战将(简)[AXI](JP)[ACT](3.25Mb)`：<https://fc.haiyong.site/games/%E5%A4%96%E6%98%9F%E6%88%98%E5%B0%86%28%E7%AE%80%29%5BAXI%5D%28JP%29%5BACT%5D%283.25Mb%29/> | 外星战将(简)\[AXI\](JP)\[ACT\](3.25Mb) |
-| 620 | `外星战将(简)[中伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%A4%96%E6%98%9F%E6%88%98%E5%B0%86%28%E7%AE%80%29%5B%E4%B8%AD%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 外星战将(简)\[中伟\](JP)\[ACT\](2Mb) |
-| 621 | `外星战将(简)[冰组](JP)[ACT](3.25Mb)`：<https://fc.haiyong.site/games/%E5%A4%96%E6%98%9F%E6%88%98%E5%B0%86%28%E7%AE%80%29%5B%E5%86%B0%E7%BB%84%5D%28JP%29%5BACT%5D%283.25Mb%29/> | 外星战将(简)\[冰组\](JP)\[ACT\](3.25Mb) |
-| 622 | `夜明珠(繁)[外星科技](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/%E5%A4%9C%E6%98%8E%E7%8F%A0%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BFTG%5D%283Mb%29/> | 夜明珠(繁)\[外星科技\](CN)\[FTG\](3Mb) |
-| 623 | `大侠客 - 楚留香(简)[火星电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E4%BE%A0%E5%AE%A2%20-%20%E6%A5%9A%E7%95%99%E9%A6%99%28%E7%AE%80%29%5B%E7%81%AB%E6%98%9F%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 大侠客 - 楚留香(简)\[火星电子\](CN)\[RPG\](8Mb) |
-| 624 | `大力工头阿源君(v1.0)(简)[DMG](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E5%8A%9B%E5%B7%A5%E5%A4%B4%E9%98%BF%E6%BA%90%E5%90%9B%28v1.0%29%28%E7%AE%80%29%5BDMG%5D%28JP%29%5BACT%5D%283Mb%29/> | 大力工头阿源君(v1.0)(简)\[DMG\](JP)\[ACT\](3Mb) |
-| 625 | `大力工头阿源君2 - 赤毛弹的逆袭(v1.0)(H3001)(简)[DMG+Advance](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E5%8A%9B%E5%B7%A5%E5%A4%B4%E9%98%BF%E6%BA%90%E5%90%9B2%20-%20%E8%B5%A4%E6%AF%9B%E5%BC%B9%E7%9A%84%E9%80%86%E8%A2%AD%28v1.0%29%28H3001%29%28%E7%AE%80%29%5BDMG%2BAdvance%5D%28JP%29%5BACT%5D%284Mb%29/> | 大力工头阿源君2 - 赤毛弹的逆袭(v1.0)(H3001)(简)\[DMG+Advance\](JP)\[ACT\](4Mb) |
-| 626 | `大力工头阿源君2 - 赤毛弹的逆袭(v1.0)(MMC5)(简)[DMG+Advance](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E5%8A%9B%E5%B7%A5%E5%A4%B4%E9%98%BF%E6%BA%90%E5%90%9B2%20-%20%E8%B5%A4%E6%AF%9B%E5%BC%B9%E7%9A%84%E9%80%86%E8%A2%AD%28v1.0%29%28MMC5%29%28%E7%AE%80%29%5BDMG%2BAdvance%5D%28JP%29%5BACT%5D%284Mb%29/> | 大力工头阿源君2 - 赤毛弹的逆袭(v1.0)(MMC5)(简)\[DMG+Advance\](JP)\[ACT\](4Mb) |
-| 627 | `大力水手(简)[MS](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E5%8A%9B%E6%B0%B4%E6%89%8B%28%E7%AE%80%29%5BMS%5D%28JUE%29%5BACT%5D%280.18Mb%29/> | 大力水手(简)\[MS\](JUE)\[ACT\](0.18Mb) |
-| 628 | `大力水手(简)[虫儿](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E5%8A%9B%E6%B0%B4%E6%89%8B%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JUE%29%5BACT%5D%280.18Mb%29/> | 大力水手(简)\[虫儿\](JUE)\[ACT\](0.18Mb) |
-| 629 | `大唐风云4(简)[恒格电子](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E5%94%90%E9%A3%8E%E4%BA%914%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BSLG%5D%284Mb%29/> | 大唐风云4(简)\[恒格电子\](JP)\[SLG\](4Mb) |
-| 630 | `大大眼蛙大冒险(简)[虫虫](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E5%A4%A7%E7%9C%BC%E8%9B%99%E5%A4%A7%E5%86%92%E9%99%A9%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BPUZ%5D%280.5Mb%29/> | 大大眼蛙大冒险(简)\[虫虫\](JP)\[PUZ\](0.5Mb) |
-| 631 | `大战略(简)[未知](JP)[SLG](2Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E6%88%98%E7%95%A5%28%E7%AE%80%29%5B%E6%9C%AA%E7%9F%A5%5D%28JP%29%5BSLG%5D%282Mb%29/> | 大战略(简)\[未知\](JP)\[SLG\](2Mb) |
-| 632 | `大盗伍佑卫门 - 天下宝藏(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E7%9B%97%E4%BC%8D%E4%BD%91%E5%8D%AB%E9%97%A8%20-%20%E5%A4%A9%E4%B8%8B%E5%AE%9D%E8%97%8F%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%286Mb%29/> | 大盗伍佑卫门 - 天下宝藏(简)\[外星科技\](JP)\[RPG\](6Mb) |
-| 633 | `大眼蛙可乐比的大冒险2(简)[夜幕星辰](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E7%9C%BC%E8%9B%99%E5%8F%AF%E4%B9%90%E6%AF%94%E7%9A%84%E5%A4%A7%E5%86%92%E9%99%A92%28%E7%AE%80%29%5B%E5%A4%9C%E5%B9%95%E6%98%9F%E8%BE%B0%5D%28JP%29%5BACT%5D%282Mb%29/> | 大眼蛙可乐比的大冒险2(简)\[夜幕星辰\](JP)\[ACT\](2Mb) |
-| 634 | `大眼蛙可洛比的大冒险2 - 甜甜圈池塘大骚动(v20230105)(简)[KasuraJ](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E7%9C%BC%E8%9B%99%E5%8F%AF%E6%B4%9B%E6%AF%94%E7%9A%84%E5%A4%A7%E5%86%92%E9%99%A92%20-%20%E7%94%9C%E7%94%9C%E5%9C%88%E6%B1%A0%E5%A1%98%E5%A4%A7%E9%AA%9A%E5%8A%A8%28v20230105%29%28%E7%AE%80%29%5BKasuraJ%5D%28JP%29%5BACT%5D%284Mb%29/> | 大眼蛙可洛比的大冒险2 - 甜甜圈池塘大骚动(v20230105)(简)\[KasuraJ\](JP)\[ACT\](4Mb) |
-| 635 | `大眼蛙大冒险(v1.0)(简)[九班](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E7%9C%BC%E8%9B%99%E5%A4%A7%E5%86%92%E9%99%A9%28v1.0%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BPUZ%5D%280.5Mb%29/> | 大眼蛙大冒险(v1.0)(简)\[九班\](JP)\[PUZ\](0.5Mb) |
-| 636 | `大航海7(繁)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E8%88%AA%E6%B5%B77%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 大航海7(繁)\[外星科技\](CN)\[SLG\](4Mb) |
-| 637 | `大蜈蚣(简)[虫儿](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E8%9C%88%E8%9A%A3%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 大蜈蚣(简)\[虫儿\](JP)\[STG\](0.18Mb) |
-| 638 | `大蜜蜂(简)[MS](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E8%9C%9C%E8%9C%82%28%E7%AE%80%29%5BMS%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 大蜜蜂(简)\[MS\](JP)\[STG\](0.18Mb) |
-| 639 | `大蜜蜂(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E8%9C%9C%E8%9C%82%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 大蜜蜂(简)\[高伟\](JP)\[STG\](0.18Mb) |
-| 640 | `大话三国(繁)[火星电子](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E8%AF%9D%E4%B8%89%E5%9B%BD%28%E7%B9%81%29%5B%E7%81%AB%E6%98%9F%E7%94%B5%E5%AD%90%5D%28CN%29%5BSLG%5D%284Mb%29/> | 大话三国(繁)\[火星电子\](CN)\[SLG\](4Mb) |
-| 641 | `大话水浒(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E8%AF%9D%E6%B0%B4%E6%B5%92%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 大话水浒(简)\[南晶科技\](CN)\[RPG\](8Mb) |
-| 642 | `大话西游(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 大话西游(简)\[南晶科技\](CN)\[RPG\](8Mb) |
-| 643 | `大话西游(繁)[火星电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8%28%E7%B9%81%29%5B%E7%81%AB%E6%98%9F%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%284Mb%29/> | 大话西游(繁)\[火星电子\](CN)\[RPG\](4Mb) |
-| 644 | `大金刚(简)[Madcell](JUE)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E9%87%91%E5%88%9A%28%E7%AE%80%29%5BMadcell%5D%28JUE%29%5BACT%5D%280.37Mb%29/> | 大金刚(简)\[Madcell\](JUE)\[ACT\](0.37Mb) |
-| 645 | `大金刚(简)[MS](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E9%87%91%E5%88%9A%28%E7%AE%80%29%5BMS%5D%28JUE%29%5BACT%5D%280.18Mb%29/> | 大金刚(简)\[MS\](JUE)\[ACT\](0.18Mb) |
-| 646 | `大金刚(简)[高伟](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E9%87%91%E5%88%9A%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JUE%29%5BACT%5D%280.18Mb%29/> | 大金刚(简)\[高伟\](JUE)\[ACT\](0.18Mb) |
-| 647 | `大金刚3(简)[MS](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E9%87%91%E5%88%9A3%28%E7%AE%80%29%5BMS%5D%28JUE%29%5BACT%5D%280.18Mb%29/> | 大金刚3(简)\[MS\](JUE)\[ACT\](0.18Mb) |
-| 648 | `大金刚3(简)[高伟](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E9%87%91%E5%88%9A3%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JUE%29%5BACT%5D%280.18Mb%29/> | 大金刚3(简)\[高伟\](JUE)\[ACT\](0.18Mb) |
-| 649 | `大金刚Jr(简)[MS](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E9%87%91%E5%88%9AJr%28%E7%AE%80%29%5BMS%5D%28JUE%29%5BACT%5D%280.18Mb%29/> | 大金刚Jr(简)\[MS\](JUE)\[ACT\](0.18Mb) |
-| 650 | `大金刚Jr(简)[高伟](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%A4%A7%E9%87%91%E5%88%9AJr%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JUE%29%5BACT%5D%280.18Mb%29/> | 大金刚Jr(简)\[高伟\](JUE)\[ACT\](0.18Mb) |
-| 651 | `天使之翼2 - 超级神射手(v20180822)(简)[外星科技+太阳王子葵新伍](JP)[SPG](6Mb)`：<https://fc.haiyong.site/games/%E5%A4%A9%E4%BD%BF%E4%B9%8B%E7%BF%BC2%20-%20%E8%B6%85%E7%BA%A7%E7%A5%9E%E5%B0%84%E6%89%8B%28v20180822%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E5%A4%AA%E9%98%B3%E7%8E%8B%E5%AD%90%E8%91%B5%E6%96%B0%E4%BC%8D%5D%28JP%29%5BSPG%5D%286Mb%29/> | 天使之翼2 - 超级神射手(v20180822)(简)\[外星科技+太阳王子葵新伍\](JP)\[SPG\](6Mb) |
-| 652 | `天使之翼2 - 超级神射手(第二版)(简)[外星科技+KANOU](JP)[SPG](6Mb)`：<https://fc.haiyong.site/games/%E5%A4%A9%E4%BD%BF%E4%B9%8B%E7%BF%BC2%20-%20%E8%B6%85%E7%BA%A7%E7%A5%9E%E5%B0%84%E6%89%8B%28%E7%AC%AC%E4%BA%8C%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BKANOU%5D%28JP%29%5BSPG%5D%286Mb%29/> | 天使之翼2 - 超级神射手(第二版)(简)\[外星科技+KANOU\](JP)\[SPG\](6Mb) |
-| 653 | `天使之翼2 - 超级神射手(简)[MS](JP)[SPG](6Mb)`：<https://fc.haiyong.site/games/%E5%A4%A9%E4%BD%BF%E4%B9%8B%E7%BF%BC2%20-%20%E8%B6%85%E7%BA%A7%E7%A5%9E%E5%B0%84%E6%89%8B%28%E7%AE%80%29%5BMS%5D%28JP%29%5BSPG%5D%286Mb%29/> | 天使之翼2 - 超级神射手(简)\[MS\](JP)\[SPG\](6Mb) |
-| 654 | `天使之翼2 - 超级神射手(简)[外星科技](JP)[SPG](6Mb)`：<https://fc.haiyong.site/games/%E5%A4%A9%E4%BD%BF%E4%B9%8B%E7%BF%BC2%20-%20%E8%B6%85%E7%BA%A7%E7%A5%9E%E5%B0%84%E6%89%8B%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BSPG%5D%286Mb%29/> | 天使之翼2 - 超级神射手(简)\[外星科技\](JP)\[SPG\](6Mb) |
-| 655 | `天使之翼2 - 超级神射手(繁)[外星科技+Lirdrepus](JP)[SPG](6Mb)`：<https://fc.haiyong.site/games/%E5%A4%A9%E4%BD%BF%E4%B9%8B%E7%BF%BC2%20-%20%E8%B6%85%E7%BA%A7%E7%A5%9E%E5%B0%84%E6%89%8B%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BLirdrepus%5D%28JP%29%5BSPG%5D%286Mb%29/> | 天使之翼2 - 超级神射手(繁)\[外星科技+Lirdrepus\](JP)\[SPG\](6Mb) |
-| 656 | `天堂鸟(简)[高伟](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/%E5%A4%A9%E5%A0%82%E9%B8%9F%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.5Mb%29/> | 天堂鸟(简)\[高伟\](JP)\[STG\](0.5Mb) |
-| 657 | `天才小子(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E5%A4%A9%E6%89%8D%E5%B0%8F%E5%AD%90%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 天才小子(简)\[外星科技\](CN)\[SLG\](4Mb) |
-| 658 | `天王降魔传(解密版)(简)[外星科技+WXN](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%A4%A9%E7%8E%8B%E9%99%8D%E9%AD%94%E4%BC%A0%28%E8%A7%A3%E5%AF%86%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BWXN%5D%28CN%29%5BACT%5D%284Mb%29/> | 天王降魔传(解密版)(简)\[外星科技+WXN\](CN)\[ACT\](4Mb) |
-| 659 | `天神之剑(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E5%A4%A9%E7%A5%9E%E4%B9%8B%E5%89%91%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BVanyogin%5D%28JP%29%5BRPG%5D%286Mb%29/> | 天神之剑(修正版)(简)\[外星科技+Vanyogin\](JP)\[RPG\](6Mb) |
-| 660 | `天神之剑[外星科技+temryu修正](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E5%A4%A9%E7%A5%9E%E4%B9%8B%E5%89%91%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2Btemryu%E4%BF%AE%E6%AD%A3%5D%28JP%29%5BRPG%5D%286Mb%29/> | 天神之剑\[外星科技+temryu修正\](JP)\[RPG\](6Mb) |
-| 661 | `天龙八部(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%A4%A9%E9%BE%99%E5%85%AB%E9%83%A8%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 天龙八部(简)\[南晶科技\](CN)\[RPG\](8Mb) |
-| 662 | `太空入侵者(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%A4%AA%E7%A9%BA%E5%85%A5%E4%BE%B5%E8%80%85%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 太空入侵者(简)\[高伟\](JP)\[STG\](0.18Mb) |
-| 663 | `太空射击战(v20220219)(繁)[Nokoh](US)[STG](1.43Mb)`：<https://fc.haiyong.site/games/%E5%A4%AA%E7%A9%BA%E5%B0%84%E5%87%BB%E6%88%98%28v20220219%29%28%E7%B9%81%29%5BNokoh%5D%28US%29%5BSTG%5D%281.43Mb%29/> | 太空射击战(v20220219)(繁)\[Nokoh\](US)\[STG\](1.43Mb) |
-| 664 | `太空幻想(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%A4%AA%E7%A9%BA%E5%B9%BB%E6%83%B3%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 太空幻想(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 665 | `太空战士5(繁)[火星电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%A4%AA%E7%A9%BA%E6%88%98%E5%A3%AB5%28%E7%B9%81%29%5B%E7%81%AB%E6%98%9F%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%284Mb%29/> | 太空战士5(繁)\[火星电子\](CN)\[RPG\](4Mb) |
-| 666 | `太空立体战(简)[高伟](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/%E5%A4%AA%E7%A9%BA%E7%AB%8B%E4%BD%93%E6%88%98%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.31Mb%29/> | 太空立体战(简)\[高伟\](JP)\[STG\](0.31Mb) |
-| 667 | `太空青蛙(v1.0)(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%A4%AA%E7%A9%BA%E9%9D%92%E8%9B%99%28v1.0%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 太空青蛙(v1.0)(简)\[高伟\](JP)\[STG\](0.18Mb) |
-| 668 | `太空青蛙(简)[虫虫](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%A4%AA%E7%A9%BA%E9%9D%92%E8%9B%99%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 太空青蛙(简)\[虫虫\](JP)\[STG\](0.18Mb) |
-| 669 | `太阳勇者 - 火鸟(简)[hjind1213](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%A4%AA%E9%98%B3%E5%8B%87%E8%80%85%20-%20%E7%81%AB%E9%B8%9F%28%E7%AE%80%29%5Bhjind1213%5D%28JP%29%5BSTG%5D%282Mb%29/> | 太阳勇者 - 火鸟(简)\[hjind1213\](JP)\[STG\](2Mb) |
-| 670 | `太阳超人(简)[MM之神](EU)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%A4%AA%E9%98%B3%E8%B6%85%E4%BA%BA%28%E7%AE%80%29%5BMM%E4%B9%8B%E7%A5%9E%5D%28EU%29%5BACT%5D%282Mb%29/> | 太阳超人(简)\[MM之神\](EU)\[ACT\](2Mb) |
-| 671 | `失落的神器(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%A4%B1%E8%90%BD%E7%9A%84%E7%A5%9E%E5%99%A8%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 失落的神器(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 672 | `夺宝小英豪 - 光明与黑暗传说(繁)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%A4%BA%E5%AE%9D%E5%B0%8F%E8%8B%B1%E8%B1%AA%20-%20%E5%85%89%E6%98%8E%E4%B8%8E%E9%BB%91%E6%9A%97%E4%BC%A0%E8%AF%B4%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 夺宝小英豪 - 光明与黑暗传说(繁)\[外星科技\](CN)\[RPG\](4Mb) |
-| 673 | `奇奇与蒂蒂大作战(v1.1)(简)[汉化你妹](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%A5%87%E5%A5%87%E4%B8%8E%E8%92%82%E8%92%82%E5%A4%A7%E4%BD%9C%E6%88%98%28v1.1%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BACT%5D%283Mb%29/> | 奇奇与蒂蒂大作战(v1.1)(简)\[汉化你妹\](JP)\[ACT\](3Mb) |
-| 674 | `奇奇与蒂蒂大作战2(v1.13)(简)[汉化你妹](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%A5%87%E5%A5%87%E4%B8%8E%E8%92%82%E8%92%82%E5%A4%A7%E4%BD%9C%E6%88%982%28v1.13%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BACT%5D%283Mb%29/> | 奇奇与蒂蒂大作战2(v1.13)(简)\[汉化你妹\](JP)\[ACT\](3Mb) |
-| 675 | `奔力电脑学习机(简)[奔力](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/%E5%A5%94%E5%8A%9B%E7%94%B5%E8%84%91%E5%AD%A6%E4%B9%A0%E6%9C%BA%28%E7%AE%80%29%5B%E5%A5%94%E5%8A%9B%5D%28CN%29%5BETC%5D%288Mb%29/> | 奔力电脑学习机(简)\[奔力\](CN)\[ETC\](8Mb) |
-| 676 | `女神的救赎[外星科技+腓特烈修正](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/%E5%A5%B3%E7%A5%9E%E7%9A%84%E6%95%91%E8%B5%8E%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E8%85%93%E7%89%B9%E7%83%88%E4%BF%AE%E6%AD%A3%5D%28JP%29%5BRPG%5D%285Mb%29/> | 女神的救赎\[外星科技+腓特烈修正\](JP)\[RPG\](5Mb) |
-| 677 | `妖怪俱乐部(简)[虫儿](JP)[ACT](1.25Mb)`：<https://fc.haiyong.site/games/%E5%A6%96%E6%80%AA%E4%BF%B1%E4%B9%90%E9%83%A8%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JP%29%5BACT%5D%281.25Mb%29/> | 妖怪俱乐部(简)\[虫儿\](JP)\[ACT\](1.25Mb) |
-| 678 | `威洛传奇(修正版)(简)[金巴比伦+Vanyogin](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E5%A8%81%E6%B4%9B%E4%BC%A0%E5%A5%87%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E9%87%91%E5%B7%B4%E6%AF%94%E4%BC%A6%2BVanyogin%5D%28JP%29%5BRPG%5D%286Mb%29/> | 威洛传奇(修正版)(简)\[金巴比伦+Vanyogin\](JP)\[RPG\](6Mb) |
-| 679 | `威洛传奇(简)[金巴比伦](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%A8%81%E6%B4%9B%E4%BC%A0%E5%A5%87%28%E7%AE%80%29%5B%E9%87%91%E5%B7%B4%E6%AF%94%E4%BC%A6%5D%28JP%29%5BRPG%5D%284Mb%29/> | 威洛传奇(简)\[金巴比伦\](JP)\[RPG\](4Mb) |
-| 680 | `孙孙(v20220219)(繁)[Nokoh](JP)[STG](0.62Mb)`：<https://fc.haiyong.site/games/%E5%AD%99%E5%AD%99%28v20220219%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BSTG%5D%280.62Mb%29/> | 孙孙(v20220219)(繁)\[Nokoh\](JP)\[STG\](0.62Mb) |
-| 681 | `孙小毛奇幻岛(繁)[年代科技](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E5%AD%99%E5%B0%8F%E6%AF%9B%E5%A5%87%E5%B9%BB%E5%B2%9B%28%E7%B9%81%29%5B%E5%B9%B4%E4%BB%A3%E7%A7%91%E6%8A%80%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 孙小毛奇幻岛(繁)\[年代科技\](JP)\[ACT\](0.5Mb) |
-| 682 | `孤独战士 - 惑星戒严令(v1.0)(简)[业余](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%AD%A4%E7%8B%AC%E6%88%98%E5%A3%AB%20-%20%E6%83%91%E6%98%9F%E6%88%92%E4%B8%A5%E4%BB%A4%28v1.0%29%28%E7%AE%80%29%5B%E4%B8%9A%E4%BD%99%5D%28JP%29%5BSTG%5D%282Mb%29/> | 孤独战士 - 惑星戒严令(v1.0)(简)\[业余\](JP)\[STG\](2Mb) |
-| 683 | `学习Windows 2000(简)[未知](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E5%AD%A6%E4%B9%A0Windows%202000%28%E7%AE%80%29%5B%E6%9C%AA%E7%9F%A5%5D%28CN%29%5BETC%5D%284Mb%29/> | 学习Windows 2000(简)\[未知\](CN)\[ETC\](4Mb) |
-| 684 | `学生电脑(简)[小视霸](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E5%AD%A6%E7%94%9F%E7%94%B5%E8%84%91%28%E7%AE%80%29%5B%E5%B0%8F%E8%A7%86%E9%9C%B8%5D%28CN%29%5BETC%5D%284Mb%29/> | 学生电脑(简)\[小视霸\](CN)\[ETC\](4Mb) |
-| 685 | `学生电脑(简)[未知](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E5%AD%A6%E7%94%9F%E7%94%B5%E8%84%91%28%E7%AE%80%29%5B%E6%9C%AA%E7%9F%A5%5D%28CN%29%5BETC%5D%284Mb%29/> | 学生电脑(简)\[未知\](CN)\[ETC\](4Mb) |
-| 686 | `学生电脑(简)[高昇达](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E5%AD%A6%E7%94%9F%E7%94%B5%E8%84%91%28%E7%AE%80%29%5B%E9%AB%98%E6%98%87%E8%BE%BE%5D%28CN%29%5BETC%5D%284Mb%29/> | 学生电脑(简)\[高昇达\](CN)\[ETC\](4Mb) |
-| 687 | `宇宙巡航机(v0.9)(简)[高伟](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/%E5%AE%87%E5%AE%99%E5%B7%A1%E8%88%AA%E6%9C%BA%28v0.9%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.5Mb%29/> | 宇宙巡航机(v0.9)(简)\[高伟\](JP)\[STG\](0.5Mb) |
-| 688 | `宇宙巡航机(简)[虫儿](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/%E5%AE%87%E5%AE%99%E5%B7%A1%E8%88%AA%E6%9C%BA%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JP%29%5BSTG%5D%280.5Mb%29/> | 宇宙巡航机(简)\[虫儿\](JP)\[STG\](0.5Mb) |
-| 689 | `宇宙巡航机(繁)[罗云](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/%E5%AE%87%E5%AE%99%E5%B7%A1%E8%88%AA%E6%9C%BA%28%E7%B9%81%29%5B%E7%BD%97%E4%BA%91%5D%28JP%29%5BSTG%5D%280.5Mb%29/> | 宇宙巡航机(繁)\[罗云\](JP)\[STG\](0.5Mb) |
-| 690 | `宇宙巡航机2(v0.9)(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%AE%87%E5%AE%99%E5%B7%A1%E8%88%AA%E6%9C%BA2%28v0.9%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 宇宙巡航机2(v0.9)(简)\[高伟\](JP)\[STG\](2Mb) |
-| 691 | `宇宙巡航机2(简)[MS](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%AE%87%E5%AE%99%E5%B7%A1%E8%88%AA%E6%9C%BA2%28%E7%AE%80%29%5BMS%5D%28JP%29%5BSTG%5D%282Mb%29/> | 宇宙巡航机2(简)\[MS\](JP)\[STG\](2Mb) |
-| 692 | `宇宙巡航机2(简)[虫儿](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%AE%87%E5%AE%99%E5%B7%A1%E8%88%AA%E6%9C%BA2%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JP%29%5BSTG%5D%282Mb%29/> | 宇宙巡航机2(简)\[虫儿\](JP)\[STG\](2Mb) |
-| 693 | `宇宙战将(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%AE%87%E5%AE%99%E6%88%98%E5%B0%86%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 宇宙战将(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 694 | `宇宙警备队SDF(v1.0)(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%AE%87%E5%AE%99%E8%AD%A6%E5%A4%87%E9%98%9FSDF%28v1.0%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 宇宙警备队SDF(v1.0)(简)\[高伟\](JP)\[STG\](2Mb) |
-| 695 | `宇宙警备队SDF(简)[虫虫](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%AE%87%E5%AE%99%E8%AD%A6%E5%A4%87%E9%98%9FSDF%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BSTG%5D%282Mb%29/> | 宇宙警备队SDF(简)\[虫虫\](JP)\[STG\](2Mb) |
-| 696 | `守护者坦克(v0.9)(简)[高伟](US)[STG](0.75Mb)`：<https://fc.haiyong.site/games/%E5%AE%88%E6%8A%A4%E8%80%85%E5%9D%A6%E5%85%8B%28v0.9%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BSTG%5D%280.75Mb%29/> | 守护者坦克(v0.9)(简)\[高伟\](US)\[STG\](0.75Mb) |
-| 697 | `守护者坦克(简)[烈火暴龙](US)[STG](0.75Mb)`：<https://fc.haiyong.site/games/%E5%AE%88%E6%8A%A4%E8%80%85%E5%9D%A6%E5%85%8B%28%E7%AE%80%29%5B%E7%83%88%E7%81%AB%E6%9A%B4%E9%BE%99%5D%28US%29%5BSTG%5D%280.75Mb%29/> | 守护者坦克(简)\[烈火暴龙\](US)\[STG\](0.75Mb) |
-| 698 | `守护者坦克(简)[虫虫](US)[STG](0.75Mb)`：<https://fc.haiyong.site/games/%E5%AE%88%E6%8A%A4%E8%80%85%E5%9D%A6%E5%85%8B%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28US%29%5BSTG%5D%280.75Mb%29/> | 守护者坦克(简)\[虫虫\](US)\[STG\](0.75Mb) |
-| 699 | `宠物 - 红(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%AE%A0%E7%89%A9%20-%20%E7%BA%A2%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 宠物 - 红(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 700 | `宠物 - 翡翠版(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%AE%A0%E7%89%A9%20-%20%E7%BF%A1%E7%BF%A0%E7%89%88%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 宠物 - 翡翠版(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 701 | `宠物大家族(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%AE%A0%E7%89%A9%E5%A4%A7%E5%AE%B6%E6%97%8F%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 宠物大家族(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 702 | `宠物宝宝(简)[南晶科技](CN)[ETC](2Mb)`：<https://fc.haiyong.site/games/%E5%AE%A0%E7%89%A9%E5%AE%9D%E5%AE%9D%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BETC%5D%282Mb%29/> | 宠物宝宝(简)\[南晶科技\](CN)\[ETC\](2Mb) |
-| 703 | `宠物小精灵2(繁)[酷哥电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%AE%A0%E7%89%A9%E5%B0%8F%E7%B2%BE%E7%81%B52%28%E7%B9%81%29%5B%E9%85%B7%E5%93%A5%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 宠物小精灵2(繁)\[酷哥电子\](CN)\[RPG\](8Mb) |
-| 704 | `宠物小精灵4(简)[酷哥电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%AE%A0%E7%89%A9%E5%B0%8F%E7%B2%BE%E7%81%B54%28%E7%AE%80%29%5B%E9%85%B7%E5%93%A5%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 宠物小精灵4(简)\[酷哥电子\](CN)\[RPG\](8Mb) |
-| 705 | `宠物小精灵6(简)[酷哥电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%AE%A0%E7%89%A9%E5%B0%8F%E7%B2%BE%E7%81%B56%28%E7%AE%80%29%5B%E9%85%B7%E5%93%A5%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 宠物小精灵6(简)\[酷哥电子\](CN)\[RPG\](8Mb) |
-| 706 | `宠物进化史(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%AE%A0%E7%89%A9%E8%BF%9B%E5%8C%96%E5%8F%B2%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 宠物进化史(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 707 | `宠物高达战记(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%AE%A0%E7%89%A9%E9%AB%98%E8%BE%BE%E6%88%98%E8%AE%B0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 宠物高达战记(简)\[南晶科技\](CN)\[RPG\](8Mb) |
-| 708 | `宾尼兔大冒险(简)[汉化你妹](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%AE%BE%E5%B0%BC%E5%85%94%E5%A4%A7%E5%86%92%E9%99%A9%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BACT%5D%283Mb%29/> | 宾尼兔大冒险(简)\[汉化你妹\](JP)\[ACT\](3Mb) |
-| 709 | `富甲三国(简)[外星科技](CN)[TAB](8Mb)`：<https://fc.haiyong.site/games/%E5%AF%8C%E7%94%B2%E4%B8%89%E5%9B%BD%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BTAB%5D%288Mb%29/> | 富甲三国(简)\[外星科技\](CN)\[TAB\](8Mb) |
-| 710 | `寻秦记(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%AF%BB%E7%A7%A6%E8%AE%B0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 寻秦记(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 711 | `导弹坦克(v1.0)(简)[九班](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/%E5%AF%BC%E5%BC%B9%E5%9D%A6%E5%85%8B%28v1.0%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BSTG%5D%280.31Mb%29/> | 导弹坦克(v1.0)(简)\[九班\](JP)\[STG\](0.31Mb) |
-| 712 | `导弹坦克(简)[烟山科技](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/%E5%AF%BC%E5%BC%B9%E5%9D%A6%E5%85%8B%28%E7%AE%80%29%5B%E7%83%9F%E5%B1%B1%E7%A7%91%E6%8A%80%5D%28JP%29%5BSTG%5D%280.31Mb%29/> | 导弹坦克(简)\[烟山科技\](JP)\[STG\](0.31Mb) |
-| 713 | `封神榜 - 伏魔三太子(简)[全崴资讯+147201688](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%B0%81%E7%A5%9E%E6%A6%9C%20-%20%E4%BC%8F%E9%AD%94%E4%B8%89%E5%A4%AA%E5%AD%90%28%E7%AE%80%29%5B%E5%85%A8%E5%B4%B4%E8%B5%84%E8%AE%AF%2B147201688%5D%28CN%29%5BRPG%5D%288Mb%29/> | 封神榜 - 伏魔三太子(简)\[全崴资讯+147201688\](CN)\[RPG\](8Mb) |
-| 714 | `封神榜 - 伏魔三太子(繁)[全崴资讯](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%B0%81%E7%A5%9E%E6%A6%9C%20-%20%E4%BC%8F%E9%AD%94%E4%B8%89%E5%A4%AA%E5%AD%90%28%E7%B9%81%29%5B%E5%85%A8%E5%B4%B4%E8%B5%84%E8%AE%AF%5D%28CN%29%5BRPG%5D%288Mb%29/> | 封神榜 - 伏魔三太子(繁)\[全崴资讯\](CN)\[RPG\](8Mb) |
-| 715 | `封神榜 - 伏魔三太子(繁)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%B0%81%E7%A5%9E%E6%A6%9C%20-%20%E4%BC%8F%E9%AD%94%E4%B8%89%E5%A4%AA%E5%AD%90%28%E7%B9%81%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 封神榜 - 伏魔三太子(繁)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 716 | `封神榜(繁)[外星科技](CN)[FTG](4Mb)`：<https://fc.haiyong.site/games/%E5%B0%81%E7%A5%9E%E6%A6%9C%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BFTG%5D%284Mb%29/> | 封神榜(繁)\[外星科技\](CN)\[FTG\](4Mb) |
-| 717 | `射雕英雄传(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 射雕英雄传(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 718 | `将棋秘传 - 内藤九段(简)[九班](JP)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/%E5%B0%86%E6%A3%8B%E7%A7%98%E4%BC%A0%20-%20%E5%86%85%E8%97%A4%E4%B9%9D%E6%AE%B5%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BTAB%5D%280.18Mb%29/> | 将棋秘传 - 内藤九段(简)\[九班\](JP)\[TAB\](0.18Mb) |
-| 719 | `小人子射击(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E4%BA%BA%E5%AD%90%E5%B0%84%E5%87%BB%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 小人子射击(简)\[高伟\](JP)\[STG\](2Mb) |
-| 720 | `小博士(简)[鸿达](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E5%8D%9A%E5%A3%AB%28%E7%AE%80%29%5B%E9%B8%BF%E8%BE%BE%5D%28CN%29%5BETC%5D%288Mb%29/> | 小博士(简)\[鸿达\](CN)\[ETC\](8Mb) |
-| 721 | `小学语文达标乐园(简)[小霸王](CN)[ETC](16Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E5%AD%A6%E8%AF%AD%E6%96%87%E8%BE%BE%E6%A0%87%E4%B9%90%E5%9B%AD%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%2816Mb%29/> | 小学语文达标乐园(简)\[小霸王\](CN)\[ETC\](16Mb) |
-| 722 | `小小魔法师(简)[LSP](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E5%B0%8F%E9%AD%94%E6%B3%95%E5%B8%88%28%E7%AE%80%29%5BLSP%5D%28JP%29%5BSLG%5D%284Mb%29/> | 小小魔法师(简)\[LSP\](JP)\[SLG\](4Mb) |
-| 723 | `小状元教学卡(A1.0)(简)[先达电子](CN)[ETC](1Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E7%8A%B6%E5%85%83%E6%95%99%E5%AD%A6%E5%8D%A1%28A1.0%29%28%E7%AE%80%29%5B%E5%85%88%E8%BE%BE%E7%94%B5%E5%AD%90%5D%28CN%29%5BETC%5D%281Mb%29/> | 小状元教学卡(A1.0)(简)\[先达电子\](CN)\[ETC\](1Mb) |
-| 724 | `小玛琍(繁)[Idea-Tek](CN)[TAB](0.31Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E7%8E%9B%E7%90%8D%28%E7%B9%81%29%5BIdea-Tek%5D%28CN%29%5BTAB%5D%280.31Mb%29/> | 小玛琍(繁)\[Idea-Tek\](CN)\[TAB\](0.31Mb) |
-| 725 | `小百科中英文学习机(简)[凌捷](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E7%99%BE%E7%A7%91%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AD%A6%E4%B9%A0%E6%9C%BA%28%E7%AE%80%29%5B%E5%87%8C%E6%8D%B7%5D%28CN%29%5BETC%5D%284Mb%29/> | 小百科中英文学习机(简)\[凌捷\](CN)\[ETC\](4Mb) |
-| 726 | `小红帽(繁)[洁晖](CN)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E7%BA%A2%E5%B8%BD%28%E7%B9%81%29%5B%E6%B4%81%E6%99%96%5D%28CN%29%5BACT%5D%280.31Mb%29/> | 小红帽(繁)\[洁晖\](CN)\[ACT\](0.31Mb) |
-| 727 | `小美人鱼 - 人鱼公主(简)[中伟](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E7%BE%8E%E4%BA%BA%E9%B1%BC%20-%20%E4%BA%BA%E9%B1%BC%E5%85%AC%E4%B8%BB%28%E7%AE%80%29%5B%E4%B8%AD%E4%BC%9F%5D%28JP%29%5BACT%5D%281Mb%29/> | 小美人鱼 - 人鱼公主(简)\[中伟\](JP)\[ACT\](1Mb) |
-| 728 | `小美人鱼 - 人鱼公主(简)[冰组](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E7%BE%8E%E4%BA%BA%E9%B1%BC%20-%20%E4%BA%BA%E9%B1%BC%E5%85%AC%E4%B8%BB%28%E7%AE%80%29%5B%E5%86%B0%E7%BB%84%5D%28JP%29%5BACT%5D%281Mb%29/> | 小美人鱼 - 人鱼公主(简)\[冰组\](JP)\[ACT\](1Mb) |
-| 729 | `小蜜蜂(v1.0)(简)[MS](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E8%9C%9C%E8%9C%82%28v1.0%29%28%E7%AE%80%29%5BMS%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 小蜜蜂(v1.0)(简)\[MS\](JP)\[STG\](0.18Mb) |
-| 730 | `小蜜蜂(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E8%9C%9C%E8%9C%82%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 小蜜蜂(简)\[高伟\](JP)\[STG\](0.18Mb) |
-| 731 | `小霸王中英文电脑学习卡(v1.1)(简)[小霸王](CN)[ETC](2Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E9%9C%B8%E7%8E%8B%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E8%84%91%E5%AD%A6%E4%B9%A0%E5%8D%A1%28v1.1%29%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%282Mb%29/> | 小霸王中英文电脑学习卡(v1.1)(简)\[小霸王\](CN)\[ETC\](2Mb) |
-| 732 | `小霸王中英文电脑学习卡(v3.0)(简)[小霸王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E9%9C%B8%E7%8E%8B%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E8%84%91%E5%AD%A6%E4%B9%A0%E5%8D%A1%28v3.0%29%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%284Mb%29/> | 小霸王中英文电脑学习卡(v3.0)(简)\[小霸王\](CN)\[ETC\](4Mb) |
-| 733 | `小霸王中英文电脑学习卡(v4.0)(简)[小霸王](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E9%9C%B8%E7%8E%8B%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E8%84%91%E5%AD%A6%E4%B9%A0%E5%8D%A1%28v4.0%29%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%288Mb%29/> | 小霸王中英文电脑学习卡(v4.0)(简)\[小霸王\](CN)\[ETC\](8Mb) |
-| 734 | `小霸王中英文电脑学习卡(v5.0)(简)[小霸王](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E9%9C%B8%E7%8E%8B%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E8%84%91%E5%AD%A6%E4%B9%A0%E5%8D%A1%28v5.0%29%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%288Mb%29/> | 小霸王中英文电脑学习卡(v5.0)(简)\[小霸王\](CN)\[ETC\](8Mb) |
-| 735 | `小霸王中英文电脑学习卡(v6+)(简)[小霸王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E9%9C%B8%E7%8E%8B%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E8%84%91%E5%AD%A6%E4%B9%A0%E5%8D%A1%28v6%2B%29%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%284Mb%29/> | 小霸王中英文电脑学习卡(v6+)(简)\[小霸王\](CN)\[ETC\](4Mb) |
-| 736 | `小霸王中英文电脑学习卡(v6.0)(简)[小霸王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E9%9C%B8%E7%8E%8B%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E8%84%91%E5%AD%A6%E4%B9%A0%E5%8D%A1%28v6.0%29%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%284Mb%29/> | 小霸王中英文电脑学习卡(v6.0)(简)\[小霸王\](CN)\[ETC\](4Mb) |
-| 737 | `小霸王中英文电脑学习机(v8.0)(简)[小霸王](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E9%9C%B8%E7%8E%8B%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E8%84%91%E5%AD%A6%E4%B9%A0%E6%9C%BA%28v8.0%29%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%288Mb%29/> | 小霸王中英文电脑学习机(v8.0)(简)\[小霸王\](CN)\[ETC\](8Mb) |
-| 738 | `小霸王学习卡16合1(简)[小霸王](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E9%9C%B8%E7%8E%8B%E5%AD%A6%E4%B9%A0%E5%8D%A116%E5%90%881%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%288Mb%29/> | 小霸王学习卡16合1(简)\[小霸王\](CN)\[ETC\](8Mb) |
-| 739 | `小霸王学习卡5合1(简)[小霸王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E9%9C%B8%E7%8E%8B%E5%AD%A6%E4%B9%A0%E5%8D%A15%E5%90%881%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%284Mb%29/> | 小霸王学习卡5合1(简)\[小霸王\](CN)\[ETC\](4Mb) |
-| 740 | `小鬼Q太郎[高伟汉化](1Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E9%AC%BCQ%E5%A4%AA%E9%83%8E%5B%E9%AB%98%E4%BC%9F%E6%B1%89%E5%8C%96%5D%281Mb%29/> | 小鬼Q太郎\[高伟汉化\](1Mb) |
-| 741 | `小魔怪2 - 新种诞生(简)[虫虫](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%B0%8F%E9%AD%94%E6%80%AA2%20-%20%E6%96%B0%E7%A7%8D%E8%AF%9E%E7%94%9F%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28US%29%5BACT%5D%283Mb%29/> | 小魔怪2 - 新种诞生(简)\[虫虫\](US)\[ACT\](3Mb) |
-| 742 | `少年印第安纳琼斯大冒险(v1.1)(简)[溪流满月+KasuraJ](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%B0%91%E5%B9%B4%E5%8D%B0%E7%AC%AC%E5%AE%89%E7%BA%B3%E7%90%BC%E6%96%AF%E5%A4%A7%E5%86%92%E9%99%A9%28v1.1%29%28%E7%AE%80%29%5B%E6%BA%AA%E6%B5%81%E6%BB%A1%E6%9C%88%2BKasuraJ%5D%28US%29%5BACT%5D%283Mb%29/> | 少年印第安纳琼斯大冒险(v1.1)(简)\[溪流满月+KasuraJ\](US)\[ACT\](3Mb) |
-| 743 | `少年游侠(简)[外星科技](CN)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E5%B0%91%E5%B9%B4%E6%B8%B8%E4%BE%A0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%286Mb%29/> | 少年游侠(简)\[外星科技\](CN)\[RPG\](6Mb) |
-| 744 | `少林武者(简)[圣谦](CN)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%B0%91%E6%9E%97%E6%AD%A6%E8%80%85%28%E7%AE%80%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BACT%5D%282Mb%29/> | 少林武者(简)\[圣谦\](CN)\[ACT\](2Mb) |
-| 745 | `屠龙刀(繁)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%B1%A0%E9%BE%99%E5%88%80%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%284Mb%29/> | 屠龙刀(繁)\[外星科技\](CN)\[ACT\](4Mb) |
-| 746 | `屠龙记4(简)[孔雀天](JP)[ACT](1.5Mb)`：<https://fc.haiyong.site/games/%E5%B1%A0%E9%BE%99%E8%AE%B04%28%E7%AE%80%29%5B%E5%AD%94%E9%9B%80%E5%A4%A9%5D%28JP%29%5BACT%5D%281.5Mb%29/> | 屠龙记4(简)\[孔雀天\](JP)\[ACT\](1.5Mb) |
-| 747 | `岳飞传(繁)[火星电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%B2%B3%E9%A3%9E%E4%BC%A0%28%E7%B9%81%29%5B%E7%81%AB%E6%98%9F%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%284Mb%29/> | 岳飞传(繁)\[火星电子\](CN)\[RPG\](4Mb) |
-| 748 | `工人战记(简)[高伟](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%B7%A5%E4%BA%BA%E6%88%98%E8%AE%B0%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%283Mb%29/> | 工人战记(简)\[高伟\](JP)\[ACT\](3Mb) |
-| 749 | `工人战记2(v20201030)(简)[Advance](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%B7%A5%E4%BA%BA%E6%88%98%E8%AE%B02%28v20201030%29%28%E7%AE%80%29%5BAdvance%5D%28JP%29%5BACT%5D%283Mb%29/> | 工人战记2(v20201030)(简)\[Advance\](JP)\[ACT\](3Mb) |
-| 750 | `希特勒复活(简)[TPU](JP)[ACT](2.25Mb)`：<https://fc.haiyong.site/games/%E5%B8%8C%E7%89%B9%E5%8B%92%E5%A4%8D%E6%B4%BB%28%E7%AE%80%29%5BTPU%5D%28JP%29%5BACT%5D%282.25Mb%29/> | 希特勒复活(简)\[TPU\](JP)\[ACT\](2.25Mb) |
-| 751 | `帝国战机(简)[幻想](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%B8%9D%E5%9B%BD%E6%88%98%E6%9C%BA%28%E7%AE%80%29%5B%E5%B9%BB%E6%83%B3%5D%28JP%29%5BSTG%5D%282Mb%29/> | 帝国战机(简)\[幻想\](JP)\[STG\](2Mb) |
-| 752 | `帝国战机(简)[虫虫](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%B8%9D%E5%9B%BD%E6%88%98%E6%9C%BA%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BSTG%5D%282Mb%29/> | 帝国战机(简)\[虫虫\](JP)\[STG\](2Mb) |
-| 753 | `帝国战机(简)[金明](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E5%B8%9D%E5%9B%BD%E6%88%98%E6%9C%BA%28%E7%AE%80%29%5B%E9%87%91%E6%98%8E%5D%28JP%29%5BSTG%5D%282Mb%29/> | 帝国战机(简)\[金明\](JP)\[STG\](2Mb) |
-| 754 | `帝国时代(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%B8%9D%E5%9B%BD%E6%97%B6%E4%BB%A3%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 帝国时代(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 755 | `帝国直升机(简)[小鬼混](US)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E5%B8%9D%E5%9B%BD%E7%9B%B4%E5%8D%87%E6%9C%BA%28%E7%AE%80%29%5B%E5%B0%8F%E9%AC%BC%E6%B7%B7%5D%28US%29%5BSTG%5D%280.18Mb%29/> | 帝国直升机(简)\[小鬼混\](US)\[STG\](0.18Mb) |
-| 756 | `帝国风暴(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E5%B8%9D%E5%9B%BD%E9%A3%8E%E6%9A%B4%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 帝国风暴(简)\[外星科技\](CN)\[SLG\](4Mb) |
-| 757 | `平成BT帝国战(简)[小鬼混](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%B9%B3%E6%88%90BT%E5%B8%9D%E5%9B%BD%E6%88%98%28%E7%AE%80%29%5B%E5%B0%8F%E9%AC%BC%E6%B7%B7%5D%28JP%29%5BACT%5D%282Mb%29/> | 平成BT帝国战(简)\[小鬼混\](JP)\[ACT\](2Mb) |
-| 758 | `幻世录(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%B9%BB%E4%B8%96%E5%BD%95%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 幻世录(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 759 | `幻想传说(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E5%B9%BB%E6%83%B3%E4%BC%A0%E8%AF%B4%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 幻想传说(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 760 | `幽游白书 - 魔界最强列传(繁)[卡圣](CN)[FTG](5Mb)`：<https://fc.haiyong.site/games/%E5%B9%BD%E6%B8%B8%E7%99%BD%E4%B9%A6%20-%20%E9%AD%94%E7%95%8C%E6%9C%80%E5%BC%BA%E5%88%97%E4%BC%A0%28%E7%B9%81%29%5B%E5%8D%A1%E5%9C%A3%5D%28CN%29%5BFTG%5D%285Mb%29/> | 幽游白书 - 魔界最强列传(繁)\[卡圣\](CN)\[FTG\](5Mb) |
-| 761 | `幽游白书5(繁)[卡圣](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/%E5%B9%BD%E6%B8%B8%E7%99%BD%E4%B9%A65%28%E7%B9%81%29%5B%E5%8D%A1%E5%9C%A3%5D%28CN%29%5BFTG%5D%283Mb%29/> | 幽游白书5(繁)\[卡圣\](CN)\[FTG\](3Mb) |
-| 762 | `幽灵列车(简)[外星科技](JP)[AVG](4Mb)`：<https://fc.haiyong.site/games/%E5%B9%BD%E7%81%B5%E5%88%97%E8%BD%A6%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BAVG%5D%284Mb%29/> | 幽灵列车(简)\[外星科技\](JP)\[AVG\](4Mb) |
-| 763 | `幽灵行动(简)[恒格电子](CN)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E5%B9%BD%E7%81%B5%E8%A1%8C%E5%8A%A8%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%286Mb%29/> | 幽灵行动(简)\[恒格电子\](CN)\[RPG\](6Mb) |
-| 764 | `库尼沃库君的热血足球(简)[王龙](JP)[SPG](2Mb)`：<https://fc.haiyong.site/games/%E5%BA%93%E5%B0%BC%E6%B2%83%E5%BA%93%E5%90%9B%E7%9A%84%E7%83%AD%E8%A1%80%E8%B6%B3%E7%90%83%28%E7%AE%80%29%5B%E7%8E%8B%E9%BE%99%5D%28JP%29%5BSPG%5D%282Mb%29/> | 库尼沃库君的热血足球(简)\[王龙\](JP)\[SPG\](2Mb) |
-| 765 | `康体舞王(繁)[未知](CN)[ETC](2Mb)`：<https://fc.haiyong.site/games/%E5%BA%B7%E4%BD%93%E8%88%9E%E7%8E%8B%28%E7%B9%81%29%5B%E6%9C%AA%E7%9F%A5%5D%28CN%29%5BETC%5D%282Mb%29/> | 康体舞王(繁)\[未知\](CN)\[ETC\](2Mb) |
-| 766 | `异域诛魂(简)[孔雀天](US)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E5%BC%82%E5%9F%9F%E8%AF%9B%E9%AD%82%28%E7%AE%80%29%5B%E5%AD%94%E9%9B%80%E5%A4%A9%5D%28US%29%5BACT%5D%280.5Mb%29/> | 异域诛魂(简)\[孔雀天\](US)\[ACT\](0.5Mb) |
-| 767 | `异域诛魂(简)[虫虫](US)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E5%BC%82%E5%9F%9F%E8%AF%9B%E9%AD%82%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28US%29%5BACT%5D%280.5Mb%29/> | 异域诛魂(简)\[虫虫\](US)\[ACT\](0.5Mb) |
-| 768 | `异形 - 太空探险者(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E5%BC%82%E5%BD%A2%20-%20%E5%A4%AA%E7%A9%BA%E6%8E%A2%E9%99%A9%E8%80%85%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 异形 - 太空探险者(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 769 | `异形3(v1.1)(简)[DMG](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%BC%82%E5%BD%A23%28v1.1%29%28%E7%AE%80%29%5BDMG%5D%28US%29%5BACT%5D%282Mb%29/> | 异形3(v1.1)(简)\[DMG\](US)\[ACT\](2Mb) |
-| 770 | `弹射球(修正版)(简)[8GUA+MS](JP)[PUZ](0.31Mb)`：<https://fc.haiyong.site/games/%E5%BC%B9%E5%B0%84%E7%90%83%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B8GUA%2BMS%5D%28JP%29%5BPUZ%5D%280.31Mb%29/> | 弹射球(修正版)(简)\[8GUA+MS\](JP)\[PUZ\](0.31Mb) |
-| 771 | `弹珠台(简)[MS](JU)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/%E5%BC%B9%E7%8F%A0%E5%8F%B0%28%E7%AE%80%29%5BMS%5D%28JU%29%5BTAB%5D%280.18Mb%29/> | 弹珠台(简)\[MS\](JU)\[TAB\](0.18Mb) |
-| 772 | `弹珠台(简)[高伟](JU)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/%E5%BC%B9%E7%8F%A0%E5%8F%B0%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JU%29%5BTAB%5D%280.18Mb%29/> | 弹珠台(简)\[高伟\](JU)\[TAB\](0.18Mb) |
-| 773 | `影之传说(v1.0)(街机版)(简)[KasuraJ](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E5%BD%B1%E4%B9%8B%E4%BC%A0%E8%AF%B4%28v1.0%29%28%E8%A1%97%E6%9C%BA%E7%89%88%29%28%E7%AE%80%29%5BKasuraJ%5D%28JP%29%5BACT%5D%281Mb%29/> | 影之传说(v1.0)(街机版)(简)\[KasuraJ\](JP)\[ACT\](1Mb) |
-| 774 | `影之传说(v20220217)(繁)[Nokoh](JP)[ACT](0.81Mb)`：<https://fc.haiyong.site/games/%E5%BD%B1%E4%B9%8B%E4%BC%A0%E8%AF%B4%28v20220217%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%280.81Mb%29/> | 影之传说(v20220217)(繁)\[Nokoh\](JP)\[ACT\](0.81Mb) |
-| 775 | `影之传说(v20230420)(简)[Nokoh+fciq](JP)[ACT](0.81Mb)`：<https://fc.haiyong.site/games/%E5%BD%B1%E4%B9%8B%E4%BC%A0%E8%AF%B4%28v20230420%29%28%E7%AE%80%29%5BNokoh%2Bfciq%5D%28JP%29%5BACT%5D%280.81Mb%29/> | 影之传说(v20230420)(简)\[Nokoh+fciq\](JP)\[ACT\](0.81Mb) |
-| 776 | `影子传说(v0.9)(简)[高伟](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/%E5%BD%B1%E5%AD%90%E4%BC%A0%E8%AF%B4%28v0.9%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.37Mb%29/> | 影子传说(v0.9)(简)\[高伟\](JP)\[ACT\](0.37Mb) |
-| 777 | `影子传说(简)[冰组](JP)[ACT](0.62Mb)`：<https://fc.haiyong.site/games/%E5%BD%B1%E5%AD%90%E4%BC%A0%E8%AF%B4%28%E7%AE%80%29%5B%E5%86%B0%E7%BB%84%5D%28JP%29%5BACT%5D%280.62Mb%29/> | 影子传说(简)\[冰组\](JP)\[ACT\](0.62Mb) |
-| 778 | `征战天下(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%BE%81%E6%88%98%E5%A4%A9%E4%B8%8B%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 征战天下(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 779 | `征服太阳系+小管家(简)[小霸王](CN)[PUZ](4Mb)`：<https://fc.haiyong.site/games/%E5%BE%81%E6%9C%8D%E5%A4%AA%E9%98%B3%E7%B3%BB%2B%E5%B0%8F%E7%AE%A1%E5%AE%B6%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BPUZ%5D%284Mb%29/> | 征服太阳系+小管家(简)\[小霸王\](CN)\[PUZ\](4Mb) |
-| 780 | `御猫传奇(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E5%BE%A1%E7%8C%AB%E4%BC%A0%E5%A5%87%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 御猫传奇(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 781 | `忍者 - 阿修罗之章(v0.9)(简)[高伟](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%20-%20%E9%98%BF%E4%BF%AE%E7%BD%97%E4%B9%8B%E7%AB%A0%28v0.9%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%281Mb%29/> | 忍者 - 阿修罗之章(v0.9)(简)\[高伟\](JP)\[ACT\](1Mb) |
-| 782 | `忍者 - 阿修罗之章(简)[金明](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%20-%20%E9%98%BF%E4%BF%AE%E7%BD%97%E4%B9%8B%E7%AB%A0%28%E7%AE%80%29%5B%E9%87%91%E6%98%8E%5D%28JP%29%5BACT%5D%281Mb%29/> | 忍者 - 阿修罗之章(简)\[金明\](JP)\[ACT\](1Mb) |
-| 783 | `忍者传说(修正版)(简)[中伟+MS](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E4%BC%A0%E8%AF%B4%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E4%B8%AD%E4%BC%9F%2BMS%5D%28JP%29%5BACT%5D%280.37Mb%29/> | 忍者传说(修正版)(简)\[中伟+MS\](JP)\[ACT\](0.37Mb) |
-| 784 | `忍者战士 - 龙牙(简)[少年不知愁](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E6%88%98%E5%A3%AB%20-%20%E9%BE%99%E7%89%99%28%E7%AE%80%29%5B%E5%B0%91%E5%B9%B4%E4%B8%8D%E7%9F%A5%E6%84%81%5D%28JP%29%5BACT%5D%282Mb%29/> | 忍者战士 - 龙牙(简)\[少年不知愁\](JP)\[ACT\](2Mb) |
-| 785 | `忍者特训(简)[金明](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E7%89%B9%E8%AE%AD%28%E7%AE%80%29%5B%E9%87%91%E6%98%8E%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 忍者特训(简)\[金明\](JP)\[ACT\](0.18Mb) |
-| 786 | `忍者神龟 - 激烈格斗(v20230622)(简)[Nokoh+fciq](US)[FTG](2.25Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E7%A5%9E%E9%BE%9F%20-%20%E6%BF%80%E7%83%88%E6%A0%BC%E6%96%97%28v20230622%29%28%E7%AE%80%29%5BNokoh%2Bfciq%5D%28US%29%5BFTG%5D%282.25Mb%29/> | 忍者神龟 - 激烈格斗(v20230622)(简)\[Nokoh+fciq\](US)\[FTG\](2.25Mb) |
-| 787 | `忍者神龟(v20230415)(简)[Nokoh+fciq](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E7%A5%9E%E9%BE%9F%28v20230415%29%28%E7%AE%80%29%5BNokoh%2Bfciq%5D%28JP%29%5BACT%5D%286Mb%29/> | 忍者神龟(v20230415)(简)\[Nokoh+fciq\](JP)\[ACT\](6Mb) |
-| 788 | `忍者神龟2 - 曼哈顿计划(v1.1)[未名汉化组 + 法兰克飞鸟汉化](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E7%A5%9E%E9%BE%9F2%20-%20%E6%9B%BC%E5%93%88%E9%A1%BF%E8%AE%A1%E5%88%92%28v1.1%29%5B%E6%9C%AA%E5%90%8D%E6%B1%89%E5%8C%96%E7%BB%84%20%2B%20%E6%B3%95%E5%85%B0%E5%85%8B%E9%A3%9E%E9%B8%9F%E6%B1%89%E5%8C%96%5D%28JP%29%5BACT%5D%286Mb%29/> | 忍者神龟2 - 曼哈顿计划(v1.1)\[未名汉化组 + 法兰克飞鸟汉化\](JP)\[ACT\](6Mb) |
-| 789 | `忍者神龟2(修正版)(简)[勒大治+MS](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E7%A5%9E%E9%BE%9F2%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%8B%92%E5%A4%A7%E6%B2%BB%2BMS%5D%28US%29%5BACT%5D%284Mb%29/> | 忍者神龟2(修正版)(简)\[勒大治+MS\](US)\[ACT\](4Mb) |
-| 790 | `忍者神龟2(简)[星空](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E7%A5%9E%E9%BE%9F2%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28US%29%5BACT%5D%284Mb%29/> | 忍者神龟2(简)\[星空\](US)\[ACT\](4Mb) |
-| 791 | `忍者神龟2(简)[樱组](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E7%A5%9E%E9%BE%9F2%28%E7%AE%80%29%5B%E6%A8%B1%E7%BB%84%5D%28US%29%5BACT%5D%284Mb%29/> | 忍者神龟2(简)\[樱组\](US)\[ACT\](4Mb) |
-| 792 | `忍者神龟3 - 曼哈顿计划(v1.2)(简)[未名+法兰克飞鸟](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E7%A5%9E%E9%BE%9F3%20-%20%E6%9B%BC%E5%93%88%E9%A1%BF%E8%AE%A1%E5%88%92%28v1.2%29%28%E7%AE%80%29%5B%E6%9C%AA%E5%90%8D%2B%E6%B3%95%E5%85%B0%E5%85%8B%E9%A3%9E%E9%B8%9F%5D%28JP%29%5BACT%5D%286Mb%29/> | 忍者神龟3 - 曼哈顿计划(v1.2)(简)\[未名+法兰克飞鸟\](JP)\[ACT\](6Mb) |
-| 793 | `忍者神龟3(修正版)(简)[勒大治+MS](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E7%A5%9E%E9%BE%9F3%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%8B%92%E5%A4%A7%E6%B2%BB%2BMS%5D%28JP%29%5BACT%5D%284Mb%29/> | 忍者神龟3(修正版)(简)\[勒大治+MS\](JP)\[ACT\](4Mb) |
-| 794 | `忍者茶茶丸(v0.9)(简)[高伟](JP)[ACT](0.25Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E8%8C%B6%E8%8C%B6%E4%B8%B8%28v0.9%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.25Mb%29/> | 忍者茶茶丸(v0.9)(简)\[高伟\](JP)\[ACT\](0.25Mb) |
-| 795 | `忍者茶茶丸君(v20111227)(繁)[Nokoh](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E8%8C%B6%E8%8C%B6%E4%B8%B8%E5%90%9B%28v20111227%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 忍者茶茶丸君(v20111227)(繁)\[Nokoh\](JP)\[ACT\](0.5Mb) |
-| 796 | `忍者茶茶丸君(v3)(简)[MS](JP)[ACT](0.25Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E8%8C%B6%E8%8C%B6%E4%B8%B8%E5%90%9B%28v3%29%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%280.25Mb%29/> | 忍者茶茶丸君(v3)(简)\[MS\](JP)\[ACT\](0.25Mb) |
-| 797 | `忍者龙剑传(简)[TPU](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E9%BE%99%E5%89%91%E4%BC%A0%28%E7%AE%80%29%5BTPU%5D%28JP%29%5BACT%5D%283Mb%29/> | 忍者龙剑传(简)\[TPU\](JP)\[ACT\](3Mb) |
-| 798 | `忍者龙剑传2 - 暗黑邪神剑(简)[TPU](JP)[ACT](2.56Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E9%BE%99%E5%89%91%E4%BC%A02%20-%20%E6%9A%97%E9%BB%91%E9%82%AA%E7%A5%9E%E5%89%91%28%E7%AE%80%29%5BTPU%5D%28JP%29%5BACT%5D%282.56Mb%29/> | 忍者龙剑传2 - 暗黑邪神剑(简)\[TPU\](JP)\[ACT\](2.56Mb) |
-| 799 | `忍者龙剑传3 - 黄泉方舟(简)[Peacock Wang](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E9%BE%99%E5%89%91%E4%BC%A03%20-%20%E9%BB%84%E6%B3%89%E6%96%B9%E8%88%9F%28%E7%AE%80%29%5BPeacock%20Wang%5D%28JP%29%5BACT%5D%282Mb%29/> | 忍者龙剑传3 - 黄泉方舟(简)\[Peacock Wang\](JP)\[ACT\](2Mb) |
-| 800 | `忍者龙剑传3 - 黄泉方舟(简)[TPU](JP)[ACT](2.62Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E9%BE%99%E5%89%91%E4%BC%A03%20-%20%E9%BB%84%E6%B3%89%E6%96%B9%E8%88%9F%28%E7%AE%80%29%5BTPU%5D%28JP%29%5BACT%5D%282.62Mb%29/> | 忍者龙剑传3 - 黄泉方舟(简)\[TPU\](JP)\[ACT\](2.62Mb) |
-| 801 | `忍者龟 - 激烈格斗(v20220223)(繁)[Nokoh](US)[FTG](2.25Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E9%BE%9F%20-%20%E6%BF%80%E7%83%88%E6%A0%BC%E6%96%97%28v20220223%29%28%E7%B9%81%29%5BNokoh%5D%28US%29%5BFTG%5D%282.25Mb%29/> | 忍者龟 - 激烈格斗(v20220223)(繁)\[Nokoh\](US)\[FTG\](2.25Mb) |
-| 802 | `忍者龟(v20230408)(繁)[Nokoh](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E9%BE%9F%28v20230408%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%286Mb%29/> | 忍者龟(v20230408)(繁)\[Nokoh\](JP)\[ACT\](6Mb) |
-| 803 | `忍者龟2(v20101223)(繁)[Nokoh](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%BF%8D%E8%80%85%E9%BE%9F2%28v20101223%29%28%E7%B9%81%29%5BNokoh%5D%28US%29%5BACT%5D%284Mb%29/> | 忍者龟2(v20101223)(繁)\[Nokoh\](US)\[ACT\](4Mb) |
-| 804 | `快乐比奇3 - 地球战士(解密版)(繁)[外星科技+WXN](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E4%B9%90%E6%AF%94%E5%A5%873%20-%20%E5%9C%B0%E7%90%83%E6%88%98%E5%A3%AB%28%E8%A7%A3%E5%AF%86%E7%89%88%29%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BWXN%5D%28CN%29%5BACT%5D%284Mb%29/> | 快乐比奇3 - 地球战士(解密版)(繁)\[外星科技+WXN\](CN)\[ACT\](4Mb) |
-| 805 | `快乐猫(v1.0)(简)[MM之神](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E4%B9%90%E7%8C%AB%28v1.0%29%28%E7%AE%80%29%5BMM%E4%B9%8B%E7%A5%9E%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 快乐猫(v1.0)(简)\[MM之神\](JP)\[ACT\](0.18Mb) |
-| 806 | `快乐猫(简)[高伟](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E4%B9%90%E7%8C%AB%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 快乐猫(简)\[高伟\](JP)\[ACT\](0.18Mb) |
-| 807 | `快乐猫世界(简)[高伟](JP)[ACT](5.25Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E4%B9%90%E7%8C%AB%E4%B8%96%E7%95%8C%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%285.25Mb%29/> | 快乐猫世界(简)\[高伟\](JP)\[ACT\](5.25Mb) |
-| 808 | `快乐鼠(v1.1)(简)[雷精灵+姜维第二](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E4%B9%90%E9%BC%A0%28v1.1%29%28%E7%AE%80%29%5B%E9%9B%B7%E7%B2%BE%E7%81%B5%2B%E5%A7%9C%E7%BB%B4%E7%AC%AC%E4%BA%8C%5D%28JP%29%5BACT%5D%284Mb%29/> | 快乐鼠(v1.1)(简)\[雷精灵+姜维第二\](JP)\[ACT\](4Mb) |
-| 809 | `快打传说(繁)[Gouder](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E6%89%93%E4%BC%A0%E8%AF%B4%28%E7%B9%81%29%5BGouder%5D%28CN%29%5BFTG%5D%283Mb%29/> | 快打传说(繁)\[Gouder\](CN)\[FTG\](3Mb) |
-| 810 | `快打旋风(修正版)(简)[模拟中文网+MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E6%89%93%E6%97%8B%E9%A3%8E%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E6%A8%A1%E6%8B%9F%E4%B8%AD%E6%96%87%E7%BD%91%2BMS%5D%28US%29%5BACT%5D%282Mb%29/> | 快打旋风(修正版)(简)\[模拟中文网+MS\](US)\[ACT\](2Mb) |
-| 811 | `快打旋风(简)[Antigloss](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E6%89%93%E6%97%8B%E9%A3%8E%28%E7%AE%80%29%5BAntigloss%5D%28US%29%5BACT%5D%282Mb%29/> | 快打旋风(简)\[Antigloss\](US)\[ACT\](2Mb) |
-| 812 | `快打旋风(简)[Madcell](JP)[ACT](2.25Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E6%89%93%E6%97%8B%E9%A3%8E%28%E7%AE%80%29%5BMadcell%5D%28JP%29%5BACT%5D%282.25Mb%29/> | 快打旋风(简)\[Madcell\](JP)\[ACT\](2.25Mb) |
-| 813 | `快打旋风(简)[俞亮](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E6%89%93%E6%97%8B%E9%A3%8E%28%E7%AE%80%29%5B%E4%BF%9E%E4%BA%AE%5D%28US%29%5BACT%5D%282Mb%29/> | 快打旋风(简)\[俞亮\](US)\[ACT\](2Mb) |
-| 814 | `快打旋风(简)[老代](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E6%89%93%E6%97%8B%E9%A3%8E%28%E7%AE%80%29%5B%E8%80%81%E4%BB%A3%5D%28JP%29%5BACT%5D%282Mb%29/> | 快打旋风(简)\[老代\](JP)\[ACT\](2Mb) |
-| 815 | `快打旋风(繁)[Cony Soft](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E6%89%93%E6%97%8B%E9%A3%8E%28%E7%B9%81%29%5BCony%20Soft%5D%28CN%29%5BFTG%5D%283Mb%29/> | 快打旋风(繁)\[Cony Soft\](CN)\[FTG\](3Mb) |
-| 816 | `快打旋风3(简)[dfqshy](CN)[ACT](6Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E6%89%93%E6%97%8B%E9%A3%8E3%28%E7%AE%80%29%5Bdfqshy%5D%28CN%29%5BACT%5D%286Mb%29/> | 快打旋风3(简)\[dfqshy\](CN)\[ACT\](6Mb) |
-| 817 | `快杰洋枪丸2 - 机关之地大冒险(简)[烈火暴龙](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E6%9D%B0%E6%B4%8B%E6%9E%AA%E4%B8%B82%20-%20%E6%9C%BA%E5%85%B3%E4%B9%8B%E5%9C%B0%E5%A4%A7%E5%86%92%E9%99%A9%28%E7%AE%80%29%5B%E7%83%88%E7%81%AB%E6%9A%B4%E9%BE%99%5D%28JP%29%5BACT%5D%282Mb%29/> | 快杰洋枪丸2 - 机关之地大冒险(简)\[烈火暴龙\](JP)\[ACT\](2Mb) |
-| 818 | `快杰洋枪丸2 - 机关之地大探险(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E6%9D%B0%E6%B4%8B%E6%9E%AA%E4%B8%B82%20-%20%E6%9C%BA%E5%85%B3%E4%B9%8B%E5%9C%B0%E5%A4%A7%E6%8E%A2%E9%99%A9%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 快杰洋枪丸2 - 机关之地大探险(简)\[高伟\](JP)\[ACT\](2Mb) |
-| 819 | `快杰洋枪丸3 - 对决！相凌轩(简)[烈火暴龙](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E6%9D%B0%E6%B4%8B%E6%9E%AA%E4%B8%B83%20-%20%E5%AF%B9%E5%86%B3%EF%BC%81%E7%9B%B8%E5%87%8C%E8%BD%A9%28%E7%AE%80%29%5B%E7%83%88%E7%81%AB%E6%9A%B4%E9%BE%99%5D%28JP%29%5BACT%5D%282Mb%29/> | 快杰洋枪丸3 - 对决！相凌轩(简)\[烈火暴龙\](JP)\[ACT\](2Mb) |
-| 820 | `快杰洋枪丸3 - 对决！相凌轩(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E5%BF%AB%E6%9D%B0%E6%B4%8B%E6%9E%AA%E4%B8%B83%20-%20%E5%AF%B9%E5%86%B3%EF%BC%81%E7%9B%B8%E5%87%8C%E8%BD%A9%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 快杰洋枪丸3 - 对决！相凌轩(简)\[高伟\](JP)\[ACT\](2Mb) |
-| 821 | `怒(简)[高伟](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/%E6%80%92%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%281Mb%29/> | 怒(简)\[高伟\](JP)\[STG\](1Mb) |
-| 822 | `怒2 - 胜利之路(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E6%80%922%20-%20%E8%83%9C%E5%88%A9%E4%B9%8B%E8%B7%AF%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 怒2 - 胜利之路(简)\[高伟\](JP)\[STG\](2Mb) |
-| 823 | `怒3(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%80%923%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 怒3(简)\[高伟\](JP)\[ACT\](2Mb) |
-| 824 | `怪物制造者(修正版)(简)[外星科技+时间的流逝](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%80%AA%E7%89%A9%E5%88%B6%E9%80%A0%E8%80%85%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E6%97%B6%E9%97%B4%E7%9A%84%E6%B5%81%E9%80%9D%5D%28JP%29%5BRPG%5D%288Mb%29/> | 怪物制造者(修正版)(简)\[外星科技+时间的流逝\](JP)\[RPG\](8Mb) |
-| 825 | `怪物制造者1(修正版)(简)[外星科技+zxc987123835](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%80%AA%E7%89%A9%E5%88%B6%E9%80%A0%E8%80%851%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2Bzxc987123835%5D%28JP%29%5BRPG%5D%284Mb%29/> | 怪物制造者1(修正版)(简)\[外星科技+zxc987123835\](JP)\[RPG\](4Mb) |
-| 826 | `怪物制造者1(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%80%AA%E7%89%A9%E5%88%B6%E9%80%A0%E8%80%851%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 怪物制造者1(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 827 | `怪物制造者2(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%80%AA%E7%89%A9%E5%88%B6%E9%80%A0%E8%80%852%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 怪物制造者2(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 828 | `怪鸭历险记(简)[汉化你妹](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E6%80%AA%E9%B8%AD%E5%8E%86%E9%99%A9%E8%AE%B0%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28US%29%5BACT%5D%283Mb%29/> | 怪鸭历险记(简)\[汉化你妹\](US)\[ACT\](3Mb) |
-| 829 | `怪鸭飞天德(简)[夜幕星辰](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%80%AA%E9%B8%AD%E9%A3%9E%E5%A4%A9%E5%BE%B7%28%E7%AE%80%29%5B%E5%A4%9C%E5%B9%95%E6%98%9F%E8%BE%B0%5D%28US%29%5BACT%5D%282Mb%29/> | 怪鸭飞天德(简)\[夜幕星辰\](US)\[ACT\](2Mb) |
-| 830 | `恐龙战队兽连者(v20230106)(简)[LSP](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E6%81%90%E9%BE%99%E6%88%98%E9%98%9F%E5%85%BD%E8%BF%9E%E8%80%85%28v20230106%29%28%E7%AE%80%29%5BLSP%5D%28JP%29%5BACT%5D%283Mb%29/> | 恐龙战队兽连者(v20230106)(简)\[LSP\](JP)\[ACT\](3Mb) |
-| 831 | `恶魔世界(v1.0)(简)[高伟](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E6%81%B6%E9%AD%94%E4%B8%96%E7%95%8C%28v1.0%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BPUZ%5D%280.18Mb%29/> | 恶魔世界(v1.0)(简)\[高伟\](JP)\[PUZ\](0.18Mb) |
-| 832 | `恶魔世界(简)[虫虫](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E6%81%B6%E9%AD%94%E4%B8%96%E7%95%8C%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BPUZ%5D%280.18Mb%29/> | 恶魔世界(简)\[虫虫\](JP)\[PUZ\](0.18Mb) |
-| 833 | `恶魔之剑(修正版)(简)[Antigloss+MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%81%B6%E9%AD%94%E4%B9%8B%E5%89%91%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5BAntigloss%2BMS%5D%28US%29%5BACT%5D%282Mb%29/> | 恶魔之剑(修正版)(简)\[Antigloss+MS\](US)\[ACT\](2Mb) |
-| 834 | `恶魔城(简)[吸血男爵](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E6%81%B6%E9%AD%94%E5%9F%8E%28%E7%AE%80%29%5B%E5%90%B8%E8%A1%80%E7%94%B7%E7%88%B5%5D%28JP%29%5BACT%5D%281Mb%29/> | 恶魔城(简)\[吸血男爵\](JP)\[ACT\](1Mb) |
-| 835 | `恶魔城(简)[虫儿](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E6%81%B6%E9%AD%94%E5%9F%8E%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JP%29%5BACT%5D%281Mb%29/> | 恶魔城(简)\[虫儿\](JP)\[ACT\](1Mb) |
-| 836 | `恶魔城2 - 西蒙的任务(v1.1)(繁)[未名](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E6%81%B6%E9%AD%94%E5%9F%8E2%20-%20%E8%A5%BF%E8%92%99%E7%9A%84%E4%BB%BB%E5%8A%A1%28v1.1%29%28%E7%B9%81%29%5B%E6%9C%AA%E5%90%8D%5D%28US%29%5BACT%5D%283Mb%29/> | 恶魔城2 - 西蒙的任务(v1.1)(繁)\[未名\](US)\[ACT\](3Mb) |
-| 837 | `恶魔城2 - 西蒙的任务(简)(v1.2)[未名汉化组汉化](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E6%81%B6%E9%AD%94%E5%9F%8E2%20-%20%E8%A5%BF%E8%92%99%E7%9A%84%E4%BB%BB%E5%8A%A1%28%E7%AE%80%29%28v1.2%29%5B%E6%9C%AA%E5%90%8D%E6%B1%89%E5%8C%96%E7%BB%84%E6%B1%89%E5%8C%96%5D%28US%29%5BACT%5D%283Mb%29/> | 恶魔城2 - 西蒙的任务(简)(v1.2)\[未名汉化组汉化\](US)\[ACT\](3Mb) |
-| 838 | `恶魔城传说(v2.3)(简)[汉化你妹](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E6%81%B6%E9%AD%94%E5%9F%8E%E4%BC%A0%E8%AF%B4%28v2.3%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BACT%5D%284Mb%29/> | 恶魔城传说(v2.3)(简)\[汉化你妹\](JP)\[ACT\](4Mb) |
-| 839 | `恶魔城特别篇 - 我是德古拉君(新标题)(简)[逆游の五彩鱼][ACT](4Mb)`：<https://fc.haiyong.site/games/%E6%81%B6%E9%AD%94%E5%9F%8E%E7%89%B9%E5%88%AB%E7%AF%87%20-%20%E6%88%91%E6%98%AF%E5%BE%B7%E5%8F%A4%E6%8B%89%E5%90%9B%28%E6%96%B0%E6%A0%87%E9%A2%98%29%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E3%81%AE%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%5BACT%5D%284Mb%29/> | 恶魔城特别篇 - 我是德古拉君(新标题)(简)\[逆游の五彩鱼\]\[ACT\](4Mb) |
-| 840 | `悟空斗剧(简)[恒格电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E6%82%9F%E7%A9%BA%E6%96%97%E5%89%A7%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BRPG%5D%286Mb%29/> | 悟空斗剧(简)\[恒格电子\](JP)\[RPG\](6Mb) |
-| 841 | `惊人的热血新记录！ - 遥远的金牌(v2.0)(简)[热血的鱼缸](JP)[SPG](4Mb)`：<https://fc.haiyong.site/games/%E6%83%8A%E4%BA%BA%E7%9A%84%E7%83%AD%E8%A1%80%E6%96%B0%E8%AE%B0%E5%BD%95%EF%BC%81%20-%20%E9%81%A5%E8%BF%9C%E7%9A%84%E9%87%91%E7%89%8C%28v2.0%29%28%E7%AE%80%29%5B%E7%83%AD%E8%A1%80%E7%9A%84%E9%B1%BC%E7%BC%B8%5D%28JP%29%5BSPG%5D%284Mb%29/> | 惊人的热血新记录！ - 遥远的金牌(v2.0)(简)\[热血的鱼缸\](JP)\[SPG\](4Mb) |
-| 842 | `惊人的热血新记录！ - 遥远的金牌(v2.0)(繁)[热血的鱼缸](JP)[SPG](4Mb)`：<https://fc.haiyong.site/games/%E6%83%8A%E4%BA%BA%E7%9A%84%E7%83%AD%E8%A1%80%E6%96%B0%E8%AE%B0%E5%BD%95%EF%BC%81%20-%20%E9%81%A5%E8%BF%9C%E7%9A%84%E9%87%91%E7%89%8C%28v2.0%29%28%E7%B9%81%29%5B%E7%83%AD%E8%A1%80%E7%9A%84%E9%B1%BC%E7%BC%B8%5D%28JP%29%5BSPG%5D%284Mb%29/> | 惊人的热血新记录！ - 遥远的金牌(v2.0)(繁)\[热血的鱼缸\](JP)\[SPG\](4Mb) |
-| 843 | `惊慌餐厅争夺战(简)[九班](GB)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%83%8A%E6%85%8C%E9%A4%90%E5%8E%85%E4%BA%89%E5%A4%BA%E6%88%98%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28GB%29%5BACT%5D%282Mb%29/> | 惊慌餐厅争夺战(简)\[九班\](GB)\[ACT\](2Mb) |
-| 844 | `愤怒的小鸟(简)[九班](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E6%84%A4%E6%80%92%E7%9A%84%E5%B0%8F%E9%B8%9F%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BPUZ%5D%280.5Mb%29/> | 愤怒的小鸟(简)\[九班\](JP)\[PUZ\](0.5Mb) |
-| 845 | `愤怒的小鸟(简)[快乐的龙][PUZ](0.75Mb)`：<https://fc.haiyong.site/games/%E6%84%A4%E6%80%92%E7%9A%84%E5%B0%8F%E9%B8%9F%28%E7%AE%80%29%5B%E5%BF%AB%E4%B9%90%E7%9A%84%E9%BE%99%5D%5BPUZ%5D%280.75Mb%29/> | 愤怒的小鸟(简)\[快乐的龙\]\[PUZ\](0.75Mb) |
-| 846 | `戈巴水管大作战(简)[verkkars](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E6%88%88%E5%B7%B4%E6%B0%B4%E7%AE%A1%E5%A4%A7%E4%BD%9C%E6%88%98%28%E7%AE%80%29%5Bverkkars%5D%28JP%29%5BPUZ%5D%280.5Mb%29/> | 戈巴水管大作战(简)\[verkkars\](JP)\[PUZ\](0.5Mb) |
-| 847 | `戈巴水管大作战(简)[翼势力](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E6%88%88%E5%B7%B4%E6%B0%B4%E7%AE%A1%E5%A4%A7%E4%BD%9C%E6%88%98%28%E7%AE%80%29%5B%E7%BF%BC%E5%8A%BF%E5%8A%9B%5D%28JP%29%5BPUZ%5D%280.5Mb%29/> | 戈巴水管大作战(简)\[翼势力\](JP)\[PUZ\](0.5Mb) |
-| 848 | `戈德曼(简)[南晶科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E6%88%88%E5%BE%B7%E6%9B%BC%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%284Mb%29/> | 戈德曼(简)\[南晶科技\](CN)\[ACT\](4Mb) |
-| 849 | `成吉思汗(简)[外星科技](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BSLG%5D%284Mb%29/> | 成吉思汗(简)\[外星科技\](JP)\[SLG\](4Mb) |
-| 850 | `成龙(简)[王龙](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%88%90%E9%BE%99%28%E7%AE%80%29%5B%E7%8E%8B%E9%BE%99%5D%28JP%29%5BACT%5D%282Mb%29/> | 成龙(简)\[王龙\](JP)\[ACT\](2Mb) |
-| 851 | `成龙之龙(简)[俞亮](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%88%90%E9%BE%99%E4%B9%8B%E9%BE%99%28%E7%AE%80%29%5B%E4%BF%9E%E4%BA%AE%5D%28JP%29%5BACT%5D%282Mb%29/> | 成龙之龙(简)\[俞亮\](JP)\[ACT\](2Mb) |
-| 852 | `成龙之龙(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%88%90%E9%BE%99%E4%B9%8B%E9%BE%99%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 成龙之龙(简)\[高伟\](JP)\[ACT\](2Mb) |
-| 853 | `成龙踢馆(简)[MM之神](JP)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E6%88%90%E9%BE%99%E8%B8%A2%E9%A6%86%28%E7%AE%80%29%5BMM%E4%B9%8B%E7%A5%9E%5D%28JP%29%5BACT%5D%280.31Mb%29/> | 成龙踢馆(简)\[MM之神\](JP)\[ACT\](0.31Mb) |
-| 854 | `成龙踢馆(简)[高伟](JP)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E6%88%90%E9%BE%99%E8%B8%A2%E9%A6%86%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.31Mb%29/> | 成龙踢馆(简)\[高伟\](JP)\[ACT\](0.31Mb) |
-| 855 | `成龙踢馆2(简)[逆游的五彩鱼](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E6%88%90%E9%BE%99%E8%B8%A2%E9%A6%862%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28JP%29%5BACT%5D%283Mb%29/> | 成龙踢馆2(简)\[逆游的五彩鱼\](JP)\[ACT\](3Mb) |
-| 856 | `战国四川省(繁)[全崴资讯](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/%E6%88%98%E5%9B%BD%E5%9B%9B%E5%B7%9D%E7%9C%81%28%E7%B9%81%29%5B%E5%85%A8%E5%B4%B4%E8%B5%84%E8%AE%AF%5D%28CN%29%5BTAB%5D%280.5Mb%29/> | 战国四川省(繁)\[全崴资讯\](CN)\[TAB\](0.5Mb) |
-| 857 | `战国无双(繁)[奔升](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E6%88%98%E5%9B%BD%E6%97%A0%E5%8F%8C%28%E7%B9%81%29%5B%E5%A5%94%E5%8D%87%5D%28CN%29%5BSLG%5D%284Mb%29/> | 战国无双(繁)\[奔升\](CN)\[SLG\](4Mb) |
-| 858 | `战国群雄传(繁)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E6%88%98%E5%9B%BD%E7%BE%A4%E9%9B%84%E4%BC%A0%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 战国群雄传(繁)\[外星科技\](CN)\[SLG\](4Mb) |
-| 859 | `战国风云(繁)[晶科泰](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E6%88%98%E5%9B%BD%E9%A3%8E%E4%BA%91%28%E7%B9%81%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%282Mb%29/> | 战国风云(繁)\[晶科泰\](CN)\[RPG\](2Mb) |
-| 860 | `战场之狼(简)[高伟](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/%E6%88%98%E5%9C%BA%E4%B9%8B%E7%8B%BC%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%281Mb%29/> | 战场之狼(简)\[高伟\](JP)\[STG\](1Mb) |
-| 861 | `战斗原始人(简)[高伟](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%88%98%E6%96%97%E5%8E%9F%E5%A7%8B%E4%BA%BA%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BACT%5D%282Mb%29/> | 战斗原始人(简)\[高伟\](US)\[ACT\](2Mb) |
-| 862 | `战斗直升机(简)[高伟](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/%E6%88%98%E6%96%97%E7%9B%B4%E5%8D%87%E6%9C%BA%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.31Mb%29/> | 战斗直升机(简)\[高伟\](JP)\[STG\](0.31Mb) |
-| 863 | `战神世界(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%88%98%E7%A5%9E%E4%B8%96%E7%95%8C%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 战神世界(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 864 | `扑克(简)[惊风](JP)[TAB](0.43Mb)`：<https://fc.haiyong.site/games/%E6%89%91%E5%85%8B%28%E7%AE%80%29%5B%E6%83%8A%E9%A3%8E%5D%28JP%29%5BTAB%5D%280.43Mb%29/> | 扑克(简)\[惊风\](JP)\[TAB\](0.43Mb) |
-| 865 | `扑克精灵(繁)[Idea-Tek](CN)[TAB](0.37Mb)`：<https://fc.haiyong.site/games/%E6%89%91%E5%85%8B%E7%B2%BE%E7%81%B5%28%E7%B9%81%29%5BIdea-Tek%5D%28CN%29%5BTAB%5D%280.37Mb%29/> | 扑克精灵(繁)\[Idea-Tek\](CN)\[TAB\](0.37Mb) |
-| 866 | `扑克集锦(繁)[圣谦](CN)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/%E6%89%91%E5%85%8B%E9%9B%86%E9%94%A6%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BTAB%5D%280.18Mb%29/> | 扑克集锦(繁)\[圣谦\](CN)\[TAB\](0.18Mb) |
-| 867 | `扑克麻雀(繁)[圣谦](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/%E6%89%91%E5%85%8B%E9%BA%BB%E9%9B%80%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BTAB%5D%280.5Mb%29/> | 扑克麻雀(繁)\[圣谦\](CN)\[TAB\](0.5Mb) |
-| 868 | `打砖块(v20100513)(繁)[Nokoh](JP)[PUZ](0.62Mb)`：<https://fc.haiyong.site/games/%E6%89%93%E7%A0%96%E5%9D%97%28v20100513%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BPUZ%5D%280.62Mb%29/> | 打砖块(v20100513)(繁)\[Nokoh\](JP)\[PUZ\](0.62Mb) |
-| 869 | `打空气(v3)(简)[MM之神](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E6%89%93%E7%A9%BA%E6%B0%94%28v3%29%28%E7%AE%80%29%5BMM%E4%B9%8B%E7%A5%9E%5D%28JP%29%5BPUZ%5D%280.18Mb%29/> | 打空气(v3)(简)\[MM之神\](JP)\[PUZ\](0.18Mb) |
-| 870 | `打空气(简)[高伟](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E6%89%93%E7%A9%BA%E6%B0%94%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BPUZ%5D%280.18Mb%29/> | 打空气(简)\[高伟\](JP)\[PUZ\](0.18Mb) |
-| 871 | `打空气2(简)[高伟](JP)[TAB](0.31Mb)`：<https://fc.haiyong.site/games/%E6%89%93%E7%A9%BA%E6%B0%942%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BTAB%5D%280.31Mb%29/> | 打空气2(简)\[高伟\](JP)\[TAB\](0.31Mb) |
-| 872 | `打鸭子(v2)(简)[高伟](JUE)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E6%89%93%E9%B8%AD%E5%AD%90%28v2%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JUE%29%5BSTG%5D%280.18Mb%29/> | 打鸭子(v2)(简)\[高伟\](JUE)\[STG\](0.18Mb) |
-| 873 | `拉格朗日点(v1.1)(简)[未名+汉化你妹](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%8B%89%E6%A0%BC%E6%9C%97%E6%97%A5%E7%82%B9%28v1.1%29%28%E7%AE%80%29%5B%E6%9C%AA%E5%90%8D%2B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BRPG%5D%288Mb%29/> | 拉格朗日点(v1.1)(简)\[未名+汉化你妹\](JP)\[RPG\](8Mb) |
-| 874 | `拉迪亚战记 - 黎明篇(v20210816)(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E6%8B%89%E8%BF%AA%E4%BA%9A%E6%88%98%E8%AE%B0%20-%20%E9%BB%8E%E6%98%8E%E7%AF%87%28v20210816%29%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BVanyogin%5D%28JP%29%5BRPG%5D%286Mb%29/> | 拉迪亚战记 - 黎明篇(v20210816)(修正版)(简)\[外星科技+Vanyogin\](JP)\[RPG\](6Mb) |
-| 875 | `拉迪亚战记[外星科技+腓特烈修正](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E6%8B%89%E8%BF%AA%E4%BA%9A%E6%88%98%E8%AE%B0%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E8%85%93%E7%89%B9%E7%83%88%E4%BF%AE%E6%AD%A3%5D%28JP%29%5BRPG%5D%286Mb%29/> | 拉迪亚战记\[外星科技+腓特烈修正\](JP)\[RPG\](6Mb) |
-| 876 | `拯救世纪(繁)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%8B%AF%E6%95%91%E4%B8%96%E7%BA%AA%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 拯救世纪(繁)\[外星科技\](CN)\[RPG\](4Mb) |
-| 877 | `拯救爱心(简)[虫虫](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E6%8B%AF%E6%95%91%E7%88%B1%E5%BF%83%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 拯救爱心(简)\[虫虫\](JP)\[ACT\](0.18Mb) |
-| 878 | `拳霸4(繁)[恒格电子](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E6%8B%B3%E9%9C%B84%28%E7%B9%81%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BSLG%5D%284Mb%29/> | 拳霸4(繁)\[恒格电子\](JP)\[SLG\](4Mb) |
-| 879 | `挑战卡(v3.1)(简)[新科](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E6%8C%91%E6%88%98%E5%8D%A1%28v3.1%29%28%E7%AE%80%29%5B%E6%96%B0%E7%A7%91%5D%28CN%29%5BETC%5D%284Mb%29/> | 挑战卡(v3.1)(简)\[新科\](CN)\[ETC\](4Mb) |
-| 880 | `挖地雷(简)[未知](CN)[PUZ](0.25Mb)`：<https://fc.haiyong.site/games/%E6%8C%96%E5%9C%B0%E9%9B%B7%28%E7%AE%80%29%5B%E6%9C%AA%E7%9F%A5%5D%28CN%29%5BPUZ%5D%280.25Mb%29/> | 挖地雷(简)\[未知\](CN)\[PUZ\](0.25Mb) |
-| 881 | `挖掘(v2)(简)[MM之神](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E6%8C%96%E6%8E%98%28v2%29%28%E7%AE%80%29%5BMM%E4%B9%8B%E7%A5%9E%5D%28JP%29%5BPUZ%5D%280.18Mb%29/> | 挖掘(v2)(简)\[MM之神\](JP)\[PUZ\](0.18Mb) |
-| 882 | `挖掘2(v2)(简)[catcatcat](JP)[TAB](0.31Mb)`：<https://fc.haiyong.site/games/%E6%8C%96%E6%8E%982%28v2%29%28%E7%AE%80%29%5Bcatcatcat%5D%28JP%29%5BTAB%5D%280.31Mb%29/> | 挖掘2(v2)(简)\[catcatcat\](JP)\[TAB\](0.31Mb) |
-| 883 | `挖金(简)[Dogout](US)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E6%8C%96%E9%87%91%28%E7%AE%80%29%5BDogout%5D%28US%29%5BPUZ%5D%280.18Mb%29/> | 挖金(简)\[Dogout\](US)\[PUZ\](0.18Mb) |
-| 884 | `排球(简)[高伟](UE)[SPG](0.31Mb)`：<https://fc.haiyong.site/games/%E6%8E%92%E7%90%83%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28UE%29%5BSPG%5D%280.31Mb%29/> | 排球(简)\[高伟\](UE)\[SPG\](0.31Mb) |
-| 885 | `推倒胡麻将(繁)[凯程电子](JP)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/%E6%8E%A8%E5%80%92%E8%83%A1%E9%BA%BB%E5%B0%86%28%E7%B9%81%29%5B%E5%87%AF%E7%A8%8B%E7%94%B5%E5%AD%90%5D%28JP%29%5BTAB%5D%280.5Mb%29/> | 推倒胡麻将(繁)\[凯程电子\](JP)\[TAB\](0.5Mb) |
-| 886 | `推箱子(简)[快乐的龙][PUZ](0.31Mb)`：<https://fc.haiyong.site/games/%E6%8E%A8%E7%AE%B1%E5%AD%90%28%E7%AE%80%29%5B%E5%BF%AB%E4%B9%90%E7%9A%84%E9%BE%99%5D%5BPUZ%5D%280.31Mb%29/> | 推箱子(简)\[快乐的龙\]\[PUZ\](0.31Mb) |
-| 887 | `摩登原始人 - 恐龙峰的惊喜！(简)[汉化你妹](US)[ACT](5Mb)`：<https://fc.haiyong.site/games/%E6%91%A9%E7%99%BB%E5%8E%9F%E5%A7%8B%E4%BA%BA%20-%20%E6%81%90%E9%BE%99%E5%B3%B0%E7%9A%84%E6%83%8A%E5%96%9C%EF%BC%81%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28US%29%5BACT%5D%285Mb%29/> | 摩登原始人 - 恐龙峰的惊喜！(简)\[汉化你妹\](US)\[ACT\](5Mb) |
-| 888 | `摩登原始人 - 营救迪诺和霍比(简)[汉化你妹](US)[ACT](5Mb)`：<https://fc.haiyong.site/games/%E6%91%A9%E7%99%BB%E5%8E%9F%E5%A7%8B%E4%BA%BA%20-%20%E8%90%A5%E6%95%91%E8%BF%AA%E8%AF%BA%E5%92%8C%E9%9C%8D%E6%AF%94%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28US%29%5BACT%5D%285Mb%29/> | 摩登原始人 - 营救迪诺和霍比(简)\[汉化你妹\](US)\[ACT\](5Mb) |
-| 889 | `摩艾君(简)[九班](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E6%91%A9%E8%89%BE%E5%90%9B%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BPUZ%5D%280.5Mb%29/> | 摩艾君(简)\[九班\](JP)\[PUZ\](0.5Mb) |
-| 890 | `摩艾君(简)[虫儿](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E6%91%A9%E8%89%BE%E5%90%9B%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JP%29%5BPUZ%5D%280.5Mb%29/> | 摩艾君(简)\[虫儿\](JP)\[PUZ\](0.5Mb) |
-| 891 | `撞球传说 - 花撞2(繁)[晶碁电子](CN)[PUZ](1Mb)`：<https://fc.haiyong.site/games/%E6%92%9E%E7%90%83%E4%BC%A0%E8%AF%B4%20-%20%E8%8A%B1%E6%92%9E2%28%E7%B9%81%29%5B%E6%99%B6%E7%A2%81%E7%94%B5%E5%AD%90%5D%28CN%29%5BPUZ%5D%281Mb%29/> | 撞球传说 - 花撞2(繁)\[晶碁电子\](CN)\[PUZ\](1Mb) |
-| 892 | `救世主(v1.1)(简)[汉化你妹](JP)[ACT](8Mb)`：<https://fc.haiyong.site/games/%E6%95%91%E4%B8%96%E4%B8%BB%28v1.1%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BACT%5D%288Mb%29/> | 救世主(v1.1)(简)\[汉化你妹\](JP)\[ACT\](8Mb) |
-| 893 | `救援直升机(简)[虫虫](US)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E6%95%91%E6%8F%B4%E7%9B%B4%E5%8D%87%E6%9C%BA%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28US%29%5BSTG%5D%280.18Mb%29/> | 救援直升机(简)\[虫虫\](US)\[STG\](0.18Mb) |
-| 894 | `救火英雄(简)[cslrxyz](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E6%95%91%E7%81%AB%E8%8B%B1%E9%9B%84%28%E7%AE%80%29%5Bcslrxyz%5D%28JP%29%5BACT%5D%281Mb%29/> | 救火英雄(简)\[cslrxyz\](JP)\[ACT\](1Mb) |
-| 895 | `数学小状元(简)[数奇玉](CN)[ETC](1.5Mb)`：<https://fc.haiyong.site/games/%E6%95%B0%E5%AD%A6%E5%B0%8F%E7%8A%B6%E5%85%83%28%E7%AE%80%29%5B%E6%95%B0%E5%A5%87%E7%8E%89%5D%28CN%29%5BETC%5D%281.5Mb%29/> | 数学小状元(简)\[数奇玉\](CN)\[ETC\](1.5Mb) |
-| 896 | `数学教授系统 - 小学三年级(简)[小霸王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E6%95%B0%E5%AD%A6%E6%95%99%E6%8E%88%E7%B3%BB%E7%BB%9F%20-%20%E5%B0%8F%E5%AD%A6%E4%B8%89%E5%B9%B4%E7%BA%A7%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%284Mb%29/> | 数学教授系统 - 小学三年级(简)\[小霸王\](CN)\[ETC\](4Mb) |
-| 897 | `数独+五子棋(简)[南晶科技](CN)[PUZ](2Mb)`：<https://fc.haiyong.site/games/%E6%95%B0%E7%8B%AC%2B%E4%BA%94%E5%AD%90%E6%A3%8B%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BPUZ%5D%282Mb%29/> | 数独+五子棋(简)\[南晶科技\](CN)\[PUZ\](2Mb) |
-| 899 | `数码宝贝(简)[酷哥电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%95%B0%E7%A0%81%E5%AE%9D%E8%B4%9D%28%E7%AE%80%29%5B%E9%85%B7%E5%93%A5%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 数码宝贝(简)\[酷哥电子\](CN)\[RPG\](8Mb) |
-| 900 | `数码战队2(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E6%95%B0%E7%A0%81%E6%88%98%E9%98%9F2%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 数码战队2(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 901 | `数码暴龙(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E6%95%B0%E7%A0%81%E6%9A%B4%E9%BE%99%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 数码暴龙(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 902 | `数码暴龙4 - 水晶版(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%95%B0%E7%A0%81%E6%9A%B4%E9%BE%994%20-%20%E6%B0%B4%E6%99%B6%E7%89%88%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 数码暴龙4 - 水晶版(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 903 | `敲冰块(v20120102)(繁)[Nokoh](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/%E6%95%B2%E5%86%B0%E5%9D%97%28v20120102%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%280.37Mb%29/> | 敲冰块(v20120102)(繁)\[Nokoh\](JP)\[ACT\](0.37Mb) |
-| 904 | `敲冰块(简)[F0REVERD](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E6%95%B2%E5%86%B0%E5%9D%97%28%E7%AE%80%29%5BF0REVERD%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 敲冰块(简)\[F0REVERD\](JP)\[ACT\](0.18Mb) |
-| 905 | `敲冰块(简)[MS](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E6%95%B2%E5%86%B0%E5%9D%97%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 敲冰块(简)\[MS\](JP)\[ACT\](0.18Mb) |
-| 906 | `敲冰块(简)[水火](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/%E6%95%B2%E5%86%B0%E5%9D%97%28%E7%AE%80%29%5B%E6%B0%B4%E7%81%AB%5D%28JP%29%5BACT%5D%280.37Mb%29/> | 敲冰块(简)\[水火\](JP)\[ACT\](0.37Mb) |
-| 908 | `斗智拼盘(繁)[晶碁电子](CN)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E6%96%97%E6%99%BA%E6%8B%BC%E7%9B%98%28%E7%B9%81%29%5B%E6%99%B6%E7%A2%81%E7%94%B5%E5%AD%90%5D%28CN%29%5BPUZ%5D%280.5Mb%29/> | 斗智拼盘(繁)\[晶碁电子\](CN)\[PUZ\](0.5Mb) |
-| 909 | `斗者挽歌(简)[高伟](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E6%96%97%E8%80%85%E6%8C%BD%E6%AD%8C%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%281Mb%29/> | 斗者挽歌(简)\[高伟\](JP)\[ACT\](1Mb) |
-| 910 | `斗者的挽歌(简)[孔雀天](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E6%96%97%E8%80%85%E7%9A%84%E6%8C%BD%E6%AD%8C%28%E7%AE%80%29%5B%E5%AD%94%E9%9B%80%E5%A4%A9%5D%28JP%29%5BACT%5D%281Mb%29/> | 斗者的挽歌(简)\[孔雀天\](JP)\[ACT\](1Mb) |
-| 911 | `斧王(完全大字体汉化)[逆游五彩鱼](4Mb)`：<https://fc.haiyong.site/games/%E6%96%A7%E7%8E%8B%28%E5%AE%8C%E5%85%A8%E5%A4%A7%E5%AD%97%E4%BD%93%E6%B1%89%E5%8C%96%29%5B%E9%80%86%E6%B8%B8%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%284Mb%29/> | 斧王(完全大字体汉化)\[逆游五彩鱼\](4Mb) |
-| 912 | `新人类(简)[Yurica](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E6%96%B0%E4%BA%BA%E7%B1%BB%28%E7%AE%80%29%5BYurica%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 新人类(简)\[Yurica\](JP)\[ACT\](0.5Mb) |
-| 913 | `新人类(简)[高伟](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E6%96%B0%E4%BA%BA%E7%B1%BB%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 新人类(简)\[高伟\](JP)\[ACT\](0.5Mb) |
-| 914 | `新四人麻雀 - 役满天国(简)[网一晓](JP)[TAB](3Mb)`：<https://fc.haiyong.site/games/%E6%96%B0%E5%9B%9B%E4%BA%BA%E9%BA%BB%E9%9B%80%20-%20%E5%BD%B9%E6%BB%A1%E5%A4%A9%E5%9B%BD%28%E7%AE%80%29%5B%E7%BD%91%E4%B8%80%E6%99%93%5D%28JP%29%5BTAB%5D%283Mb%29/> | 新四人麻雀 - 役满天国(简)\[网一晓\](JP)\[TAB\](3Mb) |
-| 915 | `新地底探险(简)[高伟](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E6%96%B0%E5%9C%B0%E5%BA%95%E6%8E%A2%E9%99%A9%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BPUZ%5D%280.5Mb%29/> | 新地底探险(简)\[高伟\](JP)\[PUZ\](0.5Mb) |
-| 916 | `新月剑痕(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%96%B0%E6%9C%88%E5%89%91%E7%97%95%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 新月剑痕(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 917 | `新英雄传(繁)[南晶科技](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E6%96%B0%E8%8B%B1%E9%9B%84%E4%BC%A0%28%E7%B9%81%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%282Mb%29/> | 新英雄传(繁)\[南晶科技\](CN)\[RPG\](2Mb) |
-| 918 | `新西兰故事(简)[高伟](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%96%B0%E8%A5%BF%E5%85%B0%E6%95%85%E4%BA%8B%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BACT%5D%282Mb%29/> | 新西兰故事(简)\[高伟\](US)\[ACT\](2Mb) |
-| 919 | `新魔界(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%96%B0%E9%AD%94%E7%95%8C%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 新魔界(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 920 | `方世玉(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%96%B9%E4%B8%96%E7%8E%89%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 方世玉(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 921 | `无双乱舞(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%97%A0%E5%8F%8C%E4%B9%B1%E8%88%9E%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 无双乱舞(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 922 | `无尽的任务(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%97%A0%E5%B0%BD%E7%9A%84%E4%BB%BB%E5%8A%A1%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 无尽的任务(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 923 | `无敌学习卡(简)[BiTe](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E6%97%A0%E6%95%8C%E5%AD%A6%E4%B9%A0%E5%8D%A1%28%E7%AE%80%29%5BBiTe%5D%28CN%29%5BETC%5D%284Mb%29/> | 无敌学习卡(简)\[BiTe\](CN)\[ETC\](4Mb) |
-| 924 | `无极魔界(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%97%A0%E6%9E%81%E9%AD%94%E7%95%8C%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 无极魔界(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 925 | `无间道风云(简)[恒格电子](JP)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E6%97%A0%E9%97%B4%E9%81%93%E9%A3%8E%E4%BA%91%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BSLG%5D%288Mb%29/> | 无间道风云(简)\[恒格电子\](JP)\[SLG\](8Mb) |
-| 926 | `时尚跳舞机(简)[丰利](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E6%97%B6%E5%B0%9A%E8%B7%B3%E8%88%9E%E6%9C%BA%28%E7%AE%80%29%5B%E4%B8%B0%E5%88%A9%5D%28CN%29%5BETC%5D%284Mb%29/> | 时尚跳舞机(简)\[丰利\](CN)\[ETC\](4Mb) |
-| 927 | `时空之轮(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E6%97%B6%E7%A9%BA%E4%B9%8B%E8%BD%AE%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 时空之轮(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 928 | `时空小子(简)[孔雀天](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E6%97%B6%E7%A9%BA%E5%B0%8F%E5%AD%90%28%E7%AE%80%29%5B%E5%AD%94%E9%9B%80%E5%A4%A9%5D%28JP%29%5BACT%5D%281Mb%29/> | 时空小子(简)\[孔雀天\](JP)\[ACT\](1Mb) |
-| 929 | `时空斗士(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E6%97%B6%E7%A9%BA%E6%96%97%E5%A3%AB%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 时空斗士(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 930 | `星之卡比 - 梦之泉的物语(v1.0)(简)[DMG](US)[ACT](8Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E4%B9%8B%E5%8D%A1%E6%AF%94%20-%20%E6%A2%A6%E4%B9%8B%E6%B3%89%E7%9A%84%E7%89%A9%E8%AF%AD%28v1.0%29%28%E7%AE%80%29%5BDMG%5D%28US%29%5BACT%5D%288Mb%29/> | 星之卡比 - 梦之泉的物语(v1.0)(简)\[DMG\](US)\[ACT\](8Mb) |
-| 931 | `星之卡比 - 梦之泉的物语(简)[烈火暴龙](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E4%B9%8B%E5%8D%A1%E6%AF%94%20-%20%E6%A2%A6%E4%B9%8B%E6%B3%89%E7%9A%84%E7%89%A9%E8%AF%AD%28%E7%AE%80%29%5B%E7%83%88%E7%81%AB%E6%9A%B4%E9%BE%99%5D%28JP%29%5BACT%5D%286Mb%29/> | 星之卡比 - 梦之泉的物语(简)\[烈火暴龙\](JP)\[ACT\](6Mb) |
-| 932 | `星战情缘(繁)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E6%88%98%E6%83%85%E7%BC%98%28%E7%B9%81%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 星战情缘(繁)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 933 | `星河战士(繁)[恒格电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E6%B2%B3%E6%88%98%E5%A3%AB%28%E7%B9%81%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%284Mb%29/> | 星河战士(繁)\[恒格电子\](CN)\[RPG\](4Mb) |
-| 934 | `星空飞箭(简)[强典](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E7%A9%BA%E9%A3%9E%E7%AE%AD%28%E7%AE%80%29%5B%E5%BC%BA%E5%85%B8%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 星空飞箭(简)\[强典\](JP)\[STG\](0.18Mb) |
-| 935 | `星际之门(简)[虫虫](JP)[](0.18Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E9%99%85%E4%B9%8B%E9%97%A8%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5B%5D%280.18Mb%29/> | 星际之门(简)\[虫虫\](JP)\[\](0.18Mb) |
-| 936 | `星际争霸(繁)[恒格电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E9%99%85%E4%BA%89%E9%9C%B8%28%E7%B9%81%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%284Mb%29/> | 星际争霸(繁)\[恒格电子\](CN)\[RPG\](4Mb) |
-| 937 | `星际战士(v2)(简)[高伟](JP)[STG](0.37Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E9%99%85%E6%88%98%E5%A3%AB%28v2%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.37Mb%29/> | 星际战士(v2)(简)\[高伟\](JP)\[STG\](0.37Mb) |
-| 938 | `星际战机(v1)(简)[虫虫](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E9%99%85%E6%88%98%E6%9C%BA%28v1%29%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BSTG%5D%280.5Mb%29/> | 星际战机(v1)(简)\[虫虫\](JP)\[STG\](0.5Mb) |
-| 939 | `星际战机(v1)(简)[高伟](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E9%99%85%E6%88%98%E6%9C%BA%28v1%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.5Mb%29/> | 星际战机(v1)(简)\[高伟\](JP)\[STG\](0.5Mb) |
-| 940 | `星际战机(v3)(简)[MS](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E9%99%85%E6%88%98%E6%9C%BA%28v3%29%28%E7%AE%80%29%5BMS%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 星际战机(v3)(简)\[MS\](JP)\[STG\](0.18Mb) |
-| 941 | `星际武士(繁)[Cony Soft](CN)[FTG](4Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E9%99%85%E6%AD%A6%E5%A3%AB%28%E7%B9%81%29%5BCony%20Soft%5D%28CN%29%5BFTG%5D%284Mb%29/> | 星际武士(繁)\[Cony Soft\](CN)\[FTG\](4Mb) |
-| 942 | `星际魂斗罗(修正版)(简)[樱组+MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E9%99%85%E9%AD%82%E6%96%97%E7%BD%97%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E6%A8%B1%E7%BB%84%2BMS%5D%28US%29%5BACT%5D%282Mb%29/> | 星际魂斗罗(修正版)(简)\[樱组+MS\](US)\[ACT\](2Mb) |
-| 943 | `星际魂斗罗(版本1)(简)[星空](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E9%99%85%E9%AD%82%E6%96%97%E7%BD%97%28%E7%89%88%E6%9C%AC1%29%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28US%29%5BACT%5D%282Mb%29/> | 星际魂斗罗(版本1)(简)\[星空\](US)\[ACT\](2Mb) |
-| 944 | `星际魂斗罗(版本2)(简)[星空](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%98%9F%E9%99%85%E9%AD%82%E6%96%97%E7%BD%97%28%E7%89%88%E6%9C%AC2%29%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28US%29%5BACT%5D%282Mb%29/> | 星际魂斗罗(版本2)(简)\[星空\](US)\[ACT\](2Mb) |
-| 945 | `智力小状元(简)[数奇玉](CN)[PUZ](1.5Mb)`：<https://fc.haiyong.site/games/%E6%99%BA%E5%8A%9B%E5%B0%8F%E7%8A%B6%E5%85%83%28%E7%AE%80%29%5B%E6%95%B0%E5%A5%87%E7%8E%89%5D%28CN%29%5BPUZ%5D%281.5Mb%29/> | 智力小状元(简)\[数奇玉\](CN)\[PUZ\](1.5Mb) |
-| 946 | `智慧方块(简)[烈火暴龙](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E6%99%BA%E6%85%A7%E6%96%B9%E5%9D%97%28%E7%AE%80%29%5B%E7%83%88%E7%81%AB%E6%9A%B4%E9%BE%99%5D%28JP%29%5BPUZ%5D%280.5Mb%29/> | 智慧方块(简)\[烈火暴龙\](JP)\[PUZ\](0.5Mb) |
-| 947 | `暗棋(繁)[洁晖](CN)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/%E6%9A%97%E6%A3%8B%28%E7%B9%81%29%5B%E6%B4%81%E6%99%96%5D%28CN%29%5BTAB%5D%280.18Mb%29/> | 暗棋(繁)\[洁晖\](CN)\[TAB\](0.18Mb) |
-| 948 | `暗黑破坏神(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E6%9A%97%E9%BB%91%E7%A0%B4%E5%9D%8F%E7%A5%9E%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 暗黑破坏神(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 949 | `暴走淘金者(简)[九班](US)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E6%9A%B4%E8%B5%B0%E6%B7%98%E9%87%91%E8%80%85%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28US%29%5BPUZ%5D%280.18Mb%29/> | 暴走淘金者(简)\[九班\](US)\[PUZ\](0.18Mb) |
-| 950 | `暴走淘金者2(简)[九班](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E6%9A%B4%E8%B5%B0%E6%B7%98%E9%87%91%E8%80%852%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BPUZ%5D%280.18Mb%29/> | 暴走淘金者2(简)\[九班\](JP)\[PUZ\](0.18Mb) |
-| 951 | `最游记 - 唐三藏(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E6%B8%B8%E8%AE%B0%20-%20%E5%94%90%E4%B8%89%E8%97%8F%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 最游记 - 唐三藏(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 952 | `最终任务(简)[逆游的五彩鱼](JP)[STG](3Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E4%BB%BB%E5%8A%A1%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28JP%29%5BSTG%5D%283Mb%29/> | 最终任务(简)\[逆游的五彩鱼\](JP)\[STG\](3Mb) |
-| 953 | `最终任务(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E4%BB%BB%E5%8A%A1%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 最终任务(简)\[高伟\](JP)\[STG\](2Mb) |
-| 954 | `最终幻想(v20221112)(修正版)(简)[外星科技+晚风轻起](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B3%28v20221112%29%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E6%99%9A%E9%A3%8E%E8%BD%BB%E8%B5%B7%5D%28JP%29%5BRPG%5D%284Mb%29/> | 最终幻想(v20221112)(修正版)(简)\[外星科技+晚风轻起\](JP)\[RPG\](4Mb) |
-| 955 | `最终幻想(修正版)(简)[外星科技+SSforME](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B3%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BSSforME%5D%28JP%29%5BRPG%5D%284Mb%29/> | 最终幻想(修正版)(简)\[外星科技+SSforME\](JP)\[RPG\](4Mb) |
-| 956 | `最终幻想1 - 黑暗篇(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B31%20-%20%E9%BB%91%E6%9A%97%E7%AF%87%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 最终幻想1 - 黑暗篇(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 957 | `最终幻想2 - 光明篇(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B32%20-%20%E5%85%89%E6%98%8E%E7%AF%87%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 最终幻想2 - 光明篇(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 958 | `最终幻想2(v20221112)(修正版)(简)[外星科技+晚风轻起](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B32%28v20221112%29%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E6%99%9A%E9%A3%8E%E8%BD%BB%E8%B5%B7%5D%28JP%29%5BRPG%5D%284Mb%29/> | 最终幻想2(v20221112)(修正版)(简)\[外星科技+晚风轻起\](JP)\[RPG\](4Mb) |
-| 959 | `最终幻想2(v20230615)(修正版)(简)[LSP](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B32%28v20230615%29%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5BLSP%5D%28JP%29%5BRPG%5D%284Mb%29/> | 最终幻想2(v20230615)(修正版)(简)\[LSP\](JP)\[RPG\](4Mb) |
-| 960 | `最终幻想2(修正版)(简)[外星科技+DG小火](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B32%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BDG%E5%B0%8F%E7%81%AB%5D%28JP%29%5BRPG%5D%284Mb%29/> | 最终幻想2(修正版)(简)\[外星科技+DG小火\](JP)\[RPG\](4Mb) |
-| 961 | `最终幻想2(修正版)(简)[外星科技+SSforME](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B32%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BSSforME%5D%28JP%29%5BRPG%5D%284Mb%29/> | 最终幻想2(修正版)(简)\[外星科技+SSforME\](JP)\[RPG\](4Mb) |
-| 962 | `最终幻想3 - 终结篇(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B33%20-%20%E7%BB%88%E7%BB%93%E7%AF%87%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 最终幻想3 - 终结篇(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 963 | `最终幻想3(v20221112)(修正版)(简)[外星科技+晚风轻起](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B33%28v20221112%29%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E6%99%9A%E9%A3%8E%E8%BD%BB%E8%B5%B7%5D%28JP%29%5BRPG%5D%288Mb%29/> | 最终幻想3(v20221112)(修正版)(简)\[外星科技+晚风轻起\](JP)\[RPG\](8Mb) |
-| 964 | `最终幻想3(简)[外星游戏大厅](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B33%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%8E%85%5D%28JP%29%5BRPG%5D%288Mb%29/> | 最终幻想3(简)\[外星游戏大厅\](JP)\[RPG\](8Mb) |
-| 966 | `最终幻想3(繁)[狼组+张晓波](JP)[RPG](9.34Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B33%28%E7%B9%81%29%5B%E7%8B%BC%E7%BB%84%2B%E5%BC%A0%E6%99%93%E6%B3%A2%5D%28JP%29%5BRPG%5D%289.34Mb%29/> | 最终幻想3(繁)\[狼组+张晓波\](JP)\[RPG\](9.34Mb) |
-| 967 | `最终幻想4 - 光与暗 水晶纷争(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B34%20-%20%E5%85%89%E4%B8%8E%E6%9A%97%20%E6%B0%B4%E6%99%B6%E7%BA%B7%E4%BA%89%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 最终幻想4 - 光与暗 水晶纷争(简)\[南晶科技\](CN)\[RPG\](8Mb) |
-| 968 | `最终幻想7 - 核心危机(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B37%20-%20%E6%A0%B8%E5%BF%83%E5%8D%B1%E6%9C%BA%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 最终幻想7 - 核心危机(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 969 | `最终幻想7(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B37%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 最终幻想7(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 970 | `最终幻想7(繁)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B37%28%E7%B9%81%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 最终幻想7(繁)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 971 | `月之水晶(简)[MM之神](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E6%9C%88%E4%B9%8B%E6%B0%B4%E6%99%B6%28%E7%AE%80%29%5BMM%E4%B9%8B%E7%A5%9E%5D%28JP%29%5BACT%5D%284Mb%29/> | 月之水晶(简)\[MM之神\](JP)\[ACT\](4Mb) |
-| 972 | `月宫桌球(修正版)(简)[闪 纯静水+MS](US)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/%E6%9C%88%E5%AE%AB%E6%A1%8C%E7%90%83%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E9%97%AA%20%E7%BA%AF%E9%9D%99%E6%B0%B4%2BMS%5D%28US%29%5BTAB%5D%280.18Mb%29/> | 月宫桌球(修正版)(简)\[闪 纯静水+MS\](US)\[TAB\](0.18Mb) |
-| 973 | `月风魔传(简)[冰组](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E6%9C%88%E9%A3%8E%E9%AD%94%E4%BC%A0%28%E7%AE%80%29%5B%E5%86%B0%E7%BB%84%5D%28JP%29%5BACT%5D%283Mb%29/> | 月风魔传(简)\[冰组\](JP)\[ACT\](3Mb) |
-| 974 | `月风魔传(繁)[冰组](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E6%9C%88%E9%A3%8E%E9%AD%94%E4%BC%A0%28%E7%B9%81%29%5B%E5%86%B0%E7%BB%84%5D%28JP%29%5BACT%5D%283Mb%29/> | 月风魔传(繁)\[冰组\](JP)\[ACT\](3Mb) |
-| 975 | `有声词霸(简)[小霸王](CN)[ETC](16Mb)`：<https://fc.haiyong.site/games/%E6%9C%89%E5%A3%B0%E8%AF%8D%E9%9C%B8%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%2816Mb%29/> | 有声词霸(简)\[小霸王\](CN)\[ETC\](16Mb) |
-| 976 | `有趣的方块游戏(简)[龙组](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%96%B9%E5%9D%97%E6%B8%B8%E6%88%8F%28%E7%AE%80%29%5B%E9%BE%99%E7%BB%84%5D%28JP%29%5BPUZ%5D%280.5Mb%29/> | 有趣的方块游戏(简)\[龙组\](JP)\[PUZ\](0.5Mb) |
-| 977 | `未来小子(简)[洁晖](CN)[STG](0.5Mb)`：<https://fc.haiyong.site/games/%E6%9C%AA%E6%9D%A5%E5%B0%8F%E5%AD%90%28%E7%AE%80%29%5B%E6%B4%81%E6%99%96%5D%28CN%29%5BSTG%5D%280.5Mb%29/> | 未来小子(简)\[洁晖\](CN)\[STG\](0.5Mb) |
-| 978 | `机器人大战(简)[南晶科技](CN)[SLG](16Mb)`：<https://fc.haiyong.site/games/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%88%98%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%2816Mb%29/> | 机器人大战(简)\[南晶科技\](CN)\[SLG\](16Mb) |
-| 979 | `机器子战记(v20111228)(繁)[Nokoh](JP)[ACT](5.12Mb)`：<https://fc.haiyong.site/games/%E6%9C%BA%E5%99%A8%E5%AD%90%E6%88%98%E8%AE%B0%28v20111228%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%285.12Mb%29/> | 机器子战记(v20111228)(繁)\[Nokoh\](JP)\[ACT\](5.12Mb) |
-| 980 | `机器战士高达(繁)[晶科泰](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E6%9C%BA%E5%99%A8%E6%88%98%E5%A3%AB%E9%AB%98%E8%BE%BE%28%E7%B9%81%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28JP%29%5BSLG%5D%284Mb%29/> | 机器战士高达(繁)\[晶科泰\](JP)\[SLG\](4Mb) |
-| 981 | `机器猫小叮当(简)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E6%9C%BA%E5%99%A8%E7%8C%AB%E5%B0%8F%E5%8F%AE%E5%BD%93%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%284Mb%29/> | 机器猫小叮当(简)\[外星科技\](CN)\[ACT\](4Mb) |
-| 982 | `机械化突袭(简)[高伟](US)[STG](1.5Mb)`：<https://fc.haiyong.site/games/%E6%9C%BA%E6%A2%B0%E5%8C%96%E7%AA%81%E8%A2%AD%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BSTG%5D%281.5Mb%29/> | 机械化突袭(简)\[高伟\](US)\[STG\](1.5Mb) |
-| 983 | `机械战警 - 未来的执法者(简)[LSP](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E6%9C%BA%E6%A2%B0%E6%88%98%E8%AD%A6%20-%20%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%89%A7%E6%B3%95%E8%80%85%28%E7%AE%80%29%5BLSP%5D%28US%29%5BACT%5D%283Mb%29/> | 机械战警 - 未来的执法者(简)\[LSP\](US)\[ACT\](3Mb) |
-| 984 | `机甲战士(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E6%9C%BA%E7%94%B2%E6%88%98%E5%A3%AB%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%286Mb%29/> | 机甲战士(简)\[外星科技\](JP)\[RPG\](6Mb) |
-| 985 | `机甲战士3(简)[恒格电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E6%9C%BA%E7%94%B2%E6%88%98%E5%A3%AB3%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BRPG%5D%286Mb%29/> | 机甲战士3(简)\[恒格电子\](JP)\[RPG\](6Mb) |
-| 986 | `机甲战士3(简)[晶科泰](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E6%9C%BA%E7%94%B2%E6%88%98%E5%A3%AB3%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28JP%29%5BRPG%5D%286Mb%29/> | 机甲战士3(简)\[晶科泰\](JP)\[RPG\](6Mb) |
-| 987 | `杀戮战场(v20100527)(繁)[Nokoh](JP)[STG](0.37Mb)`：<https://fc.haiyong.site/games/%E6%9D%80%E6%88%AE%E6%88%98%E5%9C%BA%28v20100527%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BSTG%5D%280.37Mb%29/> | 杀戮战场(v20100527)(繁)\[Nokoh\](JP)\[STG\](0.37Mb) |
-| 988 | `杀戮战场(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E6%9D%80%E6%88%AE%E6%88%98%E5%9C%BA%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 杀戮战场(简)\[高伟\](JP)\[STG\](0.18Mb) |
-| 989 | `杀虫大战(修正版)(简)[天翔+MS](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E6%9D%80%E8%99%AB%E5%A4%A7%E6%88%98%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%A9%E7%BF%94%2BMS%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 杀虫大战(修正版)(简)\[天翔+MS\](JP)\[STG\](0.18Mb) |
-| 990 | `杨家将(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E6%9D%A8%E5%AE%B6%E5%B0%86%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 杨家将(简)\[外星科技\](CN)\[SLG\](4Mb) |
-| 991 | `松鼠大作战(简)[星空](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/%E6%9D%BE%E9%BC%A0%E5%A4%A7%E4%BD%9C%E6%88%98%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28JP%29%5BACT%5D%286Mb%29/> | 松鼠大作战(简)\[星空\](JP)\[ACT\](6Mb) |
-| 992 | `松鼠大作战2(简)[星空](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%9D%BE%E9%BC%A0%E5%A4%A7%E4%BD%9C%E6%88%982%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28JP%29%5BACT%5D%282Mb%29/> | 松鼠大作战2(简)\[星空\](JP)\[ACT\](2Mb) |
-| 993 | `林则徐禁烟(修正版)(繁)[外星科技+nfzxyd](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%9E%97%E5%88%99%E5%BE%90%E7%A6%81%E7%83%9F%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2Bnfzxyd%5D%28CN%29%5BRPG%5D%284Mb%29/> | 林则徐禁烟(修正版)(繁)\[外星科技+nfzxyd\](CN)\[RPG\](4Mb) |
-| 994 | `格兰蒂亚(简)[酷哥电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%A0%BC%E5%85%B0%E8%92%82%E4%BA%9A%28%E7%AE%80%29%5B%E9%85%B7%E5%93%A5%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 格兰蒂亚(简)\[酷哥电子\](CN)\[RPG\](8Mb) |
-| 995 | `格兰蒂亚传说(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%A0%BC%E5%85%B0%E8%92%82%E4%BA%9A%E4%BC%A0%E8%AF%B4%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 格兰蒂亚传说(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 996 | `格斗七龙珠(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%A0%BC%E6%96%97%E4%B8%83%E9%BE%99%E7%8F%A0%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 格斗七龙珠(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 997 | `格斗之王R1 - 最强格斗王(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%A0%BC%E6%96%97%E4%B9%8B%E7%8E%8BR1%20-%20%E6%9C%80%E5%BC%BA%E6%A0%BC%E6%96%97%E7%8E%8B%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 格斗之王R1 - 最强格斗王(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 998 | `格斗之王R2 - 大蛇四天王(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%A0%BC%E6%96%97%E4%B9%8B%E7%8E%8BR2%20-%20%E5%A4%A7%E8%9B%87%E5%9B%9B%E5%A4%A9%E7%8E%8B%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 格斗之王R2 - 大蛇四天王(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 999 | `梁山英雄(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E6%A2%81%E5%B1%B1%E8%8B%B1%E9%9B%84%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 梁山英雄(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1000 | `梁山英雄传(繁)[奔升](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E6%A2%81%E5%B1%B1%E8%8B%B1%E9%9B%84%E4%BC%A0%28%E7%B9%81%29%5B%E5%A5%94%E5%8D%87%5D%28CN%29%5BSLG%5D%284Mb%29/> | 梁山英雄传(繁)\[奔升\](CN)\[SLG\](4Mb) |
-| 1001 | `梦之勇士(修正版)(简)[冰组+庞先生](JP)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/%E6%A2%A6%E4%B9%8B%E5%8B%87%E5%A3%AB%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%86%B0%E7%BB%84%2B%E5%BA%9E%E5%85%88%E7%94%9F%5D%28JP%29%5BACT%5D%282.5Mb%29/> | 梦之勇士(修正版)(简)\[冰组+庞先生\](JP)\[ACT\](2.5Mb) |
-| 1002 | `梦之勇士(最终修正版)[冰组汉化](JP)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/%E6%A2%A6%E4%B9%8B%E5%8B%87%E5%A3%AB%28%E6%9C%80%E7%BB%88%E4%BF%AE%E6%AD%A3%E7%89%88%29%5B%E5%86%B0%E7%BB%84%E6%B1%89%E5%8C%96%5D%28JP%29%5BACT%5D%282.5Mb%29/> | 梦之勇士(最终修正版)\[冰组汉化\](JP)\[ACT\](2.5Mb) |
-| 1003 | `梦之勇士(简)[中伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%A2%A6%E4%B9%8B%E5%8B%87%E5%A3%AB%28%E7%AE%80%29%5B%E4%B8%AD%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 梦之勇士(简)\[中伟\](JP)\[ACT\](2Mb) |
-| 1004 | `梦企鹅物语(v1.2)(简)[汉化你妹](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E6%A2%A6%E4%BC%81%E9%B9%85%E7%89%A9%E8%AF%AD%28v1.2%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BACT%5D%283Mb%29/> | 梦企鹅物语(v1.2)(简)\[汉化你妹\](JP)\[ACT\](3Mb) |
-| 1005 | `梦企鹅物语(简)[天蝎之忆](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%A2%A6%E4%BC%81%E9%B9%85%E7%89%A9%E8%AF%AD%28%E7%AE%80%29%5B%E5%A4%A9%E8%9D%8E%E4%B9%8B%E5%BF%86%5D%28JP%29%5BACT%5D%282Mb%29/> | 梦企鹅物语(简)\[天蝎之忆\](JP)\[ACT\](2Mb) |
-| 1006 | `梦境之王(修正版)(简)[外星科技+Vanyogin](JP)[RPG](7Mb)`：<https://fc.haiyong.site/games/%E6%A2%A6%E5%A2%83%E4%B9%8B%E7%8E%8B%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BVanyogin%5D%28JP%29%5BRPG%5D%287Mb%29/> | 梦境之王(修正版)(简)\[外星科技+Vanyogin\](JP)\[RPG\](7Mb) |
-| 1007 | `梦境之王(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E6%A2%A6%E5%A2%83%E4%B9%8B%E7%8E%8B%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%286Mb%29/> | 梦境之王(简)\[外星科技\](JP)\[RPG\](6Mb) |
-| 1008 | `梦幻 - 香帅传奇之血海飘零(简)[恒格电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%A2%A6%E5%B9%BB%20-%20%E9%A6%99%E5%B8%85%E4%BC%A0%E5%A5%87%E4%B9%8B%E8%A1%80%E6%B5%B7%E9%A3%98%E9%9B%B6%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%284Mb%29/> | 梦幻 - 香帅传奇之血海飘零(简)\[恒格电子\](CN)\[RPG\](4Mb) |
-| 1009 | `梦幻之星4(繁)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%A2%A6%E5%B9%BB%E4%B9%8B%E6%98%9F4%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 梦幻之星4(繁)\[外星科技\](CN)\[RPG\](8Mb) |
-| 1010 | `梦幻仙境(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%A2%A6%E5%B9%BB%E4%BB%99%E5%A2%83%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 梦幻仙境(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 1011 | `梦幻战机(v1.0)(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E6%A2%A6%E5%B9%BB%E6%88%98%E6%9C%BA%28v1.0%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 梦幻战机(v1.0)(简)\[高伟\](JP)\[STG\](2Mb) |
-| 1012 | `梦幻沙漏(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E6%A2%A6%E5%B9%BB%E6%B2%99%E6%BC%8F%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 梦幻沙漏(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1013 | `棋王(繁)[小天才](CN)[TAB](0.75Mb)`：<https://fc.haiyong.site/games/%E6%A3%8B%E7%8E%8B%28%E7%B9%81%29%5B%E5%B0%8F%E5%A4%A9%E6%89%8D%5D%28CN%29%5BTAB%5D%280.75Mb%29/> | 棋王(繁)\[小天才\](CN)\[TAB\](0.75Mb) |
-| 1014 | `楚汉争霸(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E6%A5%9A%E6%B1%89%E4%BA%89%E9%9C%B8%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 楚汉争霸(简)\[外星科技\](CN)\[SLG\](4Mb) |
-| 1015 | `楚汉风云(简)[南晶科技](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E6%A5%9A%E6%B1%89%E9%A3%8E%E4%BA%91%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%288Mb%29/> | 楚汉风云(简)\[南晶科技\](CN)\[SLG\](8Mb) |
-| 1016 | `楚留香 - 香帅传奇之血海飘零(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%A5%9A%E7%95%99%E9%A6%99%20-%20%E9%A6%99%E5%B8%85%E4%BC%A0%E5%A5%87%E4%B9%8B%E8%A1%80%E6%B5%B7%E9%A3%98%E9%9B%B6%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 楚留香 - 香帅传奇之血海飘零(简)\[外星科技\](CN)\[RPG\](4Mb) |
-| 1017 | `楚留香新传(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%A5%9A%E7%95%99%E9%A6%99%E6%96%B0%E4%BC%A0%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 楚留香新传(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 1018 | `樱桃小丸子(繁)[火星电子](CN)[PUZ](4Mb)`：<https://fc.haiyong.site/games/%E6%A8%B1%E6%A1%83%E5%B0%8F%E4%B8%B8%E5%AD%90%28%E7%B9%81%29%5B%E7%81%AB%E6%98%9F%E7%94%B5%E5%AD%90%5D%28CN%29%5BPUZ%5D%284Mb%29/> | 樱桃小丸子(繁)\[火星电子\](CN)\[PUZ\](4Mb) |
-| 1019 | `欧陆之战(繁)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E6%AC%A7%E9%99%86%E4%B9%8B%E6%88%98%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 欧陆之战(繁)\[外星科技\](CN)\[SLG\](4Mb) |
-| 1020 | `武侠天地(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%AD%A6%E4%BE%A0%E5%A4%A9%E5%9C%B0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 武侠天地(简)\[南晶科技\](CN)\[RPG\](8Mb) |
-| 1021 | `武士魂(简)[Rex](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/%E6%AD%A6%E5%A3%AB%E9%AD%82%28%E7%AE%80%29%5BRex%5D%28CN%29%5BFTG%5D%283Mb%29/> | 武士魂(简)\[Rex\](CN)\[FTG\](3Mb) |
-| 1022 | `武士魂(简)[天空联盟](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/%E6%AD%A6%E5%A3%AB%E9%AD%82%28%E7%AE%80%29%5B%E5%A4%A9%E7%A9%BA%E8%81%94%E7%9B%9F%5D%28CN%29%5BFTG%5D%283Mb%29/> | 武士魂(简)\[天空联盟\](CN)\[FTG\](3Mb) |
-| 1023 | `武林外传(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 武林外传(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 1024 | `毁灭之神(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E6%AF%81%E7%81%AD%E4%B9%8B%E7%A5%9E%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 毁灭之神(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1025 | `气球大战(v1.0)(简)[MS](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E6%B0%94%E7%90%83%E5%A4%A7%E6%88%98%28v1.0%29%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 气球大战(v1.0)(简)\[MS\](JP)\[ACT\](0.18Mb) |
-| 1026 | `气球大战(简)[快乐的龙](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E6%B0%94%E7%90%83%E5%A4%A7%E6%88%98%28%E7%AE%80%29%5B%E5%BF%AB%E4%B9%90%E7%9A%84%E9%BE%99%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 气球大战(简)\[快乐的龙\](JP)\[ACT\](0.18Mb) |
-| 1027 | `水果狸(v1.1)(简)[九班](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/%E6%B0%B4%E6%9E%9C%E7%8B%B8%28v1.1%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28CN%29%5BTAB%5D%280.5Mb%29/> | 水果狸(v1.1)(简)\[九班\](CN)\[TAB\](0.5Mb) |
-| 1028 | `水果狸(繁)[普泽](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/%E6%B0%B4%E6%9E%9C%E7%8B%B8%28%E7%B9%81%29%5B%E6%99%AE%E6%B3%BD%5D%28CN%29%5BTAB%5D%280.5Mb%29/> | 水果狸(繁)\[普泽\](CN)\[TAB\](0.5Mb) |
-| 1029 | `水浒(简)[南晶科技](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E6%B0%B4%E6%B5%92%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%288Mb%29/> | 水浒(简)\[南晶科技\](CN)\[SLG\](8Mb) |
-| 1030 | `水浒传(繁)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E6%B0%B4%E6%B5%92%E4%BC%A0%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 水浒传(繁)\[外星科技\](CN)\[SLG\](4Mb) |
-| 1031 | `水浒新传(繁)[未知](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E6%B0%B4%E6%B5%92%E6%96%B0%E4%BC%A0%28%E7%B9%81%29%5B%E6%9C%AA%E7%9F%A5%5D%28CN%29%5BSLG%5D%284Mb%29/> | 水浒新传(繁)\[未知\](CN)\[SLG\](4Mb) |
-| 1032 | `水浒神兽(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E6%B0%B4%E6%B5%92%E7%A5%9E%E5%85%BD%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 水浒神兽(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1033 | `水浒神兽(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%B0%B4%E6%B5%92%E7%A5%9E%E5%85%BD%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 水浒神兽(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 1034 | `水管工马里奥(v2)(简)[MS](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E6%B0%B4%E7%AE%A1%E5%B7%A5%E9%A9%AC%E9%87%8C%E5%A5%A5%28v2%29%28%E7%AE%80%29%5BMS%5D%28JUE%29%5BACT%5D%280.18Mb%29/> | 水管工马里奥(v2)(简)\[MS\](JUE)\[ACT\](0.18Mb) |
-| 1035 | `水管马里奥(简)[夜幕星辰](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E6%B0%B4%E7%AE%A1%E9%A9%AC%E9%87%8C%E5%A5%A5%28%E7%AE%80%29%5B%E5%A4%9C%E5%B9%95%E6%98%9F%E8%BE%B0%5D%28JUE%29%5BACT%5D%280.18Mb%29/> | 水管马里奥(简)\[夜幕星辰\](JUE)\[ACT\](0.18Mb) |
-| 1036 | `汉刘邦(简)[南晶科技](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E6%B1%89%E5%88%98%E9%82%A6%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%288Mb%29/> | 汉刘邦(简)\[南晶科技\](CN)\[SLG\](8Mb) |
-| 1037 | `汉堡包(简)[金明](US)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E6%B1%89%E5%A0%A1%E5%8C%85%28%E7%AE%80%29%5B%E9%87%91%E6%98%8E%5D%28US%29%5BPUZ%5D%280.18Mb%29/> | 汉堡包(简)\[金明\](US)\[PUZ\](0.18Mb) |
-| 1038 | `汉堡时代(简)[c1faceb0](US)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E6%B1%89%E5%A0%A1%E6%97%B6%E4%BB%A3%28%E7%AE%80%29%5Bc1faceb0%5D%28US%29%5BPUZ%5D%280.18Mb%29/> | 汉堡时代(简)\[c1faceb0\](US)\[PUZ\](0.18Mb) |
-| 1039 | `汤姆历险记[外星科技](JP)[RPG](4Mb)(可模拟版本)`：<https://fc.haiyong.site/games/%E6%B1%A4%E5%A7%86%E5%8E%86%E9%99%A9%E8%AE%B0%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29%28%E5%8F%AF%E6%A8%A1%E6%8B%9F%E7%89%88%E6%9C%AC%29/> | 汤姆历险记\[外星科技\](JP)\[RPG\](4Mb)(可模拟版本) |
-| 1040 | `汤姆和杰瑞和塔菲(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%B1%A4%E5%A7%86%E5%92%8C%E6%9D%B0%E7%91%9E%E5%92%8C%E5%A1%94%E8%8F%B2%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%282Mb%29/> | 汤姆和杰瑞和塔菲(简)\[MS\](JP)\[ACT\](2Mb) |
-| 1041 | `沙罗曼蛇(v1.2)(简)[雷精灵](JP)[STG](3Mb)`：<https://fc.haiyong.site/games/%E6%B2%99%E7%BD%97%E6%9B%BC%E8%9B%87%28v1.2%29%28%E7%AE%80%29%5B%E9%9B%B7%E7%B2%BE%E7%81%B5%5D%28JP%29%5BSTG%5D%283Mb%29/> | 沙罗曼蛇(v1.2)(简)\[雷精灵\](JP)\[STG\](3Mb) |
-| 1042 | `沙罗曼蛇2(v3)(简)[未知](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E6%B2%99%E7%BD%97%E6%9B%BC%E8%9B%872%28v3%29%28%E7%AE%80%29%5B%E6%9C%AA%E7%9F%A5%5D%28JP%29%5BSTG%5D%282Mb%29/> | 沙罗曼蛇2(v3)(简)\[未知\](JP)\[STG\](2Mb) |
-| 1043 | `沙罗曼蛇2(简)[烈火暴龙](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E6%B2%99%E7%BD%97%E6%9B%BC%E8%9B%872%28%E7%AE%80%29%5B%E7%83%88%E7%81%AB%E6%9A%B4%E9%BE%99%5D%28JP%29%5BSTG%5D%282Mb%29/> | 沙罗曼蛇2(简)\[烈火暴龙\](JP)\[STG\](2Mb) |
-| 1044 | `法老王(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%B3%95%E8%80%81%E7%8E%8B%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 法老王(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 1045 | `泡泡龙(v20101230)(繁)[Nokoh](US)[ACT](1.43Mb)`：<https://fc.haiyong.site/games/%E6%B3%A1%E6%B3%A1%E9%BE%99%28v20101230%29%28%E7%B9%81%29%5BNokoh%5D%28US%29%5BACT%5D%281.43Mb%29/> | 泡泡龙(v20101230)(繁)\[Nokoh\](US)\[ACT\](1.43Mb) |
-| 1046 | `泡泡龙2(v20110207)(繁)[Nokoh](JP)[ACT](2.12Mb)`：<https://fc.haiyong.site/games/%E6%B3%A1%E6%B3%A1%E9%BE%992%28v20110207%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%282.12Mb%29/> | 泡泡龙2(v20110207)(繁)\[Nokoh\](JP)\[ACT\](2.12Mb) |
-| 1047 | `泡泡龙2(简)[MM之神](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%B3%A1%E6%B3%A1%E9%BE%992%28%E7%AE%80%29%5BMM%E4%B9%8B%E7%A5%9E%5D%28US%29%5BACT%5D%282Mb%29/> | 泡泡龙2(简)\[MM之神\](US)\[ACT\](2Mb) |
-| 1048 | `泰坦尼克号(简)[南晶科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%284Mb%29/> | 泰坦尼克号(简)\[南晶科技\](CN)\[ACT\](4Mb) |
-| 1049 | `泰坦尼克号(简)[火星电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%28%E7%AE%80%29%5B%E7%81%AB%E6%98%9F%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 泰坦尼克号(简)\[火星电子\](CN)\[RPG\](8Mb) |
-| 1050 | `洛克人(v0.9)(简)[MS](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA%28v0.9%29%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%281Mb%29/> | 洛克人(v0.9)(简)\[MS\](JP)\[ACT\](1Mb) |
-| 1051 | `洛克人(简)[3DM](US)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA%28%E7%AE%80%29%5B3DM%5D%28US%29%5BACT%5D%281Mb%29/> | 洛克人(简)\[3DM\](US)\[ACT\](1Mb) |
-| 1052 | `洛克人(简)[俞亮](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA%28%E7%AE%80%29%5B%E4%BF%9E%E4%BA%AE%5D%28JP%29%5BACT%5D%281Mb%29/> | 洛克人(简)\[俞亮\](JP)\[ACT\](1Mb) |
-| 1053 | `洛克人2 - Dr.Wily之谜(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA2%20-%20Dr.Wily%E4%B9%8B%E8%B0%9C%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%282Mb%29/> | 洛克人2 - Dr.Wily之谜(简)\[MS\](JP)\[ACT\](2Mb) |
-| 1054 | `洛克人2 - Dr.Wily之谜(简)[NeoX](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA2%20-%20Dr.Wily%E4%B9%8B%E8%B0%9C%28%E7%AE%80%29%5BNeoX%5D%28JP%29%5BACT%5D%282Mb%29/> | 洛克人2 - Dr.Wily之谜(简)\[NeoX\](JP)\[ACT\](2Mb) |
-| 1055 | `洛克人2 - 威利博士之谜(v20230315)(v2)(繁)[Nokoh](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA2%20-%20%E5%A8%81%E5%88%A9%E5%8D%9A%E5%A3%AB%E4%B9%8B%E8%B0%9C%28v20230315%29%28v2%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%284Mb%29/> | 洛克人2 - 威利博士之谜(v20230315)(v2)(繁)\[Nokoh\](JP)\[ACT\](4Mb) |
-| 1056 | `洛克人2 - 威利博士之谜(v20230321)(简)[Nokoh+fciq](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA2%20-%20%E5%A8%81%E5%88%A9%E5%8D%9A%E5%A3%AB%E4%B9%8B%E8%B0%9C%28v20230321%29%28%E7%AE%80%29%5BNokoh%2Bfciq%5D%28JP%29%5BACT%5D%284Mb%29/> | 洛克人2 - 威利博士之谜(v20230321)(简)\[Nokoh+fciq\](JP)\[ACT\](4Mb) |
-| 1057 | `洛克人3 - Dr.Wily的末日！(简)[MS](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA3%20-%20Dr.Wily%E7%9A%84%E6%9C%AB%E6%97%A5%EF%BC%81%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%283Mb%29/> | 洛克人3 - Dr.Wily的末日！(简)\[MS\](JP)\[ACT\](3Mb) |
-| 1058 | `洛克人3 - 威利博士的末日！(v20230315)(繁)[Nokoh](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA3%20-%20%E5%A8%81%E5%88%A9%E5%8D%9A%E5%A3%AB%E7%9A%84%E6%9C%AB%E6%97%A5%EF%BC%81%28v20230315%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%286Mb%29/> | 洛克人3 - 威利博士的末日！(v20230315)(繁)\[Nokoh\](JP)\[ACT\](6Mb) |
-| 1059 | `洛克人3 - 威利博士的末日！(v20230322)(简)[Nokoh+fciq](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA3%20-%20%E5%A8%81%E5%88%A9%E5%8D%9A%E5%A3%AB%E7%9A%84%E6%9C%AB%E6%97%A5%EF%BC%81%28v20230322%29%28%E7%AE%80%29%5BNokoh%2Bfciq%5D%28JP%29%5BACT%5D%286Mb%29/> | 洛克人3 - 威利博士的末日！(v20230322)(简)\[Nokoh+fciq\](JP)\[ACT\](6Mb) |
-| 1060 | `洛克人4 - 新的野心(简)[MS](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA4%20-%20%E6%96%B0%E7%9A%84%E9%87%8E%E5%BF%83%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%284Mb%29/> | 洛克人4 - 新的野心(简)\[MS\](JP)\[ACT\](4Mb) |
-| 1062 | `洛克人5 - 布鲁斯的圈套！(简)[MS](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA5%20-%20%E5%B8%83%E9%B2%81%E6%96%AF%E7%9A%84%E5%9C%88%E5%A5%97%EF%BC%81%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%284Mb%29/> | 洛克人5 - 布鲁斯的圈套！(简)\[MS\](JP)\[ACT\](4Mb) |
-| 1063 | `洛克人5 - 布鲁斯的圈套！(简)[Shinwa](JP)[ACT](4.12Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA5%20-%20%E5%B8%83%E9%B2%81%E6%96%AF%E7%9A%84%E5%9C%88%E5%A5%97%EF%BC%81%28%E7%AE%80%29%5BShinwa%5D%28JP%29%5BACT%5D%284.12Mb%29/> | 洛克人5 - 布鲁斯的圈套！(简)\[Shinwa\](JP)\[ACT\](4.12Mb) |
-| 1064 | `洛克人5 - 布鲁斯的圈套！(简)[中伟](JP)[ACT](8Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA5%20-%20%E5%B8%83%E9%B2%81%E6%96%AF%E7%9A%84%E5%9C%88%E5%A5%97%EF%BC%81%28%E7%AE%80%29%5B%E4%B8%AD%E4%BC%9F%5D%28JP%29%5BACT%5D%288Mb%29/> | 洛克人5 - 布鲁斯的圈套！(简)\[中伟\](JP)\[ACT\](8Mb) |
-| 1065 | `洛克人5 - 布鲁斯的陷阱！(v20230512)(简+繁)[Nokoh](JP)[ACT](8Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA5%20-%20%E5%B8%83%E9%B2%81%E6%96%AF%E7%9A%84%E9%99%B7%E9%98%B1%EF%BC%81%28v20230512%29%28%E7%AE%80%2B%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%288Mb%29/> | 洛克人5 - 布鲁斯的陷阱！(v20230512)(简+繁)\[Nokoh\](JP)\[ACT\](8Mb) |
-| 1067 | `洛克人6 - 史上最长的战斗！(简)[MS](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA6%20-%20%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%95%BF%E7%9A%84%E6%88%98%E6%96%97%EF%BC%81%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%284Mb%29/> | 洛克人6 - 史上最长的战斗！(简)\[MS\](JP)\[ACT\](4Mb) |
-| 1068 | `洛克人6 - 史上最长的战斗！(简)[不知所云](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BA6%20-%20%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%95%BF%E7%9A%84%E6%88%98%E6%96%97%EF%BC%81%28%E7%AE%80%29%5B%E4%B8%8D%E7%9F%A5%E6%89%80%E4%BA%91%5D%28JP%29%5BACT%5D%284Mb%29/> | 洛克人6 - 史上最长的战斗！(简)\[不知所云\](JP)\[ACT\](4Mb) |
-| 1069 | `洛克人Exile(简)[中伟](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BAExile%28%E7%AE%80%29%5B%E4%B8%AD%E4%BC%9F%5D%28US%29%5BACT%5D%282Mb%29/> | 洛克人Exile(简)\[中伟\](US)\[ACT\](2Mb) |
-| 1070 | `洛克人X(简)[MS](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BAX%28%E7%AE%80%29%5BMS%5D%28CN%29%5BACT%5D%284Mb%29/> | 洛克人X(简)\[MS\](CN)\[ACT\](4Mb) |
-| 1071 | `洛克人X(简)[外星科技](JP)[TAB](4Mb)`：<https://fc.haiyong.site/games/%E6%B4%9B%E5%85%8B%E4%BA%BAX%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BTAB%5D%284Mb%29/> | 洛克人X(简)\[外星科技\](JP)\[TAB\](4Mb) |
-| 1072 | `淘气厨师 - 食物的世界(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%B7%98%E6%B0%94%E5%8E%A8%E5%B8%88%20-%20%E9%A3%9F%E7%89%A9%E7%9A%84%E4%B8%96%E7%95%8C%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%282Mb%29/> | 淘气厨师 - 食物的世界(简)\[MS\](JP)\[ACT\](2Mb) |
-| 1073 | `淘气厨师 - 食物的世界(简)[Zero Boy](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E6%B7%98%E6%B0%94%E5%8E%A8%E5%B8%88%20-%20%E9%A3%9F%E7%89%A9%E7%9A%84%E4%B8%96%E7%95%8C%28%E7%AE%80%29%5BZero%20Boy%5D%28JP%29%5BACT%5D%282Mb%29/> | 淘气厨师 - 食物的世界(简)\[Zero Boy\](JP)\[ACT\](2Mb) |
-| 1074 | `淘金者(v2)(简)[叶枫](JP)[PUZ](0.37Mb)`：<https://fc.haiyong.site/games/%E6%B7%98%E9%87%91%E8%80%85%28v2%29%28%E7%AE%80%29%5B%E5%8F%B6%E6%9E%AB%5D%28JP%29%5BPUZ%5D%280.37Mb%29/> | 淘金者(v2)(简)\[叶枫\](JP)\[PUZ\](0.37Mb) |
-| 1075 | `淘金者(简)[高伟](US)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E6%B7%98%E9%87%91%E8%80%85%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BPUZ%5D%280.18Mb%29/> | 淘金者(简)\[高伟\](US)\[PUZ\](0.18Mb) |
-| 1076 | `淘金者2(简)[高伟](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E6%B7%98%E9%87%91%E8%80%852%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BPUZ%5D%280.18Mb%29/> | 淘金者2(简)\[高伟\](JP)\[PUZ\](0.18Mb) |
-| 1077 | `混沌世界(修正版)(简)[外星科技+Vanyogin](JP)[RPG](7Mb)`：<https://fc.haiyong.site/games/%E6%B7%B7%E6%B2%8C%E4%B8%96%E7%95%8C%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BVanyogin%5D%28JP%29%5BRPG%5D%287Mb%29/> | 混沌世界(修正版)(简)\[外星科技+Vanyogin\](JP)\[RPG\](7Mb) |
-| 1078 | `混沌世界[外星科技+腓特烈修正](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E6%B7%B7%E6%B2%8C%E4%B8%96%E7%95%8C%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E8%85%93%E7%89%B9%E7%83%88%E4%BF%AE%E6%AD%A3%5D%28JP%29%5BRPG%5D%286Mb%29/> | 混沌世界\[外星科技+腓特烈修正\](JP)\[RPG\](6Mb) |
-| 1079 | `港京拉力赛(简)[天苑软件](CN)[RAC](2Mb)`：<https://fc.haiyong.site/games/%E6%B8%AF%E4%BA%AC%E6%8B%89%E5%8A%9B%E8%B5%9B%28%E7%AE%80%29%5B%E5%A4%A9%E8%8B%91%E8%BD%AF%E4%BB%B6%5D%28CN%29%5BRAC%5D%282Mb%29/> | 港京拉力赛(简)\[天苑软件\](CN)\[RAC\](2Mb) |
-| 1080 | `游戏宝贝(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%B8%B8%E6%88%8F%E5%AE%9D%E8%B4%9D%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 游戏宝贝(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 1081 | `游戏王(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E6%B8%B8%E6%88%8F%E7%8E%8B%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 游戏王(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1082 | `激斗圣战士(修正版)(简)[外星科技+Vanyogin](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%BF%80%E6%96%97%E5%9C%A3%E6%88%98%E5%A3%AB%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BVanyogin%5D%28JP%29%5BRPG%5D%284Mb%29/> | 激斗圣战士(修正版)(简)\[外星科技+Vanyogin\](JP)\[RPG\](4Mb) |
-| 1083 | `激斗圣战士(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E6%BF%80%E6%96%97%E5%9C%A3%E6%88%98%E5%A3%AB%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 激斗圣战士(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 1084 | `激龟忍者传(v1.1)(简)[DMG](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E6%BF%80%E9%BE%9F%E5%BF%8D%E8%80%85%E4%BC%A0%28v1.1%29%28%E7%AE%80%29%5BDMG%5D%28JP%29%5BACT%5D%283Mb%29/> | 激龟忍者传(v1.1)(简)\[DMG\](JP)\[ACT\](3Mb) |
-| 1085 | `激龟格斗(v1.0)(简)[星空](US)[FTG](2.37Mb)`：<https://fc.haiyong.site/games/%E6%BF%80%E9%BE%9F%E6%A0%BC%E6%96%97%28v1.0%29%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28US%29%5BFTG%5D%282.37Mb%29/> | 激龟格斗(v1.0)(简)\[星空\](US)\[FTG\](2.37Mb) |
-| 1086 | `火凤凰(v1.0)(简)[高伟](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E5%87%A4%E5%87%B0%28v1.0%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.31Mb%29/> | 火凤凰(v1.0)(简)\[高伟\](JP)\[STG\](0.31Mb) |
-| 1087 | `火凤凰(简)[虫虫](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E5%87%A4%E5%87%B0%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BSTG%5D%280.31Mb%29/> | 火凤凰(简)\[虫虫\](JP)\[STG\](0.31Mb) |
-| 1088 | `火凤凰[高伟汉化](1Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E5%87%A4%E5%87%B0%5B%E9%AB%98%E4%BC%9F%E6%B1%89%E5%8C%96%5D%281Mb%29/> | 火凤凰\[高伟汉化\](1Mb) |
-| 1089 | `火影忍者RPG(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85RPG%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 火影忍者RPG(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1090 | `火炮侦探(简)[汉化你妹](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E7%82%AE%E4%BE%A6%E6%8E%A2%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BACT%5D%283Mb%29/> | 火炮侦探(简)\[汉化你妹\](JP)\[ACT\](3Mb) |
-| 1091 | `火焰之纹章 - 暗黑龙与光之剑(v1.05)(简)[寒雪使者](JP)[SLG](5Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E7%84%B0%E4%B9%8B%E7%BA%B9%E7%AB%A0%20-%20%E6%9A%97%E9%BB%91%E9%BE%99%E4%B8%8E%E5%85%89%E4%B9%8B%E5%89%91%28v1.05%29%28%E7%AE%80%29%5B%E5%AF%92%E9%9B%AA%E4%BD%BF%E8%80%85%5D%28JP%29%5BSLG%5D%285Mb%29/> | 火焰之纹章 - 暗黑龙与光之剑(v1.05)(简)\[寒雪使者\](JP)\[SLG\](5Mb) |
-| 1092 | `火焰之纹章 - 暗黑龙与光之剑(v4.0)(修正版)(简)[外星科技+庞先生+寒雪使者](JP)[SLG](5Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E7%84%B0%E4%B9%8B%E7%BA%B9%E7%AB%A0%20-%20%E6%9A%97%E9%BB%91%E9%BE%99%E4%B8%8E%E5%85%89%E4%B9%8B%E5%89%91%28v4.0%29%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E5%BA%9E%E5%85%88%E7%94%9F%2B%E5%AF%92%E9%9B%AA%E4%BD%BF%E8%80%85%5D%28JP%29%5BSLG%5D%285Mb%29/> | 火焰之纹章 - 暗黑龙与光之剑(v4.0)(修正版)(简)\[外星科技+庞先生+寒雪使者\](JP)\[SLG\](5Mb) |
-| 1093 | `火焰之纹章外传(v2.0)(简)[寒雪使者](JP)[SLG](6Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E7%84%B0%E4%B9%8B%E7%BA%B9%E7%AB%A0%E5%A4%96%E4%BC%A0%28v2.0%29%28%E7%AE%80%29%5B%E5%AF%92%E9%9B%AA%E4%BD%BF%E8%80%85%5D%28JP%29%5BSLG%5D%286Mb%29/> | 火焰之纹章外传(v2.0)(简)\[寒雪使者\](JP)\[SLG\](6Mb) |
-| 1094 | `火焰之纹章外传(修正版)(简)[外星科技+庞先生+寒雪使者](JP)[SLG](5Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E7%84%B0%E4%B9%8B%E7%BA%B9%E7%AB%A0%E5%A4%96%E4%BC%A0%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E5%BA%9E%E5%85%88%E7%94%9F%2B%E5%AF%92%E9%9B%AA%E4%BD%BF%E8%80%85%5D%28JP%29%5BSLG%5D%285Mb%29/> | 火焰之纹章外传(修正版)(简)\[外星科技+庞先生+寒雪使者\](JP)\[SLG\](5Mb) |
-| 1095 | `火焰之纹章外传[汉化你妹汉化组](5Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E7%84%B0%E4%B9%8B%E7%BA%B9%E7%AB%A0%E5%A4%96%E4%BC%A0%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%E6%B1%89%E5%8C%96%E7%BB%84%5D%285Mb%29/> | 火焰之纹章外传\[汉化你妹汉化组\](5Mb) |
-| 1096 | `火焰使者(繁)[恒格电子](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E7%84%B0%E4%BD%BF%E8%80%85%28%E7%B9%81%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BRPG%5D%284Mb%29/> | 火焰使者(繁)\[恒格电子\](JP)\[RPG\](4Mb) |
-| 1097 | `火焰纹章 - 圣战的系谱(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E7%84%B0%E7%BA%B9%E7%AB%A0%20-%20%E5%9C%A3%E6%88%98%E7%9A%84%E7%B3%BB%E8%B0%B1%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 火焰纹章 - 圣战的系谱(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 1098 | `火焰纹章(v1.0)(简)[汉化你妹](JP)[SLG](5Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E7%84%B0%E7%BA%B9%E7%AB%A0%28v1.0%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BSLG%5D%285Mb%29/> | 火焰纹章(v1.0)(简)\[汉化你妹\](JP)\[SLG\](5Mb) |
-| 1099 | `火箭赛车(简)[御酒探花](JP)[RAC](0.5Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E7%AE%AD%E8%B5%9B%E8%BD%A6%28%E7%AE%80%29%5B%E5%BE%A1%E9%85%92%E6%8E%A2%E8%8A%B1%5D%28JP%29%5BRAC%5D%280.5Mb%29/> | 火箭赛车(简)\[御酒探花\](JP)\[RAC\](0.5Mb) |
-| 1100 | `火箭车(简)[虫儿](JP)[RAC](0.18Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E7%AE%AD%E8%BD%A6%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JP%29%5BRAC%5D%280.18Mb%29/> | 火箭车(简)\[虫儿\](JP)\[RAC\](0.18Mb) |
-| 1101 | `火箭飞车(v1.2)(简)[九班](JP)[RAC](0.18Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E7%AE%AD%E9%A3%9E%E8%BD%A6%28v1.2%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BRAC%5D%280.18Mb%29/> | 火箭飞车(v1.2)(简)\[九班\](JP)\[RAC\](0.18Mb) |
-| 1102 | `火龙(繁)[三协资讯](CN)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E7%81%AB%E9%BE%99%28%E7%B9%81%29%5B%E4%B8%89%E5%8D%8F%E8%B5%84%E8%AE%AF%5D%28CN%29%5BACT%5D%280.31Mb%29/> | 火龙(繁)\[三协资讯\](CN)\[ACT\](0.31Mb) |
-| 1103 | `灵界护法(繁)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E7%81%B5%E7%95%8C%E6%8A%A4%E6%B3%95%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%284Mb%29/> | 灵界护法(繁)\[外星科技\](CN)\[ACT\](4Mb) |
-| 1104 | `炸弹人(v1.0)(简)[MS](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/%E7%82%B8%E5%BC%B9%E4%BA%BA%28v1.0%29%28%E7%AE%80%29%5BMS%5D%28JP%29%5BPUZ%5D%280.18Mb%29/> | 炸弹人(v1.0)(简)\[MS\](JP)\[PUZ\](0.18Mb) |
-| 1105 | `炸弹人(v1.0)(简)[惊风](JP)[PUZ](0.37Mb)`：<https://fc.haiyong.site/games/%E7%82%B8%E5%BC%B9%E4%BA%BA%28v1.0%29%28%E7%AE%80%29%5B%E6%83%8A%E9%A3%8E%5D%28JP%29%5BPUZ%5D%280.37Mb%29/> | 炸弹人(v1.0)(简)\[惊风\](JP)\[PUZ\](0.37Mb) |
-| 1106 | `炸弹人(简)[水火](JP)[PUZ](0.37Mb)`：<https://fc.haiyong.site/games/%E7%82%B8%E5%BC%B9%E4%BA%BA%28%E7%AE%80%29%5B%E6%B0%B4%E7%81%AB%5D%28JP%29%5BPUZ%5D%280.37Mb%29/> | 炸弹人(简)\[水火\](JP)\[PUZ\](0.37Mb) |
-| 1107 | `烈火92(修正版)(简)[幻想+MS](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E7%83%88%E7%81%AB92%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%B9%BB%E6%83%B3%2BMS%5D%28JP%29%5BSTG%5D%282Mb%29/> | 烈火92(修正版)(简)\[幻想+MS\](JP)\[STG\](2Mb) |
-| 1108 | `烈火92(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E7%83%88%E7%81%AB92%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 烈火92(简)\[高伟\](JP)\[STG\](2Mb) |
-| 1109 | `热血时代剧(简体中文版)(v0.91)[AXI AHE汉化](JP)[ACT](2.5Mb)(可模拟版本)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%E6%97%B6%E4%BB%A3%E5%89%A7%28%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88%29%28v0.91%29%5BAXI%20AHE%E6%B1%89%E5%8C%96%5D%28JP%29%5BACT%5D%282.5Mb%29%28%E5%8F%AF%E6%A8%A1%E6%8B%9F%E7%89%88%E6%9C%AC%29/> | 热血时代剧(简体中文版)(v0.91)\[AXI AHE汉化\](JP)\[ACT\](2.5Mb)(可模拟版本) |
-| 1110 | `热血格斗传说(v20130718)(简)[热血的鱼缸](JP)[FTG](3.11Mb)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%E6%A0%BC%E6%96%97%E4%BC%A0%E8%AF%B4%28v20130718%29%28%E7%AE%80%29%5B%E7%83%AD%E8%A1%80%E7%9A%84%E9%B1%BC%E7%BC%B8%5D%28JP%29%5BFTG%5D%283.11Mb%29/> | 热血格斗传说(v20130718)(简)\[热血的鱼缸\](JP)\[FTG\](3.11Mb) |
-| 1111 | `热血格斗传说(v20130718)(繁)[热血的鱼缸](JP)[FTG](3.11Mb)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%E6%A0%BC%E6%96%97%E4%BC%A0%E8%AF%B4%28v20130718%29%28%E7%B9%81%29%5B%E7%83%AD%E8%A1%80%E7%9A%84%E9%B1%BC%E7%BC%B8%5D%28JP%29%5BFTG%5D%283.11Mb%29/> | 热血格斗传说(v20130718)(繁)\[热血的鱼缸\](JP)\[FTG\](3.11Mb) |
-| 1112 | `热血格斗传说(v20220403)(简)[热血的鱼缸+asiwish](JP)[FTG](4Mb)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%E6%A0%BC%E6%96%97%E4%BC%A0%E8%AF%B4%28v20220403%29%28%E7%AE%80%29%5B%E7%83%AD%E8%A1%80%E7%9A%84%E9%B1%BC%E7%BC%B8%2Basiwish%5D%28JP%29%5BFTG%5D%284Mb%29/> | 热血格斗传说(v20220403)(简)\[热血的鱼缸+asiwish\](JP)\[FTG\](4Mb) |
-| 1113 | `热血格斗传说(简)[Old Liu](JP)[FTG](2Mb)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%E6%A0%BC%E6%96%97%E4%BC%A0%E8%AF%B4%28%E7%AE%80%29%5BOld%20Liu%5D%28JP%29%5BFTG%5D%282Mb%29/> | 热血格斗传说(简)\[Old Liu\](JP)\[FTG\](2Mb) |
-| 1114 | `热血物语(简)[PKome](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%E7%89%A9%E8%AF%AD%28%E7%AE%80%29%5BPKome%5D%28US%29%5BACT%5D%282Mb%29/> | 热血物语(简)\[PKome\](US)\[ACT\](2Mb) |
-| 1115 | `热血物语[AirTeam汉化版](2Mb)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%E7%89%A9%E8%AF%AD%5BAirTeam%E6%B1%89%E5%8C%96%E7%89%88%5D%282Mb%29/> | 热血物语\[AirTeam汉化版\](2Mb) |
-| 1116 | `热血硬派国雄君(简)[热血的鱼缸](JP)[ACT](1.12Mb)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%E7%A1%AC%E6%B4%BE%E5%9B%BD%E9%9B%84%E5%90%9B%28%E7%AE%80%29%5B%E7%83%AD%E8%A1%80%E7%9A%84%E9%B1%BC%E7%BC%B8%5D%28JP%29%5BACT%5D%281.12Mb%29/> | 热血硬派国雄君(简)\[热血的鱼缸\](JP)\[ACT\](1.12Mb) |
-| 1117 | `热血篮球[AXI AHE汉化](JP)[SPG](可模拟版本)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%E7%AF%AE%E7%90%83%5BAXI%20AHE%E6%B1%89%E5%8C%96%5D%28JP%29%5BSPG%5D%28%E5%8F%AF%E6%A8%A1%E6%8B%9F%E7%89%88%E6%9C%AC%29/> | 热血篮球\[AXI AHE汉化\](JP)\[SPG\](可模拟版本) |
-| 1118 | `热血高校躲避球部 - 足球篇(简)[热血的鱼缸](JP)[SPG](7Mb)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%E9%AB%98%E6%A0%A1%E8%BA%B2%E9%81%BF%E7%90%83%E9%83%A8%20-%20%E8%B6%B3%E7%90%83%E7%AF%87%28%E7%AE%80%29%5B%E7%83%AD%E8%A1%80%E7%9A%84%E9%B1%BC%E7%BC%B8%5D%28JP%29%5BSPG%5D%287Mb%29/> | 热血高校躲避球部 - 足球篇(简)\[热血的鱼缸\](JP)\[SPG\](7Mb) |
-| 1119 | `热血高校躲避球部 - 足球篇(繁)[热血的鱼缸](JP)[SPG](7Mb)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%E9%AB%98%E6%A0%A1%E8%BA%B2%E9%81%BF%E7%90%83%E9%83%A8%20-%20%E8%B6%B3%E7%90%83%E7%AF%87%28%E7%B9%81%29%5B%E7%83%AD%E8%A1%80%E7%9A%84%E9%B1%BC%E7%BC%B8%5D%28JP%29%5BSPG%5D%287Mb%29/> | 热血高校躲避球部 - 足球篇(繁)\[热血的鱼缸\](JP)\[SPG\](7Mb) |
-| 1120 | `热血高校躲避球部(简)[Old Liu](JP)[SPG](2Mb)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%E9%AB%98%E6%A0%A1%E8%BA%B2%E9%81%BF%E7%90%83%E9%83%A8%28%E7%AE%80%29%5BOld%20Liu%5D%28JP%29%5BSPG%5D%282Mb%29/> | 热血高校躲避球部(简)\[Old Liu\](JP)\[SPG\](2Mb) |
-| 1121 | `热血！街头篮球 - 加油吧！灌篮高手们！(v0.9)(简)[热血的鱼缸](JP)[SPG](2.87Mb)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%EF%BC%81%E8%A1%97%E5%A4%B4%E7%AF%AE%E7%90%83%20-%20%E5%8A%A0%E6%B2%B9%E5%90%A7%EF%BC%81%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%E4%BB%AC%EF%BC%81%28v0.9%29%28%E7%AE%80%29%5B%E7%83%AD%E8%A1%80%E7%9A%84%E9%B1%BC%E7%BC%B8%5D%28JP%29%5BSPG%5D%282.87Mb%29/> | 热血！街头篮球 - 加油吧！灌篮高手们！(v0.9)(简)\[热血的鱼缸\](JP)\[SPG\](2.87Mb) |
-| 1122 | `热血！街头篮球 - 加油吧！灌篮高手们！(简)[惊风+空气+gonerFC+火光](JP)[SPG](4Mb)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%EF%BC%81%E8%A1%97%E5%A4%B4%E7%AF%AE%E7%90%83%20-%20%E5%8A%A0%E6%B2%B9%E5%90%A7%EF%BC%81%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%E4%BB%AC%EF%BC%81%28%E7%AE%80%29%5B%E6%83%8A%E9%A3%8E%2B%E7%A9%BA%E6%B0%94%2BgonerFC%2B%E7%81%AB%E5%85%89%5D%28JP%29%5BSPG%5D%284Mb%29/> | 热血！街头篮球 - 加油吧！灌篮高手们！(简)\[惊风+空气+gonerFC+火光\](JP)\[SPG\](4Mb) |
-| 1123 | `热血！街头篮球 - 加油吧！灌篮高手们！(简)[油气车](JP)[SPG](6Mb)`：<https://fc.haiyong.site/games/%E7%83%AD%E8%A1%80%EF%BC%81%E8%A1%97%E5%A4%B4%E7%AF%AE%E7%90%83%20-%20%E5%8A%A0%E6%B2%B9%E5%90%A7%EF%BC%81%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%E4%BB%AC%EF%BC%81%28%E7%AE%80%29%5B%E6%B2%B9%E6%B0%94%E8%BD%A6%5D%28JP%29%5BSPG%5D%286Mb%29/> | 热血！街头篮球 - 加油吧！灌篮高手们！(简)\[油气车\](JP)\[SPG\](6Mb) |
-| 1124 | `熊猫太子(繁)[dragon2snow](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E7%86%8A%E7%8C%AB%E5%A4%AA%E5%AD%90%28%E7%B9%81%29%5Bdragon2snow%5D%28CN%29%5BACT%5D%284Mb%29/> | 熊猫太子(繁)\[dragon2snow\](CN)\[ACT\](4Mb) |
-| 1125 | `爆击战士87(简)[高伟](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/%E7%88%86%E5%87%BB%E6%88%98%E5%A3%AB87%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%281Mb%29/> | 爆击战士87(简)\[高伟\](JP)\[STG\](1Mb) |
-| 1126 | `爆笑三国(简)[外星科技+147201688](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E7%88%86%E7%AC%91%E4%B8%89%E5%9B%BD%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B147201688%5D%28CN%29%5BSLG%5D%288Mb%29/> | 爆笑三国(简)\[外星科技+147201688\](CN)\[SLG\](8Mb) |
-| 1127 | `爆笑三国(繁)[外星科技](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E7%88%86%E7%AC%91%E4%B8%89%E5%9B%BD%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%288Mb%29/> | 爆笑三国(繁)\[外星科技\](CN)\[SLG\](8Mb) |
-| 1128 | `爱情小屋(简)[高伟](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E7%88%B1%E6%83%85%E5%B0%8F%E5%B1%8B%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 爱情小屋(简)\[高伟\](JP)\[ACT\](0.18Mb) |
-| 1129 | `爱的小屋(v3)(简)[MS](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E7%88%B1%E7%9A%84%E5%B0%8F%E5%B1%8B%28v3%29%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 爱的小屋(v3)(简)\[MS\](JP)\[ACT\](0.18Mb) |
-| 1130 | `牧场物语(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E7%89%A7%E5%9C%BA%E7%89%A9%E8%AF%AD%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 牧场物语(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1131 | `特库摩世界杯足球赛[王龙汉化小组汉化 MS修正](JP)[SPG](1Mb)`：<https://fc.haiyong.site/games/%E7%89%B9%E5%BA%93%E6%91%A9%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B6%B3%E7%90%83%E8%B5%9B%5B%E7%8E%8B%E9%BE%99%E6%B1%89%E5%8C%96%E5%B0%8F%E7%BB%84%E6%B1%89%E5%8C%96%20MS%E4%BF%AE%E6%AD%A3%5D%28JP%29%5BSPG%5D%281Mb%29/> | 特库摩世界杯足球赛\[王龙汉化小组汉化 MS修正\](JP)\[SPG\](1Mb) |
-| 1132 | `特救指令(简)[asiwish](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E7%89%B9%E6%95%91%E6%8C%87%E4%BB%A4%28%E7%AE%80%29%5Basiwish%5D%28JP%29%5BACT%5D%282Mb%29/> | 特救指令(简)\[asiwish\](JP)\[ACT\](2Mb) |
-| 1133 | `特救指令(简)[Puszta](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E7%89%B9%E6%95%91%E6%8C%87%E4%BB%A4%28%E7%AE%80%29%5BPuszta%5D%28JP%29%5BACT%5D%282Mb%29/> | 特救指令(简)\[Puszta\](JP)\[ACT\](2Mb) |
-| 1134 | `特救指令(简)[天蝎之忆](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E7%89%B9%E6%95%91%E6%8C%87%E4%BB%A4%28%E7%AE%80%29%5B%E5%A4%A9%E8%9D%8E%E4%B9%8B%E5%BF%86%5D%28JP%29%5BACT%5D%282Mb%29/> | 特救指令(简)\[天蝎之忆\](JP)\[ACT\](2Mb) |
-| 1135 | `特救指令(简)[逆游的五彩鱼](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E7%89%B9%E6%95%91%E6%8C%87%E4%BB%A4%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28JP%29%5BACT%5D%284Mb%29/> | 特救指令(简)\[逆游的五彩鱼\](JP)\[ACT\](4Mb) |
-| 1136 | `特救指令(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E7%89%B9%E6%95%91%E6%8C%87%E4%BB%A4%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 特救指令(简)\[高伟\](JP)\[ACT\](2Mb) |
-| 1137 | `特种部队 - 一个真正的美国英雄(简)[汉化你妹](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F%20-%20%E4%B8%80%E4%B8%AA%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%BE%8E%E5%9B%BD%E8%8B%B1%E9%9B%84%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28US%29%5BACT%5D%284Mb%29/> | 特种部队 - 一个真正的美国英雄(简)\[汉化你妹\](US)\[ACT\](4Mb) |
-| 1138 | `狙击13 第一章 诸神的黄昏[DMG](4Mb)`：<https://fc.haiyong.site/games/%E7%8B%99%E5%87%BB13%20%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AF%B8%E7%A5%9E%E7%9A%84%E9%BB%84%E6%98%8F%5BDMG%5D%284Mb%29/> | 狙击13 第一章 诸神的黄昏\[DMG\](4Mb) |
-| 1139 | `狮王传奇(简)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E7%8B%AE%E7%8E%8B%E4%BC%A0%E5%A5%87%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%284Mb%29/> | 狮王传奇(简)\[外星科技\](CN)\[ACT\](4Mb) |
-| 1140 | `猫之狂欢(v1.0)[九班汉化](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E7%8C%AB%E4%B9%8B%E7%8B%82%E6%AC%A2%28v1.0%29%5B%E4%B9%9D%E7%8F%AD%E6%B1%89%E5%8C%96%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 猫之狂欢(v1.0)\[九班汉化\](JP)\[ACT\](0.18Mb) |
-| 1141 | `猫党忍传 - 胡扯什么(v1.11)(简)[汉化你妹](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E7%8C%AB%E5%85%9A%E5%BF%8D%E4%BC%A0%20-%20%E8%83%A1%E6%89%AF%E4%BB%80%E4%B9%88%28v1.11%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BACT%5D%284Mb%29/> | 猫党忍传 - 胡扯什么(v1.11)(简)\[汉化你妹\](JP)\[ACT\](4Mb) |
-| 1142 | `猫和老鼠(v2)(简)[星夜之幻](JP)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%28v2%29%28%E7%AE%80%29%5B%E6%98%9F%E5%A4%9C%E4%B9%8B%E5%B9%BB%5D%28JP%29%5BACT%5D%280.31Mb%29/> | 猫和老鼠(v2)(简)\[星夜之幻\](JP)\[ACT\](0.31Mb) |
-| 1143 | `猫捉老鼠(简)[奇玉](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E7%8C%AB%E6%8D%89%E8%80%81%E9%BC%A0%28%E7%AE%80%29%5B%E5%A5%87%E7%8E%89%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 猫捉老鼠(简)\[奇玉\](JP)\[ACT\](0.18Mb) |
-| 1144 | `猫捉老鼠(简)[来福](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E7%8C%AB%E6%8D%89%E8%80%81%E9%BC%A0%28%E7%AE%80%29%5B%E6%9D%A5%E7%A6%8F%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 猫捉老鼠(简)\[来福\](JP)\[ACT\](0.18Mb) |
-| 1145 | `王中霸学习卡(简)[荣丰](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E7%8E%8B%E4%B8%AD%E9%9C%B8%E5%AD%A6%E4%B9%A0%E5%8D%A1%28%E7%AE%80%29%5B%E8%8D%A3%E4%B8%B0%5D%28CN%29%5BETC%5D%284Mb%29/> | 王中霸学习卡(简)\[荣丰\](CN)\[ETC\](4Mb) |
-| 1146 | `王之霸者(v2)(简)[逆游的五彩鱼](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E7%8E%8B%E4%B9%8B%E9%9C%B8%E8%80%85%28v2%29%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28US%29%5BACT%5D%284Mb%29/> | 王之霸者(v2)(简)\[逆游的五彩鱼\](US)\[ACT\](4Mb) |
-| 1147 | `王子复仇记(简)[恒格电子](CN)[TAB](8Mb)`：<https://fc.haiyong.site/games/%E7%8E%8B%E5%AD%90%E5%A4%8D%E4%BB%87%E8%AE%B0%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BTAB%5D%288Mb%29/> | 王子复仇记(简)\[恒格电子\](CN)\[TAB\](8Mb) |
-| 1148 | `王牌海战(简)[TCL](CN)[TAB](0.75Mb)`：<https://fc.haiyong.site/games/%E7%8E%8B%E7%89%8C%E6%B5%B7%E6%88%98%28%E7%AE%80%29%5BTCL%5D%28CN%29%5BTAB%5D%280.75Mb%29/> | 王牌海战(简)\[TCL\](CN)\[TAB\](0.75Mb) |
-| 1149 | `王者无双(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E7%8E%8B%E8%80%85%E6%97%A0%E5%8F%8C%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 王者无双(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 1150 | `玛利欧兄弟(v20110401)(繁)[Nokoh](JUE)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/%E7%8E%9B%E5%88%A9%E6%AC%A7%E5%85%84%E5%BC%9F%28v20110401%29%28%E7%B9%81%29%5BNokoh%5D%28JUE%29%5BACT%5D%280.37Mb%29/> | 玛利欧兄弟(v20110401)(繁)\[Nokoh\](JUE)\[ACT\](0.37Mb) |
-| 1151 | `玛利欧兄弟拆屋工(v20110409)(繁)[Nokoh](JUE)[ACT](0.75Mb)`：<https://fc.haiyong.site/games/%E7%8E%9B%E5%88%A9%E6%AC%A7%E5%85%84%E5%BC%9F%E6%8B%86%E5%B1%8B%E5%B7%A5%28v20110409%29%28%E7%B9%81%29%5BNokoh%5D%28JUE%29%5BACT%5D%280.75Mb%29/> | 玛利欧兄弟拆屋工(v20110409)(繁)\[Nokoh\](JUE)\[ACT\](0.75Mb) |
-| 1152 | `玛莉医生(简)[Puszta](JU)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E7%8E%9B%E8%8E%89%E5%8C%BB%E7%94%9F%28%E7%AE%80%29%5BPuszta%5D%28JU%29%5BPUZ%5D%280.5Mb%29/> | 玛莉医生(简)\[Puszta\](JU)\[PUZ\](0.5Mb) |
-| 1153 | `生化危机(简)[外星科技](CN)[AVG](8Mb)`：<https://fc.haiyong.site/games/%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BAVG%5D%288Mb%29/> | 生化危机(简)\[外星科技\](CN)\[AVG\](8Mb) |
-| 1154 | `生命的奇迹 - 超级宝宝(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E7%94%9F%E5%91%BD%E7%9A%84%E5%A5%87%E8%BF%B9%20-%20%E8%B6%85%E7%BA%A7%E5%AE%9D%E5%AE%9D%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%282Mb%29/> | 生命的奇迹 - 超级宝宝(简)\[MS\](JP)\[ACT\](2Mb) |
-| 1155 | `甲A - 中国足球俱乐部之经营(简)[外星科技](CN)[SLG](6Mb)`：<https://fc.haiyong.site/games/%E7%94%B2A%20-%20%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B9%8B%E7%BB%8F%E8%90%A5%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%286Mb%29/> | 甲A - 中国足球俱乐部之经营(简)\[外星科技\](CN)\[SLG\](6Mb) |
-| 1156 | `电梯迷宫(简)[高伟](JP)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E7%94%B5%E6%A2%AF%E8%BF%B7%E5%AE%AB%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.31Mb%29/> | 电梯迷宫(简)\[高伟\](JP)\[ACT\](0.31Mb) |
-| 1157 | `电脑教室(简)[爱尔普](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E7%94%B5%E8%84%91%E6%95%99%E5%AE%A4%28%E7%AE%80%29%5B%E7%88%B1%E5%B0%94%E6%99%AE%5D%28CN%29%5BETC%5D%284Mb%29/> | 电脑教室(简)\[爱尔普\](CN)\[ETC\](4Mb) |
-| 1158 | `电视玛琍(繁)[Namco](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/%E7%94%B5%E8%A7%86%E7%8E%9B%E7%90%8D%28%E7%B9%81%29%5BNamco%5D%28CN%29%5BTAB%5D%280.5Mb%29/> | 电视玛琍(繁)\[Namco\](CN)\[TAB\](0.5Mb) |
-| 1159 | `疯狂赛车(简)[高伟](JP)[RAC](0.18Mb)`：<https://fc.haiyong.site/games/%E7%96%AF%E7%8B%82%E8%B5%9B%E8%BD%A6%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BRAC%5D%280.18Mb%29/> | 疯狂赛车(简)\[高伟\](JP)\[RAC\](0.18Mb) |
-| 1160 | `疯狂鸡蛋仔(简)[外星科技](CN)[ETC](3Mb)`：<https://fc.haiyong.site/games/%E7%96%AF%E7%8B%82%E9%B8%A1%E8%9B%8B%E4%BB%94%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BETC%5D%283Mb%29/> | 疯狂鸡蛋仔(简)\[外星科技\](CN)\[ETC\](3Mb) |
-| 1161 | `百万富翁(繁)[未知](CN)[TAB](8Mb)`：<https://fc.haiyong.site/games/%E7%99%BE%E4%B8%87%E5%AF%8C%E7%BF%81%28%E7%B9%81%29%5B%E6%9C%AA%E7%9F%A5%5D%28CN%29%5BTAB%5D%288Mb%29/> | 百万富翁(繁)\[未知\](CN)\[TAB\](8Mb) |
-| 1162 | `百眼巨神(简)[虫虫](JP)[STG](0.37Mb)`：<https://fc.haiyong.site/games/%E7%99%BE%E7%9C%BC%E5%B7%A8%E7%A5%9E%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BSTG%5D%280.37Mb%29/> | 百眼巨神(简)\[虫虫\](JP)\[STG\](0.37Mb) |
-| 1164 | `皮卡丘Y2K(简)[天空联盟](CN)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E7%9A%AE%E5%8D%A1%E4%B8%98Y2K%28%E7%AE%80%29%5B%E5%A4%A9%E7%A9%BA%E8%81%94%E7%9B%9F%5D%28CN%29%5BACT%5D%282Mb%29/> | 皮卡丘Y2K(简)\[天空联盟\](CN)\[ACT\](2Mb) |
-| 1165 | `盗帅(繁)[洁晖](CN)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E7%9B%97%E5%B8%85%28%E7%B9%81%29%5B%E6%B4%81%E6%99%96%5D%28CN%29%5BACT%5D%280.5Mb%29/> | 盗帅(繁)\[洁晖\](CN)\[ACT\](0.5Mb) |
-| 1166 | `盟军赶死队(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E7%9B%9F%E5%86%9B%E8%B5%B6%E6%AD%BB%E9%98%9F%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 盟军赶死队(简)\[外星科技\](CN)\[RPG\](4Mb) |
-| 1167 | `真侍魂 - 武士道列传(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E7%9C%9F%E4%BE%8D%E9%AD%82%20-%20%E6%AD%A6%E5%A3%AB%E9%81%93%E5%88%97%E4%BC%A0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 真侍魂 - 武士道列传(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1168 | `真侍魂 - 魂之利刃(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E7%9C%9F%E4%BE%8D%E9%AD%82%20-%20%E9%AD%82%E4%B9%8B%E5%88%A9%E5%88%83%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 真侍魂 - 魂之利刃(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1169 | `真假猴王(简)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E7%9C%9F%E5%81%87%E7%8C%B4%E7%8E%8B%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%284Mb%29/> | 真假猴王(简)\[外星科技\](CN)\[ACT\](4Mb) |
-| 1170 | `真本西游记(繁)[Asder](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/%E7%9C%9F%E6%9C%AC%E8%A5%BF%E6%B8%B8%E8%AE%B0%28%E7%B9%81%29%5BAsder%5D%28CN%29%5BFTG%5D%283Mb%29/> | 真本西游记(繁)\[Asder\](CN)\[FTG\](3Mb) |
-| 1171 | `真田十勇士(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E7%9C%9F%E7%94%B0%E5%8D%81%E5%8B%87%E5%A3%AB%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 真田十勇士(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 1172 | `石器时代(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 石器时代(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1173 | `破釜沉舟(解密版)(简)[外星科技+WXN](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E7%A0%B4%E9%87%9C%E6%B2%89%E8%88%9F%28%E8%A7%A3%E5%AF%86%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BWXN%5D%28CN%29%5BRPG%5D%284Mb%29/> | 破釜沉舟(解密版)(简)\[外星科技+WXN\](CN)\[RPG\](4Mb) |
-| 1174 | `碰碰车(v1.0)(简)[MS](US)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E7%A2%B0%E7%A2%B0%E8%BD%A6%28v1.0%29%28%E7%AE%80%29%5BMS%5D%28US%29%5BACT%5D%280.5Mb%29/> | 碰碰车(v1.0)(简)\[MS\](US)\[ACT\](0.5Mb) |
-| 1175 | `碰碰飞车(简)[高伟](JP)[RAC](0.5Mb)`：<https://fc.haiyong.site/games/%E7%A2%B0%E7%A2%B0%E9%A3%9E%E8%BD%A6%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BRAC%5D%280.5Mb%29/> | 碰碰飞车(简)\[高伟\](JP)\[RAC\](0.5Mb) |
-| 1176 | `神奇宝贝(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%288Mb%29/> | 神奇宝贝(简)\[恒格电子\](CN)\[RPG\](8Mb) |
-| 1177 | `神密金三角(繁)[外星科技](JP)[RPG](1Mb)`：<https://fc.haiyong.site/games/%E7%A5%9E%E5%AF%86%E9%87%91%E4%B8%89%E8%A7%92%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%281Mb%29/> | 神密金三角(繁)\[外星科技\](JP)\[RPG\](1Mb) |
-| 1178 | `神探柯南(简)[星星科技](JP)[AVG](4Mb)`：<https://fc.haiyong.site/games/%E7%A5%9E%E6%8E%A2%E6%9F%AF%E5%8D%97%28%E7%AE%80%29%5B%E6%98%9F%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BAVG%5D%284Mb%29/> | 神探柯南(简)\[星星科技\](JP)\[AVG\](4Mb) |
-| 1179 | `神话剑云3(简)[恒格电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E7%A5%9E%E8%AF%9D%E5%89%91%E4%BA%913%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BRPG%5D%286Mb%29/> | 神话剑云3(简)\[恒格电子\](JP)\[RPG\](6Mb) |
-| 1180 | `神风剑(简)[外星科技](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E7%A5%9E%E9%A3%8E%E5%89%91%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%288Mb%29/> | 神风剑(简)\[外星科技\](JP)\[RPG\](8Mb) |
-| 1181 | `神鬼传奇(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E7%A5%9E%E9%AC%BC%E4%BC%A0%E5%A5%87%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 神鬼传奇(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 1182 | `神魔大陆(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E7%A5%9E%E9%AD%94%E5%A4%A7%E9%99%86%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 神魔大陆(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 1183 | `神鹰一号(v1)(简)[虫虫](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/%E7%A5%9E%E9%B9%B0%E4%B8%80%E5%8F%B7%28v1%29%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BSTG%5D%281Mb%29/> | 神鹰一号(v1)(简)\[虫虫\](JP)\[STG\](1Mb) |
-| 1184 | `科王中英文电脑学习卡(v3.1)(简)[科达](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E7%A7%91%E7%8E%8B%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E8%84%91%E5%AD%A6%E4%B9%A0%E5%8D%A1%28v3.1%29%28%E7%AE%80%29%5B%E7%A7%91%E8%BE%BE%5D%28CN%29%5BETC%5D%284Mb%29/> | 科王中英文电脑学习卡(v3.1)(简)\[科达\](CN)\[ETC\](4Mb) |
-| 1185 | `究极虎(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E7%A9%B6%E6%9E%81%E8%99%8E%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 究极虎(简)\[高伟\](JP)\[STG\](2Mb) |
-| 1186 | `空中要塞(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E7%A9%BA%E4%B8%AD%E8%A6%81%E5%A1%9E%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 空中要塞(简)\[高伟\](JP)\[STG\](2Mb) |
-| 1187 | `空中魂斗罗 - 最终任务(v1.0)(简)[星空](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E7%A9%BA%E4%B8%AD%E9%AD%82%E6%96%97%E7%BD%97%20-%20%E6%9C%80%E7%BB%88%E4%BB%BB%E5%8A%A1%28v1.0%29%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28JP%29%5BSTG%5D%282Mb%29/> | 空中魂斗罗 - 最终任务(v1.0)(简)\[星空\](JP)\[STG\](2Mb) |
-| 1188 | `空中魂斗罗 - 纽约行动(简)[maoweimam](EU)[STG](2Mb)`：<https://fc.haiyong.site/games/%E7%A9%BA%E4%B8%AD%E9%AD%82%E6%96%97%E7%BD%97%20-%20%E7%BA%BD%E7%BA%A6%E8%A1%8C%E5%8A%A8%28%E7%AE%80%29%5Bmaoweimam%5D%28EU%29%5BSTG%5D%282Mb%29/> | 空中魂斗罗 - 纽约行动(简)\[maoweimam\](EU)\[STG\](2Mb) |
-| 1189 | `空中魂斗罗(简)[金明](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E7%A9%BA%E4%B8%AD%E9%AD%82%E6%96%97%E7%BD%97%28%E7%AE%80%29%5B%E9%87%91%E6%98%8E%5D%28JP%29%5BSTG%5D%282Mb%29/> | 空中魂斗罗(简)\[金明\](JP)\[STG\](2Mb) |
-| 1190 | `空间暗影(简)[高伟](JP)[STG](1.5Mb)`：<https://fc.haiyong.site/games/%E7%A9%BA%E9%97%B4%E6%9A%97%E5%BD%B1%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%281.5Mb%29/> | 空间暗影(简)\[高伟\](JP)\[STG\](1.5Mb) |
-| 1191 | `穿长靴的猫 - 环游世界80天大冒险(简)[虫儿](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E7%A9%BF%E9%95%BF%E9%9D%B4%E7%9A%84%E7%8C%AB%20-%20%E7%8E%AF%E6%B8%B8%E4%B8%96%E7%95%8C80%E5%A4%A9%E5%A4%A7%E5%86%92%E9%99%A9%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 穿长靴的猫 - 环游世界80天大冒险(简)\[虫儿\](JP)\[ACT\](0.5Mb) |
-| 1192 | `穿长靴的猫 - 皮洛的伟大探险(简)[虫儿](US)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E7%A9%BF%E9%95%BF%E9%9D%B4%E7%9A%84%E7%8C%AB%20-%20%E7%9A%AE%E6%B4%9B%E7%9A%84%E4%BC%9F%E5%A4%A7%E6%8E%A2%E9%99%A9%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28US%29%5BACT%5D%281Mb%29/> | 穿长靴的猫 - 皮洛的伟大探险(简)\[虫儿\](US)\[ACT\](1Mb) |
-| 1193 | `突击(繁)[洁晖](CN)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E7%AA%81%E5%87%BB%28%E7%B9%81%29%5B%E6%B4%81%E6%99%96%5D%28CN%29%5BACT%5D%281Mb%29/> | 突击(繁)\[洁晖\](CN)\[ACT\](1Mb) |
-| 1194 | `突然君(简)[烈火暴龙](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E7%AA%81%E7%84%B6%E5%90%9B%28%E7%AE%80%29%5B%E7%83%88%E7%81%AB%E6%9A%B4%E9%BE%99%5D%28JP%29%5BACT%5D%281Mb%29/> | 突然君(简)\[烈火暴龙\](JP)\[ACT\](1Mb) |
-| 1195 | `突然君(简)[高伟](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E7%AA%81%E7%84%B6%E5%90%9B%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%281Mb%29/> | 突然君(简)\[高伟\](JP)\[ACT\](1Mb) |
-| 1196 | `笑傲江湖 - 群侠记(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96%20-%20%E7%BE%A4%E4%BE%A0%E8%AE%B0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 笑傲江湖 - 群侠记(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 1197 | `笑傲江湖(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 笑傲江湖(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 1198 | `第2次超级机器人大战(v1.2)(修正版)(简)[外星科技+心伤谁知](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E7%AC%AC2%E6%AC%A1%E8%B6%85%E7%BA%A7%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%88%98%28v1.2%29%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E5%BF%83%E4%BC%A4%E8%B0%81%E7%9F%A5%5D%28JP%29%5BSLG%5D%284Mb%29/> | 第2次超级机器人大战(v1.2)(修正版)(简)\[外星科技+心伤谁知\](JP)\[SLG\](4Mb) |
-| 1199 | `第2次超级机器人大战(简)[恒格电子](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E7%AC%AC2%E6%AC%A1%E8%B6%85%E7%BA%A7%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%88%98%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BSLG%5D%284Mb%29/> | 第2次超级机器人大战(简)\[恒格电子\](JP)\[SLG\](4Mb) |
-| 1200 | `第2次超级机器人大战(简)[晶科泰](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E7%AC%AC2%E6%AC%A1%E8%B6%85%E7%BA%A7%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%88%98%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28JP%29%5BSLG%5D%284Mb%29/> | 第2次超级机器人大战(简)\[晶科泰\](JP)\[SLG\](4Mb) |
-| 1201 | `第2次超级机器人大战(记忆修正版)(简)[先锋卡通](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E7%AC%AC2%E6%AC%A1%E8%B6%85%E7%BA%A7%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%88%98%28%E8%AE%B0%E5%BF%86%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%85%88%E9%94%8B%E5%8D%A1%E9%80%9A%5D%28JP%29%5BSLG%5D%284Mb%29/> | 第2次超级机器人大战(记忆修正版)(简)\[先锋卡通\](JP)\[SLG\](4Mb) |
-| 1202 | `第四次机器人大战(繁)[外星科技](JP)[SLG](6Mb)`：<https://fc.haiyong.site/games/%E7%AC%AC%E5%9B%9B%E6%AC%A1%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%88%98%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BSLG%5D%286Mb%29/> | 第四次机器人大战(繁)\[外星科技\](JP)\[SLG\](6Mb) |
-| 1203 | `筋肉人 - 摔角大赛(简)[MS](JP)[FTG](0.18Mb)`：<https://fc.haiyong.site/games/%E7%AD%8B%E8%82%89%E4%BA%BA%20-%20%E6%91%94%E8%A7%92%E5%A4%A7%E8%B5%9B%28%E7%AE%80%29%5BMS%5D%28JP%29%5BFTG%5D%280.18Mb%29/> | 筋肉人 - 摔角大赛(简)\[MS\](JP)\[FTG\](0.18Mb) |
-| 1204 | `筋肉人(简)[Madcell](JP)[FTG](0.25Mb)`：<https://fc.haiyong.site/games/%E7%AD%8B%E8%82%89%E4%BA%BA%28%E7%AE%80%29%5BMadcell%5D%28JP%29%5BFTG%5D%280.25Mb%29/> | 筋肉人(简)\[Madcell\](JP)\[FTG\](0.25Mb) |
-| 1205 | `筋肉人(简)[高伟](JP)[FTG](0.18Mb)`：<https://fc.haiyong.site/games/%E7%AD%8B%E8%82%89%E4%BA%BA%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BFTG%5D%280.18Mb%29/> | 筋肉人(简)\[高伟\](JP)\[FTG\](0.18Mb) |
-| 1206 | `米老鼠大冒险(简)[星空](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E7%B1%B3%E8%80%81%E9%BC%A0%E5%A4%A7%E5%86%92%E9%99%A9%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 米老鼠大冒险(简)\[星空\](JP)\[ACT\](0.5Mb) |
-| 1207 | `精卫填海(简)[恒格电子](CN)[AVG](8Mb)`：<https://fc.haiyong.site/games/%E7%B2%BE%E5%8D%AB%E5%A1%AB%E6%B5%B7%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BAVG%5D%288Mb%29/> | 精卫填海(简)\[恒格电子\](CN)\[AVG\](8Mb) |
-| 1208 | `索尼克(简)[游戏天地](US)[ACT](6Mb)`：<https://fc.haiyong.site/games/%E7%B4%A2%E5%B0%BC%E5%85%8B%28%E7%AE%80%29%5B%E6%B8%B8%E6%88%8F%E5%A4%A9%E5%9C%B0%5D%28US%29%5BACT%5D%286Mb%29/> | 索尼克(简)\[游戏天地\](US)\[ACT\](6Mb) |
-| 1209 | `红巾特攻队(简)[8GUA](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E7%BA%A2%E5%B7%BE%E7%89%B9%E6%94%BB%E9%98%9F%28%E7%AE%80%29%5B8GUA%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 红巾特攻队(简)\[8GUA\](JP)\[STG\](0.18Mb) |
-| 1210 | `红巾特攻队(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E7%BA%A2%E5%B7%BE%E7%89%B9%E6%94%BB%E9%98%9F%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 红巾特攻队(简)\[高伟\](JP)\[STG\](0.18Mb) |
-| 1211 | `红楼梦(简)[南晶科技](CN)[TAB](4Mb)`：<https://fc.haiyong.site/games/%E7%BA%A2%E6%A5%BC%E6%A2%A6%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BTAB%5D%284Mb%29/> | 红楼梦(简)\[南晶科技\](CN)\[TAB\](4Mb) |
-| 1212 | `红问号(简)[南通科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E7%BA%A2%E9%97%AE%E5%8F%B7%28%E7%AE%80%29%5B%E5%8D%97%E9%80%9A%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 红问号(简)\[南通科技\](JP)\[RPG\](4Mb) |
-| 1213 | `纽约大拳猫(v1)(简)[逆游的五彩鱼](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E7%BA%BD%E7%BA%A6%E5%A4%A7%E6%8B%B3%E7%8C%AB%28v1%29%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28JP%29%5BACT%5D%283Mb%29/> | 纽约大拳猫(v1)(简)\[逆游的五彩鱼\](JP)\[ACT\](3Mb) |
-| 1214 | `纽约大拳猫(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E7%BA%BD%E7%BA%A6%E5%A4%A7%E6%8B%B3%E7%8C%AB%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%282Mb%29/> | 纽约大拳猫(简)\[MS\](JP)\[ACT\](2Mb) |
-| 1215 | `纽约大拳猫(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E7%BA%BD%E7%BA%A6%E5%A4%A7%E6%8B%B3%E7%8C%AB%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 纽约大拳猫(简)\[高伟\](JP)\[ACT\](2Mb) |
-| 1216 | `组合战机(简)[高伟](US)[STG](0.5Mb)`：<https://fc.haiyong.site/games/%E7%BB%84%E5%90%88%E6%88%98%E6%9C%BA%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BSTG%5D%280.5Mb%29/> | 组合战机(简)\[高伟\](US)\[STG\](0.5Mb) |
-| 1217 | `绝代双娇(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E7%BB%9D%E4%BB%A3%E5%8F%8C%E5%A8%87%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 绝代双娇(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 1218 | `绝代英雄(繁)[外星科技](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E7%BB%9D%E4%BB%A3%E8%8B%B1%E9%9B%84%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BSLG%5D%284Mb%29/> | 绝代英雄(繁)\[外星科技\](JP)\[SLG\](4Mb) |
-| 1219 | `绿色兵团(简)[SW](US)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E7%BB%BF%E8%89%B2%E5%85%B5%E5%9B%A2%28%E7%AE%80%29%5BSW%5D%28US%29%5BACT%5D%281Mb%29/> | 绿色兵团(简)\[SW\](US)\[ACT\](1Mb) |
-| 1220 | `绿色兵团(简)[星空](US)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E7%BB%BF%E8%89%B2%E5%85%B5%E5%9B%A2%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28US%29%5BACT%5D%281Mb%29/> | 绿色兵团(简)\[星空\](US)\[ACT\](1Mb) |
-| 1221 | `绿野仙踪(简)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E7%BB%BF%E9%87%8E%E4%BB%99%E8%B8%AA%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%284Mb%29/> | 绿野仙踪(简)\[外星科技\](CN)\[ACT\](4Mb) |
-| 1222 | `网球(简)[8GUA](JU)[SPG](0.18Mb)`：<https://fc.haiyong.site/games/%E7%BD%91%E7%90%83%28%E7%AE%80%29%5B8GUA%5D%28JU%29%5BSPG%5D%280.18Mb%29/> | 网球(简)\[8GUA\](JU)\[SPG\](0.18Mb) |
-| 1223 | `网球(简)[虫儿](JU)[SPG](0.18Mb)`：<https://fc.haiyong.site/games/%E7%BD%91%E7%90%83%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JU%29%5BSPG%5D%280.18Mb%29/> | 网球(简)\[虫儿\](JU)\[SPG\](0.18Mb) |
-| 1224 | `网球(简)[顽石](JU)[SPG](0.18Mb)`：<https://fc.haiyong.site/games/%E7%BD%91%E7%90%83%28%E7%AE%80%29%5B%E9%A1%BD%E7%9F%B3%5D%28JU%29%5BSPG%5D%280.18Mb%29/> | 网球(简)\[顽石\](JU)\[SPG\](0.18Mb) |
-| 1225 | `罗罗大冒险(简)[高伟](US)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E7%BD%97%E7%BD%97%E5%A4%A7%E5%86%92%E9%99%A9%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BPUZ%5D%280.5Mb%29/> | 罗罗大冒险(简)\[高伟\](US)\[PUZ\](0.5Mb) |
-| 1226 | `罗罗大冒险2(简)[高伟](US)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E7%BD%97%E7%BD%97%E5%A4%A7%E5%86%92%E9%99%A92%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BPUZ%5D%280.5Mb%29/> | 罗罗大冒险2(简)\[高伟\](US)\[PUZ\](0.5Mb) |
-| 1227 | `罗罗大冒险3(简)[高伟](US)[PUZ](2Mb)`：<https://fc.haiyong.site/games/%E7%BD%97%E7%BD%97%E5%A4%A7%E5%86%92%E9%99%A93%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BPUZ%5D%282Mb%29/> | 罗罗大冒险3(简)\[高伟\](US)\[PUZ\](2Mb) |
-| 1228 | `美国富豪(繁)[恒格电子](CN)[TAB](8Mb)`：<https://fc.haiyong.site/games/%E7%BE%8E%E5%9B%BD%E5%AF%8C%E8%B1%AA%28%E7%B9%81%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BTAB%5D%288Mb%29/> | 美国富豪(繁)\[恒格电子\](CN)\[TAB\](8Mb) |
-| 1229 | `美国总统选举(测试版)(简)[长鼻君的怀古橱](JP)[PUZ](3.25Mb)`：<https://fc.haiyong.site/games/%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%28%E6%B5%8B%E8%AF%95%E7%89%88%29%28%E7%AE%80%29%5B%E9%95%BF%E9%BC%BB%E5%90%9B%E7%9A%84%E6%80%80%E5%8F%A4%E6%A9%B1%5D%28JP%29%5BPUZ%5D%283.25Mb%29/> | 美国总统选举(测试版)(简)\[长鼻君的怀古橱\](JP)\[PUZ\](3.25Mb) |
-| 1230 | `美国队长和复仇者联盟(v20220506)(简)[LSP](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E7%BE%8E%E5%9B%BD%E9%98%9F%E9%95%BF%E5%92%8C%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F%28v20220506%29%28%E7%AE%80%29%5BLSP%5D%28US%29%5BACT%5D%283Mb%29/> | 美国队长和复仇者联盟(v20220506)(简)\[LSP\](US)\[ACT\](3Mb) |
-| 1231 | `美女拳(繁)[圣谦](CN)[PUZ](1.25Mb)`：<https://fc.haiyong.site/games/%E7%BE%8E%E5%A5%B3%E6%8B%B3%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BPUZ%5D%281.25Mb%29/> | 美女拳(繁)\[圣谦\](CN)\[PUZ\](1.25Mb) |
-| 1233 | `美猴王(解密版)(简)[外星科技+WXN](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E7%BE%8E%E7%8C%B4%E7%8E%8B%28%E8%A7%A3%E5%AF%86%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BWXN%5D%28CN%29%5BACT%5D%284Mb%29/> | 美猴王(解密版)(简)\[外星科技+WXN\](CN)\[ACT\](4Mb) |
-| 1234 | `翼人(v1.0)(简)[高伟](US)[STG](1Mb)`：<https://fc.haiyong.site/games/%E7%BF%BC%E4%BA%BA%28v1.0%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BSTG%5D%281Mb%29/> | 翼人(v1.0)(简)\[高伟\](US)\[STG\](1Mb) |
-| 1235 | `耀奇之神奇蛋仔(简)[Puszta](JP)[PUZ](1.25Mb)`：<https://fc.haiyong.site/games/%E8%80%80%E5%A5%87%E4%B9%8B%E7%A5%9E%E5%A5%87%E8%9B%8B%E4%BB%94%28%E7%AE%80%29%5BPuszta%5D%28JP%29%5BPUZ%5D%281.25Mb%29/> | 耀奇之神奇蛋仔(简)\[Puszta\](JP)\[PUZ\](1.25Mb) |
-| 1236 | `耀西的蛋(简)[高伟](US)[PUZ](1.25Mb)`：<https://fc.haiyong.site/games/%E8%80%80%E8%A5%BF%E7%9A%84%E8%9B%8B%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BPUZ%5D%281.25Mb%29/> | 耀西的蛋(简)\[高伟\](US)\[PUZ\](1.25Mb) |
-| 1237 | `耀西的饼干(v1.3)(简)[九班](JP)[PUZ](1.5Mb)`：<https://fc.haiyong.site/games/%E8%80%80%E8%A5%BF%E7%9A%84%E9%A5%BC%E5%B9%B2%28v1.3%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BPUZ%5D%281.5Mb%29/> | 耀西的饼干(v1.3)(简)\[九班\](JP)\[PUZ\](1.5Mb) |
-| 1238 | `老虎直升机(简)[高伟](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/%E8%80%81%E8%99%8E%E7%9B%B4%E5%8D%87%E6%9C%BA%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.5Mb%29/> | 老虎直升机(简)\[高伟\](JP)\[STG\](0.5Mb) |
-| 1239 | `能源战士(简)[Advance](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%83%BD%E6%BA%90%E6%88%98%E5%A3%AB%28%E7%AE%80%29%5BAdvance%5D%28JP%29%5BACT%5D%282Mb%29/> | 能源战士(简)\[Advance\](JP)\[ACT\](2Mb) |
-| 1240 | `脱狱 - 被俘之战(修正版)(简)[Peacock Wang+MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%84%B1%E7%8B%B1%20-%20%E8%A2%AB%E4%BF%98%E4%B9%8B%E6%88%98%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5BPeacock%20Wang%2BMS%5D%28US%29%5BACT%5D%282Mb%29/> | 脱狱 - 被俘之战(修正版)(简)\[Peacock Wang+MS\](US)\[ACT\](2Mb) |
-| 1241 | `脱狱 - 被俘之战(简)[死神DIY](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%84%B1%E7%8B%B1%20-%20%E8%A2%AB%E4%BF%98%E4%B9%8B%E6%88%98%28%E7%AE%80%29%5B%E6%AD%BB%E7%A5%9EDIY%5D%28US%29%5BACT%5D%282Mb%29/> | 脱狱 - 被俘之战(简)\[死神DIY\](US)\[ACT\](2Mb) |
-| 1242 | `脱狱 - 被俘的战斗(简)[星空](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%84%B1%E7%8B%B1%20-%20%E8%A2%AB%E4%BF%98%E7%9A%84%E6%88%98%E6%96%97%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28JP%29%5BACT%5D%282Mb%29/> | 脱狱 - 被俘的战斗(简)\[星空\](JP)\[ACT\](2Mb) |
-| 1243 | `花式九球(v1.1)(简)[陈大玉+MM之神](US)[SPG](1Mb)`：<https://fc.haiyong.site/games/%E8%8A%B1%E5%BC%8F%E4%B9%9D%E7%90%83%28v1.1%29%28%E7%AE%80%29%5B%E9%99%88%E5%A4%A7%E7%8E%89%2BMM%E4%B9%8B%E7%A5%9E%5D%28US%29%5BSPG%5D%281Mb%29/> | 花式九球(v1.1)(简)\[陈大玉+MM之神\](US)\[SPG\](1Mb) |
-| 1244 | `花式九球(日简)[星空](JP)[SPG](1.43Mb)`：<https://fc.haiyong.site/games/%E8%8A%B1%E5%BC%8F%E4%B9%9D%E7%90%83%28%E6%97%A5%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28JP%29%5BSPG%5D%281.43Mb%29/> | 花式九球(日简)\[星空\](JP)\[SPG\](1.43Mb) |
-| 1245 | `花式九球(美简)[星空](US)[SPG](1Mb)`：<https://fc.haiyong.site/games/%E8%8A%B1%E5%BC%8F%E4%B9%9D%E7%90%83%28%E7%BE%8E%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28US%29%5BSPG%5D%281Mb%29/> | 花式九球(美简)\[星空\](US)\[SPG\](1Mb) |
-| 1246 | `花式撞球(修正版)(日简)[星空+庞先生](JP)[SPG](1.43Mb)`：<https://fc.haiyong.site/games/%E8%8A%B1%E5%BC%8F%E6%92%9E%E7%90%83%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E6%97%A5%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%2B%E5%BA%9E%E5%85%88%E7%94%9F%5D%28JP%29%5BSPG%5D%281.43Mb%29/> | 花式撞球(修正版)(日简)\[星空+庞先生\](JP)\[SPG\](1.43Mb) |
-| 1247 | `英汉词典1(简)[未知](CN)[ETC](2Mb)`：<https://fc.haiyong.site/games/%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B81%28%E7%AE%80%29%5B%E6%9C%AA%E7%9F%A5%5D%28CN%29%5BETC%5D%282Mb%29/> | 英汉词典1(简)\[未知\](CN)\[ETC\](2Mb) |
-| 1248 | `英汉词典2(简)[未知](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E8%8B%B1%E6%B1%89%E8%AF%8D%E5%85%B82%28%E7%AE%80%29%5B%E6%9C%AA%E7%9F%A5%5D%28CN%29%5BETC%5D%284Mb%29/> | 英汉词典2(简)\[未知\](CN)\[ETC\](4Mb) |
-| 1249 | `英烈群侠传(简)[外星科技](CN)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E8%8B%B1%E7%83%88%E7%BE%A4%E4%BE%A0%E4%BC%A0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%286Mb%29/> | 英烈群侠传(简)\[外星科技\](CN)\[RPG\](6Mb) |
-| 1250 | `英语声霸(简)[东生](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E8%8B%B1%E8%AF%AD%E5%A3%B0%E9%9C%B8%28%E7%AE%80%29%5B%E4%B8%9C%E7%94%9F%5D%28CN%29%5BETC%5D%284Mb%29/> | 英语声霸(简)\[东生\](CN)\[ETC\](4Mb) |
-| 1251 | `英语词霸(简)[小霸王](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/%E8%8B%B1%E8%AF%AD%E8%AF%8D%E9%9C%B8%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%288Mb%29/> | 英语词霸(简)\[小霸王\](CN)\[ETC\](8Mb) |
-| 1252 | `英雄传(繁)[Cony Soft](CN)[FTG](5Mb)`：<https://fc.haiyong.site/games/%E8%8B%B1%E9%9B%84%E4%BC%A0%28%E7%B9%81%29%5BCony%20Soft%5D%28CN%29%5BFTG%5D%285Mb%29/> | 英雄传(繁)\[Cony Soft\](CN)\[FTG\](5Mb) |
-| 1253 | `英雄传奇(简)[恒格电子](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E8%8B%B1%E9%9B%84%E4%BC%A0%E5%A5%87%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BRPG%5D%288Mb%29/> | 英雄传奇(简)\[恒格电子\](JP)\[RPG\](8Mb) |
-| 1254 | `英雄无敌(繁)[振华](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E8%8B%B1%E9%9B%84%E6%97%A0%E6%95%8C%28%E7%B9%81%29%5B%E6%8C%AF%E5%8D%8E%5D%28JP%29%5BSLG%5D%284Mb%29/> | 英雄无敌(繁)\[振华\](JP)\[SLG\](4Mb) |
-| 1255 | `英雄无敌(繁)[未知](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E8%8B%B1%E9%9B%84%E6%97%A0%E6%95%8C%28%E7%B9%81%29%5B%E6%9C%AA%E7%9F%A5%5D%28JP%29%5BSLG%5D%284Mb%29/> | 英雄无敌(繁)\[未知\](JP)\[SLG\](4Mb) |
-| 1256 | `英雄源义经传奇(简)[恒格电子](JP)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E8%8B%B1%E9%9B%84%E6%BA%90%E4%B9%89%E7%BB%8F%E4%BC%A0%E5%A5%87%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BRPG%5D%282Mb%29/> | 英雄源义经传奇(简)\[恒格电子\](JP)\[RPG\](2Mb) |
-| 1257 | `茶茶丸大冒险(v1.0)(简)[高伟](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E8%8C%B6%E8%8C%B6%E4%B8%B8%E5%A4%A7%E5%86%92%E9%99%A9%28v1.0%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 茶茶丸大冒险(v1.0)(简)\[高伟\](JP)\[ACT\](0.5Mb) |
-| 1258 | `茶茶丸的大冒险(v1.1)(简)[Nineswords](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E8%8C%B6%E8%8C%B6%E4%B8%B8%E7%9A%84%E5%A4%A7%E5%86%92%E9%99%A9%28v1.1%29%28%E7%AE%80%29%5BNineswords%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 茶茶丸的大冒险(v1.1)(简)\[Nineswords\](JP)\[ACT\](0.5Mb) |
-| 1259 | `荆轲新传(繁)[Super Tone](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E8%8D%86%E8%BD%B2%E6%96%B0%E4%BC%A0%28%E7%B9%81%29%5BSuper%20Tone%5D%28CN%29%5BRPG%5D%282Mb%29/> | 荆轲新传(繁)\[Super Tone\](CN)\[RPG\](2Mb) |
-| 1260 | `荆轲新传(繁)[晶科泰](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/%E8%8D%86%E8%BD%B2%E6%96%B0%E4%BC%A0%28%E7%B9%81%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%282Mb%29/> | 荆轲新传(繁)\[晶科泰\](CN)\[RPG\](2Mb) |
-| 1261 | `荒野大镖客(v1.0)(简)[DMG](US)[STG](1.25Mb)`：<https://fc.haiyong.site/games/%E8%8D%92%E9%87%8E%E5%A4%A7%E9%95%96%E5%AE%A2%28v1.0%29%28%E7%AE%80%29%5BDMG%5D%28US%29%5BSTG%5D%281.25Mb%29/> | 荒野大镖客(v1.0)(简)\[DMG\](US)\[STG\](1.25Mb) |
-| 1262 | `荒野大镖客(v3)(修正版)(简)[高艳龙+MS](US)[STG](1Mb)`：<https://fc.haiyong.site/games/%E8%8D%92%E9%87%8E%E5%A4%A7%E9%95%96%E5%AE%A2%28v3%29%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E9%AB%98%E8%89%B3%E9%BE%99%2BMS%5D%28US%29%5BSTG%5D%281Mb%29/> | 荒野大镖客(v3)(修正版)(简)\[高艳龙+MS\](US)\[STG\](1Mb) |
-| 1263 | `荒野枪手(v2)(简)[高伟](JU)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E8%8D%92%E9%87%8E%E6%9E%AA%E6%89%8B%28v2%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JU%29%5BSTG%5D%280.18Mb%29/> | 荒野枪手(v2)(简)\[高伟\](JU)\[STG\](0.18Mb) |
-| 1264 | `荣丰中英文学习卡(简)[荣丰](CN)[ETC](2Mb)`：<https://fc.haiyong.site/games/%E8%8D%A3%E4%B8%B0%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AD%A6%E4%B9%A0%E5%8D%A1%28%E7%AE%80%29%5B%E8%8D%A3%E4%B8%B0%5D%28CN%29%5BETC%5D%282Mb%29/> | 荣丰中英文学习卡(简)\[荣丰\](CN)\[ETC\](2Mb) |
-| 1265 | `荣耀之骑士团(简)[酷哥电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E8%8D%A3%E8%80%80%E4%B9%8B%E9%AA%91%E5%A3%AB%E5%9B%A2%28%E7%AE%80%29%5B%E9%85%B7%E5%93%A5%E7%94%B5%E5%AD%90%5D%28JP%29%5BRPG%5D%286Mb%29/> | 荣耀之骑士团(简)\[酷哥电子\](JP)\[RPG\](6Mb) |
-| 1266 | `荣誉勋章(简)[外星科技](JP)[AVG](4Mb)`：<https://fc.haiyong.site/games/%E8%8D%A3%E8%AA%89%E5%8B%8B%E7%AB%A0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BAVG%5D%284Mb%29/> | 荣誉勋章(简)\[外星科技\](JP)\[AVG\](4Mb) |
-| 1267 | `菩故须苛战争(繁)[Rinkaku](JP)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E8%8F%A9%E6%95%85%E9%A1%BB%E8%8B%9B%E6%88%98%E4%BA%89%28%E7%B9%81%29%5BRinkaku%5D%28JP%29%5BACT%5D%280.31Mb%29/> | 菩故须苛战争(繁)\[Rinkaku\](JP)\[ACT\](0.31Mb) |
-| 1268 | `菲力貓(v20230420)(简+繁)[Nokoh](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E8%8F%B2%E5%8A%9B%E8%B2%93%28v20230420%29%28%E7%AE%80%2B%E7%B9%81%29%5BNokoh%5D%28US%29%5BACT%5D%284Mb%29/> | 菲力貓(v20230420)(简+繁)\[Nokoh\](US)\[ACT\](4Mb) |
-| 1269 | `萨尔达传说1 - 海拉尔的幻想(v20220314)(繁)[Nokoh](JP)[RPG](1Mb)`：<https://fc.haiyong.site/games/%E8%90%A8%E5%B0%94%E8%BE%BE%E4%BC%A0%E8%AF%B41%20-%20%E6%B5%B7%E6%8B%89%E5%B0%94%E7%9A%84%E5%B9%BB%E6%83%B3%28v20220314%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BRPG%5D%281Mb%29/> | 萨尔达传说1 - 海拉尔的幻想(v20220314)(繁)\[Nokoh\](JP)\[RPG\](1Mb) |
-| 1270 | `落日征战(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E8%90%BD%E6%97%A5%E5%BE%81%E6%88%98%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 落日征战(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 1271 | `葫芦金刚(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E8%91%AB%E8%8A%A6%E9%87%91%E5%88%9A%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 葫芦金刚(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1272 | `蕾拉(简)[高伟](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/%E8%95%BE%E6%8B%89%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%281Mb%29/> | 蕾拉(简)\[高伟\](JP)\[STG\](1Mb) |
-| 1273 | `虎穴行动(简)[孔雀天](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/%E8%99%8E%E7%A9%B4%E8%A1%8C%E5%8A%A8%28%E7%AE%80%29%5B%E5%AD%94%E9%9B%80%E5%A4%A9%5D%28JP%29%5BACT%5D%286Mb%29/> | 虎穴行动(简)\[孔雀天\](JP)\[ACT\](6Mb) |
-| 1274 | `虎门硝烟(繁)[酷哥电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E8%99%8E%E9%97%A8%E7%A1%9D%E7%83%9F%28%E7%B9%81%29%5B%E9%85%B7%E5%93%A5%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%284Mb%29/> | 虎门硝烟(繁)\[酷哥电子\](CN)\[RPG\](4Mb) |
-| 1275 | `蜘蛛侠 - 六邪归来(简)[逆游的五彩鱼](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E8%9C%98%E8%9B%9B%E4%BE%A0%20-%20%E5%85%AD%E9%82%AA%E5%BD%92%E6%9D%A5%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28US%29%5BACT%5D%283Mb%29/> | 蜘蛛侠 - 六邪归来(简)\[逆游的五彩鱼\](US)\[ACT\](3Mb) |
-| 1276 | `蜡笔小新(繁)[Future](CN)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%28%E7%B9%81%29%5BFuture%5D%28CN%29%5BACT%5D%283Mb%29/> | 蜡笔小新(繁)\[Future\](CN)\[ACT\](3Mb) |
-| 1277 | `蝙蝠侠(简)[幻想](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%9D%99%E8%9D%A0%E4%BE%A0%28%E7%AE%80%29%5B%E5%B9%BB%E6%83%B3%5D%28US%29%5BACT%5D%282Mb%29/> | 蝙蝠侠(简)\[幻想\](US)\[ACT\](2Mb) |
-| 1278 | `蝙蝠侠(简)[汉化你妹](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E8%9D%99%E8%9D%A0%E4%BE%A0%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BACT%5D%283Mb%29/> | 蝙蝠侠(简)\[汉化你妹\](JP)\[ACT\](3Mb) |
-| 1279 | `街头 - 热血物语(v20220407)(简)[asiwish](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%A1%97%E5%A4%B4%20-%20%E7%83%AD%E8%A1%80%E7%89%A9%E8%AF%AD%28v20220407%29%28%E7%AE%80%29%5Basiwish%5D%28JP%29%5BACT%5D%282Mb%29/> | 街头 - 热血物语(v20220407)(简)\[asiwish\](JP)\[ACT\](2Mb) |
-| 1280 | `街头 - 热血物语(简)[madcell](JP)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/%E8%A1%97%E5%A4%B4%20-%20%E7%83%AD%E8%A1%80%E7%89%A9%E8%AF%AD%28%E7%AE%80%29%5Bmadcell%5D%28JP%29%5BACT%5D%282.5Mb%29/> | 街头 - 热血物语(简)\[madcell\](JP)\[ACT\](2.5Mb) |
-| 1281 | `街头 - 热血物语(简)[空气](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%A1%97%E5%A4%B4%20-%20%E7%83%AD%E8%A1%80%E7%89%A9%E8%AF%AD%28%E7%AE%80%29%5B%E7%A9%BA%E6%B0%94%5D%28JP%29%5BACT%5D%282Mb%29/> | 街头 - 热血物语(简)\[空气\](JP)\[ACT\](2Mb) |
-| 1283 | `街头 - 热血进行曲(简)[PKome](JP)[SPG](2Mb)`：<https://fc.haiyong.site/games/%E8%A1%97%E5%A4%B4%20-%20%E7%83%AD%E8%A1%80%E8%BF%9B%E8%A1%8C%E6%9B%B2%28%E7%AE%80%29%5BPKome%5D%28JP%29%5BSPG%5D%282Mb%29/> | 街头 - 热血进行曲(简)\[PKome\](JP)\[SPG\](2Mb) |
-| 1284 | `街头格斗小子(简)[天空联盟](JUE)[FTG](0.18Mb)`：<https://fc.haiyong.site/games/%E8%A1%97%E5%A4%B4%E6%A0%BC%E6%96%97%E5%B0%8F%E5%AD%90%28%E7%AE%80%29%5B%E5%A4%A9%E7%A9%BA%E8%81%94%E7%9B%9F%5D%28JUE%29%5BFTG%5D%280.18Mb%29/> | 街头格斗小子(简)\[天空联盟\](JUE)\[FTG\](0.18Mb) |
-| 1285 | `街霸3(简)[天空联盟](CN)[FTG](5Mb)`：<https://fc.haiyong.site/games/%E8%A1%97%E9%9C%B83%28%E7%AE%80%29%5B%E5%A4%A9%E7%A9%BA%E8%81%94%E7%9B%9F%5D%28CN%29%5BFTG%5D%285Mb%29/> | 街霸3(简)\[天空联盟\](CN)\[FTG\](5Mb) |
-| 1286 | `装逼世界(简)[红狼狗](JP)[PUZ](0.25Mb)`：<https://fc.haiyong.site/games/%E8%A3%85%E9%80%BC%E4%B8%96%E7%95%8C%28%E7%AE%80%29%5B%E7%BA%A2%E7%8B%BC%E7%8B%97%5D%28JP%29%5BPUZ%5D%280.25Mb%29/> | 装逼世界(简)\[红狼狗\](JP)\[PUZ\](0.25Mb) |
-| 1287 | `西天取经(简)[小天才](CN)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E8%A5%BF%E5%A4%A9%E5%8F%96%E7%BB%8F%28%E7%AE%80%29%5B%E5%B0%8F%E5%A4%A9%E6%89%8D%5D%28CN%29%5BACT%5D%281Mb%29/> | 西天取经(简)\[小天才\](CN)\[ACT\](1Mb) |
-| 1288 | `西天取经2(简)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E8%A5%BF%E5%A4%A9%E5%8F%96%E7%BB%8F2%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%284Mb%29/> | 西天取经2(简)\[外星科技\](CN)\[ACT\](4Mb) |
-| 1289 | `西楚霸王(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E8%A5%BF%E6%A5%9A%E9%9C%B8%E7%8E%8B%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 西楚霸王(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 1290 | `西游记世界(v1.04)(简)[汉化你妹](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%96%E7%95%8C%28v1.04%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BACT%5D%282Mb%29/> | 西游记世界(v1.04)(简)\[汉化你妹\](JP)\[ACT\](2Mb) |
-| 1291 | `西游记世界2 - 天上界的魔神(简)[Nineswords](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E4%B8%96%E7%95%8C2%20-%20%E5%A4%A9%E4%B8%8A%E7%95%8C%E7%9A%84%E9%AD%94%E7%A5%9E%28%E7%AE%80%29%5BNineswords%5D%28JP%29%5BACT%5D%282Mb%29/> | 西游记世界2 - 天上界的魔神(简)\[Nineswords\](JP)\[ACT\](2Mb) |
-| 1292 | `西游记后传(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%90%8E%E4%BC%A0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 西游记后传(简)\[外星科技\](CN)\[RPG\](8Mb) |
-| 1293 | `视窗系统2000(简)[三佳](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E8%A7%86%E7%AA%97%E7%B3%BB%E7%BB%9F2000%28%E7%AE%80%29%5B%E4%B8%89%E4%BD%B3%5D%28CN%29%5BETC%5D%284Mb%29/> | 视窗系统2000(简)\[三佳\](CN)\[ETC\](4Mb) |
-| 1294 | `视窗系统2000(简)[小霸王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E8%A7%86%E7%AA%97%E7%B3%BB%E7%BB%9F2000%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%284Mb%29/> | 视窗系统2000(简)\[小霸王\](CN)\[ETC\](4Mb) |
-| 1295 | `警察特训(v2)(简)[高伟](JUE)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E8%AD%A6%E5%AF%9F%E7%89%B9%E8%AE%AD%28v2%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JUE%29%5BSTG%5D%280.18Mb%29/> | 警察特训(v2)(简)\[高伟\](JUE)\[STG\](0.18Mb) |
-| 1296 | `认知码学习(v1.0)(简)[小霸王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E8%AE%A4%E7%9F%A5%E7%A0%81%E5%AD%A6%E4%B9%A0%28v1.0%29%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BETC%5D%284Mb%29/> | 认知码学习(v1.0)(简)\[小霸王\](CN)\[ETC\](4Mb) |
-| 1297 | `象棋学园(繁)[圣谦](CN)[TAB](0.37Mb)`：<https://fc.haiyong.site/games/%E8%B1%A1%E6%A3%8B%E5%AD%A6%E5%9B%AD%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BTAB%5D%280.37Mb%29/> | 象棋学园(繁)\[圣谦\](CN)\[TAB\](0.37Mb) |
-| 1298 | `财神到(繁)[未知](CN)[TAB](4Mb)`：<https://fc.haiyong.site/games/%E8%B4%A2%E7%A5%9E%E5%88%B0%28%E7%B9%81%29%5B%E6%9C%AA%E7%9F%A5%5D%28CN%29%5BTAB%5D%284Mb%29/> | 财神到(繁)\[未知\](CN)\[TAB\](4Mb) |
-| 1299 | `赌王(简)[酷哥电子](JP)[TAB](4Mb)`：<https://fc.haiyong.site/games/%E8%B5%8C%E7%8E%8B%28%E7%AE%80%29%5B%E9%85%B7%E5%93%A5%E7%94%B5%E5%AD%90%5D%28JP%29%5BTAB%5D%284Mb%29/> | 赌王(简)\[酷哥电子\](JP)\[TAB\](4Mb) |
-| 1300 | `赌神 - 掷骰战士(修正版)(简)[先锋卡通+星夜之幻](JP)[TAB](4Mb)`：<https://fc.haiyong.site/games/%E8%B5%8C%E7%A5%9E%20-%20%E6%8E%B7%E9%AA%B0%E6%88%98%E5%A3%AB%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%85%88%E9%94%8B%E5%8D%A1%E9%80%9A%2B%E6%98%9F%E5%A4%9C%E4%B9%8B%E5%B9%BB%5D%28JP%29%5BTAB%5D%284Mb%29/> | 赌神 - 掷骰战士(修正版)(简)\[先锋卡通+星夜之幻\](JP)\[TAB\](4Mb) |
-| 1301 | `赌神 - 掷骰战士(简)[先锋卡通](JP)[TAB](3Mb)`：<https://fc.haiyong.site/games/%E8%B5%8C%E7%A5%9E%20-%20%E6%8E%B7%E9%AA%B0%E6%88%98%E5%A3%AB%28%E7%AE%80%29%5B%E5%85%88%E9%94%8B%E5%8D%A1%E9%80%9A%5D%28JP%29%5BTAB%5D%283Mb%29/> | 赌神 - 掷骰战士(简)\[先锋卡通\](JP)\[TAB\](3Mb) |
-| 1302 | `赌神(简)[外星科技](JP)[TAB](4Mb)`：<https://fc.haiyong.site/games/%E8%B5%8C%E7%A5%9E%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BTAB%5D%284Mb%29/> | 赌神(简)\[外星科技\](JP)\[TAB\](4Mb) |
-| 1303 | `赌马1991(繁)[Idea-Tek](CN)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E8%B5%8C%E9%A9%AC1991%28%E7%B9%81%29%5BIdea-Tek%5D%28CN%29%5BPUZ%5D%280.5Mb%29/> | 赌马1991(繁)\[Idea-Tek\](CN)\[PUZ\](0.5Mb) |
-| 1304 | `赖皮狗(还原日版标题)[Advance](3Mb)`：<https://fc.haiyong.site/games/%E8%B5%96%E7%9A%AE%E7%8B%97%28%E8%BF%98%E5%8E%9F%E6%97%A5%E7%89%88%E6%A0%87%E9%A2%98%29%5BAdvance%5D%283Mb%29/> | 赖皮狗(还原日版标题)\[Advance\](3Mb) |
-| 1305 | `赤影战士(v2)(简)[高伟](JP)[ACT](2.06Mb)`：<https://fc.haiyong.site/games/%E8%B5%A4%E5%BD%B1%E6%88%98%E5%A3%AB%28v2%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282.06Mb%29/> | 赤影战士(v2)(简)\[高伟\](JP)\[ACT\](2.06Mb) |
-| 1306 | `赤影战士(v2.0)(简)[星空](JP)[ACT](2.06Mb)`：<https://fc.haiyong.site/games/%E8%B5%A4%E5%BD%B1%E6%88%98%E5%A3%AB%28v2.0%29%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28JP%29%5BACT%5D%282.06Mb%29/> | 赤影战士(v2.0)(简)\[星空\](JP)\[ACT\](2.06Mb) |
-| 1307 | `赤影战士(v20220407)(简)[asiwish](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%B5%A4%E5%BD%B1%E6%88%98%E5%A3%AB%28v20220407%29%28%E7%AE%80%29%5Basiwish%5D%28JP%29%5BACT%5D%282Mb%29/> | 赤影战士(v20220407)(简)\[asiwish\](JP)\[ACT\](2Mb) |
-| 1308 | `赤影战士(修正版)(简)[逆游的五彩鱼](JP)[ACT](2.06Mb)`：<https://fc.haiyong.site/games/%E8%B5%A4%E5%BD%B1%E6%88%98%E5%A3%AB%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28JP%29%5BACT%5D%282.06Mb%29/> | 赤影战士(修正版)(简)\[逆游的五彩鱼\](JP)\[ACT\](2.06Mb) |
-| 1309 | `赤影战士(小字版)(简)[来福](EU)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%B5%A4%E5%BD%B1%E6%88%98%E5%A3%AB%28%E5%B0%8F%E5%AD%97%E7%89%88%29%28%E7%AE%80%29%5B%E6%9D%A5%E7%A6%8F%5D%28EU%29%5BACT%5D%282Mb%29/> | 赤影战士(小字版)(简)\[来福\](EU)\[ACT\](2Mb) |
-| 1310 | `赤影战士(简)[GXB](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%B5%A4%E5%BD%B1%E6%88%98%E5%A3%AB%28%E7%AE%80%29%5BGXB%5D%28JP%29%5BACT%5D%282Mb%29/> | 赤影战士(简)\[GXB\](JP)\[ACT\](2Mb) |
-| 1311 | `赤影战士(简)[来福](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%B5%A4%E5%BD%B1%E6%88%98%E5%A3%AB%28%E7%AE%80%29%5B%E6%9D%A5%E7%A6%8F%5D%28JP%29%5BACT%5D%282Mb%29/> | 赤影战士(简)\[来福\](JP)\[ACT\](2Mb) |
-| 1312 | `赤色要塞 - 最终任务(v1.1)(简)[雷精灵](US)[STG](2Mb)`：<https://fc.haiyong.site/games/%E8%B5%A4%E8%89%B2%E8%A6%81%E5%A1%9E%20-%20%E6%9C%80%E7%BB%88%E4%BB%BB%E5%8A%A1%28v1.1%29%28%E7%AE%80%29%5B%E9%9B%B7%E7%B2%BE%E7%81%B5%5D%28US%29%5BSTG%5D%282Mb%29/> | 赤色要塞 - 最终任务(v1.1)(简)\[雷精灵\](US)\[STG\](2Mb) |
-| 1313 | `超一流烟山杯围棋(简)[烟山软件](JP)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E4%B8%80%E6%B5%81%E7%83%9F%E5%B1%B1%E6%9D%AF%E5%9B%B4%E6%A3%8B%28%E7%AE%80%29%5B%E7%83%9F%E5%B1%B1%E8%BD%AF%E4%BB%B6%5D%28JP%29%5BTAB%5D%280.5Mb%29/> | 超一流烟山杯围棋(简)\[烟山软件\](JP)\[TAB\](0.5Mb) |
-| 1314 | `超惑星战记(修正版)(简)[樱组+MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E6%83%91%E6%98%9F%E6%88%98%E8%AE%B0%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E6%A8%B1%E7%BB%84%2BMS%5D%28US%29%5BACT%5D%282Mb%29/> | 超惑星战记(修正版)(简)\[樱组+MS\](US)\[ACT\](2Mb) |
-| 1315 | `超时空要塞(简)[姜维第二](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9E%28%E7%AE%80%29%5B%E5%A7%9C%E7%BB%B4%E7%AC%AC%E4%BA%8C%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 超时空要塞(简)\[姜维第二\](JP)\[STG\](0.18Mb) |
-| 1316 | `超时空要塞(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E6%97%B6%E7%A9%BA%E8%A6%81%E5%A1%9E%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.18Mb%29/> | 超时空要塞(简)\[高伟\](JP)\[STG\](0.18Mb) |
-| 1317 | `超浮游要塞(简)[高伟](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E6%B5%AE%E6%B8%B8%E8%A6%81%E5%A1%9E%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.31Mb%29/> | 超浮游要塞(简)\[高伟\](JP)\[STG\](0.31Mb) |
-| 1318 | `超级中国人2 - 龙之子(简)[汉化你妹](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E4%B8%AD%E5%9B%BD%E4%BA%BA2%20-%20%E9%BE%99%E4%B9%8B%E5%AD%90%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BACT%5D%284Mb%29/> | 超级中国人2 - 龙之子(简)\[汉化你妹\](JP)\[ACT\](4Mb) |
-| 1319 | `超级中英文电脑学习卡(v3.1)(简)[泽诚](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E4%B8%AD%E8%8B%B1%E6%96%87%E7%94%B5%E8%84%91%E5%AD%A6%E4%B9%A0%E5%8D%A1%28v3.1%29%28%E7%AE%80%29%5B%E6%B3%BD%E8%AF%9A%5D%28CN%29%5BETC%5D%284Mb%29/> | 超级中英文电脑学习卡(v3.1)(简)\[泽诚\](CN)\[ETC\](4Mb) |
-| 1320 | `超级五笔汉卡(v1)(简)[科王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E4%BA%94%E7%AC%94%E6%B1%89%E5%8D%A1%28v1%29%28%E7%AE%80%29%5B%E7%A7%91%E7%8E%8B%5D%28CN%29%5BETC%5D%284Mb%29/> | 超级五笔汉卡(v1)(简)\[科王\](CN)\[ETC\](4Mb) |
-| 1321 | `超级五笔汉卡(v2)(简)[科王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E4%BA%94%E7%AC%94%E6%B1%89%E5%8D%A1%28v2%29%28%E7%AE%80%29%5B%E7%A7%91%E7%8E%8B%5D%28CN%29%5BETC%5D%284Mb%29/> | 超级五笔汉卡(v2)(简)\[科王\](CN)\[ETC\](4Mb) |
-| 1322 | `超级冲刺赛(简)[快乐的龙](JP)[RAC](1Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E5%86%B2%E5%88%BA%E8%B5%9B%28%E7%AE%80%29%5B%E5%BF%AB%E4%B9%90%E7%9A%84%E9%BE%99%5D%28JP%29%5BRAC%5D%281Mb%29/> | 超级冲刺赛(简)\[快乐的龙\](JP)\[RAC\](1Mb) |
-| 1323 | `超级冲刺赛(简)[高伟](JP)[RAC](1Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E5%86%B2%E5%88%BA%E8%B5%9B%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BRAC%5D%281Mb%29/> | 超级冲刺赛(简)\[高伟\](JP)\[RAC\](1Mb) |
-| 1324 | `超级大富翁(繁)[外星科技](CN)[TAB](8Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E5%A4%A7%E5%AF%8C%E7%BF%81%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BTAB%5D%288Mb%29/> | 超级大富翁(繁)\[外星科技\](CN)\[TAB\](8Mb) |
-| 1325 | `超级大战略(解密版)(简)[未知+WXN](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E5%A4%A7%E6%88%98%E7%95%A5%28%E8%A7%A3%E5%AF%86%E7%89%88%29%28%E7%AE%80%29%5B%E6%9C%AA%E7%9F%A5%2BWXN%5D%28JP%29%5BSLG%5D%284Mb%29/> | 超级大战略(解密版)(简)\[未知+WXN\](JP)\[SLG\](4Mb) |
-| 1326 | `超级大金刚 - 香蕉船(繁)[两亦](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E5%A4%A7%E9%87%91%E5%88%9A%20-%20%E9%A6%99%E8%95%89%E8%88%B9%28%E7%B9%81%29%5B%E4%B8%A4%E4%BA%A6%5D%28CN%29%5BACT%5D%284Mb%29/> | 超级大金刚 - 香蕉船(繁)\[两亦\](CN)\[ACT\](4Mb) |
-| 1327 | `超级忍(简)[天空联盟](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E5%BF%8D%28%E7%AE%80%29%5B%E5%A4%A9%E7%A9%BA%E8%81%94%E7%9B%9F%5D%28CN%29%5BACT%5D%284Mb%29/> | 超级忍(简)\[天空联盟\](CN)\[ACT\](4Mb) |
-| 1328 | `超级战魂(简)[外星科技](CN)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E6%88%98%E9%AD%82%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%282Mb%29/> | 超级战魂(简)\[外星科技\](CN)\[ACT\](2Mb) |
-| 1329 | `超级教学卡(简)[大华电脑](CN)[TAB](4Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E6%95%99%E5%AD%A6%E5%8D%A1%28%E7%AE%80%29%5B%E5%A4%A7%E5%8D%8E%E7%94%B5%E8%84%91%5D%28CN%29%5BTAB%5D%284Mb%29/> | 超级教学卡(简)\[大华电脑\](CN)\[TAB\](4Mb) |
-| 1330 | `超级机器人大战A(简)[南晶科技](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E6%88%98A%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%288Mb%29/> | 超级机器人大战A(简)\[南晶科技\](CN)\[SLG\](8Mb) |
-| 1331 | `超级玛丽(简)[夜幕星辰](JUE)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E7%8E%9B%E4%B8%BD%28%E7%AE%80%29%5B%E5%A4%9C%E5%B9%95%E6%98%9F%E8%BE%B0%5D%28JUE%29%5BACT%5D%280.31Mb%29/> | 超级玛丽(简)\[夜幕星辰\](JUE)\[ACT\](0.31Mb) |
-| 1332 | `超级玛利兄弟(简)[PKome](JUE)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E7%8E%9B%E5%88%A9%E5%85%84%E5%BC%9F%28%E7%AE%80%29%5BPKome%5D%28JUE%29%5BACT%5D%280.31Mb%29/> | 超级玛利兄弟(简)\[PKome\](JUE)\[ACT\](0.31Mb) |
-| 1333 | `超级玛利欧兄弟(v20120903)(繁)[Nokoh](JUE)[ACT](0.75Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E7%8E%9B%E5%88%A9%E6%AC%A7%E5%85%84%E5%BC%9F%28v20120903%29%28%E7%B9%81%29%5BNokoh%5D%28JUE%29%5BACT%5D%280.75Mb%29/> | 超级玛利欧兄弟(v20120903)(繁)\[Nokoh\](JUE)\[ACT\](0.75Mb) |
-| 1334 | `超级玛利欧兄弟2(v20110328)(繁)[Nokoh](US)[ACT](2.12Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E7%8E%9B%E5%88%A9%E6%AC%A7%E5%85%84%E5%BC%9F2%28v20110328%29%28%E7%B9%81%29%5BNokoh%5D%28US%29%5BACT%5D%282.12Mb%29/> | 超级玛利欧兄弟2(v20110328)(繁)\[Nokoh\](US)\[ACT\](2.12Mb) |
-| 1335 | `超级玛利欧兄弟2(v20230225)(FDS版)(繁)[Nokoh](JP)[ACT](0.75Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E7%8E%9B%E5%88%A9%E6%AC%A7%E5%85%84%E5%BC%9F2%28v20230225%29%28FDS%E7%89%88%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%280.75Mb%29/> | 超级玛利欧兄弟2(v20230225)(FDS版)(繁)\[Nokoh\](JP)\[ACT\](0.75Mb) |
-| 1336 | `超级玛利欧兄弟2(v20230225)(选关版)(繁)[Nokoh](JP)[ACT](0.75Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E7%8E%9B%E5%88%A9%E6%AC%A7%E5%85%84%E5%BC%9F2%28v20230225%29%28%E9%80%89%E5%85%B3%E7%89%88%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%280.75Mb%29/> | 超级玛利欧兄弟2(v20230225)(选关版)(繁)\[Nokoh\](JP)\[ACT\](0.75Mb) |
-| 1337 | `超级玛利欧兄弟3(v20160603)(日繁)[Nokoh](JP)[ACT](3.5Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E7%8E%9B%E5%88%A9%E6%AC%A7%E5%85%84%E5%BC%9F3%28v20160603%29%28%E6%97%A5%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%283.5Mb%29/> | 超级玛利欧兄弟3(v20160603)(日繁)\[Nokoh\](JP)\[ACT\](3.5Mb) |
-| 1338 | `超级玛利欧兄弟3(v20160603)(美繁)[Nokoh](US)[ACT](3.5Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E7%8E%9B%E5%88%A9%E6%AC%A7%E5%85%84%E5%BC%9F3%28v20160603%29%28%E7%BE%8E%E7%B9%81%29%5BNokoh%5D%28US%29%5BACT%5D%283.5Mb%29/> | 超级玛利欧兄弟3(v20160603)(美繁)\[Nokoh\](US)\[ACT\](3.5Mb) |
-| 1339 | `超级贪吃蛇(简)[菜菜学堂](CN)[ACT](0.43Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E8%B4%AA%E5%90%83%E8%9B%87%28%E7%AE%80%29%5B%E8%8F%9C%E8%8F%9C%E5%AD%A6%E5%A0%82%5D%28CN%29%5BACT%5D%280.43Mb%29/> | 超级贪吃蛇(简)\[菜菜学堂\](CN)\[ACT\](0.43Mb) |
-| 1340 | `超级铁板阵 - 加索布之谜(简)[MS](JP)[STG](1.25Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%93%81%E6%9D%BF%E9%98%B5%20-%20%E5%8A%A0%E7%B4%A2%E5%B8%83%E4%B9%8B%E8%B0%9C%28%E7%AE%80%29%5BMS%5D%28JP%29%5BSTG%5D%281.25Mb%29/> | 超级铁板阵 - 加索布之谜(简)\[MS\](JP)\[STG\](1.25Mb) |
-| 1341 | `超级阿拉伯(v2)(简)[高伟](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%98%BF%E6%8B%89%E4%BC%AF%28v2%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 超级阿拉伯(v2)(简)\[高伟\](JP)\[ACT\](0.18Mb) |
-| 1342 | `超级马利兄弟(v1.2)(修正版)(简)[未知+MS](JUE)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%A9%AC%E5%88%A9%E5%85%84%E5%BC%9F%28v1.2%29%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E6%9C%AA%E7%9F%A5%2BMS%5D%28JUE%29%5BACT%5D%280.31Mb%29/> | 超级马利兄弟(v1.2)(修正版)(简)\[未知+MS\](JUE)\[ACT\](0.31Mb) |
-| 1343 | `超级马力欧兄弟2(v20230228)(FDS版)(简)[Nokoh+fciq](JP)[ACT](0.75Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%A9%AC%E5%8A%9B%E6%AC%A7%E5%85%84%E5%BC%9F2%28v20230228%29%28FDS%E7%89%88%29%28%E7%AE%80%29%5BNokoh%2Bfciq%5D%28JP%29%5BACT%5D%280.75Mb%29/> | 超级马力欧兄弟2(v20230228)(FDS版)(简)\[Nokoh+fciq\](JP)\[ACT\](0.75Mb) |
-| 1344 | `超级马里奥(简)[高伟](JUE)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%A9%AC%E9%87%8C%E5%A5%A5%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JUE%29%5BACT%5D%280.31Mb%29/> | 超级马里奥(简)\[高伟\](JUE)\[ACT\](0.31Mb) |
-| 1345 | `超级马里奥兄弟 - 路易基之谜团(简)[F0REVERD](JUE)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%85%84%E5%BC%9F%20-%20%E8%B7%AF%E6%98%93%E5%9F%BA%E4%B9%8B%E8%B0%9C%E5%9B%A2%28%E7%AE%80%29%5BF0REVERD%5D%28JUE%29%5BACT%5D%280.31Mb%29/> | 超级马里奥兄弟 - 路易基之谜团(简)\[F0REVERD\](JUE)\[ACT\](0.31Mb) |
-| 1346 | `超级马里奥兄弟(简)[3DM](EU)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%85%84%E5%BC%9F%28%E7%AE%80%29%5B3DM%5D%28EU%29%5BACT%5D%280.31Mb%29/> | 超级马里奥兄弟(简)\[3DM\](EU)\[ACT\](0.31Mb) |
-| 1347 | `超级马里奥兄弟(简)[F0REVERD](JUE)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%85%84%E5%BC%9F%28%E7%AE%80%29%5BF0REVERD%5D%28JUE%29%5BACT%5D%280.31Mb%29/> | 超级马里奥兄弟(简)\[F0REVERD\](JUE)\[ACT\](0.31Mb) |
-| 1348 | `超级马里奥兄弟(简)[九班](EU)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%85%84%E5%BC%9F%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28EU%29%5BACT%5D%280.31Mb%29/> | 超级马里奥兄弟(简)\[九班\](EU)\[ACT\](0.31Mb) |
-| 1349 | `超级马里奥兄弟3(简)[MM之神](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%85%84%E5%BC%9F3%28%E7%AE%80%29%5BMM%E4%B9%8B%E7%A5%9E%5D%28JP%29%5BACT%5D%283Mb%29/> | 超级马里奥兄弟3(简)\[MM之神\](JP)\[ACT\](3Mb) |
-| 1350 | `超级魂(简)[烟山软件](CN)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%AD%82%28%E7%AE%80%29%5B%E7%83%9F%E5%B1%B1%E8%BD%AF%E4%BB%B6%5D%28CN%29%5BACT%5D%281Mb%29/> | 超级魂(简)\[烟山软件\](CN)\[ACT\](1Mb) |
-| 1351 | `超级魂93(简)[烟山软件](CN)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%AD%8293%28%E7%AE%80%29%5B%E7%83%9F%E5%B1%B1%E8%BD%AF%E4%BB%B6%5D%28CN%29%5BACT%5D%281Mb%29/> | 超级魂93(简)\[烟山软件\](CN)\[ACT\](1Mb) |
-| 1352 | `超级魂斗罗(v2)(日简)[星空](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%AD%82%E6%96%97%E7%BD%97%28v2%29%28%E6%97%A5%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28JP%29%5BACT%5D%282Mb%29/> | 超级魂斗罗(v2)(日简)\[星空\](JP)\[ACT\](2Mb) |
-| 1353 | `超级魂斗罗(v2)(美简)[星空](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%AD%82%E6%96%97%E7%BD%97%28v2%29%28%E7%BE%8E%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28US%29%5BACT%5D%282Mb%29/> | 超级魂斗罗(v2)(美简)\[星空\](US)\[ACT\](2Mb) |
-| 1354 | `超级魂斗罗(v2.0)(简)[九班](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%AD%82%E6%96%97%E7%BD%97%28v2.0%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BACT%5D%282Mb%29/> | 超级魂斗罗(v2.0)(简)\[九班\](JP)\[ACT\](2Mb) |
-| 1355 | `超级魂斗罗(简)[FlameCyclone](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%AD%82%E6%96%97%E7%BD%97%28%E7%AE%80%29%5BFlameCyclone%5D%28JP%29%5BACT%5D%283Mb%29/> | 超级魂斗罗(简)\[FlameCyclone\](JP)\[ACT\](3Mb) |
-| 1356 | `超级魂斗罗(简)[樱组](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%AD%82%E6%96%97%E7%BD%97%28%E7%AE%80%29%5B%E6%A8%B1%E7%BB%84%5D%28JP%29%5BACT%5D%282Mb%29/> | 超级魂斗罗(简)\[樱组\](JP)\[ACT\](2Mb) |
-| 1357 | `超级魂斗罗(简)[王大可](US)[ACT](1.93Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%AD%82%E6%96%97%E7%BD%97%28%E7%AE%80%29%5B%E7%8E%8B%E5%A4%A7%E5%8F%AF%5D%28US%29%5BACT%5D%281.93Mb%29/> | 超级魂斗罗(简)\[王大可\](US)\[ACT\](1.93Mb) |
-| 1358 | `超级魂斗罗X(简)[孔雀天](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E7%BA%A7%E9%AD%82%E6%96%97%E7%BD%97X%28%E7%AE%80%29%5B%E5%AD%94%E9%9B%80%E5%A4%A9%5D%28CN%29%5BACT%5D%284Mb%29/> | 超级魂斗罗X(简)\[孔雀天\](CN)\[ACT\](4Mb) |
-| 1359 | `超越地平线(v0.9)(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E8%B6%8A%E5%9C%B0%E5%B9%B3%E7%BA%BF%28v0.9%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 超越地平线(v0.9)(简)\[高伟\](JP)\[STG\](2Mb) |
-| 1360 | `超越地平线(v1.1)(简)[Nineswords](JP)[STG](6Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E8%B6%8A%E5%9C%B0%E5%B9%B3%E7%BA%BF%28v1.1%29%28%E7%AE%80%29%5BNineswords%5D%28JP%29%5BSTG%5D%286Mb%29/> | 超越地平线(v1.1)(简)\[Nineswords\](JP)\[STG\](6Mb) |
-| 1361 | `超音速机车赛(简)[c1faceb0](JU)[RAC](0.31Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E9%9F%B3%E9%80%9F%E6%9C%BA%E8%BD%A6%E8%B5%9B%28%E7%AE%80%29%5Bc1faceb0%5D%28JU%29%5BRAC%5D%280.31Mb%29/> | 超音速机车赛(简)\[c1faceb0\](JU)\[RAC\](0.31Mb) |
-| 1362 | `超魔兽大战(简)[封印记忆](JP)[SLG](3Mb)`：<https://fc.haiyong.site/games/%E8%B6%85%E9%AD%94%E5%85%BD%E5%A4%A7%E6%88%98%28%E7%AE%80%29%5B%E5%B0%81%E5%8D%B0%E8%AE%B0%E5%BF%86%5D%28JP%29%5BSLG%5D%283Mb%29/> | 超魔兽大战(简)\[封印记忆\](JP)\[SLG\](3Mb) |
-| 1363 | `趣味成语屋+马步迷阵(简)[小霸王](CN)[PUZ](2Mb)`：<https://fc.haiyong.site/games/%E8%B6%A3%E5%91%B3%E6%88%90%E8%AF%AD%E5%B1%8B%2B%E9%A9%AC%E6%AD%A5%E8%BF%B7%E9%98%B5%28%E7%AE%80%29%5B%E5%B0%8F%E9%9C%B8%E7%8E%8B%5D%28CN%29%5BPUZ%5D%282Mb%29/> | 趣味成语屋+马步迷阵(简)\[小霸王\](CN)\[PUZ\](2Mb) |
-| 1364 | `趣味方块(v1.0)(简)[高伟](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E8%B6%A3%E5%91%B3%E6%96%B9%E5%9D%97%28v1.0%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BPUZ%5D%280.5Mb%29/> | 趣味方块(v1.0)(简)\[高伟\](JP)\[PUZ\](0.5Mb) |
-| 1365 | `趣味方块(简)[水火](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E8%B6%A3%E5%91%B3%E6%96%B9%E5%9D%97%28%E7%AE%80%29%5B%E6%B0%B4%E7%81%AB%5D%28JP%29%5BPUZ%5D%280.5Mb%29/> | 趣味方块(简)\[水火\](JP)\[PUZ\](0.5Mb) |
-| 1366 | `足球(简)[高伟](JUE)[SPG](0.31Mb)`：<https://fc.haiyong.site/games/%E8%B6%B3%E7%90%83%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JUE%29%5BSPG%5D%280.31Mb%29/> | 足球(简)\[高伟\](JUE)\[SPG\](0.31Mb) |
-| 1367 | `足球小将2 - 超级神射手(简)[外星科技](JP)[SPG](6Mb)`：<https://fc.haiyong.site/games/%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%862%20-%20%E8%B6%85%E7%BA%A7%E7%A5%9E%E5%B0%84%E6%89%8B%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BSPG%5D%286Mb%29/> | 足球小将2 - 超级神射手(简)\[外星科技\](JP)\[SPG\](6Mb) |
-| 1368 | `踢王(v1.0)(简)[DMG](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E8%B8%A2%E7%8E%8B%28v1.0%29%28%E7%AE%80%29%5BDMG%5D%28US%29%5BACT%5D%283Mb%29/> | 踢王(v1.0)(简)\[DMG\](US)\[ACT\](3Mb) |
-| 1369 | `踩地雷 - 入门篇(繁)[圣谦](CN)[PUZ](0.31Mb)`：<https://fc.haiyong.site/games/%E8%B8%A9%E5%9C%B0%E9%9B%B7%20-%20%E5%85%A5%E9%97%A8%E7%AF%87%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BPUZ%5D%280.31Mb%29/> | 踩地雷 - 入门篇(繁)\[圣谦\](CN)\[PUZ\](0.31Mb) |
-| 1370 | `踩地雷 - 对战篇(繁)[圣谦](CN)[PUZ](0.31Mb)`：<https://fc.haiyong.site/games/%E8%B8%A9%E5%9C%B0%E9%9B%B7%20-%20%E5%AF%B9%E6%88%98%E7%AF%87%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BPUZ%5D%280.31Mb%29/> | 踩地雷 - 对战篇(繁)\[圣谦\](CN)\[PUZ\](0.31Mb) |
-| 1371 | `踩地雷 - 编辑篇(繁)[圣谦](CN)[PUZ](0.31Mb)`：<https://fc.haiyong.site/games/%E8%B8%A9%E5%9C%B0%E9%9B%B7%20-%20%E7%BC%96%E8%BE%91%E7%AF%87%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BPUZ%5D%280.31Mb%29/> | 踩地雷 - 编辑篇(繁)\[圣谦\](CN)\[PUZ\](0.31Mb) |
-| 1372 | `踩气球(简)[虫儿](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E8%B8%A9%E6%B0%94%E7%90%83%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 踩气球(简)\[虫儿\](JP)\[ACT\](0.18Mb) |
-| 1373 | `轩辕剑 - 云的彼端(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E8%BD%A9%E8%BE%95%E5%89%91%20-%20%E4%BA%91%E7%9A%84%E5%BD%BC%E7%AB%AF%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 轩辕剑 - 云的彼端(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 1374 | `轩辕剑 - 天之痕(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E8%BD%A9%E8%BE%95%E5%89%91%20-%20%E5%A4%A9%E4%B9%8B%E7%97%95%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 轩辕剑 - 天之痕(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 1375 | `轩辕剑 - 枫之舞(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E8%BD%A9%E8%BE%95%E5%89%91%20-%20%E6%9E%AB%E4%B9%8B%E8%88%9E%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 轩辕剑 - 枫之舞(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 1376 | `轩辕剑 - 王者归来(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E8%BD%A9%E8%BE%95%E5%89%91%20-%20%E7%8E%8B%E8%80%85%E5%BD%92%E6%9D%A5%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BRPG%5D%288Mb%29/> | 轩辕剑 - 王者归来(简)\[晶科泰\](CN)\[RPG\](8Mb) |
-| 1377 | `轩辕剑外传 - 天之痕(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E8%BD%A9%E8%BE%95%E5%89%91%E5%A4%96%E4%BC%A0%20-%20%E5%A4%A9%E4%B9%8B%E7%97%95%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 轩辕剑外传 - 天之痕(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1378 | `轰天至尊(繁)[小天才](CN)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E8%BD%B0%E5%A4%A9%E8%87%B3%E5%B0%8A%28%E7%B9%81%29%5B%E5%B0%8F%E5%A4%A9%E6%89%8D%5D%28CN%29%5BACT%5D%282Mb%29/> | 轰天至尊(繁)\[小天才\](CN)\[ACT\](2Mb) |
-| 1379 | `轰炸超人(v20100411)(繁)[Nokoh](JP)[PUZ](0.31Mb)`：<https://fc.haiyong.site/games/%E8%BD%B0%E7%82%B8%E8%B6%85%E4%BA%BA%28v20100411%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BPUZ%5D%280.31Mb%29/> | 轰炸超人(v20100411)(繁)\[Nokoh\](JP)\[PUZ\](0.31Mb) |
-| 1380 | `轰炸超人2(v20110309)(繁)[Nokoh](JP)[PUZ](1Mb)`：<https://fc.haiyong.site/games/%E8%BD%B0%E7%82%B8%E8%B6%85%E4%BA%BA2%28v20110309%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BPUZ%5D%281Mb%29/> | 轰炸超人2(v20110309)(繁)\[Nokoh\](JP)\[PUZ\](1Mb) |
-| 1381 | `迷宫封印(繁)[圣谦](CN)[PUZ](1Mb)`：<https://fc.haiyong.site/games/%E8%BF%B7%E5%AE%AB%E5%B0%81%E5%8D%B0%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BPUZ%5D%281Mb%29/> | 迷宫封印(繁)\[圣谦\](CN)\[PUZ\](1Mb) |
-| 1382 | `迷宫组曲(简)[虫虫](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E8%BF%B7%E5%AE%AB%E7%BB%84%E6%9B%B2%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 迷宫组曲(简)\[虫虫\](JP)\[ACT\](0.5Mb) |
-| 1383 | `迷糊蛋(v1.2)(简)[雷精灵+砂糖](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E8%BF%B7%E7%B3%8A%E8%9B%8B%28v1.2%29%28%E7%AE%80%29%5B%E9%9B%B7%E7%B2%BE%E7%81%B5%2B%E7%A0%82%E7%B3%96%5D%28JP%29%5BACT%5D%283Mb%29/> | 迷糊蛋(v1.2)(简)\[雷精灵+砂糖\](JP)\[ACT\](3Mb) |
-| 1384 | `迷糊蛋(简)[汉化你妹](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E8%BF%B7%E7%B3%8A%E8%9B%8B%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BACT%5D%283Mb%29/> | 迷糊蛋(简)\[汉化你妹\](JP)\[ACT\](3Mb) |
-| 1385 | `迷魂车(繁)[Puszta](CN)[ACT](0.75Mb)`：<https://fc.haiyong.site/games/%E8%BF%B7%E9%AD%82%E8%BD%A6%28%E7%B9%81%29%5BPuszta%5D%28CN%29%5BACT%5D%280.75Mb%29/> | 迷魂车(繁)\[Puszta\](CN)\[ACT\](0.75Mb) |
-| 1386 | `迷魂车(繁)[黄信维](CN)[RAC](0.31Mb)`：<https://fc.haiyong.site/games/%E8%BF%B7%E9%AD%82%E8%BD%A6%28%E7%B9%81%29%5B%E9%BB%84%E4%BF%A1%E7%BB%B4%5D%28CN%29%5BRAC%5D%280.31Mb%29/> | 迷魂车(繁)\[黄信维\](CN)\[RAC\](0.31Mb) |
-| 1387 | `重力装甲(v1.0)(简)[高伟](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E9%87%8D%E5%8A%9B%E8%A3%85%E7%94%B2%28v1.0%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%283Mb%29/> | 重力装甲(v1.0)(简)\[高伟\](JP)\[ACT\](3Mb) |
-| 1388 | `重装机兵(v5.2)(修正版)(简)[先锋卡通+kook](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%87%8D%E8%A3%85%E6%9C%BA%E5%85%B5%28v5.2%29%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%85%88%E9%94%8B%E5%8D%A1%E9%80%9A%2Bkook%5D%28JP%29%5BRPG%5D%286Mb%29/> | 重装机兵(v5.2)(修正版)(简)\[先锋卡通+kook\](JP)\[RPG\](6Mb) |
-| 1389 | `重装机兵(修正版)(简)[先锋卡通+leesoft](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%87%8D%E8%A3%85%E6%9C%BA%E5%85%B5%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%85%88%E9%94%8B%E5%8D%A1%E9%80%9A%2Bleesoft%5D%28JP%29%5BRPG%5D%286Mb%29/> | 重装机兵(修正版)(简)\[先锋卡通+leesoft\](JP)\[RPG\](6Mb) |
-| 1390 | `重装机兵(修正版)(简)[先锋卡通+MS](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%87%8D%E8%A3%85%E6%9C%BA%E5%85%B5%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%85%88%E9%94%8B%E5%8D%A1%E9%80%9A%2BMS%5D%28JP%29%5BRPG%5D%286Mb%29/> | 重装机兵(修正版)(简)\[先锋卡通+MS\](JP)\[RPG\](6Mb) |
-| 1391 | `重装机兵(修正版)(简)[先锋卡通+Vanyogin](JP)[RPG](10Mb)`：<https://fc.haiyong.site/games/%E9%87%8D%E8%A3%85%E6%9C%BA%E5%85%B5%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%85%88%E9%94%8B%E5%8D%A1%E9%80%9A%2BVanyogin%5D%28JP%29%5BRPG%5D%2810Mb%29/> | 重装机兵(修正版)(简)\[先锋卡通+Vanyogin\](JP)\[RPG\](10Mb) |
-| 1392 | `重装机兵(修正版)(简)[先锋卡通+星夜之幻](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%87%8D%E8%A3%85%E6%9C%BA%E5%85%B5%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%85%88%E9%94%8B%E5%8D%A1%E9%80%9A%2B%E6%98%9F%E5%A4%9C%E4%B9%8B%E5%B9%BB%5D%28JP%29%5BRPG%5D%286Mb%29/> | 重装机兵(修正版)(简)\[先锋卡通+星夜之幻\](JP)\[RPG\](6Mb) |
-| 1393 | `重装机兵(简)[先锋卡通](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%87%8D%E8%A3%85%E6%9C%BA%E5%85%B5%28%E7%AE%80%29%5B%E5%85%88%E9%94%8B%E5%8D%A1%E9%80%9A%5D%28JP%29%5BRPG%5D%286Mb%29/> | 重装机兵(简)\[先锋卡通\](JP)\[RPG\](6Mb) |
-| 1394 | `重装机兵(简)[恒格电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%87%8D%E8%A3%85%E6%9C%BA%E5%85%B5%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BRPG%5D%286Mb%29/> | 重装机兵(简)\[恒格电子\](JP)\[RPG\](6Mb) |
-| 1395 | `重装机兵(简菜单)[先锋卡通+ZYM](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%87%8D%E8%A3%85%E6%9C%BA%E5%85%B5%28%E7%AE%80%E8%8F%9C%E5%8D%95%29%5B%E5%85%88%E9%94%8B%E5%8D%A1%E9%80%9A%2BZYM%5D%28JP%29%5BRPG%5D%286Mb%29/> | 重装机兵(简菜单)\[先锋卡通+ZYM\](JP)\[RPG\](6Mb) |
-| 1396 | `野狼行动(简)[高伟](US)[STG](2Mb)`：<https://fc.haiyong.site/games/%E9%87%8E%E7%8B%BC%E8%A1%8C%E5%8A%A8%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BSTG%5D%282Mb%29/> | 野狼行动(简)\[高伟\](US)\[STG\](2Mb) |
-| 1397 | `金卡(v5.0)(简)[科王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E9%87%91%E5%8D%A1%28v5.0%29%28%E7%AE%80%29%5B%E7%A7%91%E7%8E%8B%5D%28CN%29%5BETC%5D%284Mb%29/> | 金卡(v5.0)(简)\[科王\](CN)\[ETC\](4Mb) |
-| 1398 | `金卡王学习卡(v3.0)(简)[丰利](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E9%87%91%E5%8D%A1%E7%8E%8B%E5%AD%A6%E4%B9%A0%E5%8D%A1%28v3.0%29%28%E7%AE%80%29%5B%E4%B8%B0%E5%88%A9%5D%28CN%29%5BETC%5D%284Mb%29/> | 金卡王学习卡(v3.0)(简)\[丰利\](CN)\[ETC\](4Mb) |
-| 1399 | `金字塔PEC-586学习卡(简)[东达](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E9%87%91%E5%AD%97%E5%A1%94PEC-586%E5%AD%A6%E4%B9%A0%E5%8D%A1%28%E7%AE%80%29%5B%E4%B8%9C%E8%BE%BE%5D%28CN%29%5BETC%5D%284Mb%29/> | 金字塔PEC-586学习卡(简)\[东达\](CN)\[ETC\](4Mb) |
-| 1400 | `金字塔PEC-686F学习卡(简)[东达](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E9%87%91%E5%AD%97%E5%A1%94PEC-686F%E5%AD%A6%E4%B9%A0%E5%8D%A1%28%E7%AE%80%29%5B%E4%B8%9C%E8%BE%BE%5D%28CN%29%5BETC%5D%284Mb%29/> | 金字塔PEC-686F学习卡(简)\[东达\](CN)\[ETC\](4Mb) |
-| 1401 | `金字塔PEC-9588学习卡(简)[东达](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/%E9%87%91%E5%AD%97%E5%A1%94PEC-9588%E5%AD%A6%E4%B9%A0%E5%8D%A1%28%E7%AE%80%29%5B%E4%B8%9C%E8%BE%BE%5D%28CN%29%5BETC%5D%284Mb%29/> | 金字塔PEC-9588学习卡(简)\[东达\](CN)\[ETC\](4Mb) |
-| 1402 | `金属装甲(简)[虫儿](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%87%91%E5%B1%9E%E8%A3%85%E7%94%B2%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JP%29%5BACT%5D%282Mb%29/> | 金属装甲(简)\[虫儿\](JP)\[ACT\](2Mb) |
-| 1403 | `金属装甲(简)[高伟](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/%E9%87%91%E5%B1%9E%E8%A3%85%E7%94%B2%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%286Mb%29/> | 金属装甲(简)\[高伟\](JP)\[ACT\](6Mb) |
-| 1404 | `金庸群侠传 - 书剑江山(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E9%87%91%E5%BA%B8%E7%BE%A4%E4%BE%A0%E4%BC%A0%20-%20%E4%B9%A6%E5%89%91%E6%B1%9F%E5%B1%B1%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 金庸群侠传 - 书剑江山(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1405 | `金曲KTV(简)[未知](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/%E9%87%91%E6%9B%B2KTV%28%E7%AE%80%29%5B%E6%9C%AA%E7%9F%A5%5D%28CN%29%5BETC%5D%288Mb%29/> | 金曲KTV(简)\[未知\](CN)\[ETC\](8Mb) |
-| 1406 | `铁手套(简)[高伟](US)[STG](1.5Mb)`：<https://fc.haiyong.site/games/%E9%93%81%E6%89%8B%E5%A5%97%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BSTG%5D%281.5Mb%29/> | 铁手套(简)\[高伟\](US)\[STG\](1.5Mb) |
-| 1407 | `铁板阵(v1.0)(简)[九班](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/%E9%93%81%E6%9D%BF%E9%98%B5%28v1.0%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BSTG%5D%280.31Mb%29/> | 铁板阵(v1.0)(简)\[九班\](JP)\[STG\](0.31Mb) |
-| 1408 | `铁甲威龙(v1.1)(简)[Nineswords](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%93%81%E7%94%B2%E5%A8%81%E9%BE%99%28v1.1%29%28%E7%AE%80%29%5BNineswords%5D%28US%29%5BACT%5D%282Mb%29/> | 铁甲威龙(v1.1)(简)\[Nineswords\](US)\[ACT\](2Mb) |
-| 1409 | `铁血战士(简)[MS](US)[STG](2Mb)`：<https://fc.haiyong.site/games/%E9%93%81%E8%A1%80%E6%88%98%E5%A3%AB%28%E7%AE%80%29%5BMS%5D%28US%29%5BSTG%5D%282Mb%29/> | 铁血战士(简)\[MS\](US)\[STG\](2Mb) |
-| 1410 | `铁血联盟(简)[恒格电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%93%81%E8%A1%80%E8%81%94%E7%9B%9F%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BRPG%5D%286Mb%29/> | 铁血联盟(简)\[恒格电子\](JP)\[RPG\](6Mb) |
-| 1411 | `银河忍者 - 禅(简)[逆游的五彩鱼](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E9%93%B6%E6%B2%B3%E5%BF%8D%E8%80%85%20-%20%E7%A6%85%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28US%29%5BACT%5D%284Mb%29/> | 银河忍者 - 禅(简)\[逆游的五彩鱼\](US)\[ACT\](4Mb) |
-| 1412 | `银河战士(v3)(简) [高伟]`：<https://fc.haiyong.site/games/%E9%93%B6%E6%B2%B3%E6%88%98%E5%A3%AB%28v3%29%28%E7%AE%80%29%20%5B%E9%AB%98%E4%BC%9F%5D/> | 银河战士(v3)(简) \[高伟\] |
-| 1413 | `银河时代(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E9%93%B6%E6%B2%B3%E6%97%B6%E4%BB%A3%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 银河时代(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 1414 | `银白色沙加(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%93%B6%E7%99%BD%E8%89%B2%E6%B2%99%E5%8A%A0%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BVanyogin%5D%28JP%29%5BRPG%5D%286Mb%29/> | 银白色沙加(修正版)(简)\[外星科技+Vanyogin\](JP)\[RPG\](6Mb) |
-| 1415 | `银白色沙加(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%93%B6%E7%99%BD%E8%89%B2%E6%B2%99%E5%8A%A0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%286Mb%29/> | 银白色沙加(简)\[外星科技\](JP)\[RPG\](6Mb) |
-| 1416 | `锄大D(繁)[台北裕威](CN)[TAB](1Mb)`：<https://fc.haiyong.site/games/%E9%94%84%E5%A4%A7D%28%E7%B9%81%29%5B%E5%8F%B0%E5%8C%97%E8%A3%95%E5%A8%81%5D%28CN%29%5BTAB%5D%281Mb%29/> | 锄大D(繁)\[台北裕威\](CN)\[TAB\](1Mb) |
-| 1417 | `镜花缘(简)[外星科技](CN)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%95%9C%E8%8A%B1%E7%BC%98%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%282Mb%29/> | 镜花缘(简)\[外星科技\](CN)\[ACT\](2Mb) |
-| 1418 | `闪闪的红星(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E9%97%AA%E9%97%AA%E7%9A%84%E7%BA%A2%E6%98%9F%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 闪闪的红星(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 1419 | `阿尔戈斯战士(v1.11)(简)[汉化你妹](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%98%BF%E5%B0%94%E6%88%88%E6%96%AF%E6%88%98%E5%A3%AB%28v1.11%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BACT%5D%282Mb%29/> | 阿尔戈斯战士(v1.11)(简)\[汉化你妹\](JP)\[ACT\](2Mb) |
-| 1420 | `阿尔戈斯战士(修正版)(简)[孔雀天+MS](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E9%98%BF%E5%B0%94%E6%88%88%E6%96%AF%E6%88%98%E5%A3%AB%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%AD%94%E9%9B%80%E5%A4%A9%2BMS%5D%28JP%29%5BACT%5D%281Mb%29/> | 阿尔戈斯战士(修正版)(简)\[孔雀天+MS\](JP)\[ACT\](1Mb) |
-| 1421 | `阿拉丁(v1.0)(简)[叶枫](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E9%98%BF%E6%8B%89%E4%B8%81%28v1.0%29%28%E7%AE%80%29%5B%E5%8F%B6%E6%9E%AB%5D%28CN%29%5BACT%5D%284Mb%29/> | 阿拉丁(v1.0)(简)\[叶枫\](CN)\[ACT\](4Mb) |
-| 1422 | `阿贝道X(v0.9)(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E9%98%BF%E8%B4%9D%E9%81%93X%28v0.9%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%282Mb%29/> | 阿贝道X(v0.9)(简)\[高伟\](JP)\[STG\](2Mb) |
-| 1423 | `隋唐演义(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E9%9A%8B%E5%94%90%E6%BC%94%E4%B9%89%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 隋唐演义(简)\[外星科技\](CN)\[SLG\](4Mb) |
-| 1424 | `隋唐英雄(简)[南晶科技](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/%E9%9A%8B%E5%94%90%E8%8B%B1%E9%9B%84%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%288Mb%29/> | 隋唐英雄(简)\[南晶科技\](CN)\[SLG\](8Mb) |
-| 1425 | `雪人兄弟(v0.9)(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%9B%AA%E4%BA%BA%E5%85%84%E5%BC%9F%28v0.9%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 雪人兄弟(v0.9)(简)\[高伟\](JP)\[ACT\](2Mb) |
-| 1426 | `雪人兄弟(简)[LSP](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E9%9B%AA%E4%BA%BA%E5%85%84%E5%BC%9F%28%E7%AE%80%29%5BLSP%5D%28JP%29%5BACT%5D%283Mb%29/> | 雪人兄弟(简)\[LSP\](JP)\[ACT\](3Mb) |
-| 1427 | `雪人兄弟(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%9B%AA%E4%BA%BA%E5%85%84%E5%BC%9F%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%282Mb%29/> | 雪人兄弟(简)\[MS\](JP)\[ACT\](2Mb) |
-| 1428 | `雷电2(繁)[三协资讯](CN)[STG](2Mb)`：<https://fc.haiyong.site/games/%E9%9B%B7%E7%94%B52%28%E7%B9%81%29%5B%E4%B8%89%E5%8D%8F%E8%B5%84%E8%AE%AF%5D%28CN%29%5BSTG%5D%282Mb%29/> | 雷电2(繁)\[三协资讯\](CN)\[STG\](2Mb) |
-| 1429 | `雷电皇 - 比卡丘传说(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E9%9B%B7%E7%94%B5%E7%9A%87%20-%20%E6%AF%94%E5%8D%A1%E4%B8%98%E4%BC%A0%E8%AF%B4%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 雷电皇 - 比卡丘传说(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1430 | `雷电节奏(简)[虫虫](US)[STG](1Mb)`：<https://fc.haiyong.site/games/%E9%9B%B7%E7%94%B5%E8%8A%82%E5%A5%8F%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28US%29%5BSTG%5D%281Mb%29/> | 雷电节奏(简)\[虫虫\](US)\[STG\](1Mb) |
-| 1431 | `雷霆任务(简)[金明](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%9B%B7%E9%9C%86%E4%BB%BB%E5%8A%A1%28%E7%AE%80%29%5B%E9%87%91%E6%98%8E%5D%28JP%29%5BACT%5D%282Mb%29/> | 雷霆任务(简)\[金明\](JP)\[ACT\](2Mb) |
-| 1432 | `霍元甲(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E9%9C%8D%E5%85%83%E7%94%B2%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 霍元甲(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 1433 | `霹雳神兵(简)[金明](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%9C%B9%E9%9B%B3%E7%A5%9E%E5%85%B5%28%E7%AE%80%29%5B%E9%87%91%E6%98%8E%5D%28JP%29%5BACT%5D%282Mb%29/> | 霹雳神兵(简)\[金明\](JP)\[ACT\](2Mb) |
-| 1434 | `霹雳神兵(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%9C%B9%E9%9B%B3%E7%A5%9E%E5%85%B5%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 霹雳神兵(简)\[高伟\](JP)\[ACT\](2Mb) |
-| 1435 | `音乐盒(简)[maxzhou88](CN)[ETC](2Mb)`：<https://fc.haiyong.site/games/%E9%9F%B3%E4%B9%90%E7%9B%92%28%E7%AE%80%29%5Bmaxzhou88%5D%28CN%29%5BETC%5D%282Mb%29/> | 音乐盒(简)\[maxzhou88\](CN)\[ETC\](2Mb) |
-| 1436 | `顽皮狗(简)[高伟](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%A1%BD%E7%9A%AE%E7%8B%97%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28US%29%5BACT%5D%282Mb%29/> | 顽皮狗(简)\[高伟\](US)\[ACT\](2Mb) |
-| 1437 | `顽皮老鸭梦冒险(v1.1)(简)[Advance](JP)[ACT](1.5Mb)`：<https://fc.haiyong.site/games/%E9%A1%BD%E7%9A%AE%E8%80%81%E9%B8%AD%E6%A2%A6%E5%86%92%E9%99%A9%28v1.1%29%28%E7%AE%80%29%5BAdvance%5D%28JP%29%5BACT%5D%281.5Mb%29/> | 顽皮老鸭梦冒险(v1.1)(简)\[Advance\](JP)\[ACT\](1.5Mb) |
-| 1438 | `风云(简)[外星科技](CN)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%A3%8E%E4%BA%91%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%286Mb%29/> | 风云(简)\[外星科技\](CN)\[RPG\](6Mb) |
-| 1439 | `风色幻想(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E9%A3%8E%E8%89%B2%E5%B9%BB%E6%83%B3%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 风色幻想(简)\[外星科技\](JP)\[RPG\](4Mb) |
-| 1440 | `飞人战士(简)[金明](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/%E9%A3%9E%E4%BA%BA%E6%88%98%E5%A3%AB%28%E7%AE%80%29%5B%E9%87%91%E6%98%8E%5D%28JP%29%5BSTG%5D%282Mb%29/> | 飞人战士(简)\[金明\](JP)\[STG\](2Mb) |
-| 1441 | `飞天战神(简)[虫虫](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/%E9%A3%9E%E5%A4%A9%E6%88%98%E7%A5%9E%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BSTG%5D%280.31Mb%29/> | 飞天战神(简)\[虫虫\](JP)\[STG\](0.31Mb) |
-| 1442 | `飞翼人(简)[金明](US)[STG](1Mb)`：<https://fc.haiyong.site/games/%E9%A3%9E%E7%BF%BC%E4%BA%BA%28%E7%AE%80%29%5B%E9%87%91%E6%98%8E%5D%28US%29%5BSTG%5D%281Mb%29/> | 飞翼人(简)\[金明\](US)\[STG\](1Mb) |
-| 1443 | `飞行蛟(简)[虫虫](US)[STG](1.5Mb)`：<https://fc.haiyong.site/games/%E9%A3%9E%E8%A1%8C%E8%9B%9F%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28US%29%5BSTG%5D%281.5Mb%29/> | 飞行蛟(简)\[虫虫\](US)\[STG\](1.5Mb) |
-| 1444 | `香帅传奇(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E9%A6%99%E5%B8%85%E4%BC%A0%E5%A5%87%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 香帅传奇(简)\[南晶科技\](CN)\[RPG\](8Mb) |
-| 1445 | `马克斯战士 - 惑星戒严令(简)[逆游的五彩鱼](JP)[STG](4Mb)`：<https://fc.haiyong.site/games/%E9%A9%AC%E5%85%8B%E6%96%AF%E6%88%98%E5%A3%AB%20-%20%E6%83%91%E6%98%9F%E6%88%92%E4%B8%A5%E4%BB%A4%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28JP%29%5BSTG%5D%284Mb%29/> | 马克斯战士 - 惑星戒严令(简)\[逆游的五彩鱼\](JP)\[STG\](4Mb) |
-| 1446 | `马戏团(v1.1)(简)[九班](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E9%A9%AC%E6%88%8F%E5%9B%A2%28v1.1%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 马戏团(v1.1)(简)\[九班\](JP)\[ACT\](0.18Mb) |
-| 1447 | `马戏团(v20100512)(繁)[Nokoh](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/%E9%A9%AC%E6%88%8F%E5%9B%A2%28v20100512%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%280.37Mb%29/> | 马戏团(v20100512)(繁)\[Nokoh\](JP)\[ACT\](0.37Mb) |
-| 1448 | `马戏团(修正版)(简)[汉化情报站+MS](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E9%A9%AC%E6%88%8F%E5%9B%A2%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E6%83%85%E6%8A%A5%E7%AB%99%2BMS%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 马戏团(修正版)(简)\[汉化情报站+MS\](JP)\[ACT\](0.18Mb) |
-| 1449 | `马戏团(简)[夜幕星辰](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E9%A9%AC%E6%88%8F%E5%9B%A2%28%E7%AE%80%29%5B%E5%A4%9C%E5%B9%95%E6%98%9F%E8%BE%B0%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 马戏团(简)\[夜幕星辰\](JP)\[ACT\](0.18Mb) |
-| 1450 | `马戏团(简)[水火](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/%E9%A9%AC%E6%88%8F%E5%9B%A2%28%E7%AE%80%29%5B%E6%B0%B4%E7%81%AB%5D%28JP%29%5BACT%5D%280.37Mb%29/> | 马戏团(简)\[水火\](JP)\[ACT\](0.37Mb) |
-| 1451 | `马戏团(简)[虫虫](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E9%A9%AC%E6%88%8F%E5%9B%A2%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 马戏团(简)\[虫虫\](JP)\[ACT\](0.18Mb) |
-| 1452 | `马里奥兄弟(简)[Madcell](JUE)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%85%84%E5%BC%9F%28%E7%AE%80%29%5BMadcell%5D%28JUE%29%5BACT%5D%280.37Mb%29/> | 马里奥兄弟(简)\[Madcell\](JUE)\[ACT\](0.37Mb) |
-| 1453 | `马里奥兄弟(简)[水火](JUE)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%85%84%E5%BC%9F%28%E7%AE%80%29%5B%E6%B0%B4%E7%81%AB%5D%28JUE%29%5BACT%5D%280.37Mb%29/> | 马里奥兄弟(简)\[水火\](JUE)\[ACT\](0.37Mb) |
-| 1454 | `马里奥医生(v2.0)(简)[九班](JU)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E9%A9%AC%E9%87%8C%E5%A5%A5%E5%8C%BB%E7%94%9F%28v2.0%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JU%29%5BPUZ%5D%280.5Mb%29/> | 马里奥医生(v2.0)(简)\[九班\](JU)\[PUZ\](0.5Mb) |
-| 1455 | `马里奥水管工(简)[高伟](JUE)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E9%A9%AC%E9%87%8C%E5%A5%A5%E6%B0%B4%E7%AE%A1%E5%B7%A5%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JUE%29%5BACT%5D%280.31Mb%29/> | 马里奥水管工(简)\[高伟\](JUE)\[ACT\](0.31Mb) |
-| 1456 | `骑士物语2 - 光之骑士(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%AA%91%E5%A3%AB%E7%89%A9%E8%AF%AD2%20-%20%E5%85%89%E4%B9%8B%E9%AA%91%E5%A3%AB%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%286Mb%29/> | 骑士物语2 - 光之骑士(简)\[外星科技\](JP)\[RPG\](6Mb) |
-| 1457 | `骷髅13 - 第一章 - 诸神的黄昏(v1.1)(简)[DMG](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E9%AA%B7%E9%AB%8513%20-%20%E7%AC%AC%E4%B8%80%E7%AB%A0%20-%20%E8%AF%B8%E7%A5%9E%E7%9A%84%E9%BB%84%E6%98%8F%28v1.1%29%28%E7%AE%80%29%5BDMG%5D%28JP%29%5BACT%5D%284Mb%29/> | 骷髅13 - 第一章 - 诸神的黄昏(v1.1)(简)\[DMG\](JP)\[ACT\](4Mb) |
-| 1458 | `高机动战斗2(简)[高伟](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/%E9%AB%98%E6%9C%BA%E5%8A%A8%E6%88%98%E6%96%972%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BSTG%5D%280.31Mb%29/> | 高机动战斗2(简)\[高伟\](JP)\[STG\](0.31Mb) |
-| 1459 | `高桥名人之冒险岛(v20100528)(繁)[Nokoh](JP)[ACT](0.81Mb)`：<https://fc.haiyong.site/games/%E9%AB%98%E6%A1%A5%E5%90%8D%E4%BA%BA%E4%B9%8B%E5%86%92%E9%99%A9%E5%B2%9B%28v20100528%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%280.81Mb%29/> | 高桥名人之冒险岛(v20100528)(繁)\[Nokoh\](JP)\[ACT\](0.81Mb) |
-| 1460 | `高桥名人之冒险岛(简)[未知](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E9%AB%98%E6%A1%A5%E5%90%8D%E4%BA%BA%E4%B9%8B%E5%86%92%E9%99%A9%E5%B2%9B%28%E7%AE%80%29%5B%E6%9C%AA%E7%9F%A5%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 高桥名人之冒险岛(简)\[未知\](JP)\[ACT\](0.5Mb) |
-| 1461 | `高桥名人之冒险岛2(v20101231)(繁)[Nokoh](JP)[ACT](2.12Mb)`：<https://fc.haiyong.site/games/%E9%AB%98%E6%A1%A5%E5%90%8D%E4%BA%BA%E4%B9%8B%E5%86%92%E9%99%A9%E5%B2%9B2%28v20101231%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%282.12Mb%29/> | 高桥名人之冒险岛2(v20101231)(繁)\[Nokoh\](JP)\[ACT\](2.12Mb) |
-| 1462 | `高桥名人之冒险岛3(v20110101)(繁)[Nokoh](JP)[ACT](2.18Mb)`：<https://fc.haiyong.site/games/%E9%AB%98%E6%A1%A5%E5%90%8D%E4%BA%BA%E4%B9%8B%E5%86%92%E9%99%A9%E5%B2%9B3%28v20110101%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%282.18Mb%29/> | 高桥名人之冒险岛3(v20110101)(繁)\[Nokoh\](JP)\[ACT\](2.18Mb) |
-| 1463 | `高桥名人之冒险岛4(v20220222)(繁)[Nokoh](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E9%AB%98%E6%A1%A5%E5%90%8D%E4%BA%BA%E4%B9%8B%E5%86%92%E9%99%A9%E5%B2%9B4%28v20220222%29%28%E7%B9%81%29%5BNokoh%5D%28JP%29%5BACT%5D%284Mb%29/> | 高桥名人之冒险岛4(v20220222)(繁)\[Nokoh\](JP)\[ACT\](4Mb) |
-| 1464 | `高桥名人的冒险岛(简)[Justin](US)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E9%AB%98%E6%A1%A5%E5%90%8D%E4%BA%BA%E7%9A%84%E5%86%92%E9%99%A9%E5%B2%9B%28%E7%AE%80%29%5BJustin%5D%28US%29%5BACT%5D%280.5Mb%29/> | 高桥名人的冒险岛(简)\[Justin\](US)\[ACT\](0.5Mb) |
-| 1465 | `高桥名人的冒险岛(简)[九班](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E9%AB%98%E6%A1%A5%E5%90%8D%E4%BA%BA%E7%9A%84%E5%86%92%E9%99%A9%E5%B2%9B%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 高桥名人的冒险岛(简)\[九班\](JP)\[ACT\](0.5Mb) |
-| 1466 | `高桥名人的冒险岛2(修正版)(简)[高艳龙+MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%AB%98%E6%A1%A5%E5%90%8D%E4%BA%BA%E7%9A%84%E5%86%92%E9%99%A9%E5%B2%9B2%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E9%AB%98%E8%89%B3%E9%BE%99%2BMS%5D%28US%29%5BACT%5D%282Mb%29/> | 高桥名人的冒险岛2(修正版)(简)\[高艳龙+MS\](US)\[ACT\](2Mb) |
-| 1467 | `高桥名人的冒险岛3(简)[烈火暴龙](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%AB%98%E6%A1%A5%E5%90%8D%E4%BA%BA%E7%9A%84%E5%86%92%E9%99%A9%E5%B2%9B3%28%E7%AE%80%29%5B%E7%83%88%E7%81%AB%E6%9A%B4%E9%BE%99%5D%28US%29%5BACT%5D%282Mb%29/> | 高桥名人的冒险岛3(简)\[烈火暴龙\](US)\[ACT\](2Mb) |
-| 1468 | `高桥名人的冒险岛3(简)[高艳龙](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%AB%98%E6%A1%A5%E5%90%8D%E4%BA%BA%E7%9A%84%E5%86%92%E9%99%A9%E5%B2%9B3%28%E7%AE%80%29%5B%E9%AB%98%E8%89%B3%E9%BE%99%5D%28US%29%5BACT%5D%282Mb%29/> | 高桥名人的冒险岛3(简)\[高艳龙\](US)\[ACT\](2Mb) |
-| 1469 | `高桥名人的冒险岛4(v3.0)(简)[九班](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E9%AB%98%E6%A1%A5%E5%90%8D%E4%BA%BA%E7%9A%84%E5%86%92%E9%99%A9%E5%B2%9B4%28v3.0%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BACT%5D%283Mb%29/> | 高桥名人的冒险岛4(v3.0)(简)\[九班\](JP)\[ACT\](3Mb) |
-| 1470 | `高达之骑士物语1(简)[外星科技](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/%E9%AB%98%E8%BE%BE%E4%B9%8B%E9%AA%91%E5%A3%AB%E7%89%A9%E8%AF%AD1%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%285Mb%29/> | 高达之骑士物语1(简)\[外星科技\](JP)\[RPG\](5Mb) |
-| 1471 | `鬼之Q太郎(v2)(简)[高伟](JP)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/%E9%AC%BC%E4%B9%8BQ%E5%A4%AA%E9%83%8E%28v2%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.31Mb%29/> | 鬼之Q太郎(v2)(简)\[高伟\](JP)\[ACT\](0.31Mb) |
-| 1472 | `鬼太郎 - 妖怪大魔境(简)[高伟](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/%E9%AC%BC%E5%A4%AA%E9%83%8E%20-%20%E5%A6%96%E6%80%AA%E5%A4%A7%E9%AD%94%E5%A2%83%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.5Mb%29/> | 鬼太郎 - 妖怪大魔境(简)\[高伟\](JP)\[ACT\](0.5Mb) |
-| 1473 | `鬼魅战记(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%AC%BC%E9%AD%85%E6%88%98%E8%AE%B0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%286Mb%29/> | 鬼魅战记(简)\[外星科技\](JP)\[RPG\](6Mb) |
-| 1474 | `魂斗罗(v2)(简)[Jixun](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E9%AD%82%E6%96%97%E7%BD%97%28v2%29%28%E7%AE%80%29%5BJixun%5D%28JP%29%5BACT%5D%283Mb%29/> | 魂斗罗(v2)(简)\[Jixun\](JP)\[ACT\](3Mb) |
-| 1475 | `魂斗罗(修正版)(简)[酷酷小熊+MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%AD%82%E6%96%97%E7%BD%97%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E9%85%B7%E9%85%B7%E5%B0%8F%E7%86%8A%2BMS%5D%28JP%29%5BACT%5D%282Mb%29/> | 魂斗罗(修正版)(简)\[酷酷小熊+MS\](JP)\[ACT\](2Mb) |
-| 1476 | `魂斗罗(简)[FlameCyclone](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E9%AD%82%E6%96%97%E7%BD%97%28%E7%AE%80%29%5BFlameCyclone%5D%28JP%29%5BACT%5D%283Mb%29/> | 魂斗罗(简)\[FlameCyclone\](JP)\[ACT\](3Mb) |
-| 1477 | `魂斗罗(简)[九班](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%AD%82%E6%96%97%E7%BD%97%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28JP%29%5BACT%5D%282Mb%29/> | 魂斗罗(简)\[九班\](JP)\[ACT\](2Mb) |
-| 1478 | `魂斗罗(简)[星空](JP)[ACT](2.06Mb)`：<https://fc.haiyong.site/games/%E9%AD%82%E6%96%97%E7%BD%97%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28JP%29%5BACT%5D%282.06Mb%29/> | 魂斗罗(简)\[星空\](JP)\[ACT\](2.06Mb) |
-| 1479 | `魂斗罗力量(v1.2)(简)[DMG](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E9%AD%82%E6%96%97%E7%BD%97%E5%8A%9B%E9%87%8F%28v1.2%29%28%E7%AE%80%29%5BDMG%5D%28US%29%5BACT%5D%284Mb%29/> | 魂斗罗力量(v1.2)(简)\[DMG\](US)\[ACT\](4Mb) |
-| 1480 | `魂斗罗力量(简)[MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%AD%82%E6%96%97%E7%BD%97%E5%8A%9B%E9%87%8F%28%E7%AE%80%29%5BMS%5D%28US%29%5BACT%5D%282Mb%29/> | 魂斗罗力量(简)\[MS\](US)\[ACT\](2Mb) |
-| 1481 | `魂斗罗力量(简)[谈魈疯生](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E9%AD%82%E6%96%97%E7%BD%97%E5%8A%9B%E9%87%8F%28%E7%AE%80%29%5B%E8%B0%88%E9%AD%88%E7%96%AF%E7%94%9F%5D%28US%29%5BACT%5D%284Mb%29/> | 魂斗罗力量(简)\[谈魈疯生\](US)\[ACT\](4Mb) |
-| 1482 | `魂斗罗力量之战(v1.0)(简)[星空](US)[ACT](2.12Mb)`：<https://fc.haiyong.site/games/%E9%AD%82%E6%96%97%E7%BD%97%E5%8A%9B%E9%87%8F%E4%B9%8B%E6%88%98%28v1.0%29%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28US%29%5BACT%5D%282.12Mb%29/> | 魂斗罗力量之战(v1.0)(简)\[星空\](US)\[ACT\](2.12Mb) |
-| 1483 | `魔兽世界 - 恶魔猎人(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C%20-%20%E6%81%B6%E9%AD%94%E7%8C%8E%E4%BA%BA%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 魔兽世界 - 恶魔猎人(简)\[南晶科技\](CN)\[RPG\](8Mb) |
-| 1484 | `魔力战士(简)[恒格电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E5%8A%9B%E6%88%98%E5%A3%AB%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28CN%29%5BRPG%5D%284Mb%29/> | 魔力战士(简)\[恒格电子\](CN)\[RPG\](4Mb) |
-| 1485 | `魔城传说2 - 大魔司教加里奥斯(v2.2)(简)[汉化你妹](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E5%9F%8E%E4%BC%A0%E8%AF%B42%20-%20%E5%A4%A7%E9%AD%94%E5%8F%B8%E6%95%99%E5%8A%A0%E9%87%8C%E5%A5%A5%E6%96%AF%28v2.2%29%28%E7%AE%80%29%5B%E6%B1%89%E5%8C%96%E4%BD%A0%E5%A6%B9%5D%28JP%29%5BACT%5D%282Mb%29/> | 魔城传说2 - 大魔司教加里奥斯(v2.2)(简)\[汉化你妹\](JP)\[ACT\](2Mb) |
-| 1486 | `魔域英雄传(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E5%9F%9F%E8%8B%B1%E9%9B%84%E4%BC%A0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 魔域英雄传(简)\[外星科技\](CN)\[RPG\](4Mb) |
-| 1487 | `魔塔(简)[earth幻灭](CN)[RPG](1.25Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E5%A1%94%28%E7%AE%80%29%5Bearth%E5%B9%BB%E7%81%AD%5D%28CN%29%5BRPG%5D%281.25Mb%29/> | 魔塔(简)\[earth幻灭\](CN)\[RPG\](1.25Mb) |
-| 1488 | `魔天童子(简)[逆游的五彩鱼](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E5%A4%A9%E7%AB%A5%E5%AD%90%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28JP%29%5BACT%5D%284Mb%29/> | 魔天童子(简)\[逆游的五彩鱼\](JP)\[ACT\](4Mb) |
-| 1489 | `魔女小红帽(简)[冰组](JP)[ACT](2.12Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E5%A5%B3%E5%B0%8F%E7%BA%A2%E5%B8%BD%28%E7%AE%80%29%5B%E5%86%B0%E7%BB%84%5D%28JP%29%5BACT%5D%282.12Mb%29/> | 魔女小红帽(简)\[冰组\](JP)\[ACT\](2.12Mb) |
-| 1490 | `魔女小红帽(繁)[冰组](JP)[ACT](2.12Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E5%A5%B3%E5%B0%8F%E7%BA%A2%E5%B8%BD%28%E7%B9%81%29%5B%E5%86%B0%E7%BB%84%5D%28JP%29%5BACT%5D%282.12Mb%29/> | 魔女小红帽(繁)\[冰组\](JP)\[ACT\](2.12Mb) |
-| 1491 | `魔幻三国志(简)[晶科泰](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E5%B9%BB%E4%B8%89%E5%9B%BD%E5%BF%97%28%E7%AE%80%29%5B%E6%99%B6%E7%A7%91%E6%B3%B0%5D%28CN%29%5BSLG%5D%284Mb%29/> | 魔幻三国志(简)\[晶科泰\](CN)\[SLG\](4Mb) |
-| 1492 | `魔幻世界(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E5%B9%BB%E4%B8%96%E7%95%8C%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 魔幻世界(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1493 | `魔法总动员(修正版)(简)[混沌星辰+MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E6%B3%95%E6%80%BB%E5%8A%A8%E5%91%98%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E6%B7%B7%E6%B2%8C%E6%98%9F%E8%BE%B0%2BMS%5D%28US%29%5BACT%5D%282Mb%29/> | 魔法总动员(修正版)(简)\[混沌星辰+MS\](US)\[ACT\](2Mb) |
-| 1494 | `魔法门 - 英雄无敌(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E6%B3%95%E9%97%A8%20-%20%E8%8B%B1%E9%9B%84%E6%97%A0%E6%95%8C%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BSLG%5D%284Mb%29/> | 魔法门 - 英雄无敌(简)\[外星科技\](CN)\[SLG\](4Mb) |
-| 1495 | `魔界塔士(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E7%95%8C%E5%A1%94%E5%A3%AB%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 魔界塔士(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1496 | `魔界村(简)[Advance](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E7%95%8C%E6%9D%91%28%E7%AE%80%29%5BAdvance%5D%28JP%29%5BSTG%5D%281Mb%29/> | 魔界村(简)\[Advance\](JP)\[STG\](1Mb) |
-| 1497 | `魔界霸主(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E7%95%8C%E9%9C%B8%E4%B8%BB%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 魔界霸主(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1498 | `魔神法师(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E7%A5%9E%E6%B3%95%E5%B8%88%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 魔神法师(简)\[外星科技\](CN)\[RPG\](4Mb) |
-| 1499 | `魔神英雄传外传(v2.0)(简)[意志之路](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E7%A5%9E%E8%8B%B1%E9%9B%84%E4%BC%A0%E5%A4%96%E4%BC%A0%28v2.0%29%28%E7%AE%80%29%5B%E6%84%8F%E5%BF%97%E4%B9%8B%E8%B7%AF%5D%28JP%29%5BRPG%5D%284Mb%29/> | 魔神英雄传外传(v2.0)(简)\[意志之路\](JP)\[RPG\](4Mb) |
-| 1500 | `魔道劫(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E9%81%93%E5%8A%AB%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 魔道劫(简)\[南晶科技\](CN)\[RPG\](8Mb) |
-| 1501 | `魔道士阴谋(v2)(修正版)(简)[外星科技+MS](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E9%81%93%E5%A3%AB%E9%98%B4%E8%B0%8B%28v2%29%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BMS%5D%28JP%29%5BSLG%5D%284Mb%29/> | 魔道士阴谋(v2)(修正版)(简)\[外星科技+MS\](JP)\[SLG\](4Mb) |
-| 1502 | `魔道士阴谋(修正版)(简)[外星科技+姜维第二](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/%E9%AD%94%E9%81%93%E5%A3%AB%E9%98%B4%E8%B0%8B%28%E4%BF%AE%E6%AD%A3%E7%89%88%29%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2B%E5%A7%9C%E7%BB%B4%E7%AC%AC%E4%BA%8C%5D%28JP%29%5BSLG%5D%284Mb%29/> | 魔道士阴谋(修正版)(简)\[外星科技+姜维第二\](JP)\[SLG\](4Mb) |
-| 1503 | `鲁邦三世 - 潘多拉的遗产(简)[逆游的五彩鱼](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E9%B2%81%E9%82%A6%E4%B8%89%E4%B8%96%20-%20%E6%BD%98%E5%A4%9A%E6%8B%89%E7%9A%84%E9%81%97%E4%BA%A7%28%E7%AE%80%29%5B%E9%80%86%E6%B8%B8%E7%9A%84%E4%BA%94%E5%BD%A9%E9%B1%BC%5D%28JP%29%5BACT%5D%284Mb%29/> | 鲁邦三世 - 潘多拉的遗产(简)\[逆游的五彩鱼\](JP)\[ACT\](4Mb) |
-| 1504 | `鳄鱼先生(v2)(简)[谈魈疯生](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E9%B3%84%E9%B1%BC%E5%85%88%E7%94%9F%28v2%29%28%E7%AE%80%29%5B%E8%B0%88%E9%AD%88%E7%96%AF%E7%94%9F%5D%28JP%29%5BACT%5D%283Mb%29/> | 鳄鱼先生(v2)(简)\[谈魈疯生\](JP)\[ACT\](3Mb) |
-| 1505 | `鸟人战队(简)[烈火暴龙](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%B8%9F%E4%BA%BA%E6%88%98%E9%98%9F%28%E7%AE%80%29%5B%E7%83%88%E7%81%AB%E6%9A%B4%E9%BE%99%5D%28JP%29%5BACT%5D%282Mb%29/> | 鸟人战队(简)\[烈火暴龙\](JP)\[ACT\](2Mb) |
-| 1506 | `鸟人战队(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%B8%9F%E4%BA%BA%E6%88%98%E9%98%9F%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 鸟人战队(简)\[高伟\](JP)\[ACT\](2Mb) |
-| 1507 | `鸟的故事(v2)(简)[高伟](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E9%B8%9F%E7%9A%84%E6%95%85%E4%BA%8B%28v2%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 鸟的故事(v2)(简)\[高伟\](JP)\[ACT\](0.18Mb) |
-| 1508 | `鸵鸟骑士(v2)(简)[高伟](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/%E9%B8%B5%E9%B8%9F%E9%AA%91%E5%A3%AB%28v2%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%280.18Mb%29/> | 鸵鸟骑士(v2)(简)\[高伟\](JP)\[ACT\](0.18Mb) |
-| 1509 | `鹿鼎记(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E9%B9%BF%E9%BC%8E%E8%AE%B0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 鹿鼎记(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 1510 | `麻将方块(繁)[Idea-Tek](CN)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/%E9%BA%BB%E5%B0%86%E6%96%B9%E5%9D%97%28%E7%B9%81%29%5BIdea-Tek%5D%28CN%29%5BPUZ%5D%280.5Mb%29/> | 麻将方块(繁)\[Idea-Tek\](CN)\[PUZ\](0.5Mb) |
-| 1511 | `麻雀(v1.1a)(简)[星空](JP)[TAB](0.31Mb)`：<https://fc.haiyong.site/games/%E9%BA%BB%E9%9B%80%28v1.1a%29%28%E7%AE%80%29%5B%E6%98%9F%E7%A9%BA%5D%28JP%29%5BTAB%5D%280.31Mb%29/> | 麻雀(v1.1a)(简)\[星空\](JP)\[TAB\](0.31Mb) |
-| 1512 | `麻雀世界 - 歌舞伎町篇(繁)[圣谦](CN)[TAB](1Mb)`：<https://fc.haiyong.site/games/%E9%BA%BB%E9%9B%80%E4%B8%96%E7%95%8C%20-%20%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA%E7%AF%87%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BTAB%5D%281Mb%29/> | 麻雀世界 - 歌舞伎町篇(繁)\[圣谦\](CN)\[TAB\](1Mb) |
-| 1513 | `麻雀世界(繁)[圣谦](CN)[TAB](1Mb)`：<https://fc.haiyong.site/games/%E9%BA%BB%E9%9B%80%E4%B8%96%E7%95%8C%28%E7%B9%81%29%5B%E5%9C%A3%E8%B0%A6%5D%28CN%29%5BTAB%5D%281Mb%29/> | 麻雀世界(繁)\[圣谦\](CN)\[TAB\](1Mb) |
-| 1514 | `黄帝 - 涿鹿之战(简)[Asder](CN)[ACT](3Mb)`：<https://fc.haiyong.site/games/%E9%BB%84%E5%B8%9D%20-%20%E6%B6%BF%E9%B9%BF%E4%B9%8B%E6%88%98%28%E7%AE%80%29%5BAsder%5D%28CN%29%5BACT%5D%283Mb%29/> | 黄帝 - 涿鹿之战(简)\[Asder\](CN)\[ACT\](3Mb) |
-| 1515 | `黄金太阳(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/%E9%BB%84%E9%87%91%E5%A4%AA%E9%98%B3%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%2816Mb%29/> | 黄金太阳(简)\[南晶科技\](CN)\[RPG\](16Mb) |
-| 1516 | `黄飞鸿(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E9%BB%84%E9%A3%9E%E9%B8%BF%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 黄飞鸿(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 1517 | `黑客(简)[南晶科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/%E9%BB%91%E5%AE%A2%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BACT%5D%284Mb%29/> | 黑客(简)\[南晶科技\](CN)\[ACT\](4Mb) |
-| 1518 | `黑暗之蛊(繁)[火星电子](CN)[AVG](4Mb)`：<https://fc.haiyong.site/games/%E9%BB%91%E6%9A%97%E4%B9%8B%E8%9B%8A%28%E7%B9%81%29%5B%E7%81%AB%E6%98%9F%E7%94%B5%E5%AD%90%5D%28CN%29%5BAVG%5D%284Mb%29/> | 黑暗之蛊(繁)\[火星电子\](CN)\[AVG\](4Mb) |
-| 1519 | `黑白棋(v1.0)(简)[九班](US)[TAB](0.31Mb)`：<https://fc.haiyong.site/games/%E9%BB%91%E7%99%BD%E6%A3%8B%28v1.0%29%28%E7%AE%80%29%5B%E4%B9%9D%E7%8F%AD%5D%28US%29%5BTAB%5D%280.31Mb%29/> | 黑白棋(v1.0)(简)\[九班\](US)\[TAB\](0.31Mb) |
-| 1520 | `齐天大圣(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E9%BD%90%E5%A4%A9%E5%A4%A7%E5%9C%A3%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%284Mb%29/> | 齐天大圣(简)\[南晶科技\](CN)\[RPG\](4Mb) |
-| 1521 | `龙之城堡(简)[虫虫](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E4%B9%8B%E5%9F%8E%E5%A0%A1%28%E7%AE%80%29%5B%E8%99%AB%E8%99%AB%5D%28JP%29%5BACT%5D%281Mb%29/> | 龙之城堡(简)\[虫虫\](JP)\[ACT\](1Mb) |
-| 1522 | `龙之忍者(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E4%B9%8B%E5%BF%8D%E8%80%85%28%E7%AE%80%29%5BMS%5D%28JP%29%5BACT%5D%282Mb%29/> | 龙之忍者(简)\[MS\](JP)\[ACT\](2Mb) |
-| 1523 | `龙之忍者(简)[虫儿](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E4%B9%8B%E5%BF%8D%E8%80%85%28%E7%AE%80%29%5B%E8%99%AB%E5%84%BF%5D%28JP%29%5BACT%5D%282Mb%29/> | 龙之忍者(简)\[虫儿\](JP)\[ACT\](2Mb) |
-| 1524 | `龙之谷(繁)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E4%B9%8B%E8%B0%B7%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 龙之谷(繁)\[外星科技\](JP)\[RPG\](4Mb) |
-| 1525 | `龙域天下(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E5%9F%9F%E5%A4%A9%E4%B8%8B%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%286Mb%29/> | 龙域天下(简)\[外星科技\](JP)\[RPG\](6Mb) |
-| 1526 | `龙战士(v0.9)(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E6%88%98%E5%A3%AB%28v0.9%29%28%E7%AE%80%29%5B%E9%AB%98%E4%BC%9F%5D%28JP%29%5BACT%5D%282Mb%29/> | 龙战士(v0.9)(简)\[高伟\](JP)\[ACT\](2Mb) |
-| 1527 | `龙珠(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0%28%E7%AE%80%29%5B%E5%8D%97%E6%99%B6%E7%A7%91%E6%8A%80%5D%28CN%29%5BRPG%5D%288Mb%29/> | 龙珠(简)\[南晶科技\](CN)\[RPG\](8Mb) |
-| 1528 | `龙珠Z - 超武斗传2(简)[天空联盟](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0Z%20-%20%E8%B6%85%E6%AD%A6%E6%96%97%E4%BC%A02%28%E7%AE%80%29%5B%E5%A4%A9%E7%A9%BA%E8%81%94%E7%9B%9F%5D%28CN%29%5BFTG%5D%283Mb%29/> | 龙珠Z - 超武斗传2(简)\[天空联盟\](CN)\[FTG\](3Mb) |
-| 1529 | `龙珠Z - 超武斗传5(可选语言版)(繁)[Rex](CN)[ACT](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0Z%20-%20%E8%B6%85%E6%AD%A6%E6%96%97%E4%BC%A05%28%E5%8F%AF%E9%80%89%E8%AF%AD%E8%A8%80%E7%89%88%29%28%E7%B9%81%29%5BRex%5D%28CN%29%5BACT%5D%286Mb%29/> | 龙珠Z - 超武斗传5(可选语言版)(繁)\[Rex\](CN)\[ACT\](6Mb) |
-| 1530 | `龙珠Z 强袭！赛亚人(大陆译名)(2019公测版)[Lirdrepus](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0Z%20%E5%BC%BA%E8%A2%AD%EF%BC%81%E8%B5%9B%E4%BA%9A%E4%BA%BA%28%E5%A4%A7%E9%99%86%E8%AF%91%E5%90%8D%29%282019%E5%85%AC%E6%B5%8B%E7%89%88%29%5BLirdrepus%5D%286Mb%29/> | 龙珠Z 强袭！赛亚人(大陆译名)(2019公测版)\[Lirdrepus\](6Mb) |
-| 1531 | `龙珠Z 强袭！赛亚人(香港译名)(2019公测版)[Lirdrepus](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0Z%20%E5%BC%BA%E8%A2%AD%EF%BC%81%E8%B5%9B%E4%BA%9A%E4%BA%BA%28%E9%A6%99%E6%B8%AF%E8%AF%91%E5%90%8D%29%282019%E5%85%AC%E6%B5%8B%E7%89%88%29%5BLirdrepus%5D%286Mb%29/> | 龙珠Z 强袭！赛亚人(香港译名)(2019公测版)\[Lirdrepus\](6Mb) |
-| 1533 | `龙珠Z2 - 激战弗利萨(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0Z2%20-%20%E6%BF%80%E6%88%98%E5%BC%97%E5%88%A9%E8%90%A8%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%286Mb%29/> | 龙珠Z2 - 激战弗利萨(简)\[外星科技\](JP)\[RPG\](6Mb) |
-| 1537 | `龙珠Z3 - 人造人列传(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0Z3%20-%20%E4%BA%BA%E9%80%A0%E4%BA%BA%E5%88%97%E4%BC%A0%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%286Mb%29/> | 龙珠Z3 - 人造人列传(简)\[外星科技\](JP)\[RPG\](6Mb) |
-| 1538 | `龙珠Z3 - 烈战人造人(海美译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0Z3%20-%20%E7%83%88%E6%88%98%E4%BA%BA%E9%80%A0%E4%BA%BA%28%E6%B5%B7%E7%BE%8E%E8%AF%91%E5%90%8D%E7%89%88%29%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BLirdrepus%5D%28JP%29%5BRPG%5D%286Mb%29/> | 龙珠Z3 - 烈战人造人(海美译名版)(繁)\[外星科技+Lirdrepus\](JP)\[RPG\](6Mb) |
-| 1539 | `龙珠Z3 - 烈战人造人(香港译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0Z3%20-%20%E7%83%88%E6%88%98%E4%BA%BA%E9%80%A0%E4%BA%BA%28%E9%A6%99%E6%B8%AF%E8%AF%91%E5%90%8D%E7%89%88%29%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BLirdrepus%5D%28JP%29%5BRPG%5D%286Mb%29/> | 龙珠Z3 - 烈战人造人(香港译名版)(繁)\[外星科技+Lirdrepus\](JP)\[RPG\](6Mb) |
-| 1540 | `龙珠Z外传 - 撒亚人灭绝计划(v0.97)(香港译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0Z%E5%A4%96%E4%BC%A0%20-%20%E6%92%92%E4%BA%9A%E4%BA%BA%E7%81%AD%E7%BB%9D%E8%AE%A1%E5%88%92%28v0.97%29%28%E9%A6%99%E6%B8%AF%E8%AF%91%E5%90%8D%E7%89%88%29%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BLirdrepus%5D%28JP%29%5BRPG%5D%286Mb%29/> | 龙珠Z外传 - 撒亚人灭绝计划(v0.97)(香港译名版)(繁)\[外星科技+Lirdrepus\](JP)\[RPG\](6Mb) |
-| 1541 | `龙珠Z外传 - 赛亚人灭绝计划(v0.97)(海美译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0Z%E5%A4%96%E4%BC%A0%20-%20%E8%B5%9B%E4%BA%9A%E4%BA%BA%E7%81%AD%E7%BB%9D%E8%AE%A1%E5%88%92%28v0.97%29%28%E6%B5%B7%E7%BE%8E%E8%AF%91%E5%90%8D%E7%89%88%29%28%E7%B9%81%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%2BLirdrepus%5D%28JP%29%5BRPG%5D%286Mb%29/> | 龙珠Z外传 - 赛亚人灭绝计划(v0.97)(海美译名版)(繁)\[外星科技+Lirdrepus\](JP)\[RPG\](6Mb) |
-| 1542 | `龙珠Z外传 - 赛亚人灭绝计划(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0Z%E5%A4%96%E4%BC%A0%20-%20%E8%B5%9B%E4%BA%9A%E4%BA%BA%E7%81%AD%E7%BB%9D%E8%AE%A1%E5%88%92%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%286Mb%29/> | 龙珠Z外传 - 赛亚人灭绝计划(简)\[外星科技\](JP)\[RPG\](6Mb) |
-| 1543 | `龙珠Z外传 - 赛亚人灭绝计划(简)[恒格电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0Z%E5%A4%96%E4%BC%A0%20-%20%E8%B5%9B%E4%BA%9A%E4%BA%BA%E7%81%AD%E7%BB%9D%E8%AE%A1%E5%88%92%28%E7%AE%80%29%5B%E6%81%92%E6%A0%BC%E7%94%B5%E5%AD%90%5D%28JP%29%5BRPG%5D%286Mb%29/> | 龙珠Z外传 - 赛亚人灭绝计划(简)\[恒格电子\](JP)\[RPG\](6Mb) |
-| 1544 | `龙珠Z外传 - 赛亚人灭绝计划(简)[酷哥电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0Z%E5%A4%96%E4%BC%A0%20-%20%E8%B5%9B%E4%BA%9A%E4%BA%BA%E7%81%AD%E7%BB%9D%E8%AE%A1%E5%88%92%28%E7%AE%80%29%5B%E9%85%B7%E5%93%A5%E7%94%B5%E5%AD%90%5D%28JP%29%5BRPG%5D%286Mb%29/> | 龙珠Z外传 - 赛亚人灭绝计划(简)\[酷哥电子\](JP)\[RPG\](6Mb) |
-| 1545 | `龙珠英雄(简)[外星科技](JP)[SLG](2Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E7%8F%A0%E8%8B%B1%E9%9B%84%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BSLG%5D%282Mb%29/> | 龙珠英雄(简)\[外星科技\](JP)\[SLG\](2Mb) |
-| 1546 | `龙魂 - 新的传说(繁)[Nineswords](JP)[STG](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E9%AD%82%20-%20%E6%96%B0%E7%9A%84%E4%BC%A0%E8%AF%B4%28%E7%B9%81%29%5BNineswords%5D%28JP%29%5BSTG%5D%286Mb%29/> | 龙魂 - 新的传说(繁)\[Nineswords\](JP)\[STG\](6Mb) |
-| 1547 | `龙魂 - 新的血族(简)[Nineswords](JP)[STG](6Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E9%AD%82%20-%20%E6%96%B0%E7%9A%84%E8%A1%80%E6%97%8F%28%E7%AE%80%29%5BNineswords%5D%28JP%29%5BSTG%5D%286Mb%29/> | 龙魂 - 新的血族(简)\[Nineswords\](JP)\[STG\](6Mb) |
-| 1548 | `龙魂(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/%E9%BE%99%E9%AD%82%28%E7%AE%80%29%5B%E5%A4%96%E6%98%9F%E7%A7%91%E6%8A%80%5D%28JP%29%5BRPG%5D%284Mb%29/> | 龙魂(简)\[外星科技\](JP)\[RPG\](4Mb) |
+| 268 | `4人麻将(简)[星空](JP)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/4人麻将(简)[星空](JP)[TAB](0.18Mb)/> | 4人麻将(简)[星空](JP)[TAB](0.18Mb) |
+| 269 | `75宾果(繁)[圣谦](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/75宾果(繁)[圣谦](CN)[TAB](0.5Mb)/> | 75宾果(繁)[圣谦](CN)[TAB](0.5Mb) |
+| 270 | `ABM学习卡(v5.0)(简)[maxzhou88](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/ABM学习卡(v5.0)(简)[maxzhou88](CN)[ETC](8Mb)/> | ABM学习卡(v5.0)(简)[maxzhou88](CN)[ETC](8Mb) |
+| 271 | `A麻将俱乐部(v1.1)(简)[汉化你妹](EU)[TAB](2Mb)`：<https://fc.haiyong.site/games/A麻将俱乐部(v1.1)(简)[汉化你妹](EU)[TAB](2Mb)/> | A麻将俱乐部(v1.1)(简)[汉化你妹](EU)[TAB](2Mb) |
+| 272 | `A麻将俱乐部(简)[圣谦](CN)[TAB](0.75Mb)`：<https://fc.haiyong.site/games/A麻将俱乐部(简)[圣谦](CN)[TAB](0.75Mb)/> | A麻将俱乐部(简)[圣谦](CN)[TAB](0.75Mb) |
+| 273 | `A麻将俱乐部(简)[星空](CN)[TAB](1Mb)`：<https://fc.haiyong.site/games/A麻将俱乐部(简)[星空](CN)[TAB](1Mb)/> | A麻将俱乐部(简)[星空](CN)[TAB](1Mb) |
+| 274 | `B计划(简)[高伟](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/B计划(简)[高伟](JP)[STG](0.31Mb)/> | B计划(简)[高伟](JP)[STG](0.31Mb) |
+| 275 | `CAPCOM音乐30合一(v1.3)(简)[九班][ETC](4Mb)`：<https://fc.haiyong.site/games/CAPCOM音乐30合一(v1.3)(简)[九班][ETC](4Mb)/> | CAPCOM音乐30合一(v1.3)(简)[九班][ETC](4Mb) |
+| 276 | `F1赛车(简)[Madcell](JP)[RAC](0.25Mb)`：<https://fc.haiyong.site/games/F1赛车(简)[Madcell](JP)[RAC](0.25Mb)/> | F1赛车(简)[Madcell](JP)[RAC](0.25Mb) |
+| 277 | `F1赛车(简)[MS](JP)[RAC](0.18Mb)`：<https://fc.haiyong.site/games/F1赛车(简)[MS](JP)[RAC](0.18Mb)/> | F1赛车(简)[MS](JP)[RAC](0.18Mb) |
+| 278 | `FC原人(v0.9)(简)[高伟](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/FC原人(v0.9)(简)[高伟](JP)[ACT](3Mb)/> | FC原人(v0.9)(简)[高伟](JP)[ACT](3Mb) |
+| 279 | `FC原人(简)[MS](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/FC原人(简)[MS](JP)[ACT](3Mb)/> | FC原人(简)[MS](JP)[ACT](3Mb) |
+| 280 | `JuJu传说(v1.1)(简)[MS](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/JuJu传说(v1.1)(简)[MS](JP)[ACT](3Mb)/> | JuJu传说(v1.1)(简)[MS](JP)[ACT](3Mb) |
+| 281 | `Microsoft Windows 98(简)[maxzhou88](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/Microsoft Windows 98(简)[maxzhou88](CN)[ETC](4Mb)/> | Microsoft Windows 98(简)[maxzhou88](CN)[ETC](4Mb) |
+| 282 | `MXMDHTWO学习卡(简)[小天才](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/MXMDHTWO学习卡(简)[小天才](CN)[ETC](4Mb)/> | MXMDHTWO学习卡(简)[小天才](CN)[ETC](4Mb) |
+| 283 | `Q波特(v2020)(简)[虫虫](US)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/Q波特(v2020)(简)[虫虫](US)[ACT](0.5Mb)/> | Q波特(v2020)(简)[虫虫](US)[ACT](0.5Mb) |
+| 284 | `Q波特(简)[高伟](US)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/Q波特(简)[高伟](US)[ACT](0.5Mb)/> | Q波特(简)[高伟](US)[ACT](0.5Mb) |
+| 285 | `Q版沙罗曼蛇(简)[俞亮](EU)[STG](2Mb)`：<https://fc.haiyong.site/games/Q版沙罗曼蛇(简)[俞亮](EU)[STG](2Mb)/> | Q版沙罗曼蛇(简)[俞亮](EU)[STG](2Mb) |
+| 286 | `Raf世界(v2.0)(简)[九班](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/Raf世界(v2.0)(简)[九班](JP)[ACT](2Mb)/> | Raf世界(v2.0)(简)[九班](JP)[ACT](2Mb) |
+| 287 | `SD英雄总决战 - 打倒！恶之军团(简)[Zero Boy](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/SD英雄总决战 - 打倒！恶之军团(简)[Zero Boy](JP)[ACT](2Mb)/> | SD英雄总决战 - 打倒！恶之军团(简)[Zero Boy](JP)[ACT](2Mb) |
+| 288 | `SD英雄总决战 - 打倒！邪恶军团(修正版)(简)[MS+星夜之幻](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/SD英雄总决战 - 打倒！邪恶军团(修正版)(简)[MS+星夜之幻](JP)[ACT](2Mb)/> | SD英雄总决战 - 打倒！邪恶军团(修正版)(简)[MS+星夜之幻](JP)[ACT](2Mb) |
+| 289 | `SD高达外传 - 骑士高达故事3 - 传说之骑士团(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/SD高达外传 - 骑士高达故事3 - 传说之骑士团(简)[外星科技](JP)[RPG](6Mb)/> | SD高达外传 - 骑士高达故事3 - 传说之骑士团(简)[外星科技](JP)[RPG](6Mb) |
+| 290 | `YieAr功夫(v1.0)(简)[九班](JP)[FTG](0.18Mb)`：<https://fc.haiyong.site/games/YieAr功夫(v1.0)(简)[九班](JP)[FTG](0.18Mb)/> | YieAr功夫(v1.0)(简)[九班](JP)[FTG](0.18Mb) |
+| 291 | `YieAr功夫(简)[高伟](JP)[FTG](0.18Mb)`：<https://fc.haiyong.site/games/YieAr功夫(简)[高伟](JP)[FTG](0.18Mb)/> | YieAr功夫(简)[高伟](JP)[FTG](0.18Mb) |
+| 292 | `一揆(简)[无极](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/一揆(简)[无极](JP)[ACT](0.18Mb)/> | 一揆(简)[无极](JP)[ACT](0.18Mb) |
+| 293 | `七国大战(简)[南晶科技](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/七国大战(简)[南晶科技](CN)[SLG](8Mb)/> | 七国大战(简)[南晶科技](CN)[SLG](8Mb) |
+| 294 | `七宝奇谋(修正版)(简)[王龙+MS](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/七宝奇谋(修正版)(简)[王龙+MS](JP)[ACT](0.37Mb)/> | 七宝奇谋(修正版)(简)[王龙+MS](JP)[ACT](0.37Mb) |
+| 295 | `七宝奇谋(简)[高伟](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/七宝奇谋(简)[高伟](JP)[ACT](0.37Mb)/> | 七宝奇谋(简)[高伟](JP)[ACT](0.37Mb) |
+| 296 | `七龙珠(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/七龙珠(简)[外星科技](JP)[RPG](6Mb)/> | 七龙珠(简)[外星科技](JP)[RPG](6Mb) |
+| 297 | `三十六计(繁)[外星科技](CN)[TAB](4Mb)`：<https://fc.haiyong.site/games/三十六计(繁)[外星科技](CN)[TAB](4Mb)/> | 三十六计(繁)[外星科技](CN)[TAB](4Mb) |
+| 298 | `三只小猪(v1.0)(简)[MS](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/三只小猪(v1.0)(简)[MS](JP)[STG](0.18Mb)/> | 三只小猪(v1.0)(简)[MS](JP)[STG](0.18Mb) |
+| 299 | `三只小猪(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/三只小猪(简)[高伟](JP)[STG](0.18Mb)/> | 三只小猪(简)[高伟](JP)[STG](0.18Mb) |
+| 300 | `三国大乱斗 - 战国(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/三国大乱斗 - 战国(简)[南晶科技](CN)[RPG](8Mb)/> | 三国大乱斗 - 战国(简)[南晶科技](CN)[RPG](8Mb) |
+| 301 | `三国志 - 中原之霸者(简)[谈魈疯生](JP)[SLG](3Mb)`：<https://fc.haiyong.site/games/三国志 - 中原之霸者(简)[谈魈疯生](JP)[SLG](3Mb)/> | 三国志 - 中原之霸者(简)[谈魈疯生](JP)[SLG](3Mb) |
+| 302 | `三国志 - 傲视天地(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/三国志 - 傲视天地(简)[南晶科技](CN)[RPG](16Mb)/> | 三国志 - 傲视天地(简)[南晶科技](CN)[RPG](16Mb) |
+| 303 | `三国志 - 千军破(简)[恒格电子](JP)[SLG](8Mb)`：<https://fc.haiyong.site/games/三国志 - 千军破(简)[恒格电子](JP)[SLG](8Mb)/> | 三国志 - 千军破(简)[恒格电子](JP)[SLG](8Mb) |
+| 304 | `三国志 - 吕布传(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/三国志 - 吕布传(简)[南晶科技](CN)[RPG](16Mb)/> | 三国志 - 吕布传(简)[南晶科技](CN)[RPG](16Mb) |
+| 305 | `三国志 - 曹操传(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/三国志 - 曹操传(简)[南晶科技](CN)[RPG](16Mb)/> | 三国志 - 曹操传(简)[南晶科技](CN)[RPG](16Mb) |
+| 306 | `三国志 - 群雄争霸(繁)[Asder](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/三国志 - 群雄争霸(繁)[Asder](CN)[FTG](3Mb)/> | 三国志 - 群雄争霸(繁)[Asder](CN)[FTG](3Mb) |
+| 307 | `三国志 - 蜀汉风云(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/三国志 - 蜀汉风云(简)[晶科泰](CN)[RPG](8Mb)/> | 三国志 - 蜀汉风云(简)[晶科泰](CN)[RPG](8Mb) |
+| 308 | `三国志 - 蜀魏争霸(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/三国志 - 蜀魏争霸(简)[晶科泰](CN)[RPG](8Mb)/> | 三国志 - 蜀魏争霸(简)[晶科泰](CN)[RPG](8Mb) |
+| 309 | `三国志 - 赤壁之战(繁)[Asder](CN)[ACT](3Mb)`：<https://fc.haiyong.site/games/三国志 - 赤壁之战(繁)[Asder](CN)[ACT](3Mb)/> | 三国志 - 赤壁之战(繁)[Asder](CN)[ACT](3Mb) |
+| 310 | `三国志 - 雄霸天下(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/三国志 - 雄霸天下(简)[外星科技](CN)[SLG](4Mb)/> | 三国志 - 雄霸天下(简)[外星科技](CN)[SLG](4Mb) |
+| 311 | `三国志(简)[外星科技](JP)[SLG](3Mb)`：<https://fc.haiyong.site/games/三国志(简)[外星科技](JP)[SLG](3Mb)/> | 三国志(简)[外星科技](JP)[SLG](3Mb) |
+| 312 | `三国志2 - 霸王的大陆(v0.96)(v20210720)(简)[霸王的大陆](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/三国志2 - 霸王的大陆(v0.96)(v20210720)(简)[霸王的大陆](JP)[SLG](4Mb)/> | 三国志2 - 霸王的大陆(v0.96)(v20210720)(简)[霸王的大陆](JP)[SLG](4Mb) |
+| 313 | `三国志2 - 霸王的大陆(v0.9976)(v20180201)(简)[2434917](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/三国志2 - 霸王的大陆(v0.9976)(v20180201)(简)[2434917](JP)[SLG](4Mb)/> | 三国志2 - 霸王的大陆(v0.9976)(v20180201)(简)[2434917](JP)[SLG](4Mb) |
+| 314 | `三国志2 - 霸王的大陆(v0.9976)(v20190919)(简)[心伤谁知](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/三国志2 - 霸王的大陆(v0.9976)(v20190919)(简)[心伤谁知](JP)[SLG](4Mb)/> | 三国志2 - 霸王的大陆(v0.9976)(v20190919)(简)[心伤谁知](JP)[SLG](4Mb) |
+| 315 | `三国志2 - 霸王的大陆(v3.1)(v20210508)(简)[霸王的大陆](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/三国志2 - 霸王的大陆(v3.1)(v20210508)(简)[霸王的大陆](JP)[SLG](4Mb)/> | 三国志2 - 霸王的大陆(v3.1)(v20210508)(简)[霸王的大陆](JP)[SLG](4Mb) |
+| 318 | `三国志2(加强版)(简)[外星游戏大厅](JP)[SLG](6Mb)`：<https://fc.haiyong.site/games/三国志2(加强版)(简)[外星游戏大厅](JP)[SLG](6Mb)/> | 三国志2(加强版)(简)[外星游戏大厅](JP)[SLG](6Mb) |
+| 319 | `三国志2(简)[外星科技](JP)[SLG](8Mb)`：<https://fc.haiyong.site/games/三国志2(简)[外星科技](JP)[SLG](8Mb)/> | 三国志2(简)[外星科技](JP)[SLG](8Mb) |
+| 320 | `三国志2(简)[恒格电子](JP)[SLG](8Mb)`：<https://fc.haiyong.site/games/三国志2(简)[恒格电子](JP)[SLG](8Mb)/> | 三国志2(简)[恒格电子](JP)[SLG](8Mb) |
+| 321 | `三国志4 - 赤壁风云(繁)[Future](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/三国志4 - 赤壁风云(繁)[Future](CN)[ACT](4Mb)/> | 三国志4 - 赤壁风云(繁)[Future](CN)[ACT](4Mb) |
+| 322 | `三国志英杰传(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/三国志英杰传(简)[外星科技](JP)[RPG](4Mb)/> | 三国志英杰传(简)[外星科技](JP)[RPG](4Mb) |
+| 323 | `三国志英杰传(繁)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/三国志英杰传(繁)[外星科技](JP)[RPG](4Mb)/> | 三国志英杰传(繁)[外星科技](JP)[RPG](4Mb) |
+| 324 | `三国忠烈传(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/三国忠烈传(简)[外星科技](CN)[RPG](4Mb)/> | 三国忠烈传(简)[外星科技](CN)[RPG](4Mb) |
+| 325 | `三国无双 - 猛将传(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/三国无双 - 猛将传(简)[南晶科技](CN)[RPG](16Mb)/> | 三国无双 - 猛将传(简)[南晶科技](CN)[RPG](16Mb) |
+| 326 | `三国春秋 - 四川省(繁)[卡圣](CN)[TAB](2Mb)`：<https://fc.haiyong.site/games/三国春秋 - 四川省(繁)[卡圣](CN)[TAB](2Mb)/> | 三国春秋 - 四川省(繁)[卡圣](CN)[TAB](2Mb) |
+| 327 | `三国桃园记(简)[未知](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/三国桃园记(简)[未知](CN)[RPG](4Mb)/> | 三国桃园记(简)[未知](CN)[RPG](4Mb) |
+| 328 | `三国群侠传(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/三国群侠传(简)[南晶科技](CN)[RPG](16Mb)/> | 三国群侠传(简)[南晶科技](CN)[RPG](16Mb) |
+| 329 | `三国群英传(简)[晶科泰](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/三国群英传(简)[晶科泰](CN)[SLG](8Mb)/> | 三国群英传(简)[晶科泰](CN)[SLG](8Mb) |
+| 330 | `三目童子(v3)(简)[逆游的五彩鱼](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/三目童子(v3)(简)[逆游的五彩鱼](JP)[ACT](3Mb)/> | 三目童子(v3)(简)[逆游的五彩鱼](JP)[ACT](3Mb) |
+| 331 | `三目童子(简)[asiwish](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/三目童子(简)[asiwish](JP)[ACT](2Mb)/> | 三目童子(简)[asiwish](JP)[ACT](2Mb) |
+| 332 | `三目童子(简)[Jeff.Ma](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/三目童子(简)[Jeff.Ma](JP)[ACT](2Mb)/> | 三目童子(简)[Jeff.Ma](JP)[ACT](2Mb) |
+| 333 | `三目童子(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/三目童子(简)[MS](JP)[ACT](2Mb)/> | 三目童子(简)[MS](JP)[ACT](2Mb) |
+| 334 | `三目童子(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/三目童子(简)[高伟](JP)[ACT](2Mb)/> | 三目童子(简)[高伟](JP)[ACT](2Mb) |
+| 335 | `三眼神童(v1.1)(简)[星空](JP)[ACT](2.12Mb)`：<https://fc.haiyong.site/games/三眼神童(v1.1)(简)[星空](JP)[ACT](2.12Mb)/> | 三眼神童(v1.1)(简)[星空](JP)[ACT](2.12Mb) |
+| 336 | `三眼神童(修改版)(简)[Flow Wolf](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/三眼神童(修改版)(简)[Flow Wolf](JP)[ACT](2Mb)/> | 三眼神童(修改版)(简)[Flow Wolf](JP)[ACT](2Mb) |
+| 337 | `上古神剑(繁)[恒格电子](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/上古神剑(繁)[恒格电子](CN)[SLG](8Mb)/> | 上古神剑(繁)[恒格电子](CN)[SLG](8Mb) |
+| 338 | `上古神殿(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/上古神殿(简)[外星科技](JP)[RPG](6Mb)/> | 上古神殿(简)[外星科技](JP)[RPG](6Mb) |
+| 339 | `上尉密令(简)[LSP](3Mb)`：<https://fc.haiyong.site/games/上尉密令(简)[LSP](3Mb)/> | 上尉密令(简)[LSP](3Mb) |
+| 340 | `上海2(简)[高伟](JP)[PUZ](1Mb)`：<https://fc.haiyong.site/games/上海2(简)[高伟](JP)[PUZ](1Mb)/> | 上海2(简)[高伟](JP)[PUZ](1Mb) |
+| 341 | `上海大亨(简)[外星科技](CN)[TAB](4Mb)`：<https://fc.haiyong.site/games/上海大亨(简)[外星科技](CN)[TAB](4Mb)/> | 上海大亨(简)[外星科技](CN)[TAB](4Mb) |
+| 342 | `不可能完成的任务(简)[LSP](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/不可能完成的任务(简)[LSP](US)[ACT](4Mb)/> | 不可能完成的任务(简)[LSP](US)[ACT](4Mb) |
+| 343 | `东周列国志(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/东周列国志(简)[外星科技](CN)[SLG](4Mb)/> | 东周列国志(简)[外星科技](CN)[SLG](4Mb) |
+| 344 | `东方传说 - 封印岛(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/东方传说 - 封印岛(简)[南晶科技](CN)[RPG](4Mb)/> | 东方传说 - 封印岛(简)[南晶科技](CN)[RPG](4Mb) |
+| 345 | `东方的传说(简)[外星科技+qqgba](JP)[RPG](1Mb)`：<https://fc.haiyong.site/games/东方的传说(简)[外星科技+qqgba](JP)[RPG](1Mb)/> | 东方的传说(简)[外星科技+qqgba](JP)[RPG](1Mb) |
+| 346 | `东方的传说(繁)[外星科技](JP)[RPG](1Mb)`：<https://fc.haiyong.site/games/东方的传说(繁)[外星科技](JP)[RPG](1Mb)/> | 东方的传说(繁)[外星科技](JP)[RPG](1Mb) |
+| 347 | `东风(修正版)[天使汉化组](JP)[TAB](2Mb)`：<https://fc.haiyong.site/games/东风(修正版)[天使汉化组](JP)[TAB](2Mb)/> | 东风(修正版)[天使汉化组](JP)[TAB](2Mb) |
+| 348 | `丝路传奇(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/丝路传奇(简)[恒格电子](CN)[RPG](8Mb)/> | 丝路传奇(简)[恒格电子](CN)[RPG](8Mb) |
+| 349 | `中东战争(v1.1)(简)[星空](US)[STG](2Mb)`：<https://fc.haiyong.site/games/中东战争(v1.1)(简)[星空](US)[STG](2Mb)/> | 中东战争(v1.1)(简)[星空](US)[STG](2Mb) |
+| 350 | `中东战争(v1.1)(简)[汉化你妹](US)[STG](3Mb)`：<https://fc.haiyong.site/games/中东战争(v1.1)(简)[汉化你妹](US)[STG](3Mb)/> | 中东战争(v1.1)(简)[汉化你妹](US)[STG](3Mb) |
+| 351 | `中东战争(简)[高伟](US)[STG](2Mb)`：<https://fc.haiyong.site/games/中东战争(简)[高伟](US)[STG](2Mb)/> | 中东战争(简)[高伟](US)[STG](2Mb) |
+| 352 | `中华大仙(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/中华大仙(简)[高伟](JP)[STG](2Mb)/> | 中华大仙(简)[高伟](JP)[STG](2Mb) |
+| 353 | `中华英雄(简)[南通科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/中华英雄(简)[南通科技](CN)[SLG](4Mb)/> | 中华英雄(简)[南通科技](CN)[SLG](4Mb) |
+| 354 | `中国兔宝宝(繁)[JY Company](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/中国兔宝宝(繁)[JY Company](CN)[ACT](4Mb)/> | 中国兔宝宝(繁)[JY Company](CN)[ACT](4Mb) |
+| 355 | `中国大亨 - 迈向大富翁之路(繁)[圣谦](CN)[TAB](3Mb)`：<https://fc.haiyong.site/games/中国大亨 - 迈向大富翁之路(繁)[圣谦](CN)[TAB](3Mb)/> | 中国大亨 - 迈向大富翁之路(繁)[圣谦](CN)[TAB](3Mb) |
+| 356 | `中国象棋(繁)[小天才](CN)[TAB](0.31Mb)`：<https://fc.haiyong.site/games/中国象棋(繁)[小天才](CN)[TAB](0.31Mb)/> | 中国象棋(繁)[小天才](CN)[TAB](0.31Mb) |
+| 357 | `中国麻将(简)[未知](JP)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/中国麻将(简)[未知](JP)[TAB](0.18Mb)/> | 中国麻将(简)[未知](JP)[TAB](0.18Mb) |
+| 358 | `中学英文题库+神童魔棒+音乐欣赏(简)[外星科技](CN)[ETC](3Mb)`：<https://fc.haiyong.site/games/中学英文题库+神童魔棒+音乐欣赏(简)[外星科技](CN)[ETC](3Mb)/> | 中学英文题库+神童魔棒+音乐欣赏(简)[外星科技](CN)[ETC](3Mb) |
+| 359 | `乱世三国(简)[南晶科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/乱世三国(简)[南晶科技](CN)[SLG](4Mb)/> | 乱世三国(简)[南晶科技](CN)[SLG](4Mb) |
+| 360 | `争霸世纪(繁)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/争霸世纪(繁)[外星科技](CN)[SLG](4Mb)/> | 争霸世纪(繁)[外星科技](CN)[SLG](4Mb) |
+| 361 | `二战 - 经典战役(简)[恒格电子](JP)[SLG](8Mb)`：<https://fc.haiyong.site/games/二战 - 经典战役(简)[恒格电子](JP)[SLG](8Mb)/> | 二战 - 经典战役(简)[恒格电子](JP)[SLG](8Mb) |
+| 362 | `五子棋(繁)[厌鱼猫猫](JP)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/五子棋(繁)[厌鱼猫猫](JP)[TAB](0.18Mb)/> | 五子棋(繁)[厌鱼猫猫](JP)[TAB](0.18Mb) |
+| 363 | `亚当斯一家 - 法斯特叔叔的探索(v1.0)(简)[DMG](US)[STG](3Mb)`：<https://fc.haiyong.site/games/亚当斯一家 - 法斯特叔叔的探索(v1.0)(简)[DMG](US)[STG](3Mb)/> | 亚当斯一家 - 法斯特叔叔的探索(v1.0)(简)[DMG](US)[STG](3Mb) |
+| 364 | `亚特鲁战记(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/亚特鲁战记(简)[外星科技](JP)[RPG](4Mb)/> | 亚特鲁战记(简)[外星科技](JP)[RPG](4Mb) |
+| 365 | `亡灵崛起(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/亡灵崛起(简)[晶科泰](CN)[RPG](8Mb)/> | 亡灵崛起(简)[晶科泰](CN)[RPG](8Mb) |
+| 366 | `交叉火力(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/交叉火力(简)[高伟](JP)[STG](2Mb)/> | 交叉火力(简)[高伟](JP)[STG](2Mb) |
+| 367 | `人间兵器(v2.0)(简)[星空](JP)[ACT](2.31Mb)`：<https://fc.haiyong.site/games/人间兵器(v2.0)(简)[星空](JP)[ACT](2.31Mb)/> | 人间兵器(v2.0)(简)[星空](JP)[ACT](2.31Mb) |
+| 368 | `人间兵器(简)[TPU](JP)[ACT](2.25Mb)`：<https://fc.haiyong.site/games/人间兵器(简)[TPU](JP)[ACT](2.25Mb)/> | 人间兵器(简)[TPU](JP)[ACT](2.25Mb) |
+| 369 | `仓库世家+动脑筋(简)[小霸王](CN)[PUZ](4Mb)`：<https://fc.haiyong.site/games/仓库世家+动脑筋(简)[小霸王](CN)[PUZ](4Mb)/> | 仓库世家+动脑筋(简)[小霸王](CN)[PUZ](4Mb) |
+| 370 | `仙剑奇侠(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/仙剑奇侠(简)[南晶科技](CN)[RPG](16Mb)/> | 仙剑奇侠(简)[南晶科技](CN)[RPG](16Mb) |
+| 371 | `仙剑神曲(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/仙剑神曲(简)[外星科技](JP)[RPG](4Mb)/> | 仙剑神曲(简)[外星科技](JP)[RPG](4Mb) |
+| 372 | `仙剑问情(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/仙剑问情(简)[南晶科技](CN)[RPG](4Mb)/> | 仙剑问情(简)[南晶科技](CN)[RPG](4Mb) |
+| 373 | `仙界精灵(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/仙界精灵(简)[南晶科技](CN)[RPG](16Mb)/> | 仙界精灵(简)[南晶科技](CN)[RPG](16Mb) |
+| 374 | `任天堂战争(简)[快乐的龙](JP)[SLG](2Mb)`：<https://fc.haiyong.site/games/任天堂战争(简)[快乐的龙](JP)[SLG](2Mb)/> | 任天堂战争(简)[快乐的龙](JP)[SLG](2Mb) |
+| 375 | `任天堂战争[九班汉化](JP)[SLG](2Mb)`：<https://fc.haiyong.site/games/任天堂战争[九班汉化](JP)[SLG](2Mb)/> | 任天堂战争[九班汉化](JP)[SLG](2Mb) |
+| 376 | `企鹅先生冒险之旅(简)[MS](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/企鹅先生冒险之旅(简)[MS](JP)[PUZ](0.18Mb)/> | 企鹅先生冒险之旅(简)[MS](JP)[PUZ](0.18Mb) |
+| 377 | `伊苏 - 菲尔盖纳之誓约(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/伊苏 - 菲尔盖纳之誓约(简)[晶科泰](CN)[RPG](8Mb)/> | 伊苏 - 菲尔盖纳之誓约(简)[晶科泰](CN)[RPG](8Mb) |
+| 378 | `伊苏6 - 纳比斯订的方舟(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/伊苏6 - 纳比斯订的方舟(简)[晶科泰](CN)[RPG](8Mb)/> | 伊苏6 - 纳比斯订的方舟(简)[晶科泰](CN)[RPG](8Mb) |
+| 379 | `伊苏的起源 - 尤妮卡(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/伊苏的起源 - 尤妮卡(简)[晶科泰](CN)[RPG](8Mb)/> | 伊苏的起源 - 尤妮卡(简)[晶科泰](CN)[RPG](8Mb) |
+| 380 | `伊苏的起源 - 尤格(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/伊苏的起源 - 尤格(简)[晶科泰](CN)[RPG](8Mb)/> | 伊苏的起源 - 尤格(简)[晶科泰](CN)[RPG](8Mb) |
+| 381 | `伏魔英雄传(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/伏魔英雄传(简)[晶科泰](CN)[RPG](8Mb)/> | 伏魔英雄传(简)[晶科泰](CN)[RPG](8Mb) |
+| 383 | `侠客传奇(繁)[晶科泰](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/侠客传奇(繁)[晶科泰](CN)[RPG](2Mb)/> | 侠客传奇(繁)[晶科泰](CN)[RPG](2Mb) |
+| 384 | `侠客情 - 荆轲刺秦王(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/侠客情 - 荆轲刺秦王(简)[外星科技](CN)[RPG](4Mb)/> | 侠客情 - 荆轲刺秦王(简)[外星科技](CN)[RPG](4Mb) |
+| 385 | `俄罗斯方块(v1.1)(简)[九班](US)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/俄罗斯方块(v1.1)(简)[九班](US)[PUZ](0.5Mb)/> | 俄罗斯方块(v1.1)(简)[九班](US)[PUZ](0.5Mb) |
+| 386 | `俄罗斯方块(修正版)(简)[8GUA+MS](US)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/俄罗斯方块(修正版)(简)[8GUA+MS](US)[PUZ](0.5Mb)/> | 俄罗斯方块(修正版)(简)[8GUA+MS](US)[PUZ](0.5Mb) |
+| 387 | `俄罗斯方块(简)[夜幕星辰](US)[PUZ](0.37Mb)`：<https://fc.haiyong.site/games/俄罗斯方块(简)[夜幕星辰](US)[PUZ](0.37Mb)/> | 俄罗斯方块(简)[夜幕星辰](US)[PUZ](0.37Mb) |
+| 388 | `俄罗斯方块(简)[虫虫](US)[PUZ](0.37Mb)`：<https://fc.haiyong.site/games/俄罗斯方块(简)[虫虫](US)[PUZ](0.37Mb)/> | 俄罗斯方块(简)[虫虫](US)[PUZ](0.37Mb) |
+| 389 | `俄罗斯方块2(简)[高伟](JP)[PUZ](2Mb)`：<https://fc.haiyong.site/games/俄罗斯方块2(简)[高伟](JP)[PUZ](2Mb)/> | 俄罗斯方块2(简)[高伟](JP)[PUZ](2Mb) |
+| 390 | `倚天传说(简)[小霸王](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/倚天传说(简)[小霸王](CN)[RPG](16Mb)/> | 倚天传说(简)[小霸王](CN)[RPG](16Mb) |
+| 391 | `倚天剑传奇(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/倚天剑传奇(简)[南晶科技](CN)[RPG](16Mb)/> | 倚天剑传奇(简)[南晶科技](CN)[RPG](16Mb) |
+| 392 | `倚天屠龙记(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/倚天屠龙记(简)[南晶科技](CN)[RPG](16Mb)/> | 倚天屠龙记(简)[南晶科技](CN)[RPG](16Mb) |
+| 393 | `假面忍者 - 花丸(简)[Peacock Wang](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/假面忍者 - 花丸(简)[Peacock Wang](JP)[ACT](2Mb)/> | 假面忍者 - 花丸(简)[Peacock Wang](JP)[ACT](2Mb) |
+| 394 | `假面的忍者 - 赤影(v1.0)(简)[MS](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/假面的忍者 - 赤影(v1.0)(简)[MS](JP)[ACT](1Mb)/> | 假面的忍者 - 赤影(v1.0)(简)[MS](JP)[ACT](1Mb) |
+| 395 | `偷看扑克(简)[星空](CN)[TAB](0.75Mb)`：<https://fc.haiyong.site/games/偷看扑克(简)[星空](CN)[TAB](0.75Mb)/> | 偷看扑克(简)[星空](CN)[TAB](0.75Mb) |
+| 396 | `傲剑江湖(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/傲剑江湖(简)[南晶科技](CN)[RPG](4Mb)/> | 傲剑江湖(简)[南晶科技](CN)[RPG](4Mb) |
+| 397 | `傲视三国志(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/傲视三国志(简)[南晶科技](CN)[RPG](16Mb)/> | 傲视三国志(简)[南晶科技](CN)[RPG](16Mb) |
+| 398 | `傲视天地(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/傲视天地(简)[晶科泰](CN)[RPG](8Mb)/> | 傲视天地(简)[晶科泰](CN)[RPG](8Mb) |
+| 399 | `光之神话 - 天使岛传说(简)[MS](UE)[ACT](1Mb)`：<https://fc.haiyong.site/games/光之神话 - 天使岛传说(简)[MS](UE)[ACT](1Mb)/> | 光之神话 - 天使岛传说(简)[MS](UE)[ACT](1Mb) |
+| 400 | `光之神话 - 射箭小天使(简)[虫虫](UE)[ACT](1Mb)`：<https://fc.haiyong.site/games/光之神话 - 射箭小天使(简)[虫虫](UE)[ACT](1Mb)/> | 光之神话 - 射箭小天使(简)[虫虫](UE)[ACT](1Mb) |
+| 401 | `光明之神(繁)[酷哥电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/光明之神(繁)[酷哥电子](CN)[RPG](4Mb)/> | 光明之神(繁)[酷哥电子](CN)[RPG](4Mb) |
+| 402 | `兔子邦妮 - 疯狂城堡(简)[高伟](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/兔子邦妮 - 疯狂城堡(简)[高伟](US)[ACT](2Mb)/> | 兔子邦妮 - 疯狂城堡(简)[高伟](US)[ACT](2Mb) |
+| 403 | `兔宝宝历险记2 - 欢迎来到蒙特那乐园(简)[烈火暴龙](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/兔宝宝历险记2 - 欢迎来到蒙特那乐园(简)[烈火暴龙](JP)[ACT](2Mb)/> | 兔宝宝历险记2 - 欢迎来到蒙特那乐园(简)[烈火暴龙](JP)[ACT](2Mb) |
+| 404 | `兔宝宝大冒险(简)[逆游的五彩鱼](JP)[ACT](2.62Mb)`：<https://fc.haiyong.site/games/兔宝宝大冒险(简)[逆游的五彩鱼](JP)[ACT](2.62Mb)/> | 兔宝宝大冒险(简)[逆游的五彩鱼](JP)[ACT](2.62Mb) |
+| 405 | `兔宝宝大冒险[MS汉化+腓特烈修正第三关循环问题](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/兔宝宝大冒险[MS汉化+腓特烈修正第三关循环问题](JP)[ACT](2Mb)/> | 兔宝宝大冒险[MS汉化+腓特烈修正第三关循环问题](JP)[ACT](2Mb) |
+| 406 | `兔宝宝的大冒险2 - 欢迎光临蒙塔纳乐园(简)[逆游的五彩鱼](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/兔宝宝的大冒险2 - 欢迎光临蒙塔纳乐园(简)[逆游的五彩鱼](JP)[ACT](4Mb)/> | 兔宝宝的大冒险2 - 欢迎光临蒙塔纳乐园(简)[逆游的五彩鱼](JP)[ACT](4Mb) |
+| 407 | `八只眼(v0.9)(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/八只眼(v0.9)(简)[高伟](JP)[ACT](2Mb)/> | 八只眼(v0.9)(简)[高伟](JP)[ACT](2Mb) |
+| 408 | `八宝奇珠(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/八宝奇珠(简)[外星科技](JP)[RPG](4Mb)/> | 八宝奇珠(简)[外星科技](JP)[RPG](4Mb) |
+| 409 | `八德中英文电脑学习卡(v3.1)(简)[八德](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/八德中英文电脑学习卡(v3.1)(简)[八德](CN)[ETC](4Mb)/> | 八德中英文电脑学习卡(v3.1)(简)[八德](CN)[ETC](4Mb) |
+| 410 | `公路之星(v1.0)(简)[九班](JP)[RAC](1Mb)`：<https://fc.haiyong.site/games/公路之星(v1.0)(简)[九班](JP)[RAC](1Mb)/> | 公路之星(v1.0)(简)[九班](JP)[RAC](1Mb) |
+| 411 | `公路之星(简)[高伟](JP)[RAC](1Mb)`：<https://fc.haiyong.site/games/公路之星(简)[高伟](JP)[RAC](1Mb)/> | 公路之星(简)[高伟](JP)[RAC](1Mb) |
+| 412 | `公路之星2(v1.0)(简)[九班](US)[RAC](1Mb)`：<https://fc.haiyong.site/games/公路之星2(v1.0)(简)[九班](US)[RAC](1Mb)/> | 公路之星2(v1.0)(简)[九班](US)[RAC](1Mb) |
+| 413 | `公路之星2(简)[高伟](US)[RAC](1Mb)`：<https://fc.haiyong.site/games/公路之星2(简)[高伟](US)[RAC](1Mb)/> | 公路之星2(简)[高伟](US)[RAC](1Mb) |
+| 414 | `公路赛车(简)[阿渊](JP)[RAC](0.5Mb)`：<https://fc.haiyong.site/games/公路赛车(简)[阿渊](JP)[RAC](0.5Mb)/> | 公路赛车(简)[阿渊](JP)[RAC](0.5Mb) |
+| 415 | `六角方块(繁)[小天才](CN)[PUZ](0.75Mb)`：<https://fc.haiyong.site/games/六角方块(繁)[小天才](CN)[PUZ](0.75Mb)/> | 六角方块(繁)[小天才](CN)[PUZ](0.75Mb) |
+| 416 | `兴奋摩托车(简)[F0REVERD](JU)[RAC](0.18Mb)`：<https://fc.haiyong.site/games/兴奋摩托车(简)[F0REVERD](JU)[RAC](0.18Mb)/> | 兴奋摩托车(简)[F0REVERD](JU)[RAC](0.18Mb) |
+| 417 | `兴奋自动二轮(繁)[未知](JU)[RAC](0.18Mb)`：<https://fc.haiyong.site/games/兴奋自动二轮(繁)[未知](JU)[RAC](0.18Mb)/> | 兴奋自动二轮(繁)[未知](JU)[RAC](0.18Mb) |
+| 418 | `兵蜂(v4)(简)[MS](JP)[STG](0.37Mb)`：<https://fc.haiyong.site/games/兵蜂(v4)(简)[MS](JP)[STG](0.37Mb)/> | 兵蜂(v4)(简)[MS](JP)[STG](0.37Mb) |
+| 419 | `兵蜂(简)[高伟](JP)[STG](0.37Mb)`：<https://fc.haiyong.site/games/兵蜂(简)[高伟](JP)[STG](0.37Mb)/> | 兵蜂(简)[高伟](JP)[STG](0.37Mb) |
+| 420 | `兵蜂3 - 波可波可大魔王(简)[MS](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/兵蜂3 - 波可波可大魔王(简)[MS](JP)[STG](2Mb)/> | 兵蜂3 - 波可波可大魔王(简)[MS](JP)[STG](2Mb) |
+| 421 | `兵蜂3(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/兵蜂3(简)[高伟](JP)[STG](2Mb)/> | 兵蜂3(简)[高伟](JP)[STG](2Mb) |
+| 422 | `兽王记(v3)(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/兽王记(v3)(简)[高伟](JP)[ACT](2Mb)/> | 兽王记(v3)(简)[高伟](JP)[ACT](2Mb) |
+| 423 | `农场小精灵(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/农场小精灵(简)[南晶科技](CN)[RPG](16Mb)/> | 农场小精灵(简)[南晶科技](CN)[RPG](16Mb) |
+| 424 | `冰上曲棍球(简)[高伟](US)[SPG](0.31Mb)`：<https://fc.haiyong.site/games/冰上曲棍球(简)[高伟](US)[SPG](0.31Mb)/> | 冰上曲棍球(简)[高伟](US)[SPG](0.31Mb) |
+| 425 | `冰山登山者(简)[未知](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/冰山登山者(简)[未知](JP)[ACT](0.18Mb)/> | 冰山登山者(简)[未知](JP)[ACT](0.18Mb) |
+| 426 | `冲冲赖皮狗(简)[Advance](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/冲冲赖皮狗(简)[Advance](JP)[ACT](3Mb)/> | 冲冲赖皮狗(简)[Advance](JP)[ACT](3Mb) |
+| 427 | `冲啊冲啊！热血曲棍球部 - 人仰马翻大乱斗(简)[热血的鱼缸](JP)[SPG](4Mb)`：<https://fc.haiyong.site/games/冲啊冲啊！热血曲棍球部 - 人仰马翻大乱斗(简)[热血的鱼缸](JP)[SPG](4Mb)/> | 冲啊冲啊！热血曲棍球部 - 人仰马翻大乱斗(简)[热血的鱼缸](JP)[SPG](4Mb) |
+| 428 | `冲啊冲啊！热血曲棍球部 - 人仰马翻大乱斗(繁)[热血的鱼缸](JP)[SPG](4Mb)`：<https://fc.haiyong.site/games/冲啊冲啊！热血曲棍球部 - 人仰马翻大乱斗(繁)[热血的鱼缸](JP)[SPG](4Mb)/> | 冲啊冲啊！热血曲棍球部 - 人仰马翻大乱斗(繁)[热血的鱼缸](JP)[SPG](4Mb) |
+| 429 | `决战太平洋(繁)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/决战太平洋(繁)[外星科技](CN)[SLG](4Mb)/> | 决战太平洋(繁)[外星科技](CN)[SLG](4Mb) |
+| 430 | `凯蒂猫世界(简)[虫虫](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/凯蒂猫世界(简)[虫虫](JP)[ACT](0.5Mb)/> | 凯蒂猫世界(简)[虫虫](JP)[ACT](0.5Mb) |
+| 431 | `凯蒂猫气球世界(简)[虫虫](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/凯蒂猫气球世界(简)[虫虫](JP)[ACT](1Mb)/> | 凯蒂猫气球世界(简)[虫虫](JP)[ACT](1Mb) |
+| 432 | `刀剑英雄传(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/刀剑英雄传(简)[晶科泰](CN)[RPG](8Mb)/> | 刀剑英雄传(简)[晶科泰](CN)[RPG](8Mb) |
+| 433 | `列车奇案(简)[酷哥电子](JP)[AVG](4Mb)`：<https://fc.haiyong.site/games/列车奇案(简)[酷哥电子](JP)[AVG](4Mb)/> | 列车奇案(简)[酷哥电子](JP)[AVG](4Mb) |
+| 434 | `创世纪英雄(繁)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/创世纪英雄(繁)[外星科技](JP)[RPG](4Mb)/> | 创世纪英雄(繁)[外星科技](JP)[RPG](4Mb) |
+| 435 | `前线大作战(简)[MS](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/前线大作战(简)[MS](JP)[ACT](0.18Mb)/> | 前线大作战(简)[MS](JP)[ACT](0.18Mb) |
+| 436 | `前线大作战(简)[高伟](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/前线大作战(简)[高伟](JP)[ACT](0.18Mb)/> | 前线大作战(简)[高伟](JP)[ACT](0.18Mb) |
+| 437 | `剑侠情缘(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/剑侠情缘(简)[南晶科技](CN)[RPG](16Mb)/> | 剑侠情缘(简)[南晶科技](CN)[RPG](16Mb) |
+| 438 | `剑侠情缘(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/剑侠情缘(简)[晶科泰](CN)[RPG](8Mb)/> | 剑侠情缘(简)[晶科泰](CN)[RPG](8Mb) |
+| 439 | `剑侠情缘(简)[酷哥电子](CN)[RPG](6Mb)`：<https://fc.haiyong.site/games/剑侠情缘(简)[酷哥电子](CN)[RPG](6Mb)/> | 剑侠情缘(简)[酷哥电子](CN)[RPG](6Mb) |
+| 440 | `剑王(v1)(简)[高伟](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/剑王(v1)(简)[高伟](US)[ACT](2Mb)/> | 剑王(v1)(简)[高伟](US)[ACT](2Mb) |
+| 441 | `剑王(简)[虫虫](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/剑王(简)[虫虫](JP)[ACT](2Mb)/> | 剑王(简)[虫虫](JP)[ACT](2Mb) |
+| 442 | `剑王(简)[金明](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/剑王(简)[金明](US)[ACT](2Mb)/> | 剑王(简)[金明](US)[ACT](2Mb) |
+| 443 | `力量刀锋(v1)(简)[逆游的五彩鱼](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/力量刀锋(v1)(简)[逆游的五彩鱼](US)[ACT](3Mb)/> | 力量刀锋(v1)(简)[逆游的五彩鱼](US)[ACT](3Mb) |
+| 444 | `力量刀锋2(简)[逆游的五彩鱼](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/力量刀锋2(简)[逆游的五彩鱼](US)[ACT](4Mb)/> | 力量刀锋2(简)[逆游的五彩鱼](US)[ACT](4Mb) |
+| 445 | `加纳战机(v1.0)(简)[九班+KasuraJ](US)[STG](3Mb)`：<https://fc.haiyong.site/games/加纳战机(v1.0)(简)[九班+KasuraJ](US)[STG](3Mb)/> | 加纳战机(v1.0)(简)[九班+KasuraJ](US)[STG](3Mb) |
+| 446 | `加纳战机(简)[孔雀天](US)[STG](2Mb)`：<https://fc.haiyong.site/games/加纳战机(简)[孔雀天](US)[STG](2Mb)/> | 加纳战机(简)[孔雀天](US)[STG](2Mb) |
+| 447 | `加菲猫一周(简)[快乐的龙](JP)[ACT](5.25Mb)`：<https://fc.haiyong.site/games/加菲猫一周(简)[快乐的龙](JP)[ACT](5.25Mb)/> | 加菲猫一周(简)[快乐的龙](JP)[ACT](5.25Mb) |
+| 448 | `动动脑2 - 国中英文(繁)[圣谦](CN)[ETC](0.5Mb)`：<https://fc.haiyong.site/games/动动脑2 - 国中英文(繁)[圣谦](CN)[ETC](0.5Mb)/> | 动动脑2 - 国中英文(繁)[圣谦](CN)[ETC](0.5Mb) |
+| 450 | `勇者传说(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/勇者传说(简)[南晶科技](CN)[RPG](4Mb)/> | 勇者传说(简)[南晶科技](CN)[RPG](4Mb) |
+| 451 | `勇者斗恶龙 - 勇者的试练(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/勇者斗恶龙 - 勇者的试练(简)[晶科泰](CN)[RPG](8Mb)/> | 勇者斗恶龙 - 勇者的试练(简)[晶科泰](CN)[RPG](8Mb) |
+| 452 | `勇者斗恶龙(修正版)(简)[外星科技+willzyj](JP)[RPG](2Mb)`：<https://fc.haiyong.site/games/勇者斗恶龙(修正版)(简)[外星科技+willzyj](JP)[RPG](2Mb)/> | 勇者斗恶龙(修正版)(简)[外星科技+willzyj](JP)[RPG](2Mb) |
+| 453 | `勇者斗恶龙(修正版)(简)[外星科技+庞先生](JP)[RPG](2Mb)`：<https://fc.haiyong.site/games/勇者斗恶龙(修正版)(简)[外星科技+庞先生](JP)[RPG](2Mb)/> | 勇者斗恶龙(修正版)(简)[外星科技+庞先生](JP)[RPG](2Mb) |
+| 454 | `勇者斗恶龙2(修正版)(简)[外星科技+庞先生](JP)[RPG](2Mb)`：<https://fc.haiyong.site/games/勇者斗恶龙2(修正版)(简)[外星科技+庞先生](JP)[RPG](2Mb)/> | 勇者斗恶龙2(修正版)(简)[外星科技+庞先生](JP)[RPG](2Mb) |
+| 455 | `勇者斗恶龙3 - 罪恶渊源(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/勇者斗恶龙3 - 罪恶渊源(简)[晶科泰](CN)[RPG](8Mb)/> | 勇者斗恶龙3 - 罪恶渊源(简)[晶科泰](CN)[RPG](8Mb) |
+| 456 | `勇者斗恶龙3(修正版)(简)[外星科技+庞先生](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/勇者斗恶龙3(修正版)(简)[外星科技+庞先生](JP)[RPG](4Mb)/> | 勇者斗恶龙3(修正版)(简)[外星科技+庞先生](JP)[RPG](4Mb) |
+| 457 | `勇者斗恶龙4(简)[外星科技](JP)[RPG](2Mb)`：<https://fc.haiyong.site/games/勇者斗恶龙4(简)[外星科技](JP)[RPG](2Mb)/> | 勇者斗恶龙4(简)[外星科技](JP)[RPG](2Mb) |
+| 458 | `勇者斗恶龙5(简)[外星科技](JP)[RPG](2Mb)`：<https://fc.haiyong.site/games/勇者斗恶龙5(简)[外星科技](JP)[RPG](2Mb)/> | 勇者斗恶龙5(简)[外星科技](JP)[RPG](2Mb) |
+| 459 | `勇者斗恶龙6(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/勇者斗恶龙6(简)[外星科技](JP)[RPG](4Mb)/> | 勇者斗恶龙6(简)[外星科技](JP)[RPG](4Mb) |
+| 460 | `勇者斗恶龙7(简)[外星科技](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/勇者斗恶龙7(简)[外星科技](JP)[RPG](8Mb)/> | 勇者斗恶龙7(简)[外星科技](JP)[RPG](8Mb) |
+| 461 | `勇者斗恶龙8(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/勇者斗恶龙8(简)[外星科技](CN)[RPG](4Mb)/> | 勇者斗恶龙8(简)[外星科技](CN)[RPG](4Mb) |
+| 462 | `勇者黑暗世界 - 混沌世界(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/勇者黑暗世界 - 混沌世界(简)[晶科泰](CN)[RPG](8Mb)/> | 勇者黑暗世界 - 混沌世界(简)[晶科泰](CN)[RPG](8Mb) |
+| 463 | `包青天(繁)[卡圣](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/包青天(繁)[卡圣](CN)[ACT](4Mb)/> | 包青天(繁)[卡圣](CN)[ACT](4Mb) |
+| 464 | `包青天(解密版)(繁)[外星科技+WXN](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/包青天(解密版)(繁)[外星科技+WXN](CN)[FTG](3Mb)/> | 包青天(解密版)(繁)[外星科技+WXN](CN)[FTG](3Mb) |
+| 465 | `北斗神拳(简)[虫儿](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/北斗神拳(简)[虫儿](JP)[ACT](0.5Mb)/> | 北斗神拳(简)[虫儿](JP)[ACT](0.5Mb) |
+| 466 | `匹诺槽的复苏(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/匹诺槽的复苏(简)[外星科技](CN)[RPG](4Mb)/> | 匹诺槽的复苏(简)[外星科技](CN)[RPG](4Mb) |
+| 467 | `千足虫(简)[虫虫](US)[STG](0.18Mb)`：<https://fc.haiyong.site/games/千足虫(简)[虫虫](US)[STG](0.18Mb)/> | 千足虫(简)[虫虫](US)[STG](0.18Mb) |
+| 468 | `半熟英雄(修正版)(简)[外星科技+Vanyogin](JP)[SLG](2Mb)`：<https://fc.haiyong.site/games/半熟英雄(修正版)(简)[外星科技+Vanyogin](JP)[SLG](2Mb)/> | 半熟英雄(修正版)(简)[外星科技+Vanyogin](JP)[SLG](2Mb) |
+| 469 | `半熟英雄(修正版)(简)[外星科技+寒雪使者](JP)[SLG](2Mb)`：<https://fc.haiyong.site/games/半熟英雄(修正版)(简)[外星科技+寒雪使者](JP)[SLG](2Mb)/> | 半熟英雄(修正版)(简)[外星科技+寒雪使者](JP)[SLG](2Mb) |
+| 470 | `卓越之剑(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/卓越之剑(简)[恒格电子](CN)[RPG](8Mb)/> | 卓越之剑(简)[恒格电子](CN)[RPG](8Mb) |
+| 471 | `南极冒险(v2.0)(简)[九班](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/南极冒险(v2.0)(简)[九班](JP)[ACT](0.18Mb)/> | 南极冒险(v2.0)(简)[九班](JP)[ACT](0.18Mb) |
+| 472 | `南极大冒险(v20100423)(繁)[Nokoh](JP)[ACT](0.25Mb)`：<https://fc.haiyong.site/games/南极大冒险(v20100423)(繁)[Nokoh](JP)[ACT](0.25Mb)/> | 南极大冒险(v20100423)(繁)[Nokoh](JP)[ACT](0.25Mb) |
+| 473 | `卡拉OK(简)[小霸王](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/卡拉OK(简)[小霸王](CN)[ETC](8Mb)/> | 卡拉OK(简)[小霸王](CN)[ETC](8Mb) |
+| 474 | `卡洛夫(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/卡洛夫(简)[高伟](JP)[STG](2Mb)/> | 卡洛夫(简)[高伟](JP)[STG](2Mb) |
+| 475 | `原始人(简)[南晶科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/原始人(简)[南晶科技](CN)[ACT](4Mb)/> | 原始人(简)[南晶科技](CN)[ACT](4Mb) |
+| 476 | `原始人2(简)[南晶科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/原始人2(简)[南晶科技](CN)[ACT](4Mb)/> | 原始人2(简)[南晶科技](CN)[ACT](4Mb) |
+| 477 | `双响炮(简)[普泽](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/双响炮(简)[普泽](CN)[TAB](0.5Mb)/> | 双响炮(简)[普泽](CN)[TAB](0.5Mb) |
+| 478 | `双截龙(简)[吸血男爵](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/双截龙(简)[吸血男爵](US)[ACT](2Mb)/> | 双截龙(简)[吸血男爵](US)[ACT](2Mb) |
+| 479 | `双截龙(简)[靳大治](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/双截龙(简)[靳大治](US)[ACT](2Mb)/> | 双截龙(简)[靳大治](US)[ACT](2Mb) |
+| 480 | `双截龙(简)[高伟](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/双截龙(简)[高伟](US)[ACT](2Mb)/> | 双截龙(简)[高伟](US)[ACT](2Mb) |
+| 481 | `双截龙2 - 复仇(v1.1)(简)[星空](JP)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/双截龙2 - 复仇(v1.1)(简)[星空](JP)[ACT](2.5Mb)/> | 双截龙2 - 复仇(v1.1)(简)[星空](JP)[ACT](2.5Mb) |
+| 482 | `双截龙2 - 复仇(简)[Madcell](JP)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/双截龙2 - 复仇(简)[Madcell](JP)[ACT](2.5Mb)/> | 双截龙2 - 复仇(简)[Madcell](JP)[ACT](2.5Mb) |
+| 483 | `双截龙2 - 复仇(简)[阿渊](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/双截龙2 - 复仇(简)[阿渊](JP)[ACT](2Mb)/> | 双截龙2 - 复仇(简)[阿渊](JP)[ACT](2Mb) |
+| 484 | `双截龙3 - 神秘的魔石之谜(v1.1)(简)[星空](US)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/双截龙3 - 神秘的魔石之谜(v1.1)(简)[星空](US)[ACT](2.5Mb)/> | 双截龙3 - 神秘的魔石之谜(v1.1)(简)[星空](US)[ACT](2.5Mb) |
+| 485 | `双截龙3 - 神秘魔石之谜(简)[asiwish](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/双截龙3 - 神秘魔石之谜(简)[asiwish](JP)[ACT](2Mb)/> | 双截龙3 - 神秘魔石之谜(简)[asiwish](JP)[ACT](2Mb) |
+| 486 | `双截龙3 - 神秘魔石之谜(简)[幻想](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/双截龙3 - 神秘魔石之谜(简)[幻想](US)[ACT](2Mb)/> | 双截龙3 - 神秘魔石之谜(简)[幻想](US)[ACT](2Mb) |
+| 487 | `双截龙3 - 罗塞塔石碑(简)[Madcell](JP)[ACT](2.25Mb)`：<https://fc.haiyong.site/games/双截龙3 - 罗塞塔石碑(简)[Madcell](JP)[ACT](2.25Mb)/> | 双截龙3 - 罗塞塔石碑(简)[Madcell](JP)[ACT](2.25Mb) |
+| 488 | `双月传(修正版)(简)[外星科技+Vanyogin](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/双月传(修正版)(简)[外星科技+Vanyogin](JP)[RPG](8Mb)/> | 双月传(修正版)(简)[外星科技+Vanyogin](JP)[RPG](8Mb) |
+| 489 | `双月传(简)[外星科技](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/双月传(简)[外星科技](JP)[RPG](8Mb)/> | 双月传(简)[外星科技](JP)[RPG](8Mb) |
+| 490 | `双鹰 - 乔兄弟的复仇(简)[烈火暴龙](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/双鹰 - 乔兄弟的复仇(简)[烈火暴龙](JP)[STG](1Mb)/> | 双鹰 - 乔兄弟的复仇(简)[烈火暴龙](JP)[STG](1Mb) |
+| 491 | `双鹰 - 乔兄弟的复仇(简)[虫儿](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/双鹰 - 乔兄弟的复仇(简)[虫儿](JP)[STG](1Mb)/> | 双鹰 - 乔兄弟的复仇(简)[虫儿](JP)[STG](1Mb) |
+| 492 | `双鹰(繁)[洁晖](CN)[STG](0.5Mb)`：<https://fc.haiyong.site/games/双鹰(繁)[洁晖](CN)[STG](0.5Mb)/> | 双鹰(繁)[洁晖](CN)[STG](0.5Mb) |
+| 493 | `反恐精英(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/反恐精英(简)[恒格电子](CN)[RPG](8Mb)/> | 反恐精英(简)[恒格电子](CN)[RPG](8Mb) |
+| 494 | `反恐风暴 - 海湾战争(简)[晶科泰](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/反恐风暴 - 海湾战争(简)[晶科泰](JP)[SLG](4Mb)/> | 反恐风暴 - 海湾战争(简)[晶科泰](JP)[SLG](4Mb) |
+| 495 | `反重力战士(简)[虫虫](US)[STG](2Mb)`：<https://fc.haiyong.site/games/反重力战士(简)[虫虫](US)[STG](2Mb)/> | 反重力战士(简)[虫虫](US)[STG](2Mb) |
+| 496 | `变形战机Z(简)[muxly](JP)[STG](0.37Mb)`：<https://fc.haiyong.site/games/变形战机Z(简)[muxly](JP)[STG](0.37Mb)/> | 变形战机Z(简)[muxly](JP)[STG](0.37Mb) |
+| 497 | `变形战机Z(简)[虫虫](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/变形战机Z(简)[虫虫](JP)[STG](0.18Mb)/> | 变形战机Z(简)[虫虫](JP)[STG](0.18Mb) |
+| 498 | `口袋妖怪 - 绿叶版(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋妖怪 - 绿叶版(简)[恒格电子](CN)[RPG](8Mb)/> | 口袋妖怪 - 绿叶版(简)[恒格电子](CN)[RPG](8Mb) |
+| 499 | `口袋妖怪 - 钻石版(繁)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋妖怪 - 钻石版(繁)[外星科技](CN)[RPG](8Mb)/> | 口袋妖怪 - 钻石版(繁)[外星科技](CN)[RPG](8Mb) |
+| 500 | `口袋宝石 - 红(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/口袋宝石 - 红(简)[南晶科技](CN)[RPG](16Mb)/> | 口袋宝石 - 红(简)[南晶科技](CN)[RPG](16Mb) |
+| 501 | `口袋宝石 - 蓝(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/口袋宝石 - 蓝(简)[南晶科技](CN)[RPG](16Mb)/> | 口袋宝石 - 蓝(简)[南晶科技](CN)[RPG](16Mb) |
+| 502 | `口袋宝石 - 金(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/口袋宝石 - 金(简)[南晶科技](CN)[RPG](16Mb)/> | 口袋宝石 - 金(简)[南晶科技](CN)[RPG](16Mb) |
+| 503 | `口袋宝石 - 银(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/口袋宝石 - 银(简)[南晶科技](CN)[RPG](16Mb)/> | 口袋宝石 - 银(简)[南晶科技](CN)[RPG](16Mb) |
+| 504 | `口袋怪兽 - 水晶版(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋怪兽 - 水晶版(简)[晶科泰](CN)[RPG](8Mb)/> | 口袋怪兽 - 水晶版(简)[晶科泰](CN)[RPG](8Mb) |
+| 505 | `口袋怪兽 - 珍珠版(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋怪兽 - 珍珠版(简)[晶科泰](CN)[RPG](8Mb)/> | 口袋怪兽 - 珍珠版(简)[晶科泰](CN)[RPG](8Mb) |
+| 506 | `口袋怪兽 - 白玉版(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋怪兽 - 白玉版(简)[晶科泰](CN)[RPG](8Mb)/> | 口袋怪兽 - 白玉版(简)[晶科泰](CN)[RPG](8Mb) |
+| 507 | `口袋怪兽 - 白金版(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋怪兽 - 白金版(简)[晶科泰](CN)[RPG](8Mb)/> | 口袋怪兽 - 白金版(简)[晶科泰](CN)[RPG](8Mb) |
+| 508 | `口袋怪兽 - 绿叶版(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋怪兽 - 绿叶版(简)[恒格电子](CN)[RPG](8Mb)/> | 口袋怪兽 - 绿叶版(简)[恒格电子](CN)[RPG](8Mb) |
+| 509 | `口袋怪兽 - 翡翠版(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋怪兽 - 翡翠版(简)[晶科泰](CN)[RPG](8Mb)/> | 口袋怪兽 - 翡翠版(简)[晶科泰](CN)[RPG](8Mb) |
+| 510 | `口袋怪兽 - 钻石版(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋怪兽 - 钻石版(简)[晶科泰](CN)[RPG](8Mb)/> | 口袋怪兽 - 钻石版(简)[晶科泰](CN)[RPG](8Mb) |
+| 511 | `口袋怪兽 绿 - 绿叶版(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋怪兽 绿 - 绿叶版(简)[恒格电子](CN)[RPG](8Mb)/> | 口袋怪兽 绿 - 绿叶版(简)[恒格电子](CN)[RPG](8Mb) |
+| 512 | `口袋怪兽2(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋怪兽2(简)[恒格电子](CN)[RPG](8Mb)/> | 口袋怪兽2(简)[恒格电子](CN)[RPG](8Mb) |
+| 513 | `口袋怪兽3(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋怪兽3(简)[恒格电子](CN)[RPG](8Mb)/> | 口袋怪兽3(简)[恒格电子](CN)[RPG](8Mb) |
+| 514 | `口袋水晶(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/口袋水晶(简)[南晶科技](CN)[RPG](16Mb)/> | 口袋水晶(简)[南晶科技](CN)[RPG](16Mb) |
+| 515 | `口袋精灵 - 水晶(繁)[火星电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋精灵 - 水晶(繁)[火星电子](CN)[RPG](8Mb)/> | 口袋精灵 - 水晶(繁)[火星电子](CN)[RPG](8Mb) |
+| 516 | `口袋精灵 - 金(简)[火星电子+147201688](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋精灵 - 金(简)[火星电子+147201688](CN)[RPG](8Mb)/> | 口袋精灵 - 金(简)[火星电子+147201688](CN)[RPG](8Mb) |
+| 517 | `口袋精灵 - 金(繁)[火星电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋精灵 - 金(繁)[火星电子](CN)[RPG](8Mb)/> | 口袋精灵 - 金(繁)[火星电子](CN)[RPG](8Mb) |
+| 518 | `口袋精灵 - 金(解密版)(简)[外星科技+WXN](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/口袋精灵 - 金(解密版)(简)[外星科技+WXN](CN)[RPG](8Mb)/> | 口袋精灵 - 金(解密版)(简)[外星科技+WXN](CN)[RPG](8Mb) |
+| 519 | `口袋里的魔鬼(v1.0)(简)[DMG](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/口袋里的魔鬼(v1.0)(简)[DMG](US)[ACT](3Mb)/> | 口袋里的魔鬼(v1.0)(简)[DMG](US)[ACT](3Mb) |
+| 520 | `口袋里的魔鬼(简)[MM之神](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/口袋里的魔鬼(简)[MM之神](US)[ACT](2Mb)/> | 口袋里的魔鬼(简)[MM之神](US)[ACT](2Mb) |
+| 521 | `口袋钻石(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/口袋钻石(简)[南晶科技](CN)[RPG](16Mb)/> | 口袋钻石(简)[南晶科技](CN)[RPG](16Mb) |
+| 522 | `古墓丽影(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/古墓丽影(简)[南晶科技](CN)[RPG](4Mb)/> | 古墓丽影(简)[南晶科技](CN)[RPG](4Mb) |
+| 523 | `古巴战士[惊风汉化](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/古巴战士[惊风汉化](JP)[STG](2Mb)/> | 古巴战士[惊风汉化](JP)[STG](2Mb) |
+| 524 | `可鲁可鲁世界(简)[虫儿](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/可鲁可鲁世界(简)[虫儿](JUE)[ACT](0.18Mb)/> | 可鲁可鲁世界(简)[虫儿](JUE)[ACT](0.18Mb) |
+| 525 | `台湾花牌麻雀(繁)[圣谦](CN)[TAB](0.37Mb)`：<https://fc.haiyong.site/games/台湾花牌麻雀(繁)[圣谦](CN)[TAB](0.37Mb)/> | 台湾花牌麻雀(繁)[圣谦](CN)[TAB](0.37Mb) |
+| 526 | `台湾麻雀(繁)[圣谦](CN)[TAB](0.37Mb)`：<https://fc.haiyong.site/games/台湾麻雀(繁)[圣谦](CN)[TAB](0.37Mb)/> | 台湾麻雀(繁)[圣谦](CN)[TAB](0.37Mb) |
+| 527 | `吃豆(简)[小古](JP)[PUZ](0.43Mb)`：<https://fc.haiyong.site/games/吃豆(简)[小古](JP)[PUZ](0.43Mb)/> | 吃豆(简)[小古](JP)[PUZ](0.43Mb) |
+| 528 | `吃豆人小姐(简)[虫虫](US)[PUZ](0.31Mb)`：<https://fc.haiyong.site/games/吃豆人小姐(简)[虫虫](US)[PUZ](0.31Mb)/> | 吃豆人小姐(简)[虫虫](US)[PUZ](0.31Mb) |
+| 529 | `吃豆小精灵(简)[MS](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/吃豆小精灵(简)[MS](JP)[PUZ](0.18Mb)/> | 吃豆小精灵(简)[MS](JP)[PUZ](0.18Mb) |
+| 530 | `吃豆小精灵(简)[叶枫](JP)[PUZ](0.25Mb)`：<https://fc.haiyong.site/games/吃豆小精灵(简)[叶枫](JP)[PUZ](0.25Mb)/> | 吃豆小精灵(简)[叶枫](JP)[PUZ](0.25Mb) |
+| 531 | `吃豆小精灵(简)[高伟](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/吃豆小精灵(简)[高伟](JP)[PUZ](0.18Mb)/> | 吃豆小精灵(简)[高伟](JP)[PUZ](0.18Mb) |
+| 532 | `合金装备(公测2)(简)[热血的鱼缸](JP)[AVG](2Mb)`：<https://fc.haiyong.site/games/合金装备(公测2)(简)[热血的鱼缸](JP)[AVG](2Mb)/> | 合金装备(公测2)(简)[热血的鱼缸](JP)[AVG](2Mb) |
+| 533 | `合金装备(燃烧战车)[AXI AHE](2Mb)`：<https://fc.haiyong.site/games/合金装备(燃烧战车)[AXI AHE](2Mb)/> | 合金装备(燃烧战车)[AXI AHE](2Mb) |
+| 534 | `合金风暴(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/合金风暴(简)[南晶科技](CN)[RPG](4Mb)/> | 合金风暴(简)[南晶科技](CN)[RPG](4Mb) |
+| 536 | `吉米克！(简)[雷精灵](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/吉米克！(简)[雷精灵](JP)[ACT](4Mb)/> | 吉米克！(简)[雷精灵](JP)[ACT](4Mb) |
+| 537 | `吞食天地 - 三国外传(不花屏版)(简)[先锋卡通](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/吞食天地 - 三国外传(不花屏版)(简)[先锋卡通](JP)[RPG](8Mb)/> | 吞食天地 - 三国外传(不花屏版)(简)[先锋卡通](JP)[RPG](8Mb) |
+| 538 | `吞食天地 - 三国外传(修正版)(简)[先锋卡通+Necrosaro](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/吞食天地 - 三国外传(修正版)(简)[先锋卡通+Necrosaro](JP)[RPG](5Mb)/> | 吞食天地 - 三国外传(修正版)(简)[先锋卡通+Necrosaro](JP)[RPG](5Mb) |
+| 539 | `吞食天地 - 三国外传(修正版)(繁)[先锋卡通+BonnyXie](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/吞食天地 - 三国外传(修正版)(繁)[先锋卡通+BonnyXie](JP)[RPG](5Mb)/> | 吞食天地 - 三国外传(修正版)(繁)[先锋卡通+BonnyXie](JP)[RPG](5Mb) |
+| 540 | `吞食天地 - 三国外传(简)[laopix](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/吞食天地 - 三国外传(简)[laopix](JP)[RPG](5Mb)/> | 吞食天地 - 三国外传(简)[laopix](JP)[RPG](5Mb) |
+| 541 | `吞食天地(简)[kwjxqy](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/吞食天地(简)[kwjxqy](JP)[RPG](4Mb)/> | 吞食天地(简)[kwjxqy](JP)[RPG](4Mb) |
+| 542 | `吞食天地(简)[酷哥电子](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/吞食天地(简)[酷哥电子](JP)[RPG](4Mb)/> | 吞食天地(简)[酷哥电子](JP)[RPG](4Mb) |
+| 543 | `吞食天地2 - 秋风五丈原(v2.87)(v20190111)(简)[NT](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/吞食天地2 - 秋风五丈原(v2.87)(v20190111)(简)[NT](JP)[RPG](5Mb)/> | 吞食天地2 - 秋风五丈原(v2.87)(v20190111)(简)[NT](JP)[RPG](5Mb) |
+| 544 | `吞食天地2 - 秋风五丈原(吞1音乐)(v20170225)[NT汉化组](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/吞食天地2 - 秋风五丈原(吞1音乐)(v20170225)[NT汉化组](JP)[RPG](5Mb)/> | 吞食天地2 - 秋风五丈原(吞1音乐)(v20170225)[NT汉化组](JP)[RPG](5Mb) |
+| 545 | `吞食天地2 - 秋风五丈原(吞2音乐)(v20170225)[NT汉化组](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/吞食天地2 - 秋风五丈原(吞2音乐)(v20170225)[NT汉化组](JP)[RPG](5Mb)/> | 吞食天地2 - 秋风五丈原(吞2音乐)(v20170225)[NT汉化组](JP)[RPG](5Mb) |
+| 546 | `吞食天地2 - 诸葛孔明传(简)[同能网](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/吞食天地2 - 诸葛孔明传(简)[同能网](JP)[RPG](5Mb)/> | 吞食天地2 - 诸葛孔明传(简)[同能网](JP)[RPG](5Mb) |
+| 547 | `吞食天地6 - 刘备传(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/吞食天地6 - 刘备传(简)[南晶科技](CN)[RPG](8Mb)/> | 吞食天地6 - 刘备传(简)[南晶科技](CN)[RPG](8Mb) |
+| 548 | `启智屋A(简)[小霸王](CN)[PUZ](2Mb)`：<https://fc.haiyong.site/games/启智屋A(简)[小霸王](CN)[PUZ](2Mb)/> | 启智屋A(简)[小霸王](CN)[PUZ](2Mb) |
+| 549 | `启智屋B(简)[小霸王](CN)[PUZ](2Mb)`：<https://fc.haiyong.site/games/启智屋B(简)[小霸王](CN)[PUZ](2Mb)/> | 启智屋B(简)[小霸王](CN)[PUZ](2Mb) |
+| 550 | `哆啦A梦 - 超时空历险(v2)(修正版)(简)[外星科技+无敌阿尔宙斯](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/哆啦A梦 - 超时空历险(v2)(修正版)(简)[外星科技+无敌阿尔宙斯](JP)[RPG](4Mb)/> | 哆啦A梦 - 超时空历险(v2)(修正版)(简)[外星科技+无敌阿尔宙斯](JP)[RPG](4Mb) |
+| 551 | `哆啦A梦 - 超时空历险(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/哆啦A梦 - 超时空历险(简)[外星科技](JP)[RPG](4Mb)/> | 哆啦A梦 - 超时空历险(简)[外星科技](JP)[RPG](4Mb) |
+| 552 | `哆啦A梦(v20090616)(繁)[Nokoh](JP)[ACT](1.37Mb)`：<https://fc.haiyong.site/games/哆啦A梦(v20090616)(繁)[Nokoh](JP)[ACT](1.37Mb)/> | 哆啦A梦(v20090616)(繁)[Nokoh](JP)[ACT](1.37Mb) |
+| 553 | `哇咿哇咿世界(v20220222)(繁)[Nokoh](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/哇咿哇咿世界(v20220222)(繁)[Nokoh](JP)[ACT](4Mb)/> | 哇咿哇咿世界(v20220222)(繁)[Nokoh](JP)[ACT](4Mb) |
+| 555 | `哈利传奇(简)[天空联盟](CN)[ACT](2Mb)`：<https://fc.haiyong.site/games/哈利传奇(简)[天空联盟](CN)[ACT](2Mb)/> | 哈利传奇(简)[天空联盟](CN)[ACT](2Mb) |
+| 556 | `哥伦布传(修正版)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/哥伦布传(修正版)[外星科技](JP)[RPG](4Mb)/> | 哥伦布传(修正版)[外星科技](JP)[RPG](4Mb) |
+| 557 | `哪吒传奇(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/哪吒传奇(简)[南晶科技](CN)[RPG](16Mb)/> | 哪吒传奇(简)[南晶科技](CN)[RPG](16Mb) |
+| 558 | `唐伯虎点秋香(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/唐伯虎点秋香(简)[南晶科技](CN)[RPG](4Mb)/> | 唐伯虎点秋香(简)[南晶科技](CN)[RPG](4Mb) |
+| 559 | `唐老鸭历险记2(v1.2)(简)[DMG](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/唐老鸭历险记2(v1.2)(简)[DMG](JP)[ACT](2Mb)/> | 唐老鸭历险记2(v1.2)(简)[DMG](JP)[ACT](2Mb) |
+| 560 | `嘉蒂外传(v1.1)(简)[汉化你妹](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/嘉蒂外传(v1.1)(简)[汉化你妹](JP)[STG](2Mb)/> | 嘉蒂外传(v1.1)(简)[汉化你妹](JP)[STG](2Mb) |
+| 561 | `四川麻将(繁)[洁晖](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/四川麻将(繁)[洁晖](CN)[TAB](0.5Mb)/> | 四川麻将(繁)[洁晖](CN)[TAB](0.5Mb) |
+| 562 | `四川麻雀 - 制服篇(简)[圣谦](CN)[TAB](0.75Mb)`：<https://fc.haiyong.site/games/四川麻雀 - 制服篇(简)[圣谦](CN)[TAB](0.75Mb)/> | 四川麻雀 - 制服篇(简)[圣谦](CN)[TAB](0.75Mb) |
+| 563 | `围棋大战(简)[DC](JP)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/围棋大战(简)[DC](JP)[TAB](0.5Mb)/> | 围棋大战(简)[DC](JP)[TAB](0.5Mb) |
+| 564 | `国夫君的热血新记录！ - 要得到所有金牌(简)[小滩](JP)[SPG](2Mb)`：<https://fc.haiyong.site/games/国夫君的热血新记录！ - 要得到所有金牌(简)[小滩](JP)[SPG](2Mb)/> | 国夫君的热血新记录！ - 要得到所有金牌(简)[小滩](JP)[SPG](2Mb) |
+| 565 | `国夫君的热血足球联盟(简)[惊风+空气](JP)[SPG](3Mb)`：<https://fc.haiyong.site/games/国夫君的热血足球联盟(简)[惊风+空气](JP)[SPG](3Mb)/> | 国夫君的热血足球联盟(简)[惊风+空气](JP)[SPG](3Mb) |
+| 566 | `国夫的热血新记录！ - 要得到所有金牌(简)[空气](JP)[SPG](2Mb)`：<https://fc.haiyong.site/games/国夫的热血新记录！ - 要得到所有金牌(简)[空气](JP)[SPG](2Mb)/> | 国夫的热血新记录！ - 要得到所有金牌(简)[空气](JP)[SPG](2Mb) |
+| 567 | `国王骑士(v0.9)(简)[高伟](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/国王骑士(v0.9)(简)[高伟](JP)[STG](0.5Mb)/> | 国王骑士(v0.9)(简)[高伟](JP)[STG](0.5Mb) |
+| 568 | `国雄君的热血全员集合(v0.8)(简)[热血的鱼缸](JP)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/国雄君的热血全员集合(v0.8)(简)[热血的鱼缸](JP)[ACT](2.5Mb)/> | 国雄君的热血全员集合(v0.8)(简)[热血的鱼缸](JP)[ACT](2.5Mb) |
+| 569 | `国雄的时代剧全员集合！(v0.91)(繁)[热血的鱼缸](JP)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/国雄的时代剧全员集合！(v0.91)(繁)[热血的鱼缸](JP)[ACT](2.5Mb)/> | 国雄的时代剧全员集合！(v0.91)(繁)[热血的鱼缸](JP)[ACT](2.5Mb) |
+| 570 | `图形推理+智力拼图(简)[先锋卡通](CN)[PUZ](4Mb)`：<https://fc.haiyong.site/games/图形推理+智力拼图(简)[先锋卡通](CN)[PUZ](4Mb)/> | 图形推理+智力拼图(简)[先锋卡通](CN)[PUZ](4Mb) |
+| 571 | `圣剑传说(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/圣剑传说(简)[南晶科技](CN)[RPG](16Mb)/> | 圣剑传说(简)[南晶科技](CN)[RPG](16Mb) |
+| 572 | `圣斗士星矢 - 北欧突击篇(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/圣斗士星矢 - 北欧突击篇(简)[南晶科技](CN)[RPG](8Mb)/> | 圣斗士星矢 - 北欧突击篇(简)[南晶科技](CN)[RPG](8Mb) |
+| 573 | `圣斗士星矢 - 天马之幻想(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/圣斗士星矢 - 天马之幻想(简)[南晶科技](CN)[RPG](16Mb)/> | 圣斗士星矢 - 天马之幻想(简)[南晶科技](CN)[RPG](16Mb) |
+| 574 | `圣斗士星矢 - 黄金传说(v1.0)(简)[汉化你妹](JP)[RPG](10Mb)`：<https://fc.haiyong.site/games/圣斗士星矢 - 黄金传说(v1.0)(简)[汉化你妹](JP)[RPG](10Mb)/> | 圣斗士星矢 - 黄金传说(v1.0)(简)[汉化你妹](JP)[RPG](10Mb) |
+| 575 | `圣斗士星矢 - 黄金传说完结篇(v1.0)(简)[汉化你妹](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/圣斗士星矢 - 黄金传说完结篇(v1.0)(简)[汉化你妹](JP)[RPG](4Mb)/> | 圣斗士星矢 - 黄金传说完结篇(v1.0)(简)[汉化你妹](JP)[RPG](4Mb) |
+| 576 | `圣斗士星矢 - 黄金传说完结篇(v1.0)(繁)[汉化你妹](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/圣斗士星矢 - 黄金传说完结篇(v1.0)(繁)[汉化你妹](JP)[RPG](4Mb)/> | 圣斗士星矢 - 黄金传说完结篇(v1.0)(繁)[汉化你妹](JP)[RPG](4Mb) |
+| 577 | `圣斗士星矢 - 黄金传说完结篇(简)[勇者](JP)[RPG](2Mb)`：<https://fc.haiyong.site/games/圣斗士星矢 - 黄金传说完结篇(简)[勇者](JP)[RPG](2Mb)/> | 圣斗士星矢 - 黄金传说完结篇(简)[勇者](JP)[RPG](2Mb) |
+| 578 | `圣火列传(繁)[全崴资讯](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/圣火列传(繁)[全崴资讯](CN)[RPG](2Mb)/> | 圣火列传(繁)[全崴资讯](CN)[RPG](2Mb) |
+| 579 | `圣火列传(繁)[晶科泰](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/圣火列传(繁)[晶科泰](CN)[RPG](2Mb)/> | 圣火列传(繁)[晶科泰](CN)[RPG](2Mb) |
+| 580 | `圣火少侠(繁)[南晶科技](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/圣火少侠(繁)[南晶科技](CN)[RPG](2Mb)/> | 圣火少侠(繁)[南晶科技](CN)[RPG](2Mb) |
+| 581 | `圣火徽章 - 索非亚复苏(简)[外星科技](JP)[SLG](5Mb)`：<https://fc.haiyong.site/games/圣火徽章 - 索非亚复苏(简)[外星科技](JP)[SLG](5Mb)/> | 圣火徽章 - 索非亚复苏(简)[外星科技](JP)[SLG](5Mb) |
+| 582 | `圣火徽章(简)[外星科技](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/圣火徽章(简)[外星科技](JP)[RPG](5Mb)/> | 圣火徽章(简)[外星科技](JP)[RPG](5Mb) |
+| 583 | `圣火徽章3(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/圣火徽章3(简)[外星科技](CN)[RPG](8Mb)/> | 圣火徽章3(简)[外星科技](CN)[RPG](8Mb) |
+| 585 | `圣火徽章外传(简)[酷哥电子](JP)[SLG](5Mb)`：<https://fc.haiyong.site/games/圣火徽章外传(简)[酷哥电子](JP)[SLG](5Mb)/> | 圣火徽章外传(简)[酷哥电子](JP)[SLG](5Mb) |
+| 587 | `圣铃传说(v2)(简)[MS](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/圣铃传说(v2)(简)[MS](JP)[ACT](3Mb)/> | 圣铃传说(v2)(简)[MS](JP)[ACT](3Mb) |
+| 588 | `圣铃传说(简)[高伟](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/圣铃传说(简)[高伟](JP)[ACT](3Mb)/> | 圣铃传说(简)[高伟](JP)[ACT](3Mb) |
+| 589 | `圣魔术师(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/圣魔术师(简)[高伟](JP)[ACT](2Mb)/> | 圣魔术师(简)[高伟](JP)[ACT](2Mb) |
+| 590 | `地狱极乐丸(v1.0)(简)[DMG](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/地狱极乐丸(v1.0)(简)[DMG](JP)[ACT](3Mb)/> | 地狱极乐丸(v1.0)(简)[DMG](JP)[ACT](3Mb) |
+| 591 | `地狱神探(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/地狱神探(简)[恒格电子](CN)[RPG](8Mb)/> | 地狱神探(简)[恒格电子](CN)[RPG](8Mb) |
+| 592 | `地道战(繁)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/地道战(繁)[外星科技](CN)[ACT](4Mb)/> | 地道战(繁)[外星科技](CN)[ACT](4Mb) |
+| 593 | `坦克1990(简)[九班](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/坦克1990(简)[九班](JP)[STG](0.31Mb)/> | 坦克1990(简)[九班](JP)[STG](0.31Mb) |
+| 594 | `坦克仔(简)[张晓波](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/坦克仔(简)[张晓波](JP)[STG](0.18Mb)/> | 坦克仔(简)[张晓波](JP)[STG](0.18Mb) |
+| 595 | `坦克大作战(简)[流心小雨](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/坦克大作战(简)[流心小雨](JP)[STG](0.18Mb)/> | 坦克大作战(简)[流心小雨](JP)[STG](0.18Mb) |
+| 596 | `坦克大战(简)[3DM](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/坦克大战(简)[3DM](JP)[STG](0.18Mb)/> | 坦克大战(简)[3DM](JP)[STG](0.18Mb) |
+| 597 | `坦克大战(简)[ENTA](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/坦克大战(简)[ENTA](JP)[STG](0.18Mb)/> | 坦克大战(简)[ENTA](JP)[STG](0.18Mb) |
+| 598 | `坦克大战(简)[虫虫](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/坦克大战(简)[虫虫](JP)[STG](0.18Mb)/> | 坦克大战(简)[虫虫](JP)[STG](0.18Mb) |
+| 599 | `坦克大战(简)[郭元](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/坦克大战(简)[郭元](JP)[STG](0.18Mb)/> | 坦克大战(简)[郭元](JP)[STG](0.18Mb) |
+| 600 | `坦克大战(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/坦克大战(简)[高伟](JP)[STG](0.18Mb)/> | 坦克大战(简)[高伟](JP)[STG](0.18Mb) |
+| 601 | `坦克大战2008(简)[叶枫](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/坦克大战2008(简)[叶枫](JP)[STG](0.18Mb)/> | 坦克大战2008(简)[叶枫](JP)[STG](0.18Mb) |
+| 602 | `坦克游戏大战(简)[流心小雨](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/坦克游戏大战(简)[流心小雨](JP)[STG](0.18Mb)/> | 坦克游戏大战(简)[流心小雨](JP)[STG](0.18Mb) |
+| 603 | `坦克风云(简)[金明](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/坦克风云(简)[金明](JP)[STG](0.18Mb)/> | 坦克风云(简)[金明](JP)[STG](0.18Mb) |
+| 604 | `坦克风云(繁)[三协资讯](CN)[STG](0.5Mb)`：<https://fc.haiyong.site/games/坦克风云(繁)[三协资讯](CN)[STG](0.5Mb)/> | 坦克风云(繁)[三协资讯](CN)[STG](0.5Mb) |
+| 605 | `埃及(简)[MS](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/埃及(简)[MS](JP)[PUZ](0.5Mb)/> | 埃及(简)[MS](JP)[PUZ](0.5Mb) |
+| 606 | `城堡探险(简)[MM之神](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/城堡探险(简)[MM之神](JP)[ACT](0.5Mb)/> | 城堡探险(简)[MM之神](JP)[ACT](0.5Mb) |
+| 607 | `基督山恩仇记(繁)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/基督山恩仇记(繁)[外星科技](CN)[SLG](4Mb)/> | 基督山恩仇记(繁)[外星科技](CN)[SLG](4Mb) |
+| 608 | `塞外奇侠传(简)[恒格电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/塞外奇侠传(简)[恒格电子](CN)[RPG](4Mb)/> | 塞外奇侠传(简)[恒格电子](CN)[RPG](4Mb) |
+| 609 | `塞尔达传说 - 三神之力(简)[外星科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/塞尔达传说 - 三神之力(简)[外星科技](CN)[RPG](16Mb)/> | 塞尔达传说 - 三神之力(简)[外星科技](CN)[RPG](16Mb) |
+| 610 | `塞尔达传说 - 神奇的帽子(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/塞尔达传说 - 神奇的帽子(简)[南晶科技](CN)[RPG](16Mb)/> | 塞尔达传说 - 神奇的帽子(简)[南晶科技](CN)[RPG](16Mb) |
+| 611 | `塞尔达传说(Zpix)(简)[小笨笨](US)[RPG](1Mb)`：<https://fc.haiyong.site/games/塞尔达传说(Zpix)(简)[小笨笨](US)[RPG](1Mb)/> | 塞尔达传说(Zpix)(简)[小笨笨](US)[RPG](1Mb) |
+| 612 | `塞尔达传说(简)[小笨笨](US)[RPG](1Mb)`：<https://fc.haiyong.site/games/塞尔达传说(简)[小笨笨](US)[RPG](1Mb)/> | 塞尔达传说(简)[小笨笨](US)[RPG](1Mb) |
+| 613 | `塞尔达传说2 - 林克的冒险(简)[小笨笨](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/塞尔达传说2 - 林克的冒险(简)[小笨笨](US)[ACT](2Mb)/> | 塞尔达传说2 - 林克的冒险(简)[小笨笨](US)[ACT](2Mb) |
+| 614 | `外星战士(简)[外星科技+147201688](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/外星战士(简)[外星科技+147201688](CN)[RPG](4Mb)/> | 外星战士(简)[外星科技+147201688](CN)[RPG](4Mb) |
+| 615 | `外星战士(繁)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/外星战士(繁)[外星科技](CN)[RPG](4Mb)/> | 外星战士(繁)[外星科技](CN)[RPG](4Mb) |
+| 616 | `外星战士2(简)[外星科技+147201688](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/外星战士2(简)[外星科技+147201688](CN)[RPG](8Mb)/> | 外星战士2(简)[外星科技+147201688](CN)[RPG](8Mb) |
+| 617 | `外星战士2(繁)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/外星战士2(繁)[外星科技](CN)[RPG](8Mb)/> | 外星战士2(繁)[外星科技](CN)[RPG](8Mb) |
+| 618 | `外星战将(修正版)(简)[AXI+庞先生](JP)[ACT](3.25Mb)`：<https://fc.haiyong.site/games/外星战将(修正版)(简)[AXI+庞先生](JP)[ACT](3.25Mb)/> | 外星战将(修正版)(简)[AXI+庞先生](JP)[ACT](3.25Mb) |
+| 619 | `外星战将(简)[AXI](JP)[ACT](3.25Mb)`：<https://fc.haiyong.site/games/外星战将(简)[AXI](JP)[ACT](3.25Mb)/> | 外星战将(简)[AXI](JP)[ACT](3.25Mb) |
+| 620 | `外星战将(简)[中伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/外星战将(简)[中伟](JP)[ACT](2Mb)/> | 外星战将(简)[中伟](JP)[ACT](2Mb) |
+| 621 | `外星战将(简)[冰组](JP)[ACT](3.25Mb)`：<https://fc.haiyong.site/games/外星战将(简)[冰组](JP)[ACT](3.25Mb)/> | 外星战将(简)[冰组](JP)[ACT](3.25Mb) |
+| 622 | `夜明珠(繁)[外星科技](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/夜明珠(繁)[外星科技](CN)[FTG](3Mb)/> | 夜明珠(繁)[外星科技](CN)[FTG](3Mb) |
+| 623 | `大侠客 - 楚留香(简)[火星电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/大侠客 - 楚留香(简)[火星电子](CN)[RPG](8Mb)/> | 大侠客 - 楚留香(简)[火星电子](CN)[RPG](8Mb) |
+| 624 | `大力工头阿源君(v1.0)(简)[DMG](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/大力工头阿源君(v1.0)(简)[DMG](JP)[ACT](3Mb)/> | 大力工头阿源君(v1.0)(简)[DMG](JP)[ACT](3Mb) |
+| 625 | `大力工头阿源君2 - 赤毛弹的逆袭(v1.0)(H3001)(简)[DMG+Advance](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/大力工头阿源君2 - 赤毛弹的逆袭(v1.0)(H3001)(简)[DMG+Advance](JP)[ACT](4Mb)/> | 大力工头阿源君2 - 赤毛弹的逆袭(v1.0)(H3001)(简)[DMG+Advance](JP)[ACT](4Mb) |
+| 626 | `大力工头阿源君2 - 赤毛弹的逆袭(v1.0)(MMC5)(简)[DMG+Advance](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/大力工头阿源君2 - 赤毛弹的逆袭(v1.0)(MMC5)(简)[DMG+Advance](JP)[ACT](4Mb)/> | 大力工头阿源君2 - 赤毛弹的逆袭(v1.0)(MMC5)(简)[DMG+Advance](JP)[ACT](4Mb) |
+| 627 | `大力水手(简)[MS](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/大力水手(简)[MS](JUE)[ACT](0.18Mb)/> | 大力水手(简)[MS](JUE)[ACT](0.18Mb) |
+| 628 | `大力水手(简)[虫儿](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/大力水手(简)[虫儿](JUE)[ACT](0.18Mb)/> | 大力水手(简)[虫儿](JUE)[ACT](0.18Mb) |
+| 629 | `大唐风云4(简)[恒格电子](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/大唐风云4(简)[恒格电子](JP)[SLG](4Mb)/> | 大唐风云4(简)[恒格电子](JP)[SLG](4Mb) |
+| 630 | `大大眼蛙大冒险(简)[虫虫](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/大大眼蛙大冒险(简)[虫虫](JP)[PUZ](0.5Mb)/> | 大大眼蛙大冒险(简)[虫虫](JP)[PUZ](0.5Mb) |
+| 631 | `大战略(简)[未知](JP)[SLG](2Mb)`：<https://fc.haiyong.site/games/大战略(简)[未知](JP)[SLG](2Mb)/> | 大战略(简)[未知](JP)[SLG](2Mb) |
+| 632 | `大盗伍佑卫门 - 天下宝藏(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/大盗伍佑卫门 - 天下宝藏(简)[外星科技](JP)[RPG](6Mb)/> | 大盗伍佑卫门 - 天下宝藏(简)[外星科技](JP)[RPG](6Mb) |
+| 633 | `大眼蛙可乐比的大冒险2(简)[夜幕星辰](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/大眼蛙可乐比的大冒险2(简)[夜幕星辰](JP)[ACT](2Mb)/> | 大眼蛙可乐比的大冒险2(简)[夜幕星辰](JP)[ACT](2Mb) |
+| 634 | `大眼蛙可洛比的大冒险2 - 甜甜圈池塘大骚动(v20230105)(简)[KasuraJ](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/大眼蛙可洛比的大冒险2 - 甜甜圈池塘大骚动(v20230105)(简)[KasuraJ](JP)[ACT](4Mb)/> | 大眼蛙可洛比的大冒险2 - 甜甜圈池塘大骚动(v20230105)(简)[KasuraJ](JP)[ACT](4Mb) |
+| 635 | `大眼蛙大冒险(v1.0)(简)[九班](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/大眼蛙大冒险(v1.0)(简)[九班](JP)[PUZ](0.5Mb)/> | 大眼蛙大冒险(v1.0)(简)[九班](JP)[PUZ](0.5Mb) |
+| 636 | `大航海7(繁)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/大航海7(繁)[外星科技](CN)[SLG](4Mb)/> | 大航海7(繁)[外星科技](CN)[SLG](4Mb) |
+| 637 | `大蜈蚣(简)[虫儿](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/大蜈蚣(简)[虫儿](JP)[STG](0.18Mb)/> | 大蜈蚣(简)[虫儿](JP)[STG](0.18Mb) |
+| 638 | `大蜜蜂(简)[MS](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/大蜜蜂(简)[MS](JP)[STG](0.18Mb)/> | 大蜜蜂(简)[MS](JP)[STG](0.18Mb) |
+| 639 | `大蜜蜂(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/大蜜蜂(简)[高伟](JP)[STG](0.18Mb)/> | 大蜜蜂(简)[高伟](JP)[STG](0.18Mb) |
+| 640 | `大话三国(繁)[火星电子](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/大话三国(繁)[火星电子](CN)[SLG](4Mb)/> | 大话三国(繁)[火星电子](CN)[SLG](4Mb) |
+| 641 | `大话水浒(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/大话水浒(简)[南晶科技](CN)[RPG](8Mb)/> | 大话水浒(简)[南晶科技](CN)[RPG](8Mb) |
+| 642 | `大话西游(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/大话西游(简)[南晶科技](CN)[RPG](8Mb)/> | 大话西游(简)[南晶科技](CN)[RPG](8Mb) |
+| 643 | `大话西游(繁)[火星电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/大话西游(繁)[火星电子](CN)[RPG](4Mb)/> | 大话西游(繁)[火星电子](CN)[RPG](4Mb) |
+| 644 | `大金刚(简)[Madcell](JUE)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/大金刚(简)[Madcell](JUE)[ACT](0.37Mb)/> | 大金刚(简)[Madcell](JUE)[ACT](0.37Mb) |
+| 645 | `大金刚(简)[MS](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/大金刚(简)[MS](JUE)[ACT](0.18Mb)/> | 大金刚(简)[MS](JUE)[ACT](0.18Mb) |
+| 646 | `大金刚(简)[高伟](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/大金刚(简)[高伟](JUE)[ACT](0.18Mb)/> | 大金刚(简)[高伟](JUE)[ACT](0.18Mb) |
+| 647 | `大金刚3(简)[MS](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/大金刚3(简)[MS](JUE)[ACT](0.18Mb)/> | 大金刚3(简)[MS](JUE)[ACT](0.18Mb) |
+| 648 | `大金刚3(简)[高伟](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/大金刚3(简)[高伟](JUE)[ACT](0.18Mb)/> | 大金刚3(简)[高伟](JUE)[ACT](0.18Mb) |
+| 649 | `大金刚Jr(简)[MS](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/大金刚Jr(简)[MS](JUE)[ACT](0.18Mb)/> | 大金刚Jr(简)[MS](JUE)[ACT](0.18Mb) |
+| 650 | `大金刚Jr(简)[高伟](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/大金刚Jr(简)[高伟](JUE)[ACT](0.18Mb)/> | 大金刚Jr(简)[高伟](JUE)[ACT](0.18Mb) |
+| 651 | `天使之翼2 - 超级神射手(v20180822)(简)[外星科技+太阳王子葵新伍](JP)[SPG](6Mb)`：<https://fc.haiyong.site/games/天使之翼2 - 超级神射手(v20180822)(简)[外星科技+太阳王子葵新伍](JP)[SPG](6Mb)/> | 天使之翼2 - 超级神射手(v20180822)(简)[外星科技+太阳王子葵新伍](JP)[SPG](6Mb) |
+| 652 | `天使之翼2 - 超级神射手(第二版)(简)[外星科技+KANOU](JP)[SPG](6Mb)`：<https://fc.haiyong.site/games/天使之翼2 - 超级神射手(第二版)(简)[外星科技+KANOU](JP)[SPG](6Mb)/> | 天使之翼2 - 超级神射手(第二版)(简)[外星科技+KANOU](JP)[SPG](6Mb) |
+| 653 | `天使之翼2 - 超级神射手(简)[MS](JP)[SPG](6Mb)`：<https://fc.haiyong.site/games/天使之翼2 - 超级神射手(简)[MS](JP)[SPG](6Mb)/> | 天使之翼2 - 超级神射手(简)[MS](JP)[SPG](6Mb) |
+| 654 | `天使之翼2 - 超级神射手(简)[外星科技](JP)[SPG](6Mb)`：<https://fc.haiyong.site/games/天使之翼2 - 超级神射手(简)[外星科技](JP)[SPG](6Mb)/> | 天使之翼2 - 超级神射手(简)[外星科技](JP)[SPG](6Mb) |
+| 655 | `天使之翼2 - 超级神射手(繁)[外星科技+Lirdrepus](JP)[SPG](6Mb)`：<https://fc.haiyong.site/games/天使之翼2 - 超级神射手(繁)[外星科技+Lirdrepus](JP)[SPG](6Mb)/> | 天使之翼2 - 超级神射手(繁)[外星科技+Lirdrepus](JP)[SPG](6Mb) |
+| 656 | `天堂鸟(简)[高伟](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/天堂鸟(简)[高伟](JP)[STG](0.5Mb)/> | 天堂鸟(简)[高伟](JP)[STG](0.5Mb) |
+| 657 | `天才小子(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/天才小子(简)[外星科技](CN)[SLG](4Mb)/> | 天才小子(简)[外星科技](CN)[SLG](4Mb) |
+| 658 | `天王降魔传(解密版)(简)[外星科技+WXN](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/天王降魔传(解密版)(简)[外星科技+WXN](CN)[ACT](4Mb)/> | 天王降魔传(解密版)(简)[外星科技+WXN](CN)[ACT](4Mb) |
+| 659 | `天神之剑(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/天神之剑(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb)/> | 天神之剑(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb) |
+| 660 | `天神之剑[外星科技+temryu修正](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/天神之剑[外星科技+temryu修正](JP)[RPG](6Mb)/> | 天神之剑[外星科技+temryu修正](JP)[RPG](6Mb) |
+| 661 | `天龙八部(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/天龙八部(简)[南晶科技](CN)[RPG](8Mb)/> | 天龙八部(简)[南晶科技](CN)[RPG](8Mb) |
+| 662 | `太空入侵者(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/太空入侵者(简)[高伟](JP)[STG](0.18Mb)/> | 太空入侵者(简)[高伟](JP)[STG](0.18Mb) |
+| 663 | `太空射击战(v20220219)(繁)[Nokoh](US)[STG](1.43Mb)`：<https://fc.haiyong.site/games/太空射击战(v20220219)(繁)[Nokoh](US)[STG](1.43Mb)/> | 太空射击战(v20220219)(繁)[Nokoh](US)[STG](1.43Mb) |
+| 664 | `太空幻想(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/太空幻想(简)[南晶科技](CN)[RPG](16Mb)/> | 太空幻想(简)[南晶科技](CN)[RPG](16Mb) |
+| 665 | `太空战士5(繁)[火星电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/太空战士5(繁)[火星电子](CN)[RPG](4Mb)/> | 太空战士5(繁)[火星电子](CN)[RPG](4Mb) |
+| 666 | `太空立体战(简)[高伟](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/太空立体战(简)[高伟](JP)[STG](0.31Mb)/> | 太空立体战(简)[高伟](JP)[STG](0.31Mb) |
+| 667 | `太空青蛙(v1.0)(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/太空青蛙(v1.0)(简)[高伟](JP)[STG](0.18Mb)/> | 太空青蛙(v1.0)(简)[高伟](JP)[STG](0.18Mb) |
+| 668 | `太空青蛙(简)[虫虫](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/太空青蛙(简)[虫虫](JP)[STG](0.18Mb)/> | 太空青蛙(简)[虫虫](JP)[STG](0.18Mb) |
+| 669 | `太阳勇者 - 火鸟(简)[hjind1213](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/太阳勇者 - 火鸟(简)[hjind1213](JP)[STG](2Mb)/> | 太阳勇者 - 火鸟(简)[hjind1213](JP)[STG](2Mb) |
+| 670 | `太阳超人(简)[MM之神](EU)[ACT](2Mb)`：<https://fc.haiyong.site/games/太阳超人(简)[MM之神](EU)[ACT](2Mb)/> | 太阳超人(简)[MM之神](EU)[ACT](2Mb) |
+| 671 | `失落的神器(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/失落的神器(简)[晶科泰](CN)[RPG](8Mb)/> | 失落的神器(简)[晶科泰](CN)[RPG](8Mb) |
+| 672 | `夺宝小英豪 - 光明与黑暗传说(繁)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/夺宝小英豪 - 光明与黑暗传说(繁)[外星科技](CN)[RPG](4Mb)/> | 夺宝小英豪 - 光明与黑暗传说(繁)[外星科技](CN)[RPG](4Mb) |
+| 673 | `奇奇与蒂蒂大作战(v1.1)(简)[汉化你妹](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/奇奇与蒂蒂大作战(v1.1)(简)[汉化你妹](JP)[ACT](3Mb)/> | 奇奇与蒂蒂大作战(v1.1)(简)[汉化你妹](JP)[ACT](3Mb) |
+| 674 | `奇奇与蒂蒂大作战2(v1.13)(简)[汉化你妹](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/奇奇与蒂蒂大作战2(v1.13)(简)[汉化你妹](JP)[ACT](3Mb)/> | 奇奇与蒂蒂大作战2(v1.13)(简)[汉化你妹](JP)[ACT](3Mb) |
+| 675 | `奔力电脑学习机(简)[奔力](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/奔力电脑学习机(简)[奔力](CN)[ETC](8Mb)/> | 奔力电脑学习机(简)[奔力](CN)[ETC](8Mb) |
+| 676 | `女神的救赎[外星科技+腓特烈修正](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/女神的救赎[外星科技+腓特烈修正](JP)[RPG](5Mb)/> | 女神的救赎[外星科技+腓特烈修正](JP)[RPG](5Mb) |
+| 677 | `妖怪俱乐部(简)[虫儿](JP)[ACT](1.25Mb)`：<https://fc.haiyong.site/games/妖怪俱乐部(简)[虫儿](JP)[ACT](1.25Mb)/> | 妖怪俱乐部(简)[虫儿](JP)[ACT](1.25Mb) |
+| 678 | `威洛传奇(修正版)(简)[金巴比伦+Vanyogin](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/威洛传奇(修正版)(简)[金巴比伦+Vanyogin](JP)[RPG](6Mb)/> | 威洛传奇(修正版)(简)[金巴比伦+Vanyogin](JP)[RPG](6Mb) |
+| 679 | `威洛传奇(简)[金巴比伦](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/威洛传奇(简)[金巴比伦](JP)[RPG](4Mb)/> | 威洛传奇(简)[金巴比伦](JP)[RPG](4Mb) |
+| 680 | `孙孙(v20220219)(繁)[Nokoh](JP)[STG](0.62Mb)`：<https://fc.haiyong.site/games/孙孙(v20220219)(繁)[Nokoh](JP)[STG](0.62Mb)/> | 孙孙(v20220219)(繁)[Nokoh](JP)[STG](0.62Mb) |
+| 681 | `孙小毛奇幻岛(繁)[年代科技](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/孙小毛奇幻岛(繁)[年代科技](JP)[ACT](0.5Mb)/> | 孙小毛奇幻岛(繁)[年代科技](JP)[ACT](0.5Mb) |
+| 682 | `孤独战士 - 惑星戒严令(v1.0)(简)[业余](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/孤独战士 - 惑星戒严令(v1.0)(简)[业余](JP)[STG](2Mb)/> | 孤独战士 - 惑星戒严令(v1.0)(简)[业余](JP)[STG](2Mb) |
+| 683 | `学习Windows 2000(简)[未知](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/学习Windows 2000(简)[未知](CN)[ETC](4Mb)/> | 学习Windows 2000(简)[未知](CN)[ETC](4Mb) |
+| 684 | `学生电脑(简)[小视霸](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/学生电脑(简)[小视霸](CN)[ETC](4Mb)/> | 学生电脑(简)[小视霸](CN)[ETC](4Mb) |
+| 685 | `学生电脑(简)[未知](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/学生电脑(简)[未知](CN)[ETC](4Mb)/> | 学生电脑(简)[未知](CN)[ETC](4Mb) |
+| 686 | `学生电脑(简)[高昇达](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/学生电脑(简)[高昇达](CN)[ETC](4Mb)/> | 学生电脑(简)[高昇达](CN)[ETC](4Mb) |
+| 687 | `宇宙巡航机(v0.9)(简)[高伟](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/宇宙巡航机(v0.9)(简)[高伟](JP)[STG](0.5Mb)/> | 宇宙巡航机(v0.9)(简)[高伟](JP)[STG](0.5Mb) |
+| 688 | `宇宙巡航机(简)[虫儿](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/宇宙巡航机(简)[虫儿](JP)[STG](0.5Mb)/> | 宇宙巡航机(简)[虫儿](JP)[STG](0.5Mb) |
+| 689 | `宇宙巡航机(繁)[罗云](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/宇宙巡航机(繁)[罗云](JP)[STG](0.5Mb)/> | 宇宙巡航机(繁)[罗云](JP)[STG](0.5Mb) |
+| 690 | `宇宙巡航机2(v0.9)(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/宇宙巡航机2(v0.9)(简)[高伟](JP)[STG](2Mb)/> | 宇宙巡航机2(v0.9)(简)[高伟](JP)[STG](2Mb) |
+| 691 | `宇宙巡航机2(简)[MS](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/宇宙巡航机2(简)[MS](JP)[STG](2Mb)/> | 宇宙巡航机2(简)[MS](JP)[STG](2Mb) |
+| 692 | `宇宙巡航机2(简)[虫儿](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/宇宙巡航机2(简)[虫儿](JP)[STG](2Mb)/> | 宇宙巡航机2(简)[虫儿](JP)[STG](2Mb) |
+| 693 | `宇宙战将(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/宇宙战将(简)[外星科技](JP)[RPG](4Mb)/> | 宇宙战将(简)[外星科技](JP)[RPG](4Mb) |
+| 694 | `宇宙警备队SDF(v1.0)(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/宇宙警备队SDF(v1.0)(简)[高伟](JP)[STG](2Mb)/> | 宇宙警备队SDF(v1.0)(简)[高伟](JP)[STG](2Mb) |
+| 695 | `宇宙警备队SDF(简)[虫虫](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/宇宙警备队SDF(简)[虫虫](JP)[STG](2Mb)/> | 宇宙警备队SDF(简)[虫虫](JP)[STG](2Mb) |
+| 696 | `守护者坦克(v0.9)(简)[高伟](US)[STG](0.75Mb)`：<https://fc.haiyong.site/games/守护者坦克(v0.9)(简)[高伟](US)[STG](0.75Mb)/> | 守护者坦克(v0.9)(简)[高伟](US)[STG](0.75Mb) |
+| 697 | `守护者坦克(简)[烈火暴龙](US)[STG](0.75Mb)`：<https://fc.haiyong.site/games/守护者坦克(简)[烈火暴龙](US)[STG](0.75Mb)/> | 守护者坦克(简)[烈火暴龙](US)[STG](0.75Mb) |
+| 698 | `守护者坦克(简)[虫虫](US)[STG](0.75Mb)`：<https://fc.haiyong.site/games/守护者坦克(简)[虫虫](US)[STG](0.75Mb)/> | 守护者坦克(简)[虫虫](US)[STG](0.75Mb) |
+| 699 | `宠物 - 红(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/宠物 - 红(简)[外星科技](CN)[RPG](8Mb)/> | 宠物 - 红(简)[外星科技](CN)[RPG](8Mb) |
+| 700 | `宠物 - 翡翠版(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/宠物 - 翡翠版(简)[外星科技](CN)[RPG](8Mb)/> | 宠物 - 翡翠版(简)[外星科技](CN)[RPG](8Mb) |
+| 701 | `宠物大家族(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/宠物大家族(简)[外星科技](CN)[RPG](8Mb)/> | 宠物大家族(简)[外星科技](CN)[RPG](8Mb) |
+| 702 | `宠物宝宝(简)[南晶科技](CN)[ETC](2Mb)`：<https://fc.haiyong.site/games/宠物宝宝(简)[南晶科技](CN)[ETC](2Mb)/> | 宠物宝宝(简)[南晶科技](CN)[ETC](2Mb) |
+| 703 | `宠物小精灵2(繁)[酷哥电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/宠物小精灵2(繁)[酷哥电子](CN)[RPG](8Mb)/> | 宠物小精灵2(繁)[酷哥电子](CN)[RPG](8Mb) |
+| 704 | `宠物小精灵4(简)[酷哥电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/宠物小精灵4(简)[酷哥电子](CN)[RPG](8Mb)/> | 宠物小精灵4(简)[酷哥电子](CN)[RPG](8Mb) |
+| 705 | `宠物小精灵6(简)[酷哥电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/宠物小精灵6(简)[酷哥电子](CN)[RPG](8Mb)/> | 宠物小精灵6(简)[酷哥电子](CN)[RPG](8Mb) |
+| 706 | `宠物进化史(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/宠物进化史(简)[外星科技](CN)[RPG](8Mb)/> | 宠物进化史(简)[外星科技](CN)[RPG](8Mb) |
+| 707 | `宠物高达战记(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/宠物高达战记(简)[南晶科技](CN)[RPG](8Mb)/> | 宠物高达战记(简)[南晶科技](CN)[RPG](8Mb) |
+| 708 | `宾尼兔大冒险(简)[汉化你妹](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/宾尼兔大冒险(简)[汉化你妹](JP)[ACT](3Mb)/> | 宾尼兔大冒险(简)[汉化你妹](JP)[ACT](3Mb) |
+| 709 | `富甲三国(简)[外星科技](CN)[TAB](8Mb)`：<https://fc.haiyong.site/games/富甲三国(简)[外星科技](CN)[TAB](8Mb)/> | 富甲三国(简)[外星科技](CN)[TAB](8Mb) |
+| 710 | `寻秦记(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/寻秦记(简)[南晶科技](CN)[RPG](4Mb)/> | 寻秦记(简)[南晶科技](CN)[RPG](4Mb) |
+| 711 | `导弹坦克(v1.0)(简)[九班](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/导弹坦克(v1.0)(简)[九班](JP)[STG](0.31Mb)/> | 导弹坦克(v1.0)(简)[九班](JP)[STG](0.31Mb) |
+| 712 | `导弹坦克(简)[烟山科技](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/导弹坦克(简)[烟山科技](JP)[STG](0.31Mb)/> | 导弹坦克(简)[烟山科技](JP)[STG](0.31Mb) |
+| 713 | `封神榜 - 伏魔三太子(简)[全崴资讯+147201688](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/封神榜 - 伏魔三太子(简)[全崴资讯+147201688](CN)[RPG](8Mb)/> | 封神榜 - 伏魔三太子(简)[全崴资讯+147201688](CN)[RPG](8Mb) |
+| 714 | `封神榜 - 伏魔三太子(繁)[全崴资讯](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/封神榜 - 伏魔三太子(繁)[全崴资讯](CN)[RPG](8Mb)/> | 封神榜 - 伏魔三太子(繁)[全崴资讯](CN)[RPG](8Mb) |
+| 715 | `封神榜 - 伏魔三太子(繁)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/封神榜 - 伏魔三太子(繁)[晶科泰](CN)[RPG](8Mb)/> | 封神榜 - 伏魔三太子(繁)[晶科泰](CN)[RPG](8Mb) |
+| 716 | `封神榜(繁)[外星科技](CN)[FTG](4Mb)`：<https://fc.haiyong.site/games/封神榜(繁)[外星科技](CN)[FTG](4Mb)/> | 封神榜(繁)[外星科技](CN)[FTG](4Mb) |
+| 717 | `射雕英雄传(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/射雕英雄传(简)[南晶科技](CN)[RPG](4Mb)/> | 射雕英雄传(简)[南晶科技](CN)[RPG](4Mb) |
+| 718 | `将棋秘传 - 内藤九段(简)[九班](JP)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/将棋秘传 - 内藤九段(简)[九班](JP)[TAB](0.18Mb)/> | 将棋秘传 - 内藤九段(简)[九班](JP)[TAB](0.18Mb) |
+| 719 | `小人子射击(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/小人子射击(简)[高伟](JP)[STG](2Mb)/> | 小人子射击(简)[高伟](JP)[STG](2Mb) |
+| 720 | `小博士(简)[鸿达](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/小博士(简)[鸿达](CN)[ETC](8Mb)/> | 小博士(简)[鸿达](CN)[ETC](8Mb) |
+| 721 | `小学语文达标乐园(简)[小霸王](CN)[ETC](16Mb)`：<https://fc.haiyong.site/games/小学语文达标乐园(简)[小霸王](CN)[ETC](16Mb)/> | 小学语文达标乐园(简)[小霸王](CN)[ETC](16Mb) |
+| 722 | `小小魔法师(简)[LSP](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/小小魔法师(简)[LSP](JP)[SLG](4Mb)/> | 小小魔法师(简)[LSP](JP)[SLG](4Mb) |
+| 723 | `小状元教学卡(A1.0)(简)[先达电子](CN)[ETC](1Mb)`：<https://fc.haiyong.site/games/小状元教学卡(A1.0)(简)[先达电子](CN)[ETC](1Mb)/> | 小状元教学卡(A1.0)(简)[先达电子](CN)[ETC](1Mb) |
+| 724 | `小玛琍(繁)[Idea-Tek](CN)[TAB](0.31Mb)`：<https://fc.haiyong.site/games/小玛琍(繁)[Idea-Tek](CN)[TAB](0.31Mb)/> | 小玛琍(繁)[Idea-Tek](CN)[TAB](0.31Mb) |
+| 725 | `小百科中英文学习机(简)[凌捷](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/小百科中英文学习机(简)[凌捷](CN)[ETC](4Mb)/> | 小百科中英文学习机(简)[凌捷](CN)[ETC](4Mb) |
+| 726 | `小红帽(繁)[洁晖](CN)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/小红帽(繁)[洁晖](CN)[ACT](0.31Mb)/> | 小红帽(繁)[洁晖](CN)[ACT](0.31Mb) |
+| 727 | `小美人鱼 - 人鱼公主(简)[中伟](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/小美人鱼 - 人鱼公主(简)[中伟](JP)[ACT](1Mb)/> | 小美人鱼 - 人鱼公主(简)[中伟](JP)[ACT](1Mb) |
+| 728 | `小美人鱼 - 人鱼公主(简)[冰组](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/小美人鱼 - 人鱼公主(简)[冰组](JP)[ACT](1Mb)/> | 小美人鱼 - 人鱼公主(简)[冰组](JP)[ACT](1Mb) |
+| 729 | `小蜜蜂(v1.0)(简)[MS](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/小蜜蜂(v1.0)(简)[MS](JP)[STG](0.18Mb)/> | 小蜜蜂(v1.0)(简)[MS](JP)[STG](0.18Mb) |
+| 730 | `小蜜蜂(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/小蜜蜂(简)[高伟](JP)[STG](0.18Mb)/> | 小蜜蜂(简)[高伟](JP)[STG](0.18Mb) |
+| 731 | `小霸王中英文电脑学习卡(v1.1)(简)[小霸王](CN)[ETC](2Mb)`：<https://fc.haiyong.site/games/小霸王中英文电脑学习卡(v1.1)(简)[小霸王](CN)[ETC](2Mb)/> | 小霸王中英文电脑学习卡(v1.1)(简)[小霸王](CN)[ETC](2Mb) |
+| 732 | `小霸王中英文电脑学习卡(v3.0)(简)[小霸王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/小霸王中英文电脑学习卡(v3.0)(简)[小霸王](CN)[ETC](4Mb)/> | 小霸王中英文电脑学习卡(v3.0)(简)[小霸王](CN)[ETC](4Mb) |
+| 733 | `小霸王中英文电脑学习卡(v4.0)(简)[小霸王](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/小霸王中英文电脑学习卡(v4.0)(简)[小霸王](CN)[ETC](8Mb)/> | 小霸王中英文电脑学习卡(v4.0)(简)[小霸王](CN)[ETC](8Mb) |
+| 734 | `小霸王中英文电脑学习卡(v5.0)(简)[小霸王](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/小霸王中英文电脑学习卡(v5.0)(简)[小霸王](CN)[ETC](8Mb)/> | 小霸王中英文电脑学习卡(v5.0)(简)[小霸王](CN)[ETC](8Mb) |
+| 735 | `小霸王中英文电脑学习卡(v6+)(简)[小霸王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/小霸王中英文电脑学习卡(v6+)(简)[小霸王](CN)[ETC](4Mb)/> | 小霸王中英文电脑学习卡(v6+)(简)[小霸王](CN)[ETC](4Mb) |
+| 736 | `小霸王中英文电脑学习卡(v6.0)(简)[小霸王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/小霸王中英文电脑学习卡(v6.0)(简)[小霸王](CN)[ETC](4Mb)/> | 小霸王中英文电脑学习卡(v6.0)(简)[小霸王](CN)[ETC](4Mb) |
+| 737 | `小霸王中英文电脑学习机(v8.0)(简)[小霸王](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/小霸王中英文电脑学习机(v8.0)(简)[小霸王](CN)[ETC](8Mb)/> | 小霸王中英文电脑学习机(v8.0)(简)[小霸王](CN)[ETC](8Mb) |
+| 738 | `小霸王学习卡16合1(简)[小霸王](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/小霸王学习卡16合1(简)[小霸王](CN)[ETC](8Mb)/> | 小霸王学习卡16合1(简)[小霸王](CN)[ETC](8Mb) |
+| 739 | `小霸王学习卡5合1(简)[小霸王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/小霸王学习卡5合1(简)[小霸王](CN)[ETC](4Mb)/> | 小霸王学习卡5合1(简)[小霸王](CN)[ETC](4Mb) |
+| 740 | `小鬼Q太郎[高伟汉化](1Mb)`：<https://fc.haiyong.site/games/小鬼Q太郎[高伟汉化](1Mb)/> | 小鬼Q太郎[高伟汉化](1Mb) |
+| 741 | `小魔怪2 - 新种诞生(简)[虫虫](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/小魔怪2 - 新种诞生(简)[虫虫](US)[ACT](3Mb)/> | 小魔怪2 - 新种诞生(简)[虫虫](US)[ACT](3Mb) |
+| 742 | `少年印第安纳琼斯大冒险(v1.1)(简)[溪流满月+KasuraJ](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/少年印第安纳琼斯大冒险(v1.1)(简)[溪流满月+KasuraJ](US)[ACT](3Mb)/> | 少年印第安纳琼斯大冒险(v1.1)(简)[溪流满月+KasuraJ](US)[ACT](3Mb) |
+| 743 | `少年游侠(简)[外星科技](CN)[RPG](6Mb)`：<https://fc.haiyong.site/games/少年游侠(简)[外星科技](CN)[RPG](6Mb)/> | 少年游侠(简)[外星科技](CN)[RPG](6Mb) |
+| 744 | `少林武者(简)[圣谦](CN)[ACT](2Mb)`：<https://fc.haiyong.site/games/少林武者(简)[圣谦](CN)[ACT](2Mb)/> | 少林武者(简)[圣谦](CN)[ACT](2Mb) |
+| 745 | `屠龙刀(繁)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/屠龙刀(繁)[外星科技](CN)[ACT](4Mb)/> | 屠龙刀(繁)[外星科技](CN)[ACT](4Mb) |
+| 746 | `屠龙记4(简)[孔雀天](JP)[ACT](1.5Mb)`：<https://fc.haiyong.site/games/屠龙记4(简)[孔雀天](JP)[ACT](1.5Mb)/> | 屠龙记4(简)[孔雀天](JP)[ACT](1.5Mb) |
+| 747 | `岳飞传(繁)[火星电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/岳飞传(繁)[火星电子](CN)[RPG](4Mb)/> | 岳飞传(繁)[火星电子](CN)[RPG](4Mb) |
+| 748 | `工人战记(简)[高伟](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/工人战记(简)[高伟](JP)[ACT](3Mb)/> | 工人战记(简)[高伟](JP)[ACT](3Mb) |
+| 749 | `工人战记2(v20201030)(简)[Advance](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/工人战记2(v20201030)(简)[Advance](JP)[ACT](3Mb)/> | 工人战记2(v20201030)(简)[Advance](JP)[ACT](3Mb) |
+| 750 | `希特勒复活(简)[TPU](JP)[ACT](2.25Mb)`：<https://fc.haiyong.site/games/希特勒复活(简)[TPU](JP)[ACT](2.25Mb)/> | 希特勒复活(简)[TPU](JP)[ACT](2.25Mb) |
+| 751 | `帝国战机(简)[幻想](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/帝国战机(简)[幻想](JP)[STG](2Mb)/> | 帝国战机(简)[幻想](JP)[STG](2Mb) |
+| 752 | `帝国战机(简)[虫虫](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/帝国战机(简)[虫虫](JP)[STG](2Mb)/> | 帝国战机(简)[虫虫](JP)[STG](2Mb) |
+| 753 | `帝国战机(简)[金明](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/帝国战机(简)[金明](JP)[STG](2Mb)/> | 帝国战机(简)[金明](JP)[STG](2Mb) |
+| 754 | `帝国时代(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/帝国时代(简)[外星科技](JP)[RPG](4Mb)/> | 帝国时代(简)[外星科技](JP)[RPG](4Mb) |
+| 755 | `帝国直升机(简)[小鬼混](US)[STG](0.18Mb)`：<https://fc.haiyong.site/games/帝国直升机(简)[小鬼混](US)[STG](0.18Mb)/> | 帝国直升机(简)[小鬼混](US)[STG](0.18Mb) |
+| 756 | `帝国风暴(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/帝国风暴(简)[外星科技](CN)[SLG](4Mb)/> | 帝国风暴(简)[外星科技](CN)[SLG](4Mb) |
+| 757 | `平成BT帝国战(简)[小鬼混](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/平成BT帝国战(简)[小鬼混](JP)[ACT](2Mb)/> | 平成BT帝国战(简)[小鬼混](JP)[ACT](2Mb) |
+| 758 | `幻世录(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/幻世录(简)[南晶科技](CN)[RPG](16Mb)/> | 幻世录(简)[南晶科技](CN)[RPG](16Mb) |
+| 759 | `幻想传说(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/幻想传说(简)[南晶科技](CN)[RPG](16Mb)/> | 幻想传说(简)[南晶科技](CN)[RPG](16Mb) |
+| 760 | `幽游白书 - 魔界最强列传(繁)[卡圣](CN)[FTG](5Mb)`：<https://fc.haiyong.site/games/幽游白书 - 魔界最强列传(繁)[卡圣](CN)[FTG](5Mb)/> | 幽游白书 - 魔界最强列传(繁)[卡圣](CN)[FTG](5Mb) |
+| 761 | `幽游白书5(繁)[卡圣](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/幽游白书5(繁)[卡圣](CN)[FTG](3Mb)/> | 幽游白书5(繁)[卡圣](CN)[FTG](3Mb) |
+| 762 | `幽灵列车(简)[外星科技](JP)[AVG](4Mb)`：<https://fc.haiyong.site/games/幽灵列车(简)[外星科技](JP)[AVG](4Mb)/> | 幽灵列车(简)[外星科技](JP)[AVG](4Mb) |
+| 763 | `幽灵行动(简)[恒格电子](CN)[RPG](6Mb)`：<https://fc.haiyong.site/games/幽灵行动(简)[恒格电子](CN)[RPG](6Mb)/> | 幽灵行动(简)[恒格电子](CN)[RPG](6Mb) |
+| 764 | `库尼沃库君的热血足球(简)[王龙](JP)[SPG](2Mb)`：<https://fc.haiyong.site/games/库尼沃库君的热血足球(简)[王龙](JP)[SPG](2Mb)/> | 库尼沃库君的热血足球(简)[王龙](JP)[SPG](2Mb) |
+| 765 | `康体舞王(繁)[未知](CN)[ETC](2Mb)`：<https://fc.haiyong.site/games/康体舞王(繁)[未知](CN)[ETC](2Mb)/> | 康体舞王(繁)[未知](CN)[ETC](2Mb) |
+| 766 | `异域诛魂(简)[孔雀天](US)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/异域诛魂(简)[孔雀天](US)[ACT](0.5Mb)/> | 异域诛魂(简)[孔雀天](US)[ACT](0.5Mb) |
+| 767 | `异域诛魂(简)[虫虫](US)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/异域诛魂(简)[虫虫](US)[ACT](0.5Mb)/> | 异域诛魂(简)[虫虫](US)[ACT](0.5Mb) |
+| 768 | `异形 - 太空探险者(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/异形 - 太空探险者(简)[南晶科技](CN)[RPG](4Mb)/> | 异形 - 太空探险者(简)[南晶科技](CN)[RPG](4Mb) |
+| 769 | `异形3(v1.1)(简)[DMG](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/异形3(v1.1)(简)[DMG](US)[ACT](2Mb)/> | 异形3(v1.1)(简)[DMG](US)[ACT](2Mb) |
+| 770 | `弹射球(修正版)(简)[8GUA+MS](JP)[PUZ](0.31Mb)`：<https://fc.haiyong.site/games/弹射球(修正版)(简)[8GUA+MS](JP)[PUZ](0.31Mb)/> | 弹射球(修正版)(简)[8GUA+MS](JP)[PUZ](0.31Mb) |
+| 771 | `弹珠台(简)[MS](JU)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/弹珠台(简)[MS](JU)[TAB](0.18Mb)/> | 弹珠台(简)[MS](JU)[TAB](0.18Mb) |
+| 772 | `弹珠台(简)[高伟](JU)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/弹珠台(简)[高伟](JU)[TAB](0.18Mb)/> | 弹珠台(简)[高伟](JU)[TAB](0.18Mb) |
+| 773 | `影之传说(v1.0)(街机版)(简)[KasuraJ](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/影之传说(v1.0)(街机版)(简)[KasuraJ](JP)[ACT](1Mb)/> | 影之传说(v1.0)(街机版)(简)[KasuraJ](JP)[ACT](1Mb) |
+| 774 | `影之传说(v20220217)(繁)[Nokoh](JP)[ACT](0.81Mb)`：<https://fc.haiyong.site/games/影之传说(v20220217)(繁)[Nokoh](JP)[ACT](0.81Mb)/> | 影之传说(v20220217)(繁)[Nokoh](JP)[ACT](0.81Mb) |
+| 775 | `影之传说(v20230420)(简)[Nokoh+fciq](JP)[ACT](0.81Mb)`：<https://fc.haiyong.site/games/影之传说(v20230420)(简)[Nokoh+fciq](JP)[ACT](0.81Mb)/> | 影之传说(v20230420)(简)[Nokoh+fciq](JP)[ACT](0.81Mb) |
+| 776 | `影子传说(v0.9)(简)[高伟](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/影子传说(v0.9)(简)[高伟](JP)[ACT](0.37Mb)/> | 影子传说(v0.9)(简)[高伟](JP)[ACT](0.37Mb) |
+| 777 | `影子传说(简)[冰组](JP)[ACT](0.62Mb)`：<https://fc.haiyong.site/games/影子传说(简)[冰组](JP)[ACT](0.62Mb)/> | 影子传说(简)[冰组](JP)[ACT](0.62Mb) |
+| 778 | `征战天下(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/征战天下(简)[晶科泰](CN)[RPG](8Mb)/> | 征战天下(简)[晶科泰](CN)[RPG](8Mb) |
+| 779 | `征服太阳系+小管家(简)[小霸王](CN)[PUZ](4Mb)`：<https://fc.haiyong.site/games/征服太阳系+小管家(简)[小霸王](CN)[PUZ](4Mb)/> | 征服太阳系+小管家(简)[小霸王](CN)[PUZ](4Mb) |
+| 780 | `御猫传奇(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/御猫传奇(简)[外星科技](CN)[RPG](8Mb)/> | 御猫传奇(简)[外星科技](CN)[RPG](8Mb) |
+| 781 | `忍者 - 阿修罗之章(v0.9)(简)[高伟](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/忍者 - 阿修罗之章(v0.9)(简)[高伟](JP)[ACT](1Mb)/> | 忍者 - 阿修罗之章(v0.9)(简)[高伟](JP)[ACT](1Mb) |
+| 782 | `忍者 - 阿修罗之章(简)[金明](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/忍者 - 阿修罗之章(简)[金明](JP)[ACT](1Mb)/> | 忍者 - 阿修罗之章(简)[金明](JP)[ACT](1Mb) |
+| 783 | `忍者传说(修正版)(简)[中伟+MS](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/忍者传说(修正版)(简)[中伟+MS](JP)[ACT](0.37Mb)/> | 忍者传说(修正版)(简)[中伟+MS](JP)[ACT](0.37Mb) |
+| 784 | `忍者战士 - 龙牙(简)[少年不知愁](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/忍者战士 - 龙牙(简)[少年不知愁](JP)[ACT](2Mb)/> | 忍者战士 - 龙牙(简)[少年不知愁](JP)[ACT](2Mb) |
+| 785 | `忍者特训(简)[金明](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/忍者特训(简)[金明](JP)[ACT](0.18Mb)/> | 忍者特训(简)[金明](JP)[ACT](0.18Mb) |
+| 786 | `忍者神龟 - 激烈格斗(v20230622)(简)[Nokoh+fciq](US)[FTG](2.25Mb)`：<https://fc.haiyong.site/games/忍者神龟 - 激烈格斗(v20230622)(简)[Nokoh+fciq](US)[FTG](2.25Mb)/> | 忍者神龟 - 激烈格斗(v20230622)(简)[Nokoh+fciq](US)[FTG](2.25Mb) |
+| 787 | `忍者神龟(v20230415)(简)[Nokoh+fciq](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/忍者神龟(v20230415)(简)[Nokoh+fciq](JP)[ACT](6Mb)/> | 忍者神龟(v20230415)(简)[Nokoh+fciq](JP)[ACT](6Mb) |
+| 788 | `忍者神龟2 - 曼哈顿计划(v1.1)[未名汉化组 + 法兰克飞鸟汉化](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/忍者神龟2 - 曼哈顿计划(v1.1)[未名汉化组 + 法兰克飞鸟汉化](JP)[ACT](6Mb)/> | 忍者神龟2 - 曼哈顿计划(v1.1)[未名汉化组 + 法兰克飞鸟汉化](JP)[ACT](6Mb) |
+| 789 | `忍者神龟2(修正版)(简)[勒大治+MS](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/忍者神龟2(修正版)(简)[勒大治+MS](US)[ACT](4Mb)/> | 忍者神龟2(修正版)(简)[勒大治+MS](US)[ACT](4Mb) |
+| 790 | `忍者神龟2(简)[星空](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/忍者神龟2(简)[星空](US)[ACT](4Mb)/> | 忍者神龟2(简)[星空](US)[ACT](4Mb) |
+| 791 | `忍者神龟2(简)[樱组](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/忍者神龟2(简)[樱组](US)[ACT](4Mb)/> | 忍者神龟2(简)[樱组](US)[ACT](4Mb) |
+| 792 | `忍者神龟3 - 曼哈顿计划(v1.2)(简)[未名+法兰克飞鸟](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/忍者神龟3 - 曼哈顿计划(v1.2)(简)[未名+法兰克飞鸟](JP)[ACT](6Mb)/> | 忍者神龟3 - 曼哈顿计划(v1.2)(简)[未名+法兰克飞鸟](JP)[ACT](6Mb) |
+| 793 | `忍者神龟3(修正版)(简)[勒大治+MS](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/忍者神龟3(修正版)(简)[勒大治+MS](JP)[ACT](4Mb)/> | 忍者神龟3(修正版)(简)[勒大治+MS](JP)[ACT](4Mb) |
+| 794 | `忍者茶茶丸(v0.9)(简)[高伟](JP)[ACT](0.25Mb)`：<https://fc.haiyong.site/games/忍者茶茶丸(v0.9)(简)[高伟](JP)[ACT](0.25Mb)/> | 忍者茶茶丸(v0.9)(简)[高伟](JP)[ACT](0.25Mb) |
+| 795 | `忍者茶茶丸君(v20111227)(繁)[Nokoh](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/忍者茶茶丸君(v20111227)(繁)[Nokoh](JP)[ACT](0.5Mb)/> | 忍者茶茶丸君(v20111227)(繁)[Nokoh](JP)[ACT](0.5Mb) |
+| 796 | `忍者茶茶丸君(v3)(简)[MS](JP)[ACT](0.25Mb)`：<https://fc.haiyong.site/games/忍者茶茶丸君(v3)(简)[MS](JP)[ACT](0.25Mb)/> | 忍者茶茶丸君(v3)(简)[MS](JP)[ACT](0.25Mb) |
+| 797 | `忍者龙剑传(简)[TPU](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/忍者龙剑传(简)[TPU](JP)[ACT](3Mb)/> | 忍者龙剑传(简)[TPU](JP)[ACT](3Mb) |
+| 798 | `忍者龙剑传2 - 暗黑邪神剑(简)[TPU](JP)[ACT](2.56Mb)`：<https://fc.haiyong.site/games/忍者龙剑传2 - 暗黑邪神剑(简)[TPU](JP)[ACT](2.56Mb)/> | 忍者龙剑传2 - 暗黑邪神剑(简)[TPU](JP)[ACT](2.56Mb) |
+| 799 | `忍者龙剑传3 - 黄泉方舟(简)[Peacock Wang](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/忍者龙剑传3 - 黄泉方舟(简)[Peacock Wang](JP)[ACT](2Mb)/> | 忍者龙剑传3 - 黄泉方舟(简)[Peacock Wang](JP)[ACT](2Mb) |
+| 800 | `忍者龙剑传3 - 黄泉方舟(简)[TPU](JP)[ACT](2.62Mb)`：<https://fc.haiyong.site/games/忍者龙剑传3 - 黄泉方舟(简)[TPU](JP)[ACT](2.62Mb)/> | 忍者龙剑传3 - 黄泉方舟(简)[TPU](JP)[ACT](2.62Mb) |
+| 801 | `忍者龟 - 激烈格斗(v20220223)(繁)[Nokoh](US)[FTG](2.25Mb)`：<https://fc.haiyong.site/games/忍者龟 - 激烈格斗(v20220223)(繁)[Nokoh](US)[FTG](2.25Mb)/> | 忍者龟 - 激烈格斗(v20220223)(繁)[Nokoh](US)[FTG](2.25Mb) |
+| 802 | `忍者龟(v20230408)(繁)[Nokoh](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/忍者龟(v20230408)(繁)[Nokoh](JP)[ACT](6Mb)/> | 忍者龟(v20230408)(繁)[Nokoh](JP)[ACT](6Mb) |
+| 803 | `忍者龟2(v20101223)(繁)[Nokoh](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/忍者龟2(v20101223)(繁)[Nokoh](US)[ACT](4Mb)/> | 忍者龟2(v20101223)(繁)[Nokoh](US)[ACT](4Mb) |
+| 804 | `快乐比奇3 - 地球战士(解密版)(繁)[外星科技+WXN](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/快乐比奇3 - 地球战士(解密版)(繁)[外星科技+WXN](CN)[ACT](4Mb)/> | 快乐比奇3 - 地球战士(解密版)(繁)[外星科技+WXN](CN)[ACT](4Mb) |
+| 805 | `快乐猫(v1.0)(简)[MM之神](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/快乐猫(v1.0)(简)[MM之神](JP)[ACT](0.18Mb)/> | 快乐猫(v1.0)(简)[MM之神](JP)[ACT](0.18Mb) |
+| 806 | `快乐猫(简)[高伟](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/快乐猫(简)[高伟](JP)[ACT](0.18Mb)/> | 快乐猫(简)[高伟](JP)[ACT](0.18Mb) |
+| 807 | `快乐猫世界(简)[高伟](JP)[ACT](5.25Mb)`：<https://fc.haiyong.site/games/快乐猫世界(简)[高伟](JP)[ACT](5.25Mb)/> | 快乐猫世界(简)[高伟](JP)[ACT](5.25Mb) |
+| 808 | `快乐鼠(v1.1)(简)[雷精灵+姜维第二](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/快乐鼠(v1.1)(简)[雷精灵+姜维第二](JP)[ACT](4Mb)/> | 快乐鼠(v1.1)(简)[雷精灵+姜维第二](JP)[ACT](4Mb) |
+| 809 | `快打传说(繁)[Gouder](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/快打传说(繁)[Gouder](CN)[FTG](3Mb)/> | 快打传说(繁)[Gouder](CN)[FTG](3Mb) |
+| 810 | `快打旋风(修正版)(简)[模拟中文网+MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/快打旋风(修正版)(简)[模拟中文网+MS](US)[ACT](2Mb)/> | 快打旋风(修正版)(简)[模拟中文网+MS](US)[ACT](2Mb) |
+| 811 | `快打旋风(简)[Antigloss](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/快打旋风(简)[Antigloss](US)[ACT](2Mb)/> | 快打旋风(简)[Antigloss](US)[ACT](2Mb) |
+| 812 | `快打旋风(简)[Madcell](JP)[ACT](2.25Mb)`：<https://fc.haiyong.site/games/快打旋风(简)[Madcell](JP)[ACT](2.25Mb)/> | 快打旋风(简)[Madcell](JP)[ACT](2.25Mb) |
+| 813 | `快打旋风(简)[俞亮](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/快打旋风(简)[俞亮](US)[ACT](2Mb)/> | 快打旋风(简)[俞亮](US)[ACT](2Mb) |
+| 814 | `快打旋风(简)[老代](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/快打旋风(简)[老代](JP)[ACT](2Mb)/> | 快打旋风(简)[老代](JP)[ACT](2Mb) |
+| 815 | `快打旋风(繁)[Cony Soft](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/快打旋风(繁)[Cony Soft](CN)[FTG](3Mb)/> | 快打旋风(繁)[Cony Soft](CN)[FTG](3Mb) |
+| 816 | `快打旋风3(简)[dfqshy](CN)[ACT](6Mb)`：<https://fc.haiyong.site/games/快打旋风3(简)[dfqshy](CN)[ACT](6Mb)/> | 快打旋风3(简)[dfqshy](CN)[ACT](6Mb) |
+| 817 | `快杰洋枪丸2 - 机关之地大冒险(简)[烈火暴龙](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/快杰洋枪丸2 - 机关之地大冒险(简)[烈火暴龙](JP)[ACT](2Mb)/> | 快杰洋枪丸2 - 机关之地大冒险(简)[烈火暴龙](JP)[ACT](2Mb) |
+| 818 | `快杰洋枪丸2 - 机关之地大探险(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/快杰洋枪丸2 - 机关之地大探险(简)[高伟](JP)[ACT](2Mb)/> | 快杰洋枪丸2 - 机关之地大探险(简)[高伟](JP)[ACT](2Mb) |
+| 819 | `快杰洋枪丸3 - 对决！相凌轩(简)[烈火暴龙](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/快杰洋枪丸3 - 对决！相凌轩(简)[烈火暴龙](JP)[ACT](2Mb)/> | 快杰洋枪丸3 - 对决！相凌轩(简)[烈火暴龙](JP)[ACT](2Mb) |
+| 820 | `快杰洋枪丸3 - 对决！相凌轩(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/快杰洋枪丸3 - 对决！相凌轩(简)[高伟](JP)[ACT](2Mb)/> | 快杰洋枪丸3 - 对决！相凌轩(简)[高伟](JP)[ACT](2Mb) |
+| 821 | `怒(简)[高伟](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/怒(简)[高伟](JP)[STG](1Mb)/> | 怒(简)[高伟](JP)[STG](1Mb) |
+| 822 | `怒2 - 胜利之路(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/怒2 - 胜利之路(简)[高伟](JP)[STG](2Mb)/> | 怒2 - 胜利之路(简)[高伟](JP)[STG](2Mb) |
+| 823 | `怒3(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/怒3(简)[高伟](JP)[ACT](2Mb)/> | 怒3(简)[高伟](JP)[ACT](2Mb) |
+| 824 | `怪物制造者(修正版)(简)[外星科技+时间的流逝](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/怪物制造者(修正版)(简)[外星科技+时间的流逝](JP)[RPG](8Mb)/> | 怪物制造者(修正版)(简)[外星科技+时间的流逝](JP)[RPG](8Mb) |
+| 825 | `怪物制造者1(修正版)(简)[外星科技+zxc987123835](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/怪物制造者1(修正版)(简)[外星科技+zxc987123835](JP)[RPG](4Mb)/> | 怪物制造者1(修正版)(简)[外星科技+zxc987123835](JP)[RPG](4Mb) |
+| 826 | `怪物制造者1(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/怪物制造者1(简)[外星科技](JP)[RPG](4Mb)/> | 怪物制造者1(简)[外星科技](JP)[RPG](4Mb) |
+| 827 | `怪物制造者2(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/怪物制造者2(简)[外星科技](JP)[RPG](4Mb)/> | 怪物制造者2(简)[外星科技](JP)[RPG](4Mb) |
+| 828 | `怪鸭历险记(简)[汉化你妹](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/怪鸭历险记(简)[汉化你妹](US)[ACT](3Mb)/> | 怪鸭历险记(简)[汉化你妹](US)[ACT](3Mb) |
+| 829 | `怪鸭飞天德(简)[夜幕星辰](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/怪鸭飞天德(简)[夜幕星辰](US)[ACT](2Mb)/> | 怪鸭飞天德(简)[夜幕星辰](US)[ACT](2Mb) |
+| 830 | `恐龙战队兽连者(v20230106)(简)[LSP](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/恐龙战队兽连者(v20230106)(简)[LSP](JP)[ACT](3Mb)/> | 恐龙战队兽连者(v20230106)(简)[LSP](JP)[ACT](3Mb) |
+| 831 | `恶魔世界(v1.0)(简)[高伟](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/恶魔世界(v1.0)(简)[高伟](JP)[PUZ](0.18Mb)/> | 恶魔世界(v1.0)(简)[高伟](JP)[PUZ](0.18Mb) |
+| 832 | `恶魔世界(简)[虫虫](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/恶魔世界(简)[虫虫](JP)[PUZ](0.18Mb)/> | 恶魔世界(简)[虫虫](JP)[PUZ](0.18Mb) |
+| 833 | `恶魔之剑(修正版)(简)[Antigloss+MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/恶魔之剑(修正版)(简)[Antigloss+MS](US)[ACT](2Mb)/> | 恶魔之剑(修正版)(简)[Antigloss+MS](US)[ACT](2Mb) |
+| 834 | `恶魔城(简)[吸血男爵](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/恶魔城(简)[吸血男爵](JP)[ACT](1Mb)/> | 恶魔城(简)[吸血男爵](JP)[ACT](1Mb) |
+| 835 | `恶魔城(简)[虫儿](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/恶魔城(简)[虫儿](JP)[ACT](1Mb)/> | 恶魔城(简)[虫儿](JP)[ACT](1Mb) |
+| 836 | `恶魔城2 - 西蒙的任务(v1.1)(繁)[未名](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/恶魔城2 - 西蒙的任务(v1.1)(繁)[未名](US)[ACT](3Mb)/> | 恶魔城2 - 西蒙的任务(v1.1)(繁)[未名](US)[ACT](3Mb) |
+| 837 | `恶魔城2 - 西蒙的任务(简)(v1.2)[未名汉化组汉化](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/恶魔城2 - 西蒙的任务(简)(v1.2)[未名汉化组汉化](US)[ACT](3Mb)/> | 恶魔城2 - 西蒙的任务(简)(v1.2)[未名汉化组汉化](US)[ACT](3Mb) |
+| 838 | `恶魔城传说(v2.3)(简)[汉化你妹](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/恶魔城传说(v2.3)(简)[汉化你妹](JP)[ACT](4Mb)/> | 恶魔城传说(v2.3)(简)[汉化你妹](JP)[ACT](4Mb) |
+| 839 | `恶魔城特别篇 - 我是德古拉君(新标题)(简)[逆游の五彩鱼][ACT](4Mb)`：<https://fc.haiyong.site/games/恶魔城特别篇 - 我是德古拉君(新标题)(简)[逆游の五彩鱼][ACT](4Mb)/> | 恶魔城特别篇 - 我是德古拉君(新标题)(简)[逆游の五彩鱼][ACT](4Mb) |
+| 840 | `悟空斗剧(简)[恒格电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/悟空斗剧(简)[恒格电子](JP)[RPG](6Mb)/> | 悟空斗剧(简)[恒格电子](JP)[RPG](6Mb) |
+| 841 | `惊人的热血新记录！ - 遥远的金牌(v2.0)(简)[热血的鱼缸](JP)[SPG](4Mb)`：<https://fc.haiyong.site/games/惊人的热血新记录！ - 遥远的金牌(v2.0)(简)[热血的鱼缸](JP)[SPG](4Mb)/> | 惊人的热血新记录！ - 遥远的金牌(v2.0)(简)[热血的鱼缸](JP)[SPG](4Mb) |
+| 842 | `惊人的热血新记录！ - 遥远的金牌(v2.0)(繁)[热血的鱼缸](JP)[SPG](4Mb)`：<https://fc.haiyong.site/games/惊人的热血新记录！ - 遥远的金牌(v2.0)(繁)[热血的鱼缸](JP)[SPG](4Mb)/> | 惊人的热血新记录！ - 遥远的金牌(v2.0)(繁)[热血的鱼缸](JP)[SPG](4Mb) |
+| 843 | `惊慌餐厅争夺战(简)[九班](GB)[ACT](2Mb)`：<https://fc.haiyong.site/games/惊慌餐厅争夺战(简)[九班](GB)[ACT](2Mb)/> | 惊慌餐厅争夺战(简)[九班](GB)[ACT](2Mb) |
+| 844 | `愤怒的小鸟(简)[九班](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/愤怒的小鸟(简)[九班](JP)[PUZ](0.5Mb)/> | 愤怒的小鸟(简)[九班](JP)[PUZ](0.5Mb) |
+| 845 | `愤怒的小鸟(简)[快乐的龙][PUZ](0.75Mb)`：<https://fc.haiyong.site/games/愤怒的小鸟(简)[快乐的龙][PUZ](0.75Mb)/> | 愤怒的小鸟(简)[快乐的龙][PUZ](0.75Mb) |
+| 846 | `戈巴水管大作战(简)[verkkars](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/戈巴水管大作战(简)[verkkars](JP)[PUZ](0.5Mb)/> | 戈巴水管大作战(简)[verkkars](JP)[PUZ](0.5Mb) |
+| 847 | `戈巴水管大作战(简)[翼势力](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/戈巴水管大作战(简)[翼势力](JP)[PUZ](0.5Mb)/> | 戈巴水管大作战(简)[翼势力](JP)[PUZ](0.5Mb) |
+| 848 | `戈德曼(简)[南晶科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/戈德曼(简)[南晶科技](CN)[ACT](4Mb)/> | 戈德曼(简)[南晶科技](CN)[ACT](4Mb) |
+| 849 | `成吉思汗(简)[外星科技](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/成吉思汗(简)[外星科技](JP)[SLG](4Mb)/> | 成吉思汗(简)[外星科技](JP)[SLG](4Mb) |
+| 850 | `成龙(简)[王龙](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/成龙(简)[王龙](JP)[ACT](2Mb)/> | 成龙(简)[王龙](JP)[ACT](2Mb) |
+| 851 | `成龙之龙(简)[俞亮](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/成龙之龙(简)[俞亮](JP)[ACT](2Mb)/> | 成龙之龙(简)[俞亮](JP)[ACT](2Mb) |
+| 852 | `成龙之龙(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/成龙之龙(简)[高伟](JP)[ACT](2Mb)/> | 成龙之龙(简)[高伟](JP)[ACT](2Mb) |
+| 853 | `成龙踢馆(简)[MM之神](JP)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/成龙踢馆(简)[MM之神](JP)[ACT](0.31Mb)/> | 成龙踢馆(简)[MM之神](JP)[ACT](0.31Mb) |
+| 854 | `成龙踢馆(简)[高伟](JP)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/成龙踢馆(简)[高伟](JP)[ACT](0.31Mb)/> | 成龙踢馆(简)[高伟](JP)[ACT](0.31Mb) |
+| 855 | `成龙踢馆2(简)[逆游的五彩鱼](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/成龙踢馆2(简)[逆游的五彩鱼](JP)[ACT](3Mb)/> | 成龙踢馆2(简)[逆游的五彩鱼](JP)[ACT](3Mb) |
+| 856 | `战国四川省(繁)[全崴资讯](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/战国四川省(繁)[全崴资讯](CN)[TAB](0.5Mb)/> | 战国四川省(繁)[全崴资讯](CN)[TAB](0.5Mb) |
+| 857 | `战国无双(繁)[奔升](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/战国无双(繁)[奔升](CN)[SLG](4Mb)/> | 战国无双(繁)[奔升](CN)[SLG](4Mb) |
+| 858 | `战国群雄传(繁)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/战国群雄传(繁)[外星科技](CN)[SLG](4Mb)/> | 战国群雄传(繁)[外星科技](CN)[SLG](4Mb) |
+| 859 | `战国风云(繁)[晶科泰](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/战国风云(繁)[晶科泰](CN)[RPG](2Mb)/> | 战国风云(繁)[晶科泰](CN)[RPG](2Mb) |
+| 860 | `战场之狼(简)[高伟](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/战场之狼(简)[高伟](JP)[STG](1Mb)/> | 战场之狼(简)[高伟](JP)[STG](1Mb) |
+| 861 | `战斗原始人(简)[高伟](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/战斗原始人(简)[高伟](US)[ACT](2Mb)/> | 战斗原始人(简)[高伟](US)[ACT](2Mb) |
+| 862 | `战斗直升机(简)[高伟](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/战斗直升机(简)[高伟](JP)[STG](0.31Mb)/> | 战斗直升机(简)[高伟](JP)[STG](0.31Mb) |
+| 863 | `战神世界(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/战神世界(简)[晶科泰](CN)[RPG](8Mb)/> | 战神世界(简)[晶科泰](CN)[RPG](8Mb) |
+| 864 | `扑克(简)[惊风](JP)[TAB](0.43Mb)`：<https://fc.haiyong.site/games/扑克(简)[惊风](JP)[TAB](0.43Mb)/> | 扑克(简)[惊风](JP)[TAB](0.43Mb) |
+| 865 | `扑克精灵(繁)[Idea-Tek](CN)[TAB](0.37Mb)`：<https://fc.haiyong.site/games/扑克精灵(繁)[Idea-Tek](CN)[TAB](0.37Mb)/> | 扑克精灵(繁)[Idea-Tek](CN)[TAB](0.37Mb) |
+| 866 | `扑克集锦(繁)[圣谦](CN)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/扑克集锦(繁)[圣谦](CN)[TAB](0.18Mb)/> | 扑克集锦(繁)[圣谦](CN)[TAB](0.18Mb) |
+| 867 | `扑克麻雀(繁)[圣谦](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/扑克麻雀(繁)[圣谦](CN)[TAB](0.5Mb)/> | 扑克麻雀(繁)[圣谦](CN)[TAB](0.5Mb) |
+| 868 | `打砖块(v20100513)(繁)[Nokoh](JP)[PUZ](0.62Mb)`：<https://fc.haiyong.site/games/打砖块(v20100513)(繁)[Nokoh](JP)[PUZ](0.62Mb)/> | 打砖块(v20100513)(繁)[Nokoh](JP)[PUZ](0.62Mb) |
+| 869 | `打空气(v3)(简)[MM之神](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/打空气(v3)(简)[MM之神](JP)[PUZ](0.18Mb)/> | 打空气(v3)(简)[MM之神](JP)[PUZ](0.18Mb) |
+| 870 | `打空气(简)[高伟](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/打空气(简)[高伟](JP)[PUZ](0.18Mb)/> | 打空气(简)[高伟](JP)[PUZ](0.18Mb) |
+| 871 | `打空气2(简)[高伟](JP)[TAB](0.31Mb)`：<https://fc.haiyong.site/games/打空气2(简)[高伟](JP)[TAB](0.31Mb)/> | 打空气2(简)[高伟](JP)[TAB](0.31Mb) |
+| 872 | `打鸭子(v2)(简)[高伟](JUE)[STG](0.18Mb)`：<https://fc.haiyong.site/games/打鸭子(v2)(简)[高伟](JUE)[STG](0.18Mb)/> | 打鸭子(v2)(简)[高伟](JUE)[STG](0.18Mb) |
+| 873 | `拉格朗日点(v1.1)(简)[未名+汉化你妹](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/拉格朗日点(v1.1)(简)[未名+汉化你妹](JP)[RPG](8Mb)/> | 拉格朗日点(v1.1)(简)[未名+汉化你妹](JP)[RPG](8Mb) |
+| 874 | `拉迪亚战记 - 黎明篇(v20210816)(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/拉迪亚战记 - 黎明篇(v20210816)(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb)/> | 拉迪亚战记 - 黎明篇(v20210816)(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb) |
+| 875 | `拉迪亚战记[外星科技+腓特烈修正](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/拉迪亚战记[外星科技+腓特烈修正](JP)[RPG](6Mb)/> | 拉迪亚战记[外星科技+腓特烈修正](JP)[RPG](6Mb) |
+| 876 | `拯救世纪(繁)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/拯救世纪(繁)[外星科技](CN)[RPG](4Mb)/> | 拯救世纪(繁)[外星科技](CN)[RPG](4Mb) |
+| 877 | `拯救爱心(简)[虫虫](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/拯救爱心(简)[虫虫](JP)[ACT](0.18Mb)/> | 拯救爱心(简)[虫虫](JP)[ACT](0.18Mb) |
+| 878 | `拳霸4(繁)[恒格电子](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/拳霸4(繁)[恒格电子](JP)[SLG](4Mb)/> | 拳霸4(繁)[恒格电子](JP)[SLG](4Mb) |
+| 879 | `挑战卡(v3.1)(简)[新科](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/挑战卡(v3.1)(简)[新科](CN)[ETC](4Mb)/> | 挑战卡(v3.1)(简)[新科](CN)[ETC](4Mb) |
+| 880 | `挖地雷(简)[未知](CN)[PUZ](0.25Mb)`：<https://fc.haiyong.site/games/挖地雷(简)[未知](CN)[PUZ](0.25Mb)/> | 挖地雷(简)[未知](CN)[PUZ](0.25Mb) |
+| 881 | `挖掘(v2)(简)[MM之神](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/挖掘(v2)(简)[MM之神](JP)[PUZ](0.18Mb)/> | 挖掘(v2)(简)[MM之神](JP)[PUZ](0.18Mb) |
+| 882 | `挖掘2(v2)(简)[catcatcat](JP)[TAB](0.31Mb)`：<https://fc.haiyong.site/games/挖掘2(v2)(简)[catcatcat](JP)[TAB](0.31Mb)/> | 挖掘2(v2)(简)[catcatcat](JP)[TAB](0.31Mb) |
+| 883 | `挖金(简)[Dogout](US)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/挖金(简)[Dogout](US)[PUZ](0.18Mb)/> | 挖金(简)[Dogout](US)[PUZ](0.18Mb) |
+| 884 | `排球(简)[高伟](UE)[SPG](0.31Mb)`：<https://fc.haiyong.site/games/排球(简)[高伟](UE)[SPG](0.31Mb)/> | 排球(简)[高伟](UE)[SPG](0.31Mb) |
+| 885 | `推倒胡麻将(繁)[凯程电子](JP)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/推倒胡麻将(繁)[凯程电子](JP)[TAB](0.5Mb)/> | 推倒胡麻将(繁)[凯程电子](JP)[TAB](0.5Mb) |
+| 886 | `推箱子(简)[快乐的龙][PUZ](0.31Mb)`：<https://fc.haiyong.site/games/推箱子(简)[快乐的龙][PUZ](0.31Mb)/> | 推箱子(简)[快乐的龙][PUZ](0.31Mb) |
+| 887 | `摩登原始人 - 恐龙峰的惊喜！(简)[汉化你妹](US)[ACT](5Mb)`：<https://fc.haiyong.site/games/摩登原始人 - 恐龙峰的惊喜！(简)[汉化你妹](US)[ACT](5Mb)/> | 摩登原始人 - 恐龙峰的惊喜！(简)[汉化你妹](US)[ACT](5Mb) |
+| 888 | `摩登原始人 - 营救迪诺和霍比(简)[汉化你妹](US)[ACT](5Mb)`：<https://fc.haiyong.site/games/摩登原始人 - 营救迪诺和霍比(简)[汉化你妹](US)[ACT](5Mb)/> | 摩登原始人 - 营救迪诺和霍比(简)[汉化你妹](US)[ACT](5Mb) |
+| 889 | `摩艾君(简)[九班](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/摩艾君(简)[九班](JP)[PUZ](0.5Mb)/> | 摩艾君(简)[九班](JP)[PUZ](0.5Mb) |
+| 890 | `摩艾君(简)[虫儿](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/摩艾君(简)[虫儿](JP)[PUZ](0.5Mb)/> | 摩艾君(简)[虫儿](JP)[PUZ](0.5Mb) |
+| 891 | `撞球传说 - 花撞2(繁)[晶碁电子](CN)[PUZ](1Mb)`：<https://fc.haiyong.site/games/撞球传说 - 花撞2(繁)[晶碁电子](CN)[PUZ](1Mb)/> | 撞球传说 - 花撞2(繁)[晶碁电子](CN)[PUZ](1Mb) |
+| 892 | `救世主(v1.1)(简)[汉化你妹](JP)[ACT](8Mb)`：<https://fc.haiyong.site/games/救世主(v1.1)(简)[汉化你妹](JP)[ACT](8Mb)/> | 救世主(v1.1)(简)[汉化你妹](JP)[ACT](8Mb) |
+| 893 | `救援直升机(简)[虫虫](US)[STG](0.18Mb)`：<https://fc.haiyong.site/games/救援直升机(简)[虫虫](US)[STG](0.18Mb)/> | 救援直升机(简)[虫虫](US)[STG](0.18Mb) |
+| 894 | `救火英雄(简)[cslrxyz](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/救火英雄(简)[cslrxyz](JP)[ACT](1Mb)/> | 救火英雄(简)[cslrxyz](JP)[ACT](1Mb) |
+| 895 | `数学小状元(简)[数奇玉](CN)[ETC](1.5Mb)`：<https://fc.haiyong.site/games/数学小状元(简)[数奇玉](CN)[ETC](1.5Mb)/> | 数学小状元(简)[数奇玉](CN)[ETC](1.5Mb) |
+| 896 | `数学教授系统 - 小学三年级(简)[小霸王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/数学教授系统 - 小学三年级(简)[小霸王](CN)[ETC](4Mb)/> | 数学教授系统 - 小学三年级(简)[小霸王](CN)[ETC](4Mb) |
+| 897 | `数独+五子棋(简)[南晶科技](CN)[PUZ](2Mb)`：<https://fc.haiyong.site/games/数独+五子棋(简)[南晶科技](CN)[PUZ](2Mb)/> | 数独+五子棋(简)[南晶科技](CN)[PUZ](2Mb) |
+| 899 | `数码宝贝(简)[酷哥电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/数码宝贝(简)[酷哥电子](CN)[RPG](8Mb)/> | 数码宝贝(简)[酷哥电子](CN)[RPG](8Mb) |
+| 900 | `数码战队2(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/数码战队2(简)[南晶科技](CN)[RPG](16Mb)/> | 数码战队2(简)[南晶科技](CN)[RPG](16Mb) |
+| 901 | `数码暴龙(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/数码暴龙(简)[南晶科技](CN)[RPG](16Mb)/> | 数码暴龙(简)[南晶科技](CN)[RPG](16Mb) |
+| 902 | `数码暴龙4 - 水晶版(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/数码暴龙4 - 水晶版(简)[外星科技](CN)[RPG](8Mb)/> | 数码暴龙4 - 水晶版(简)[外星科技](CN)[RPG](8Mb) |
+| 903 | `敲冰块(v20120102)(繁)[Nokoh](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/敲冰块(v20120102)(繁)[Nokoh](JP)[ACT](0.37Mb)/> | 敲冰块(v20120102)(繁)[Nokoh](JP)[ACT](0.37Mb) |
+| 904 | `敲冰块(简)[F0REVERD](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/敲冰块(简)[F0REVERD](JP)[ACT](0.18Mb)/> | 敲冰块(简)[F0REVERD](JP)[ACT](0.18Mb) |
+| 905 | `敲冰块(简)[MS](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/敲冰块(简)[MS](JP)[ACT](0.18Mb)/> | 敲冰块(简)[MS](JP)[ACT](0.18Mb) |
+| 906 | `敲冰块(简)[水火](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/敲冰块(简)[水火](JP)[ACT](0.37Mb)/> | 敲冰块(简)[水火](JP)[ACT](0.37Mb) |
+| 908 | `斗智拼盘(繁)[晶碁电子](CN)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/斗智拼盘(繁)[晶碁电子](CN)[PUZ](0.5Mb)/> | 斗智拼盘(繁)[晶碁电子](CN)[PUZ](0.5Mb) |
+| 909 | `斗者挽歌(简)[高伟](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/斗者挽歌(简)[高伟](JP)[ACT](1Mb)/> | 斗者挽歌(简)[高伟](JP)[ACT](1Mb) |
+| 910 | `斗者的挽歌(简)[孔雀天](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/斗者的挽歌(简)[孔雀天](JP)[ACT](1Mb)/> | 斗者的挽歌(简)[孔雀天](JP)[ACT](1Mb) |
+| 911 | `斧王(完全大字体汉化)[逆游五彩鱼](4Mb)`：<https://fc.haiyong.site/games/斧王(完全大字体汉化)[逆游五彩鱼](4Mb)/> | 斧王(完全大字体汉化)[逆游五彩鱼](4Mb) |
+| 912 | `新人类(简)[Yurica](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/新人类(简)[Yurica](JP)[ACT](0.5Mb)/> | 新人类(简)[Yurica](JP)[ACT](0.5Mb) |
+| 913 | `新人类(简)[高伟](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/新人类(简)[高伟](JP)[ACT](0.5Mb)/> | 新人类(简)[高伟](JP)[ACT](0.5Mb) |
+| 914 | `新四人麻雀 - 役满天国(简)[网一晓](JP)[TAB](3Mb)`：<https://fc.haiyong.site/games/新四人麻雀 - 役满天国(简)[网一晓](JP)[TAB](3Mb)/> | 新四人麻雀 - 役满天国(简)[网一晓](JP)[TAB](3Mb) |
+| 915 | `新地底探险(简)[高伟](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/新地底探险(简)[高伟](JP)[PUZ](0.5Mb)/> | 新地底探险(简)[高伟](JP)[PUZ](0.5Mb) |
+| 916 | `新月剑痕(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/新月剑痕(简)[南晶科技](CN)[RPG](4Mb)/> | 新月剑痕(简)[南晶科技](CN)[RPG](4Mb) |
+| 917 | `新英雄传(繁)[南晶科技](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/新英雄传(繁)[南晶科技](CN)[RPG](2Mb)/> | 新英雄传(繁)[南晶科技](CN)[RPG](2Mb) |
+| 918 | `新西兰故事(简)[高伟](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/新西兰故事(简)[高伟](US)[ACT](2Mb)/> | 新西兰故事(简)[高伟](US)[ACT](2Mb) |
+| 919 | `新魔界(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/新魔界(简)[晶科泰](CN)[RPG](8Mb)/> | 新魔界(简)[晶科泰](CN)[RPG](8Mb) |
+| 920 | `方世玉(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/方世玉(简)[南晶科技](CN)[RPG](4Mb)/> | 方世玉(简)[南晶科技](CN)[RPG](4Mb) |
+| 921 | `无双乱舞(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/无双乱舞(简)[晶科泰](CN)[RPG](8Mb)/> | 无双乱舞(简)[晶科泰](CN)[RPG](8Mb) |
+| 922 | `无尽的任务(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/无尽的任务(简)[外星科技](JP)[RPG](4Mb)/> | 无尽的任务(简)[外星科技](JP)[RPG](4Mb) |
+| 923 | `无敌学习卡(简)[BiTe](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/无敌学习卡(简)[BiTe](CN)[ETC](4Mb)/> | 无敌学习卡(简)[BiTe](CN)[ETC](4Mb) |
+| 924 | `无极魔界(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/无极魔界(简)[恒格电子](CN)[RPG](8Mb)/> | 无极魔界(简)[恒格电子](CN)[RPG](8Mb) |
+| 925 | `无间道风云(简)[恒格电子](JP)[SLG](8Mb)`：<https://fc.haiyong.site/games/无间道风云(简)[恒格电子](JP)[SLG](8Mb)/> | 无间道风云(简)[恒格电子](JP)[SLG](8Mb) |
+| 926 | `时尚跳舞机(简)[丰利](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/时尚跳舞机(简)[丰利](CN)[ETC](4Mb)/> | 时尚跳舞机(简)[丰利](CN)[ETC](4Mb) |
+| 927 | `时空之轮(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/时空之轮(简)[南晶科技](CN)[RPG](16Mb)/> | 时空之轮(简)[南晶科技](CN)[RPG](16Mb) |
+| 928 | `时空小子(简)[孔雀天](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/时空小子(简)[孔雀天](JP)[ACT](1Mb)/> | 时空小子(简)[孔雀天](JP)[ACT](1Mb) |
+| 929 | `时空斗士(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/时空斗士(简)[南晶科技](CN)[RPG](16Mb)/> | 时空斗士(简)[南晶科技](CN)[RPG](16Mb) |
+| 930 | `星之卡比 - 梦之泉的物语(v1.0)(简)[DMG](US)[ACT](8Mb)`：<https://fc.haiyong.site/games/星之卡比 - 梦之泉的物语(v1.0)(简)[DMG](US)[ACT](8Mb)/> | 星之卡比 - 梦之泉的物语(v1.0)(简)[DMG](US)[ACT](8Mb) |
+| 931 | `星之卡比 - 梦之泉的物语(简)[烈火暴龙](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/星之卡比 - 梦之泉的物语(简)[烈火暴龙](JP)[ACT](6Mb)/> | 星之卡比 - 梦之泉的物语(简)[烈火暴龙](JP)[ACT](6Mb) |
+| 932 | `星战情缘(繁)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/星战情缘(繁)[恒格电子](CN)[RPG](8Mb)/> | 星战情缘(繁)[恒格电子](CN)[RPG](8Mb) |
+| 933 | `星河战士(繁)[恒格电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/星河战士(繁)[恒格电子](CN)[RPG](4Mb)/> | 星河战士(繁)[恒格电子](CN)[RPG](4Mb) |
+| 934 | `星空飞箭(简)[强典](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/星空飞箭(简)[强典](JP)[STG](0.18Mb)/> | 星空飞箭(简)[强典](JP)[STG](0.18Mb) |
+| 935 | `星际之门(简)[虫虫](JP)[](0.18Mb)`：<https://fc.haiyong.site/games/星际之门(简)[虫虫](JP)[](0.18Mb)/> | 星际之门(简)[虫虫](JP)[](0.18Mb) |
+| 936 | `星际争霸(繁)[恒格电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/星际争霸(繁)[恒格电子](CN)[RPG](4Mb)/> | 星际争霸(繁)[恒格电子](CN)[RPG](4Mb) |
+| 937 | `星际战士(v2)(简)[高伟](JP)[STG](0.37Mb)`：<https://fc.haiyong.site/games/星际战士(v2)(简)[高伟](JP)[STG](0.37Mb)/> | 星际战士(v2)(简)[高伟](JP)[STG](0.37Mb) |
+| 938 | `星际战机(v1)(简)[虫虫](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/星际战机(v1)(简)[虫虫](JP)[STG](0.5Mb)/> | 星际战机(v1)(简)[虫虫](JP)[STG](0.5Mb) |
+| 939 | `星际战机(v1)(简)[高伟](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/星际战机(v1)(简)[高伟](JP)[STG](0.5Mb)/> | 星际战机(v1)(简)[高伟](JP)[STG](0.5Mb) |
+| 940 | `星际战机(v3)(简)[MS](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/星际战机(v3)(简)[MS](JP)[STG](0.18Mb)/> | 星际战机(v3)(简)[MS](JP)[STG](0.18Mb) |
+| 941 | `星际武士(繁)[Cony Soft](CN)[FTG](4Mb)`：<https://fc.haiyong.site/games/星际武士(繁)[Cony Soft](CN)[FTG](4Mb)/> | 星际武士(繁)[Cony Soft](CN)[FTG](4Mb) |
+| 942 | `星际魂斗罗(修正版)(简)[樱组+MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/星际魂斗罗(修正版)(简)[樱组+MS](US)[ACT](2Mb)/> | 星际魂斗罗(修正版)(简)[樱组+MS](US)[ACT](2Mb) |
+| 943 | `星际魂斗罗(版本1)(简)[星空](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/星际魂斗罗(版本1)(简)[星空](US)[ACT](2Mb)/> | 星际魂斗罗(版本1)(简)[星空](US)[ACT](2Mb) |
+| 944 | `星际魂斗罗(版本2)(简)[星空](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/星际魂斗罗(版本2)(简)[星空](US)[ACT](2Mb)/> | 星际魂斗罗(版本2)(简)[星空](US)[ACT](2Mb) |
+| 945 | `智力小状元(简)[数奇玉](CN)[PUZ](1.5Mb)`：<https://fc.haiyong.site/games/智力小状元(简)[数奇玉](CN)[PUZ](1.5Mb)/> | 智力小状元(简)[数奇玉](CN)[PUZ](1.5Mb) |
+| 946 | `智慧方块(简)[烈火暴龙](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/智慧方块(简)[烈火暴龙](JP)[PUZ](0.5Mb)/> | 智慧方块(简)[烈火暴龙](JP)[PUZ](0.5Mb) |
+| 947 | `暗棋(繁)[洁晖](CN)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/暗棋(繁)[洁晖](CN)[TAB](0.18Mb)/> | 暗棋(繁)[洁晖](CN)[TAB](0.18Mb) |
+| 948 | `暗黑破坏神(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/暗黑破坏神(简)[南晶科技](CN)[RPG](16Mb)/> | 暗黑破坏神(简)[南晶科技](CN)[RPG](16Mb) |
+| 949 | `暴走淘金者(简)[九班](US)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/暴走淘金者(简)[九班](US)[PUZ](0.18Mb)/> | 暴走淘金者(简)[九班](US)[PUZ](0.18Mb) |
+| 950 | `暴走淘金者2(简)[九班](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/暴走淘金者2(简)[九班](JP)[PUZ](0.18Mb)/> | 暴走淘金者2(简)[九班](JP)[PUZ](0.18Mb) |
+| 951 | `最游记 - 唐三藏(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/最游记 - 唐三藏(简)[南晶科技](CN)[RPG](4Mb)/> | 最游记 - 唐三藏(简)[南晶科技](CN)[RPG](4Mb) |
+| 952 | `最终任务(简)[逆游的五彩鱼](JP)[STG](3Mb)`：<https://fc.haiyong.site/games/最终任务(简)[逆游的五彩鱼](JP)[STG](3Mb)/> | 最终任务(简)[逆游的五彩鱼](JP)[STG](3Mb) |
+| 953 | `最终任务(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/最终任务(简)[高伟](JP)[STG](2Mb)/> | 最终任务(简)[高伟](JP)[STG](2Mb) |
+| 954 | `最终幻想(v20221112)(修正版)(简)[外星科技+晚风轻起](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/最终幻想(v20221112)(修正版)(简)[外星科技+晚风轻起](JP)[RPG](4Mb)/> | 最终幻想(v20221112)(修正版)(简)[外星科技+晚风轻起](JP)[RPG](4Mb) |
+| 955 | `最终幻想(修正版)(简)[外星科技+SSforME](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/最终幻想(修正版)(简)[外星科技+SSforME](JP)[RPG](4Mb)/> | 最终幻想(修正版)(简)[外星科技+SSforME](JP)[RPG](4Mb) |
+| 956 | `最终幻想1 - 黑暗篇(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/最终幻想1 - 黑暗篇(简)[恒格电子](CN)[RPG](8Mb)/> | 最终幻想1 - 黑暗篇(简)[恒格电子](CN)[RPG](8Mb) |
+| 957 | `最终幻想2 - 光明篇(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/最终幻想2 - 光明篇(简)[恒格电子](CN)[RPG](8Mb)/> | 最终幻想2 - 光明篇(简)[恒格电子](CN)[RPG](8Mb) |
+| 958 | `最终幻想2(v20221112)(修正版)(简)[外星科技+晚风轻起](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/最终幻想2(v20221112)(修正版)(简)[外星科技+晚风轻起](JP)[RPG](4Mb)/> | 最终幻想2(v20221112)(修正版)(简)[外星科技+晚风轻起](JP)[RPG](4Mb) |
+| 959 | `最终幻想2(v20230615)(修正版)(简)[LSP](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/最终幻想2(v20230615)(修正版)(简)[LSP](JP)[RPG](4Mb)/> | 最终幻想2(v20230615)(修正版)(简)[LSP](JP)[RPG](4Mb) |
+| 960 | `最终幻想2(修正版)(简)[外星科技+DG小火](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/最终幻想2(修正版)(简)[外星科技+DG小火](JP)[RPG](4Mb)/> | 最终幻想2(修正版)(简)[外星科技+DG小火](JP)[RPG](4Mb) |
+| 961 | `最终幻想2(修正版)(简)[外星科技+SSforME](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/最终幻想2(修正版)(简)[外星科技+SSforME](JP)[RPG](4Mb)/> | 最终幻想2(修正版)(简)[外星科技+SSforME](JP)[RPG](4Mb) |
+| 962 | `最终幻想3 - 终结篇(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/最终幻想3 - 终结篇(简)[恒格电子](CN)[RPG](8Mb)/> | 最终幻想3 - 终结篇(简)[恒格电子](CN)[RPG](8Mb) |
+| 963 | `最终幻想3(v20221112)(修正版)(简)[外星科技+晚风轻起](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/最终幻想3(v20221112)(修正版)(简)[外星科技+晚风轻起](JP)[RPG](8Mb)/> | 最终幻想3(v20221112)(修正版)(简)[外星科技+晚风轻起](JP)[RPG](8Mb) |
+| 964 | `最终幻想3(简)[外星游戏大厅](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/最终幻想3(简)[外星游戏大厅](JP)[RPG](8Mb)/> | 最终幻想3(简)[外星游戏大厅](JP)[RPG](8Mb) |
+| 966 | `最终幻想3(繁)[狼组+张晓波](JP)[RPG](9.34Mb)`：<https://fc.haiyong.site/games/最终幻想3(繁)[狼组+张晓波](JP)[RPG](9.34Mb)/> | 最终幻想3(繁)[狼组+张晓波](JP)[RPG](9.34Mb) |
+| 967 | `最终幻想4 - 光与暗 水晶纷争(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/最终幻想4 - 光与暗 水晶纷争(简)[南晶科技](CN)[RPG](8Mb)/> | 最终幻想4 - 光与暗 水晶纷争(简)[南晶科技](CN)[RPG](8Mb) |
+| 968 | `最终幻想7 - 核心危机(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/最终幻想7 - 核心危机(简)[南晶科技](CN)[RPG](16Mb)/> | 最终幻想7 - 核心危机(简)[南晶科技](CN)[RPG](16Mb) |
+| 969 | `最终幻想7(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/最终幻想7(简)[南晶科技](CN)[RPG](16Mb)/> | 最终幻想7(简)[南晶科技](CN)[RPG](16Mb) |
+| 970 | `最终幻想7(繁)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/最终幻想7(繁)[南晶科技](CN)[RPG](16Mb)/> | 最终幻想7(繁)[南晶科技](CN)[RPG](16Mb) |
+| 971 | `月之水晶(简)[MM之神](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/月之水晶(简)[MM之神](JP)[ACT](4Mb)/> | 月之水晶(简)[MM之神](JP)[ACT](4Mb) |
+| 972 | `月宫桌球(修正版)(简)[闪 纯静水+MS](US)[TAB](0.18Mb)`：<https://fc.haiyong.site/games/月宫桌球(修正版)(简)[闪 纯静水+MS](US)[TAB](0.18Mb)/> | 月宫桌球(修正版)(简)[闪 纯静水+MS](US)[TAB](0.18Mb) |
+| 973 | `月风魔传(简)[冰组](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/月风魔传(简)[冰组](JP)[ACT](3Mb)/> | 月风魔传(简)[冰组](JP)[ACT](3Mb) |
+| 974 | `月风魔传(繁)[冰组](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/月风魔传(繁)[冰组](JP)[ACT](3Mb)/> | 月风魔传(繁)[冰组](JP)[ACT](3Mb) |
+| 975 | `有声词霸(简)[小霸王](CN)[ETC](16Mb)`：<https://fc.haiyong.site/games/有声词霸(简)[小霸王](CN)[ETC](16Mb)/> | 有声词霸(简)[小霸王](CN)[ETC](16Mb) |
+| 976 | `有趣的方块游戏(简)[龙组](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/有趣的方块游戏(简)[龙组](JP)[PUZ](0.5Mb)/> | 有趣的方块游戏(简)[龙组](JP)[PUZ](0.5Mb) |
+| 977 | `未来小子(简)[洁晖](CN)[STG](0.5Mb)`：<https://fc.haiyong.site/games/未来小子(简)[洁晖](CN)[STG](0.5Mb)/> | 未来小子(简)[洁晖](CN)[STG](0.5Mb) |
+| 978 | `机器人大战(简)[南晶科技](CN)[SLG](16Mb)`：<https://fc.haiyong.site/games/机器人大战(简)[南晶科技](CN)[SLG](16Mb)/> | 机器人大战(简)[南晶科技](CN)[SLG](16Mb) |
+| 979 | `机器子战记(v20111228)(繁)[Nokoh](JP)[ACT](5.12Mb)`：<https://fc.haiyong.site/games/机器子战记(v20111228)(繁)[Nokoh](JP)[ACT](5.12Mb)/> | 机器子战记(v20111228)(繁)[Nokoh](JP)[ACT](5.12Mb) |
+| 980 | `机器战士高达(繁)[晶科泰](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/机器战士高达(繁)[晶科泰](JP)[SLG](4Mb)/> | 机器战士高达(繁)[晶科泰](JP)[SLG](4Mb) |
+| 981 | `机器猫小叮当(简)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/机器猫小叮当(简)[外星科技](CN)[ACT](4Mb)/> | 机器猫小叮当(简)[外星科技](CN)[ACT](4Mb) |
+| 982 | `机械化突袭(简)[高伟](US)[STG](1.5Mb)`：<https://fc.haiyong.site/games/机械化突袭(简)[高伟](US)[STG](1.5Mb)/> | 机械化突袭(简)[高伟](US)[STG](1.5Mb) |
+| 983 | `机械战警 - 未来的执法者(简)[LSP](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/机械战警 - 未来的执法者(简)[LSP](US)[ACT](3Mb)/> | 机械战警 - 未来的执法者(简)[LSP](US)[ACT](3Mb) |
+| 984 | `机甲战士(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/机甲战士(简)[外星科技](JP)[RPG](6Mb)/> | 机甲战士(简)[外星科技](JP)[RPG](6Mb) |
+| 985 | `机甲战士3(简)[恒格电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/机甲战士3(简)[恒格电子](JP)[RPG](6Mb)/> | 机甲战士3(简)[恒格电子](JP)[RPG](6Mb) |
+| 986 | `机甲战士3(简)[晶科泰](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/机甲战士3(简)[晶科泰](JP)[RPG](6Mb)/> | 机甲战士3(简)[晶科泰](JP)[RPG](6Mb) |
+| 987 | `杀戮战场(v20100527)(繁)[Nokoh](JP)[STG](0.37Mb)`：<https://fc.haiyong.site/games/杀戮战场(v20100527)(繁)[Nokoh](JP)[STG](0.37Mb)/> | 杀戮战场(v20100527)(繁)[Nokoh](JP)[STG](0.37Mb) |
+| 988 | `杀戮战场(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/杀戮战场(简)[高伟](JP)[STG](0.18Mb)/> | 杀戮战场(简)[高伟](JP)[STG](0.18Mb) |
+| 989 | `杀虫大战(修正版)(简)[天翔+MS](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/杀虫大战(修正版)(简)[天翔+MS](JP)[STG](0.18Mb)/> | 杀虫大战(修正版)(简)[天翔+MS](JP)[STG](0.18Mb) |
+| 990 | `杨家将(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/杨家将(简)[外星科技](CN)[SLG](4Mb)/> | 杨家将(简)[外星科技](CN)[SLG](4Mb) |
+| 991 | `松鼠大作战(简)[星空](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/松鼠大作战(简)[星空](JP)[ACT](6Mb)/> | 松鼠大作战(简)[星空](JP)[ACT](6Mb) |
+| 992 | `松鼠大作战2(简)[星空](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/松鼠大作战2(简)[星空](JP)[ACT](2Mb)/> | 松鼠大作战2(简)[星空](JP)[ACT](2Mb) |
+| 993 | `林则徐禁烟(修正版)(繁)[外星科技+nfzxyd](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/林则徐禁烟(修正版)(繁)[外星科技+nfzxyd](CN)[RPG](4Mb)/> | 林则徐禁烟(修正版)(繁)[外星科技+nfzxyd](CN)[RPG](4Mb) |
+| 994 | `格兰蒂亚(简)[酷哥电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/格兰蒂亚(简)[酷哥电子](CN)[RPG](8Mb)/> | 格兰蒂亚(简)[酷哥电子](CN)[RPG](8Mb) |
+| 995 | `格兰蒂亚传说(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/格兰蒂亚传说(简)[外星科技](CN)[RPG](8Mb)/> | 格兰蒂亚传说(简)[外星科技](CN)[RPG](8Mb) |
+| 996 | `格斗七龙珠(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/格斗七龙珠(简)[恒格电子](CN)[RPG](8Mb)/> | 格斗七龙珠(简)[恒格电子](CN)[RPG](8Mb) |
+| 997 | `格斗之王R1 - 最强格斗王(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/格斗之王R1 - 最强格斗王(简)[南晶科技](CN)[RPG](4Mb)/> | 格斗之王R1 - 最强格斗王(简)[南晶科技](CN)[RPG](4Mb) |
+| 998 | `格斗之王R2 - 大蛇四天王(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/格斗之王R2 - 大蛇四天王(简)[南晶科技](CN)[RPG](4Mb)/> | 格斗之王R2 - 大蛇四天王(简)[南晶科技](CN)[RPG](4Mb) |
+| 999 | `梁山英雄(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/梁山英雄(简)[南晶科技](CN)[RPG](16Mb)/> | 梁山英雄(简)[南晶科技](CN)[RPG](16Mb) |
+| 1000 | `梁山英雄传(繁)[奔升](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/梁山英雄传(繁)[奔升](CN)[SLG](4Mb)/> | 梁山英雄传(繁)[奔升](CN)[SLG](4Mb) |
+| 1001 | `梦之勇士(修正版)(简)[冰组+庞先生](JP)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/梦之勇士(修正版)(简)[冰组+庞先生](JP)[ACT](2.5Mb)/> | 梦之勇士(修正版)(简)[冰组+庞先生](JP)[ACT](2.5Mb) |
+| 1002 | `梦之勇士(最终修正版)[冰组汉化](JP)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/梦之勇士(最终修正版)[冰组汉化](JP)[ACT](2.5Mb)/> | 梦之勇士(最终修正版)[冰组汉化](JP)[ACT](2.5Mb) |
+| 1003 | `梦之勇士(简)[中伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/梦之勇士(简)[中伟](JP)[ACT](2Mb)/> | 梦之勇士(简)[中伟](JP)[ACT](2Mb) |
+| 1004 | `梦企鹅物语(v1.2)(简)[汉化你妹](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/梦企鹅物语(v1.2)(简)[汉化你妹](JP)[ACT](3Mb)/> | 梦企鹅物语(v1.2)(简)[汉化你妹](JP)[ACT](3Mb) |
+| 1005 | `梦企鹅物语(简)[天蝎之忆](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/梦企鹅物语(简)[天蝎之忆](JP)[ACT](2Mb)/> | 梦企鹅物语(简)[天蝎之忆](JP)[ACT](2Mb) |
+| 1006 | `梦境之王(修正版)(简)[外星科技+Vanyogin](JP)[RPG](7Mb)`：<https://fc.haiyong.site/games/梦境之王(修正版)(简)[外星科技+Vanyogin](JP)[RPG](7Mb)/> | 梦境之王(修正版)(简)[外星科技+Vanyogin](JP)[RPG](7Mb) |
+| 1007 | `梦境之王(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/梦境之王(简)[外星科技](JP)[RPG](6Mb)/> | 梦境之王(简)[外星科技](JP)[RPG](6Mb) |
+| 1008 | `梦幻 - 香帅传奇之血海飘零(简)[恒格电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/梦幻 - 香帅传奇之血海飘零(简)[恒格电子](CN)[RPG](4Mb)/> | 梦幻 - 香帅传奇之血海飘零(简)[恒格电子](CN)[RPG](4Mb) |
+| 1009 | `梦幻之星4(繁)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/梦幻之星4(繁)[外星科技](CN)[RPG](8Mb)/> | 梦幻之星4(繁)[外星科技](CN)[RPG](8Mb) |
+| 1010 | `梦幻仙境(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/梦幻仙境(简)[恒格电子](CN)[RPG](8Mb)/> | 梦幻仙境(简)[恒格电子](CN)[RPG](8Mb) |
+| 1011 | `梦幻战机(v1.0)(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/梦幻战机(v1.0)(简)[高伟](JP)[STG](2Mb)/> | 梦幻战机(v1.0)(简)[高伟](JP)[STG](2Mb) |
+| 1012 | `梦幻沙漏(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/梦幻沙漏(简)[南晶科技](CN)[RPG](16Mb)/> | 梦幻沙漏(简)[南晶科技](CN)[RPG](16Mb) |
+| 1013 | `棋王(繁)[小天才](CN)[TAB](0.75Mb)`：<https://fc.haiyong.site/games/棋王(繁)[小天才](CN)[TAB](0.75Mb)/> | 棋王(繁)[小天才](CN)[TAB](0.75Mb) |
+| 1014 | `楚汉争霸(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/楚汉争霸(简)[外星科技](CN)[SLG](4Mb)/> | 楚汉争霸(简)[外星科技](CN)[SLG](4Mb) |
+| 1015 | `楚汉风云(简)[南晶科技](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/楚汉风云(简)[南晶科技](CN)[SLG](8Mb)/> | 楚汉风云(简)[南晶科技](CN)[SLG](8Mb) |
+| 1016 | `楚留香 - 香帅传奇之血海飘零(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/楚留香 - 香帅传奇之血海飘零(简)[外星科技](CN)[RPG](4Mb)/> | 楚留香 - 香帅传奇之血海飘零(简)[外星科技](CN)[RPG](4Mb) |
+| 1017 | `楚留香新传(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/楚留香新传(简)[晶科泰](CN)[RPG](8Mb)/> | 楚留香新传(简)[晶科泰](CN)[RPG](8Mb) |
+| 1018 | `樱桃小丸子(繁)[火星电子](CN)[PUZ](4Mb)`：<https://fc.haiyong.site/games/樱桃小丸子(繁)[火星电子](CN)[PUZ](4Mb)/> | 樱桃小丸子(繁)[火星电子](CN)[PUZ](4Mb) |
+| 1019 | `欧陆之战(繁)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/欧陆之战(繁)[外星科技](CN)[SLG](4Mb)/> | 欧陆之战(繁)[外星科技](CN)[SLG](4Mb) |
+| 1020 | `武侠天地(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/武侠天地(简)[南晶科技](CN)[RPG](8Mb)/> | 武侠天地(简)[南晶科技](CN)[RPG](8Mb) |
+| 1021 | `武士魂(简)[Rex](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/武士魂(简)[Rex](CN)[FTG](3Mb)/> | 武士魂(简)[Rex](CN)[FTG](3Mb) |
+| 1022 | `武士魂(简)[天空联盟](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/武士魂(简)[天空联盟](CN)[FTG](3Mb)/> | 武士魂(简)[天空联盟](CN)[FTG](3Mb) |
+| 1023 | `武林外传(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/武林外传(简)[南晶科技](CN)[RPG](4Mb)/> | 武林外传(简)[南晶科技](CN)[RPG](4Mb) |
+| 1024 | `毁灭之神(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/毁灭之神(简)[南晶科技](CN)[RPG](16Mb)/> | 毁灭之神(简)[南晶科技](CN)[RPG](16Mb) |
+| 1025 | `气球大战(v1.0)(简)[MS](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/气球大战(v1.0)(简)[MS](JP)[ACT](0.18Mb)/> | 气球大战(v1.0)(简)[MS](JP)[ACT](0.18Mb) |
+| 1026 | `气球大战(简)[快乐的龙](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/气球大战(简)[快乐的龙](JP)[ACT](0.18Mb)/> | 气球大战(简)[快乐的龙](JP)[ACT](0.18Mb) |
+| 1027 | `水果狸(v1.1)(简)[九班](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/水果狸(v1.1)(简)[九班](CN)[TAB](0.5Mb)/> | 水果狸(v1.1)(简)[九班](CN)[TAB](0.5Mb) |
+| 1028 | `水果狸(繁)[普泽](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/水果狸(繁)[普泽](CN)[TAB](0.5Mb)/> | 水果狸(繁)[普泽](CN)[TAB](0.5Mb) |
+| 1029 | `水浒(简)[南晶科技](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/水浒(简)[南晶科技](CN)[SLG](8Mb)/> | 水浒(简)[南晶科技](CN)[SLG](8Mb) |
+| 1030 | `水浒传(繁)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/水浒传(繁)[外星科技](CN)[SLG](4Mb)/> | 水浒传(繁)[外星科技](CN)[SLG](4Mb) |
+| 1031 | `水浒新传(繁)[未知](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/水浒新传(繁)[未知](CN)[SLG](4Mb)/> | 水浒新传(繁)[未知](CN)[SLG](4Mb) |
+| 1032 | `水浒神兽(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/水浒神兽(简)[南晶科技](CN)[RPG](16Mb)/> | 水浒神兽(简)[南晶科技](CN)[RPG](16Mb) |
+| 1033 | `水浒神兽(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/水浒神兽(简)[外星科技](CN)[RPG](8Mb)/> | 水浒神兽(简)[外星科技](CN)[RPG](8Mb) |
+| 1034 | `水管工马里奥(v2)(简)[MS](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/水管工马里奥(v2)(简)[MS](JUE)[ACT](0.18Mb)/> | 水管工马里奥(v2)(简)[MS](JUE)[ACT](0.18Mb) |
+| 1035 | `水管马里奥(简)[夜幕星辰](JUE)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/水管马里奥(简)[夜幕星辰](JUE)[ACT](0.18Mb)/> | 水管马里奥(简)[夜幕星辰](JUE)[ACT](0.18Mb) |
+| 1036 | `汉刘邦(简)[南晶科技](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/汉刘邦(简)[南晶科技](CN)[SLG](8Mb)/> | 汉刘邦(简)[南晶科技](CN)[SLG](8Mb) |
+| 1037 | `汉堡包(简)[金明](US)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/汉堡包(简)[金明](US)[PUZ](0.18Mb)/> | 汉堡包(简)[金明](US)[PUZ](0.18Mb) |
+| 1038 | `汉堡时代(简)[c1faceb0](US)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/汉堡时代(简)[c1faceb0](US)[PUZ](0.18Mb)/> | 汉堡时代(简)[c1faceb0](US)[PUZ](0.18Mb) |
+| 1039 | `汤姆历险记[外星科技](JP)[RPG](4Mb)(可模拟版本)`：<https://fc.haiyong.site/games/汤姆历险记[外星科技](JP)[RPG](4Mb)(可模拟版本)/> | 汤姆历险记[外星科技](JP)[RPG](4Mb)(可模拟版本) |
+| 1040 | `汤姆和杰瑞和塔菲(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/汤姆和杰瑞和塔菲(简)[MS](JP)[ACT](2Mb)/> | 汤姆和杰瑞和塔菲(简)[MS](JP)[ACT](2Mb) |
+| 1041 | `沙罗曼蛇(v1.2)(简)[雷精灵](JP)[STG](3Mb)`：<https://fc.haiyong.site/games/沙罗曼蛇(v1.2)(简)[雷精灵](JP)[STG](3Mb)/> | 沙罗曼蛇(v1.2)(简)[雷精灵](JP)[STG](3Mb) |
+| 1042 | `沙罗曼蛇2(v3)(简)[未知](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/沙罗曼蛇2(v3)(简)[未知](JP)[STG](2Mb)/> | 沙罗曼蛇2(v3)(简)[未知](JP)[STG](2Mb) |
+| 1043 | `沙罗曼蛇2(简)[烈火暴龙](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/沙罗曼蛇2(简)[烈火暴龙](JP)[STG](2Mb)/> | 沙罗曼蛇2(简)[烈火暴龙](JP)[STG](2Mb) |
+| 1044 | `法老王(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/法老王(简)[外星科技](CN)[RPG](8Mb)/> | 法老王(简)[外星科技](CN)[RPG](8Mb) |
+| 1045 | `泡泡龙(v20101230)(繁)[Nokoh](US)[ACT](1.43Mb)`：<https://fc.haiyong.site/games/泡泡龙(v20101230)(繁)[Nokoh](US)[ACT](1.43Mb)/> | 泡泡龙(v20101230)(繁)[Nokoh](US)[ACT](1.43Mb) |
+| 1046 | `泡泡龙2(v20110207)(繁)[Nokoh](JP)[ACT](2.12Mb)`：<https://fc.haiyong.site/games/泡泡龙2(v20110207)(繁)[Nokoh](JP)[ACT](2.12Mb)/> | 泡泡龙2(v20110207)(繁)[Nokoh](JP)[ACT](2.12Mb) |
+| 1047 | `泡泡龙2(简)[MM之神](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/泡泡龙2(简)[MM之神](US)[ACT](2Mb)/> | 泡泡龙2(简)[MM之神](US)[ACT](2Mb) |
+| 1048 | `泰坦尼克号(简)[南晶科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/泰坦尼克号(简)[南晶科技](CN)[ACT](4Mb)/> | 泰坦尼克号(简)[南晶科技](CN)[ACT](4Mb) |
+| 1049 | `泰坦尼克号(简)[火星电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/泰坦尼克号(简)[火星电子](CN)[RPG](8Mb)/> | 泰坦尼克号(简)[火星电子](CN)[RPG](8Mb) |
+| 1050 | `洛克人(v0.9)(简)[MS](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/洛克人(v0.9)(简)[MS](JP)[ACT](1Mb)/> | 洛克人(v0.9)(简)[MS](JP)[ACT](1Mb) |
+| 1051 | `洛克人(简)[3DM](US)[ACT](1Mb)`：<https://fc.haiyong.site/games/洛克人(简)[3DM](US)[ACT](1Mb)/> | 洛克人(简)[3DM](US)[ACT](1Mb) |
+| 1052 | `洛克人(简)[俞亮](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/洛克人(简)[俞亮](JP)[ACT](1Mb)/> | 洛克人(简)[俞亮](JP)[ACT](1Mb) |
+| 1053 | `洛克人2 - Dr.Wily之谜(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/洛克人2 - Dr.Wily之谜(简)[MS](JP)[ACT](2Mb)/> | 洛克人2 - Dr.Wily之谜(简)[MS](JP)[ACT](2Mb) |
+| 1054 | `洛克人2 - Dr.Wily之谜(简)[NeoX](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/洛克人2 - Dr.Wily之谜(简)[NeoX](JP)[ACT](2Mb)/> | 洛克人2 - Dr.Wily之谜(简)[NeoX](JP)[ACT](2Mb) |
+| 1055 | `洛克人2 - 威利博士之谜(v20230315)(v2)(繁)[Nokoh](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/洛克人2 - 威利博士之谜(v20230315)(v2)(繁)[Nokoh](JP)[ACT](4Mb)/> | 洛克人2 - 威利博士之谜(v20230315)(v2)(繁)[Nokoh](JP)[ACT](4Mb) |
+| 1056 | `洛克人2 - 威利博士之谜(v20230321)(简)[Nokoh+fciq](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/洛克人2 - 威利博士之谜(v20230321)(简)[Nokoh+fciq](JP)[ACT](4Mb)/> | 洛克人2 - 威利博士之谜(v20230321)(简)[Nokoh+fciq](JP)[ACT](4Mb) |
+| 1057 | `洛克人3 - Dr.Wily的末日！(简)[MS](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/洛克人3 - Dr.Wily的末日！(简)[MS](JP)[ACT](3Mb)/> | 洛克人3 - Dr.Wily的末日！(简)[MS](JP)[ACT](3Mb) |
+| 1058 | `洛克人3 - 威利博士的末日！(v20230315)(繁)[Nokoh](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/洛克人3 - 威利博士的末日！(v20230315)(繁)[Nokoh](JP)[ACT](6Mb)/> | 洛克人3 - 威利博士的末日！(v20230315)(繁)[Nokoh](JP)[ACT](6Mb) |
+| 1059 | `洛克人3 - 威利博士的末日！(v20230322)(简)[Nokoh+fciq](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/洛克人3 - 威利博士的末日！(v20230322)(简)[Nokoh+fciq](JP)[ACT](6Mb)/> | 洛克人3 - 威利博士的末日！(v20230322)(简)[Nokoh+fciq](JP)[ACT](6Mb) |
+| 1060 | `洛克人4 - 新的野心(简)[MS](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/洛克人4 - 新的野心(简)[MS](JP)[ACT](4Mb)/> | 洛克人4 - 新的野心(简)[MS](JP)[ACT](4Mb) |
+| 1062 | `洛克人5 - 布鲁斯的圈套！(简)[MS](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/洛克人5 - 布鲁斯的圈套！(简)[MS](JP)[ACT](4Mb)/> | 洛克人5 - 布鲁斯的圈套！(简)[MS](JP)[ACT](4Mb) |
+| 1063 | `洛克人5 - 布鲁斯的圈套！(简)[Shinwa](JP)[ACT](4.12Mb)`：<https://fc.haiyong.site/games/洛克人5 - 布鲁斯的圈套！(简)[Shinwa](JP)[ACT](4.12Mb)/> | 洛克人5 - 布鲁斯的圈套！(简)[Shinwa](JP)[ACT](4.12Mb) |
+| 1064 | `洛克人5 - 布鲁斯的圈套！(简)[中伟](JP)[ACT](8Mb)`：<https://fc.haiyong.site/games/洛克人5 - 布鲁斯的圈套！(简)[中伟](JP)[ACT](8Mb)/> | 洛克人5 - 布鲁斯的圈套！(简)[中伟](JP)[ACT](8Mb) |
+| 1065 | `洛克人5 - 布鲁斯的陷阱！(v20230512)(简+繁)[Nokoh](JP)[ACT](8Mb)`：<https://fc.haiyong.site/games/洛克人5 - 布鲁斯的陷阱！(v20230512)(简+繁)[Nokoh](JP)[ACT](8Mb)/> | 洛克人5 - 布鲁斯的陷阱！(v20230512)(简+繁)[Nokoh](JP)[ACT](8Mb) |
+| 1067 | `洛克人6 - 史上最长的战斗！(简)[MS](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/洛克人6 - 史上最长的战斗！(简)[MS](JP)[ACT](4Mb)/> | 洛克人6 - 史上最长的战斗！(简)[MS](JP)[ACT](4Mb) |
+| 1068 | `洛克人6 - 史上最长的战斗！(简)[不知所云](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/洛克人6 - 史上最长的战斗！(简)[不知所云](JP)[ACT](4Mb)/> | 洛克人6 - 史上最长的战斗！(简)[不知所云](JP)[ACT](4Mb) |
+| 1069 | `洛克人Exile(简)[中伟](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/洛克人Exile(简)[中伟](US)[ACT](2Mb)/> | 洛克人Exile(简)[中伟](US)[ACT](2Mb) |
+| 1070 | `洛克人X(简)[MS](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/洛克人X(简)[MS](CN)[ACT](4Mb)/> | 洛克人X(简)[MS](CN)[ACT](4Mb) |
+| 1071 | `洛克人X(简)[外星科技](JP)[TAB](4Mb)`：<https://fc.haiyong.site/games/洛克人X(简)[外星科技](JP)[TAB](4Mb)/> | 洛克人X(简)[外星科技](JP)[TAB](4Mb) |
+| 1072 | `淘气厨师 - 食物的世界(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/淘气厨师 - 食物的世界(简)[MS](JP)[ACT](2Mb)/> | 淘气厨师 - 食物的世界(简)[MS](JP)[ACT](2Mb) |
+| 1073 | `淘气厨师 - 食物的世界(简)[Zero Boy](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/淘气厨师 - 食物的世界(简)[Zero Boy](JP)[ACT](2Mb)/> | 淘气厨师 - 食物的世界(简)[Zero Boy](JP)[ACT](2Mb) |
+| 1074 | `淘金者(v2)(简)[叶枫](JP)[PUZ](0.37Mb)`：<https://fc.haiyong.site/games/淘金者(v2)(简)[叶枫](JP)[PUZ](0.37Mb)/> | 淘金者(v2)(简)[叶枫](JP)[PUZ](0.37Mb) |
+| 1075 | `淘金者(简)[高伟](US)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/淘金者(简)[高伟](US)[PUZ](0.18Mb)/> | 淘金者(简)[高伟](US)[PUZ](0.18Mb) |
+| 1076 | `淘金者2(简)[高伟](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/淘金者2(简)[高伟](JP)[PUZ](0.18Mb)/> | 淘金者2(简)[高伟](JP)[PUZ](0.18Mb) |
+| 1077 | `混沌世界(修正版)(简)[外星科技+Vanyogin](JP)[RPG](7Mb)`：<https://fc.haiyong.site/games/混沌世界(修正版)(简)[外星科技+Vanyogin](JP)[RPG](7Mb)/> | 混沌世界(修正版)(简)[外星科技+Vanyogin](JP)[RPG](7Mb) |
+| 1078 | `混沌世界[外星科技+腓特烈修正](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/混沌世界[外星科技+腓特烈修正](JP)[RPG](6Mb)/> | 混沌世界[外星科技+腓特烈修正](JP)[RPG](6Mb) |
+| 1079 | `港京拉力赛(简)[天苑软件](CN)[RAC](2Mb)`：<https://fc.haiyong.site/games/港京拉力赛(简)[天苑软件](CN)[RAC](2Mb)/> | 港京拉力赛(简)[天苑软件](CN)[RAC](2Mb) |
+| 1080 | `游戏宝贝(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/游戏宝贝(简)[南晶科技](CN)[RPG](4Mb)/> | 游戏宝贝(简)[南晶科技](CN)[RPG](4Mb) |
+| 1081 | `游戏王(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/游戏王(简)[南晶科技](CN)[RPG](16Mb)/> | 游戏王(简)[南晶科技](CN)[RPG](16Mb) |
+| 1082 | `激斗圣战士(修正版)(简)[外星科技+Vanyogin](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/激斗圣战士(修正版)(简)[外星科技+Vanyogin](JP)[RPG](4Mb)/> | 激斗圣战士(修正版)(简)[外星科技+Vanyogin](JP)[RPG](4Mb) |
+| 1083 | `激斗圣战士(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/激斗圣战士(简)[外星科技](JP)[RPG](4Mb)/> | 激斗圣战士(简)[外星科技](JP)[RPG](4Mb) |
+| 1084 | `激龟忍者传(v1.1)(简)[DMG](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/激龟忍者传(v1.1)(简)[DMG](JP)[ACT](3Mb)/> | 激龟忍者传(v1.1)(简)[DMG](JP)[ACT](3Mb) |
+| 1085 | `激龟格斗(v1.0)(简)[星空](US)[FTG](2.37Mb)`：<https://fc.haiyong.site/games/激龟格斗(v1.0)(简)[星空](US)[FTG](2.37Mb)/> | 激龟格斗(v1.0)(简)[星空](US)[FTG](2.37Mb) |
+| 1086 | `火凤凰(v1.0)(简)[高伟](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/火凤凰(v1.0)(简)[高伟](JP)[STG](0.31Mb)/> | 火凤凰(v1.0)(简)[高伟](JP)[STG](0.31Mb) |
+| 1087 | `火凤凰(简)[虫虫](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/火凤凰(简)[虫虫](JP)[STG](0.31Mb)/> | 火凤凰(简)[虫虫](JP)[STG](0.31Mb) |
+| 1088 | `火凤凰[高伟汉化](1Mb)`：<https://fc.haiyong.site/games/火凤凰[高伟汉化](1Mb)/> | 火凤凰[高伟汉化](1Mb) |
+| 1089 | `火影忍者RPG(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/火影忍者RPG(简)[南晶科技](CN)[RPG](16Mb)/> | 火影忍者RPG(简)[南晶科技](CN)[RPG](16Mb) |
+| 1090 | `火炮侦探(简)[汉化你妹](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/火炮侦探(简)[汉化你妹](JP)[ACT](3Mb)/> | 火炮侦探(简)[汉化你妹](JP)[ACT](3Mb) |
+| 1091 | `火焰之纹章 - 暗黑龙与光之剑(v1.05)(简)[寒雪使者](JP)[SLG](5Mb)`：<https://fc.haiyong.site/games/火焰之纹章 - 暗黑龙与光之剑(v1.05)(简)[寒雪使者](JP)[SLG](5Mb)/> | 火焰之纹章 - 暗黑龙与光之剑(v1.05)(简)[寒雪使者](JP)[SLG](5Mb) |
+| 1092 | `火焰之纹章 - 暗黑龙与光之剑(v4.0)(修正版)(简)[外星科技+庞先生+寒雪使者](JP)[SLG](5Mb)`：<https://fc.haiyong.site/games/火焰之纹章 - 暗黑龙与光之剑(v4.0)(修正版)(简)[外星科技+庞先生+寒雪使者](JP)[SLG](5Mb)/> | 火焰之纹章 - 暗黑龙与光之剑(v4.0)(修正版)(简)[外星科技+庞先生+寒雪使者](JP)[SLG](5Mb) |
+| 1093 | `火焰之纹章外传(v2.0)(简)[寒雪使者](JP)[SLG](6Mb)`：<https://fc.haiyong.site/games/火焰之纹章外传(v2.0)(简)[寒雪使者](JP)[SLG](6Mb)/> | 火焰之纹章外传(v2.0)(简)[寒雪使者](JP)[SLG](6Mb) |
+| 1094 | `火焰之纹章外传(修正版)(简)[外星科技+庞先生+寒雪使者](JP)[SLG](5Mb)`：<https://fc.haiyong.site/games/火焰之纹章外传(修正版)(简)[外星科技+庞先生+寒雪使者](JP)[SLG](5Mb)/> | 火焰之纹章外传(修正版)(简)[外星科技+庞先生+寒雪使者](JP)[SLG](5Mb) |
+| 1095 | `火焰之纹章外传[汉化你妹汉化组](5Mb)`：<https://fc.haiyong.site/games/火焰之纹章外传[汉化你妹汉化组](5Mb)/> | 火焰之纹章外传[汉化你妹汉化组](5Mb) |
+| 1096 | `火焰使者(繁)[恒格电子](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/火焰使者(繁)[恒格电子](JP)[RPG](4Mb)/> | 火焰使者(繁)[恒格电子](JP)[RPG](4Mb) |
+| 1097 | `火焰纹章 - 圣战的系谱(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/火焰纹章 - 圣战的系谱(简)[外星科技](CN)[RPG](8Mb)/> | 火焰纹章 - 圣战的系谱(简)[外星科技](CN)[RPG](8Mb) |
+| 1098 | `火焰纹章(v1.0)(简)[汉化你妹](JP)[SLG](5Mb)`：<https://fc.haiyong.site/games/火焰纹章(v1.0)(简)[汉化你妹](JP)[SLG](5Mb)/> | 火焰纹章(v1.0)(简)[汉化你妹](JP)[SLG](5Mb) |
+| 1099 | `火箭赛车(简)[御酒探花](JP)[RAC](0.5Mb)`：<https://fc.haiyong.site/games/火箭赛车(简)[御酒探花](JP)[RAC](0.5Mb)/> | 火箭赛车(简)[御酒探花](JP)[RAC](0.5Mb) |
+| 1100 | `火箭车(简)[虫儿](JP)[RAC](0.18Mb)`：<https://fc.haiyong.site/games/火箭车(简)[虫儿](JP)[RAC](0.18Mb)/> | 火箭车(简)[虫儿](JP)[RAC](0.18Mb) |
+| 1101 | `火箭飞车(v1.2)(简)[九班](JP)[RAC](0.18Mb)`：<https://fc.haiyong.site/games/火箭飞车(v1.2)(简)[九班](JP)[RAC](0.18Mb)/> | 火箭飞车(v1.2)(简)[九班](JP)[RAC](0.18Mb) |
+| 1102 | `火龙(繁)[三协资讯](CN)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/火龙(繁)[三协资讯](CN)[ACT](0.31Mb)/> | 火龙(繁)[三协资讯](CN)[ACT](0.31Mb) |
+| 1103 | `灵界护法(繁)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/灵界护法(繁)[外星科技](CN)[ACT](4Mb)/> | 灵界护法(繁)[外星科技](CN)[ACT](4Mb) |
+| 1104 | `炸弹人(v1.0)(简)[MS](JP)[PUZ](0.18Mb)`：<https://fc.haiyong.site/games/炸弹人(v1.0)(简)[MS](JP)[PUZ](0.18Mb)/> | 炸弹人(v1.0)(简)[MS](JP)[PUZ](0.18Mb) |
+| 1105 | `炸弹人(v1.0)(简)[惊风](JP)[PUZ](0.37Mb)`：<https://fc.haiyong.site/games/炸弹人(v1.0)(简)[惊风](JP)[PUZ](0.37Mb)/> | 炸弹人(v1.0)(简)[惊风](JP)[PUZ](0.37Mb) |
+| 1106 | `炸弹人(简)[水火](JP)[PUZ](0.37Mb)`：<https://fc.haiyong.site/games/炸弹人(简)[水火](JP)[PUZ](0.37Mb)/> | 炸弹人(简)[水火](JP)[PUZ](0.37Mb) |
+| 1107 | `烈火92(修正版)(简)[幻想+MS](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/烈火92(修正版)(简)[幻想+MS](JP)[STG](2Mb)/> | 烈火92(修正版)(简)[幻想+MS](JP)[STG](2Mb) |
+| 1108 | `烈火92(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/烈火92(简)[高伟](JP)[STG](2Mb)/> | 烈火92(简)[高伟](JP)[STG](2Mb) |
+| 1109 | `热血时代剧(简体中文版)(v0.91)[AXI AHE汉化](JP)[ACT](2.5Mb)(可模拟版本)`：<https://fc.haiyong.site/games/热血时代剧(简体中文版)(v0.91)[AXI AHE汉化](JP)[ACT](2.5Mb)(可模拟版本)/> | 热血时代剧(简体中文版)(v0.91)[AXI AHE汉化](JP)[ACT](2.5Mb)(可模拟版本) |
+| 1110 | `热血格斗传说(v20130718)(简)[热血的鱼缸](JP)[FTG](3.11Mb)`：<https://fc.haiyong.site/games/热血格斗传说(v20130718)(简)[热血的鱼缸](JP)[FTG](3.11Mb)/> | 热血格斗传说(v20130718)(简)[热血的鱼缸](JP)[FTG](3.11Mb) |
+| 1111 | `热血格斗传说(v20130718)(繁)[热血的鱼缸](JP)[FTG](3.11Mb)`：<https://fc.haiyong.site/games/热血格斗传说(v20130718)(繁)[热血的鱼缸](JP)[FTG](3.11Mb)/> | 热血格斗传说(v20130718)(繁)[热血的鱼缸](JP)[FTG](3.11Mb) |
+| 1112 | `热血格斗传说(v20220403)(简)[热血的鱼缸+asiwish](JP)[FTG](4Mb)`：<https://fc.haiyong.site/games/热血格斗传说(v20220403)(简)[热血的鱼缸+asiwish](JP)[FTG](4Mb)/> | 热血格斗传说(v20220403)(简)[热血的鱼缸+asiwish](JP)[FTG](4Mb) |
+| 1113 | `热血格斗传说(简)[Old Liu](JP)[FTG](2Mb)`：<https://fc.haiyong.site/games/热血格斗传说(简)[Old Liu](JP)[FTG](2Mb)/> | 热血格斗传说(简)[Old Liu](JP)[FTG](2Mb) |
+| 1114 | `热血物语(简)[PKome](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/热血物语(简)[PKome](US)[ACT](2Mb)/> | 热血物语(简)[PKome](US)[ACT](2Mb) |
+| 1115 | `热血物语[AirTeam汉化版](2Mb)`：<https://fc.haiyong.site/games/热血物语[AirTeam汉化版](2Mb)/> | 热血物语[AirTeam汉化版](2Mb) |
+| 1116 | `热血硬派国雄君(简)[热血的鱼缸](JP)[ACT](1.12Mb)`：<https://fc.haiyong.site/games/热血硬派国雄君(简)[热血的鱼缸](JP)[ACT](1.12Mb)/> | 热血硬派国雄君(简)[热血的鱼缸](JP)[ACT](1.12Mb) |
+| 1117 | `热血篮球[AXI AHE汉化](JP)[SPG](可模拟版本)`：<https://fc.haiyong.site/games/热血篮球[AXI AHE汉化](JP)[SPG](可模拟版本)/> | 热血篮球[AXI AHE汉化](JP)[SPG](可模拟版本) |
+| 1118 | `热血高校躲避球部 - 足球篇(简)[热血的鱼缸](JP)[SPG](7Mb)`：<https://fc.haiyong.site/games/热血高校躲避球部 - 足球篇(简)[热血的鱼缸](JP)[SPG](7Mb)/> | 热血高校躲避球部 - 足球篇(简)[热血的鱼缸](JP)[SPG](7Mb) |
+| 1119 | `热血高校躲避球部 - 足球篇(繁)[热血的鱼缸](JP)[SPG](7Mb)`：<https://fc.haiyong.site/games/热血高校躲避球部 - 足球篇(繁)[热血的鱼缸](JP)[SPG](7Mb)/> | 热血高校躲避球部 - 足球篇(繁)[热血的鱼缸](JP)[SPG](7Mb) |
+| 1120 | `热血高校躲避球部(简)[Old Liu](JP)[SPG](2Mb)`：<https://fc.haiyong.site/games/热血高校躲避球部(简)[Old Liu](JP)[SPG](2Mb)/> | 热血高校躲避球部(简)[Old Liu](JP)[SPG](2Mb) |
+| 1121 | `热血！街头篮球 - 加油吧！灌篮高手们！(v0.9)(简)[热血的鱼缸](JP)[SPG](2.87Mb)`：<https://fc.haiyong.site/games/热血！街头篮球 - 加油吧！灌篮高手们！(v0.9)(简)[热血的鱼缸](JP)[SPG](2.87Mb)/> | 热血！街头篮球 - 加油吧！灌篮高手们！(v0.9)(简)[热血的鱼缸](JP)[SPG](2.87Mb) |
+| 1122 | `热血！街头篮球 - 加油吧！灌篮高手们！(简)[惊风+空气+gonerFC+火光](JP)[SPG](4Mb)`：<https://fc.haiyong.site/games/热血！街头篮球 - 加油吧！灌篮高手们！(简)[惊风+空气+gonerFC+火光](JP)[SPG](4Mb)/> | 热血！街头篮球 - 加油吧！灌篮高手们！(简)[惊风+空气+gonerFC+火光](JP)[SPG](4Mb) |
+| 1123 | `热血！街头篮球 - 加油吧！灌篮高手们！(简)[油气车](JP)[SPG](6Mb)`：<https://fc.haiyong.site/games/热血！街头篮球 - 加油吧！灌篮高手们！(简)[油气车](JP)[SPG](6Mb)/> | 热血！街头篮球 - 加油吧！灌篮高手们！(简)[油气车](JP)[SPG](6Mb) |
+| 1124 | `熊猫太子(繁)[dragon2snow](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/熊猫太子(繁)[dragon2snow](CN)[ACT](4Mb)/> | 熊猫太子(繁)[dragon2snow](CN)[ACT](4Mb) |
+| 1125 | `爆击战士87(简)[高伟](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/爆击战士87(简)[高伟](JP)[STG](1Mb)/> | 爆击战士87(简)[高伟](JP)[STG](1Mb) |
+| 1126 | `爆笑三国(简)[外星科技+147201688](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/爆笑三国(简)[外星科技+147201688](CN)[SLG](8Mb)/> | 爆笑三国(简)[外星科技+147201688](CN)[SLG](8Mb) |
+| 1127 | `爆笑三国(繁)[外星科技](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/爆笑三国(繁)[外星科技](CN)[SLG](8Mb)/> | 爆笑三国(繁)[外星科技](CN)[SLG](8Mb) |
+| 1128 | `爱情小屋(简)[高伟](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/爱情小屋(简)[高伟](JP)[ACT](0.18Mb)/> | 爱情小屋(简)[高伟](JP)[ACT](0.18Mb) |
+| 1129 | `爱的小屋(v3)(简)[MS](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/爱的小屋(v3)(简)[MS](JP)[ACT](0.18Mb)/> | 爱的小屋(v3)(简)[MS](JP)[ACT](0.18Mb) |
+| 1130 | `牧场物语(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/牧场物语(简)[南晶科技](CN)[RPG](16Mb)/> | 牧场物语(简)[南晶科技](CN)[RPG](16Mb) |
+| 1131 | `特库摩世界杯足球赛[王龙汉化小组汉化 MS修正](JP)[SPG](1Mb)`：<https://fc.haiyong.site/games/特库摩世界杯足球赛[王龙汉化小组汉化 MS修正](JP)[SPG](1Mb)/> | 特库摩世界杯足球赛[王龙汉化小组汉化 MS修正](JP)[SPG](1Mb) |
+| 1132 | `特救指令(简)[asiwish](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/特救指令(简)[asiwish](JP)[ACT](2Mb)/> | 特救指令(简)[asiwish](JP)[ACT](2Mb) |
+| 1133 | `特救指令(简)[Puszta](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/特救指令(简)[Puszta](JP)[ACT](2Mb)/> | 特救指令(简)[Puszta](JP)[ACT](2Mb) |
+| 1134 | `特救指令(简)[天蝎之忆](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/特救指令(简)[天蝎之忆](JP)[ACT](2Mb)/> | 特救指令(简)[天蝎之忆](JP)[ACT](2Mb) |
+| 1135 | `特救指令(简)[逆游的五彩鱼](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/特救指令(简)[逆游的五彩鱼](JP)[ACT](4Mb)/> | 特救指令(简)[逆游的五彩鱼](JP)[ACT](4Mb) |
+| 1136 | `特救指令(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/特救指令(简)[高伟](JP)[ACT](2Mb)/> | 特救指令(简)[高伟](JP)[ACT](2Mb) |
+| 1137 | `特种部队 - 一个真正的美国英雄(简)[汉化你妹](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/特种部队 - 一个真正的美国英雄(简)[汉化你妹](US)[ACT](4Mb)/> | 特种部队 - 一个真正的美国英雄(简)[汉化你妹](US)[ACT](4Mb) |
+| 1138 | `狙击13 第一章 诸神的黄昏[DMG](4Mb)`：<https://fc.haiyong.site/games/狙击13 第一章 诸神的黄昏[DMG](4Mb)/> | 狙击13 第一章 诸神的黄昏[DMG](4Mb) |
+| 1139 | `狮王传奇(简)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/狮王传奇(简)[外星科技](CN)[ACT](4Mb)/> | 狮王传奇(简)[外星科技](CN)[ACT](4Mb) |
+| 1140 | `猫之狂欢(v1.0)[九班汉化](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/猫之狂欢(v1.0)[九班汉化](JP)[ACT](0.18Mb)/> | 猫之狂欢(v1.0)[九班汉化](JP)[ACT](0.18Mb) |
+| 1141 | `猫党忍传 - 胡扯什么(v1.11)(简)[汉化你妹](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/猫党忍传 - 胡扯什么(v1.11)(简)[汉化你妹](JP)[ACT](4Mb)/> | 猫党忍传 - 胡扯什么(v1.11)(简)[汉化你妹](JP)[ACT](4Mb) |
+| 1142 | `猫和老鼠(v2)(简)[星夜之幻](JP)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/猫和老鼠(v2)(简)[星夜之幻](JP)[ACT](0.31Mb)/> | 猫和老鼠(v2)(简)[星夜之幻](JP)[ACT](0.31Mb) |
+| 1143 | `猫捉老鼠(简)[奇玉](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/猫捉老鼠(简)[奇玉](JP)[ACT](0.18Mb)/> | 猫捉老鼠(简)[奇玉](JP)[ACT](0.18Mb) |
+| 1144 | `猫捉老鼠(简)[来福](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/猫捉老鼠(简)[来福](JP)[ACT](0.18Mb)/> | 猫捉老鼠(简)[来福](JP)[ACT](0.18Mb) |
+| 1145 | `王中霸学习卡(简)[荣丰](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/王中霸学习卡(简)[荣丰](CN)[ETC](4Mb)/> | 王中霸学习卡(简)[荣丰](CN)[ETC](4Mb) |
+| 1146 | `王之霸者(v2)(简)[逆游的五彩鱼](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/王之霸者(v2)(简)[逆游的五彩鱼](US)[ACT](4Mb)/> | 王之霸者(v2)(简)[逆游的五彩鱼](US)[ACT](4Mb) |
+| 1147 | `王子复仇记(简)[恒格电子](CN)[TAB](8Mb)`：<https://fc.haiyong.site/games/王子复仇记(简)[恒格电子](CN)[TAB](8Mb)/> | 王子复仇记(简)[恒格电子](CN)[TAB](8Mb) |
+| 1148 | `王牌海战(简)[TCL](CN)[TAB](0.75Mb)`：<https://fc.haiyong.site/games/王牌海战(简)[TCL](CN)[TAB](0.75Mb)/> | 王牌海战(简)[TCL](CN)[TAB](0.75Mb) |
+| 1149 | `王者无双(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/王者无双(简)[南晶科技](CN)[RPG](4Mb)/> | 王者无双(简)[南晶科技](CN)[RPG](4Mb) |
+| 1150 | `玛利欧兄弟(v20110401)(繁)[Nokoh](JUE)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/玛利欧兄弟(v20110401)(繁)[Nokoh](JUE)[ACT](0.37Mb)/> | 玛利欧兄弟(v20110401)(繁)[Nokoh](JUE)[ACT](0.37Mb) |
+| 1151 | `玛利欧兄弟拆屋工(v20110409)(繁)[Nokoh](JUE)[ACT](0.75Mb)`：<https://fc.haiyong.site/games/玛利欧兄弟拆屋工(v20110409)(繁)[Nokoh](JUE)[ACT](0.75Mb)/> | 玛利欧兄弟拆屋工(v20110409)(繁)[Nokoh](JUE)[ACT](0.75Mb) |
+| 1152 | `玛莉医生(简)[Puszta](JU)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/玛莉医生(简)[Puszta](JU)[PUZ](0.5Mb)/> | 玛莉医生(简)[Puszta](JU)[PUZ](0.5Mb) |
+| 1153 | `生化危机(简)[外星科技](CN)[AVG](8Mb)`：<https://fc.haiyong.site/games/生化危机(简)[外星科技](CN)[AVG](8Mb)/> | 生化危机(简)[外星科技](CN)[AVG](8Mb) |
+| 1154 | `生命的奇迹 - 超级宝宝(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/生命的奇迹 - 超级宝宝(简)[MS](JP)[ACT](2Mb)/> | 生命的奇迹 - 超级宝宝(简)[MS](JP)[ACT](2Mb) |
+| 1155 | `甲A - 中国足球俱乐部之经营(简)[外星科技](CN)[SLG](6Mb)`：<https://fc.haiyong.site/games/甲A - 中国足球俱乐部之经营(简)[外星科技](CN)[SLG](6Mb)/> | 甲A - 中国足球俱乐部之经营(简)[外星科技](CN)[SLG](6Mb) |
+| 1156 | `电梯迷宫(简)[高伟](JP)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/电梯迷宫(简)[高伟](JP)[ACT](0.31Mb)/> | 电梯迷宫(简)[高伟](JP)[ACT](0.31Mb) |
+| 1157 | `电脑教室(简)[爱尔普](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/电脑教室(简)[爱尔普](CN)[ETC](4Mb)/> | 电脑教室(简)[爱尔普](CN)[ETC](4Mb) |
+| 1158 | `电视玛琍(繁)[Namco](CN)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/电视玛琍(繁)[Namco](CN)[TAB](0.5Mb)/> | 电视玛琍(繁)[Namco](CN)[TAB](0.5Mb) |
+| 1159 | `疯狂赛车(简)[高伟](JP)[RAC](0.18Mb)`：<https://fc.haiyong.site/games/疯狂赛车(简)[高伟](JP)[RAC](0.18Mb)/> | 疯狂赛车(简)[高伟](JP)[RAC](0.18Mb) |
+| 1160 | `疯狂鸡蛋仔(简)[外星科技](CN)[ETC](3Mb)`：<https://fc.haiyong.site/games/疯狂鸡蛋仔(简)[外星科技](CN)[ETC](3Mb)/> | 疯狂鸡蛋仔(简)[外星科技](CN)[ETC](3Mb) |
+| 1161 | `百万富翁(繁)[未知](CN)[TAB](8Mb)`：<https://fc.haiyong.site/games/百万富翁(繁)[未知](CN)[TAB](8Mb)/> | 百万富翁(繁)[未知](CN)[TAB](8Mb) |
+| 1162 | `百眼巨神(简)[虫虫](JP)[STG](0.37Mb)`：<https://fc.haiyong.site/games/百眼巨神(简)[虫虫](JP)[STG](0.37Mb)/> | 百眼巨神(简)[虫虫](JP)[STG](0.37Mb) |
+| 1164 | `皮卡丘Y2K(简)[天空联盟](CN)[ACT](2Mb)`：<https://fc.haiyong.site/games/皮卡丘Y2K(简)[天空联盟](CN)[ACT](2Mb)/> | 皮卡丘Y2K(简)[天空联盟](CN)[ACT](2Mb) |
+| 1165 | `盗帅(繁)[洁晖](CN)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/盗帅(繁)[洁晖](CN)[ACT](0.5Mb)/> | 盗帅(繁)[洁晖](CN)[ACT](0.5Mb) |
+| 1166 | `盟军赶死队(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/盟军赶死队(简)[外星科技](CN)[RPG](4Mb)/> | 盟军赶死队(简)[外星科技](CN)[RPG](4Mb) |
+| 1167 | `真侍魂 - 武士道列传(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/真侍魂 - 武士道列传(简)[南晶科技](CN)[RPG](16Mb)/> | 真侍魂 - 武士道列传(简)[南晶科技](CN)[RPG](16Mb) |
+| 1168 | `真侍魂 - 魂之利刃(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/真侍魂 - 魂之利刃(简)[南晶科技](CN)[RPG](16Mb)/> | 真侍魂 - 魂之利刃(简)[南晶科技](CN)[RPG](16Mb) |
+| 1169 | `真假猴王(简)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/真假猴王(简)[外星科技](CN)[ACT](4Mb)/> | 真假猴王(简)[外星科技](CN)[ACT](4Mb) |
+| 1170 | `真本西游记(繁)[Asder](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/真本西游记(繁)[Asder](CN)[FTG](3Mb)/> | 真本西游记(繁)[Asder](CN)[FTG](3Mb) |
+| 1171 | `真田十勇士(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/真田十勇士(简)[外星科技](JP)[RPG](4Mb)/> | 真田十勇士(简)[外星科技](JP)[RPG](4Mb) |
+| 1172 | `石器时代(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/石器时代(简)[南晶科技](CN)[RPG](16Mb)/> | 石器时代(简)[南晶科技](CN)[RPG](16Mb) |
+| 1173 | `破釜沉舟(解密版)(简)[外星科技+WXN](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/破釜沉舟(解密版)(简)[外星科技+WXN](CN)[RPG](4Mb)/> | 破釜沉舟(解密版)(简)[外星科技+WXN](CN)[RPG](4Mb) |
+| 1174 | `碰碰车(v1.0)(简)[MS](US)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/碰碰车(v1.0)(简)[MS](US)[ACT](0.5Mb)/> | 碰碰车(v1.0)(简)[MS](US)[ACT](0.5Mb) |
+| 1175 | `碰碰飞车(简)[高伟](JP)[RAC](0.5Mb)`：<https://fc.haiyong.site/games/碰碰飞车(简)[高伟](JP)[RAC](0.5Mb)/> | 碰碰飞车(简)[高伟](JP)[RAC](0.5Mb) |
+| 1176 | `神奇宝贝(简)[恒格电子](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/神奇宝贝(简)[恒格电子](CN)[RPG](8Mb)/> | 神奇宝贝(简)[恒格电子](CN)[RPG](8Mb) |
+| 1177 | `神密金三角(繁)[外星科技](JP)[RPG](1Mb)`：<https://fc.haiyong.site/games/神密金三角(繁)[外星科技](JP)[RPG](1Mb)/> | 神密金三角(繁)[外星科技](JP)[RPG](1Mb) |
+| 1178 | `神探柯南(简)[星星科技](JP)[AVG](4Mb)`：<https://fc.haiyong.site/games/神探柯南(简)[星星科技](JP)[AVG](4Mb)/> | 神探柯南(简)[星星科技](JP)[AVG](4Mb) |
+| 1179 | `神话剑云3(简)[恒格电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/神话剑云3(简)[恒格电子](JP)[RPG](6Mb)/> | 神话剑云3(简)[恒格电子](JP)[RPG](6Mb) |
+| 1180 | `神风剑(简)[外星科技](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/神风剑(简)[外星科技](JP)[RPG](8Mb)/> | 神风剑(简)[外星科技](JP)[RPG](8Mb) |
+| 1181 | `神鬼传奇(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/神鬼传奇(简)[外星科技](CN)[RPG](8Mb)/> | 神鬼传奇(简)[外星科技](CN)[RPG](8Mb) |
+| 1182 | `神魔大陆(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/神魔大陆(简)[晶科泰](CN)[RPG](8Mb)/> | 神魔大陆(简)[晶科泰](CN)[RPG](8Mb) |
+| 1183 | `神鹰一号(v1)(简)[虫虫](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/神鹰一号(v1)(简)[虫虫](JP)[STG](1Mb)/> | 神鹰一号(v1)(简)[虫虫](JP)[STG](1Mb) |
+| 1184 | `科王中英文电脑学习卡(v3.1)(简)[科达](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/科王中英文电脑学习卡(v3.1)(简)[科达](CN)[ETC](4Mb)/> | 科王中英文电脑学习卡(v3.1)(简)[科达](CN)[ETC](4Mb) |
+| 1185 | `究极虎(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/究极虎(简)[高伟](JP)[STG](2Mb)/> | 究极虎(简)[高伟](JP)[STG](2Mb) |
+| 1186 | `空中要塞(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/空中要塞(简)[高伟](JP)[STG](2Mb)/> | 空中要塞(简)[高伟](JP)[STG](2Mb) |
+| 1187 | `空中魂斗罗 - 最终任务(v1.0)(简)[星空](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/空中魂斗罗 - 最终任务(v1.0)(简)[星空](JP)[STG](2Mb)/> | 空中魂斗罗 - 最终任务(v1.0)(简)[星空](JP)[STG](2Mb) |
+| 1188 | `空中魂斗罗 - 纽约行动(简)[maoweimam](EU)[STG](2Mb)`：<https://fc.haiyong.site/games/空中魂斗罗 - 纽约行动(简)[maoweimam](EU)[STG](2Mb)/> | 空中魂斗罗 - 纽约行动(简)[maoweimam](EU)[STG](2Mb) |
+| 1189 | `空中魂斗罗(简)[金明](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/空中魂斗罗(简)[金明](JP)[STG](2Mb)/> | 空中魂斗罗(简)[金明](JP)[STG](2Mb) |
+| 1190 | `空间暗影(简)[高伟](JP)[STG](1.5Mb)`：<https://fc.haiyong.site/games/空间暗影(简)[高伟](JP)[STG](1.5Mb)/> | 空间暗影(简)[高伟](JP)[STG](1.5Mb) |
+| 1191 | `穿长靴的猫 - 环游世界80天大冒险(简)[虫儿](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/穿长靴的猫 - 环游世界80天大冒险(简)[虫儿](JP)[ACT](0.5Mb)/> | 穿长靴的猫 - 环游世界80天大冒险(简)[虫儿](JP)[ACT](0.5Mb) |
+| 1192 | `穿长靴的猫 - 皮洛的伟大探险(简)[虫儿](US)[ACT](1Mb)`：<https://fc.haiyong.site/games/穿长靴的猫 - 皮洛的伟大探险(简)[虫儿](US)[ACT](1Mb)/> | 穿长靴的猫 - 皮洛的伟大探险(简)[虫儿](US)[ACT](1Mb) |
+| 1193 | `突击(繁)[洁晖](CN)[ACT](1Mb)`：<https://fc.haiyong.site/games/突击(繁)[洁晖](CN)[ACT](1Mb)/> | 突击(繁)[洁晖](CN)[ACT](1Mb) |
+| 1194 | `突然君(简)[烈火暴龙](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/突然君(简)[烈火暴龙](JP)[ACT](1Mb)/> | 突然君(简)[烈火暴龙](JP)[ACT](1Mb) |
+| 1195 | `突然君(简)[高伟](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/突然君(简)[高伟](JP)[ACT](1Mb)/> | 突然君(简)[高伟](JP)[ACT](1Mb) |
+| 1196 | `笑傲江湖 - 群侠记(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/笑傲江湖 - 群侠记(简)[南晶科技](CN)[RPG](4Mb)/> | 笑傲江湖 - 群侠记(简)[南晶科技](CN)[RPG](4Mb) |
+| 1197 | `笑傲江湖(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/笑傲江湖(简)[外星科技](CN)[RPG](8Mb)/> | 笑傲江湖(简)[外星科技](CN)[RPG](8Mb) |
+| 1198 | `第2次超级机器人大战(v1.2)(修正版)(简)[外星科技+心伤谁知](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/第2次超级机器人大战(v1.2)(修正版)(简)[外星科技+心伤谁知](JP)[SLG](4Mb)/> | 第2次超级机器人大战(v1.2)(修正版)(简)[外星科技+心伤谁知](JP)[SLG](4Mb) |
+| 1199 | `第2次超级机器人大战(简)[恒格电子](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/第2次超级机器人大战(简)[恒格电子](JP)[SLG](4Mb)/> | 第2次超级机器人大战(简)[恒格电子](JP)[SLG](4Mb) |
+| 1200 | `第2次超级机器人大战(简)[晶科泰](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/第2次超级机器人大战(简)[晶科泰](JP)[SLG](4Mb)/> | 第2次超级机器人大战(简)[晶科泰](JP)[SLG](4Mb) |
+| 1201 | `第2次超级机器人大战(记忆修正版)(简)[先锋卡通](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/第2次超级机器人大战(记忆修正版)(简)[先锋卡通](JP)[SLG](4Mb)/> | 第2次超级机器人大战(记忆修正版)(简)[先锋卡通](JP)[SLG](4Mb) |
+| 1202 | `第四次机器人大战(繁)[外星科技](JP)[SLG](6Mb)`：<https://fc.haiyong.site/games/第四次机器人大战(繁)[外星科技](JP)[SLG](6Mb)/> | 第四次机器人大战(繁)[外星科技](JP)[SLG](6Mb) |
+| 1203 | `筋肉人 - 摔角大赛(简)[MS](JP)[FTG](0.18Mb)`：<https://fc.haiyong.site/games/筋肉人 - 摔角大赛(简)[MS](JP)[FTG](0.18Mb)/> | 筋肉人 - 摔角大赛(简)[MS](JP)[FTG](0.18Mb) |
+| 1204 | `筋肉人(简)[Madcell](JP)[FTG](0.25Mb)`：<https://fc.haiyong.site/games/筋肉人(简)[Madcell](JP)[FTG](0.25Mb)/> | 筋肉人(简)[Madcell](JP)[FTG](0.25Mb) |
+| 1205 | `筋肉人(简)[高伟](JP)[FTG](0.18Mb)`：<https://fc.haiyong.site/games/筋肉人(简)[高伟](JP)[FTG](0.18Mb)/> | 筋肉人(简)[高伟](JP)[FTG](0.18Mb) |
+| 1206 | `米老鼠大冒险(简)[星空](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/米老鼠大冒险(简)[星空](JP)[ACT](0.5Mb)/> | 米老鼠大冒险(简)[星空](JP)[ACT](0.5Mb) |
+| 1207 | `精卫填海(简)[恒格电子](CN)[AVG](8Mb)`：<https://fc.haiyong.site/games/精卫填海(简)[恒格电子](CN)[AVG](8Mb)/> | 精卫填海(简)[恒格电子](CN)[AVG](8Mb) |
+| 1208 | `索尼克(简)[游戏天地](US)[ACT](6Mb)`：<https://fc.haiyong.site/games/索尼克(简)[游戏天地](US)[ACT](6Mb)/> | 索尼克(简)[游戏天地](US)[ACT](6Mb) |
+| 1209 | `红巾特攻队(简)[8GUA](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/红巾特攻队(简)[8GUA](JP)[STG](0.18Mb)/> | 红巾特攻队(简)[8GUA](JP)[STG](0.18Mb) |
+| 1210 | `红巾特攻队(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/红巾特攻队(简)[高伟](JP)[STG](0.18Mb)/> | 红巾特攻队(简)[高伟](JP)[STG](0.18Mb) |
+| 1211 | `红楼梦(简)[南晶科技](CN)[TAB](4Mb)`：<https://fc.haiyong.site/games/红楼梦(简)[南晶科技](CN)[TAB](4Mb)/> | 红楼梦(简)[南晶科技](CN)[TAB](4Mb) |
+| 1212 | `红问号(简)[南通科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/红问号(简)[南通科技](JP)[RPG](4Mb)/> | 红问号(简)[南通科技](JP)[RPG](4Mb) |
+| 1213 | `纽约大拳猫(v1)(简)[逆游的五彩鱼](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/纽约大拳猫(v1)(简)[逆游的五彩鱼](JP)[ACT](3Mb)/> | 纽约大拳猫(v1)(简)[逆游的五彩鱼](JP)[ACT](3Mb) |
+| 1214 | `纽约大拳猫(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/纽约大拳猫(简)[MS](JP)[ACT](2Mb)/> | 纽约大拳猫(简)[MS](JP)[ACT](2Mb) |
+| 1215 | `纽约大拳猫(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/纽约大拳猫(简)[高伟](JP)[ACT](2Mb)/> | 纽约大拳猫(简)[高伟](JP)[ACT](2Mb) |
+| 1216 | `组合战机(简)[高伟](US)[STG](0.5Mb)`：<https://fc.haiyong.site/games/组合战机(简)[高伟](US)[STG](0.5Mb)/> | 组合战机(简)[高伟](US)[STG](0.5Mb) |
+| 1217 | `绝代双娇(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/绝代双娇(简)[南晶科技](CN)[RPG](4Mb)/> | 绝代双娇(简)[南晶科技](CN)[RPG](4Mb) |
+| 1218 | `绝代英雄(繁)[外星科技](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/绝代英雄(繁)[外星科技](JP)[SLG](4Mb)/> | 绝代英雄(繁)[外星科技](JP)[SLG](4Mb) |
+| 1219 | `绿色兵团(简)[SW](US)[ACT](1Mb)`：<https://fc.haiyong.site/games/绿色兵团(简)[SW](US)[ACT](1Mb)/> | 绿色兵团(简)[SW](US)[ACT](1Mb) |
+| 1220 | `绿色兵团(简)[星空](US)[ACT](1Mb)`：<https://fc.haiyong.site/games/绿色兵团(简)[星空](US)[ACT](1Mb)/> | 绿色兵团(简)[星空](US)[ACT](1Mb) |
+| 1221 | `绿野仙踪(简)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/绿野仙踪(简)[外星科技](CN)[ACT](4Mb)/> | 绿野仙踪(简)[外星科技](CN)[ACT](4Mb) |
+| 1222 | `网球(简)[8GUA](JU)[SPG](0.18Mb)`：<https://fc.haiyong.site/games/网球(简)[8GUA](JU)[SPG](0.18Mb)/> | 网球(简)[8GUA](JU)[SPG](0.18Mb) |
+| 1223 | `网球(简)[虫儿](JU)[SPG](0.18Mb)`：<https://fc.haiyong.site/games/网球(简)[虫儿](JU)[SPG](0.18Mb)/> | 网球(简)[虫儿](JU)[SPG](0.18Mb) |
+| 1224 | `网球(简)[顽石](JU)[SPG](0.18Mb)`：<https://fc.haiyong.site/games/网球(简)[顽石](JU)[SPG](0.18Mb)/> | 网球(简)[顽石](JU)[SPG](0.18Mb) |
+| 1225 | `罗罗大冒险(简)[高伟](US)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/罗罗大冒险(简)[高伟](US)[PUZ](0.5Mb)/> | 罗罗大冒险(简)[高伟](US)[PUZ](0.5Mb) |
+| 1226 | `罗罗大冒险2(简)[高伟](US)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/罗罗大冒险2(简)[高伟](US)[PUZ](0.5Mb)/> | 罗罗大冒险2(简)[高伟](US)[PUZ](0.5Mb) |
+| 1227 | `罗罗大冒险3(简)[高伟](US)[PUZ](2Mb)`：<https://fc.haiyong.site/games/罗罗大冒险3(简)[高伟](US)[PUZ](2Mb)/> | 罗罗大冒险3(简)[高伟](US)[PUZ](2Mb) |
+| 1228 | `美国富豪(繁)[恒格电子](CN)[TAB](8Mb)`：<https://fc.haiyong.site/games/美国富豪(繁)[恒格电子](CN)[TAB](8Mb)/> | 美国富豪(繁)[恒格电子](CN)[TAB](8Mb) |
+| 1229 | `美国总统选举(测试版)(简)[长鼻君的怀古橱](JP)[PUZ](3.25Mb)`：<https://fc.haiyong.site/games/美国总统选举(测试版)(简)[长鼻君的怀古橱](JP)[PUZ](3.25Mb)/> | 美国总统选举(测试版)(简)[长鼻君的怀古橱](JP)[PUZ](3.25Mb) |
+| 1230 | `美国队长和复仇者联盟(v20220506)(简)[LSP](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/美国队长和复仇者联盟(v20220506)(简)[LSP](US)[ACT](3Mb)/> | 美国队长和复仇者联盟(v20220506)(简)[LSP](US)[ACT](3Mb) |
+| 1231 | `美女拳(繁)[圣谦](CN)[PUZ](1.25Mb)`：<https://fc.haiyong.site/games/美女拳(繁)[圣谦](CN)[PUZ](1.25Mb)/> | 美女拳(繁)[圣谦](CN)[PUZ](1.25Mb) |
+| 1233 | `美猴王(解密版)(简)[外星科技+WXN](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/美猴王(解密版)(简)[外星科技+WXN](CN)[ACT](4Mb)/> | 美猴王(解密版)(简)[外星科技+WXN](CN)[ACT](4Mb) |
+| 1234 | `翼人(v1.0)(简)[高伟](US)[STG](1Mb)`：<https://fc.haiyong.site/games/翼人(v1.0)(简)[高伟](US)[STG](1Mb)/> | 翼人(v1.0)(简)[高伟](US)[STG](1Mb) |
+| 1235 | `耀奇之神奇蛋仔(简)[Puszta](JP)[PUZ](1.25Mb)`：<https://fc.haiyong.site/games/耀奇之神奇蛋仔(简)[Puszta](JP)[PUZ](1.25Mb)/> | 耀奇之神奇蛋仔(简)[Puszta](JP)[PUZ](1.25Mb) |
+| 1236 | `耀西的蛋(简)[高伟](US)[PUZ](1.25Mb)`：<https://fc.haiyong.site/games/耀西的蛋(简)[高伟](US)[PUZ](1.25Mb)/> | 耀西的蛋(简)[高伟](US)[PUZ](1.25Mb) |
+| 1237 | `耀西的饼干(v1.3)(简)[九班](JP)[PUZ](1.5Mb)`：<https://fc.haiyong.site/games/耀西的饼干(v1.3)(简)[九班](JP)[PUZ](1.5Mb)/> | 耀西的饼干(v1.3)(简)[九班](JP)[PUZ](1.5Mb) |
+| 1238 | `老虎直升机(简)[高伟](JP)[STG](0.5Mb)`：<https://fc.haiyong.site/games/老虎直升机(简)[高伟](JP)[STG](0.5Mb)/> | 老虎直升机(简)[高伟](JP)[STG](0.5Mb) |
+| 1239 | `能源战士(简)[Advance](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/能源战士(简)[Advance](JP)[ACT](2Mb)/> | 能源战士(简)[Advance](JP)[ACT](2Mb) |
+| 1240 | `脱狱 - 被俘之战(修正版)(简)[Peacock Wang+MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/脱狱 - 被俘之战(修正版)(简)[Peacock Wang+MS](US)[ACT](2Mb)/> | 脱狱 - 被俘之战(修正版)(简)[Peacock Wang+MS](US)[ACT](2Mb) |
+| 1241 | `脱狱 - 被俘之战(简)[死神DIY](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/脱狱 - 被俘之战(简)[死神DIY](US)[ACT](2Mb)/> | 脱狱 - 被俘之战(简)[死神DIY](US)[ACT](2Mb) |
+| 1242 | `脱狱 - 被俘的战斗(简)[星空](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/脱狱 - 被俘的战斗(简)[星空](JP)[ACT](2Mb)/> | 脱狱 - 被俘的战斗(简)[星空](JP)[ACT](2Mb) |
+| 1243 | `花式九球(v1.1)(简)[陈大玉+MM之神](US)[SPG](1Mb)`：<https://fc.haiyong.site/games/花式九球(v1.1)(简)[陈大玉+MM之神](US)[SPG](1Mb)/> | 花式九球(v1.1)(简)[陈大玉+MM之神](US)[SPG](1Mb) |
+| 1244 | `花式九球(日简)[星空](JP)[SPG](1.43Mb)`：<https://fc.haiyong.site/games/花式九球(日简)[星空](JP)[SPG](1.43Mb)/> | 花式九球(日简)[星空](JP)[SPG](1.43Mb) |
+| 1245 | `花式九球(美简)[星空](US)[SPG](1Mb)`：<https://fc.haiyong.site/games/花式九球(美简)[星空](US)[SPG](1Mb)/> | 花式九球(美简)[星空](US)[SPG](1Mb) |
+| 1246 | `花式撞球(修正版)(日简)[星空+庞先生](JP)[SPG](1.43Mb)`：<https://fc.haiyong.site/games/花式撞球(修正版)(日简)[星空+庞先生](JP)[SPG](1.43Mb)/> | 花式撞球(修正版)(日简)[星空+庞先生](JP)[SPG](1.43Mb) |
+| 1247 | `英汉词典1(简)[未知](CN)[ETC](2Mb)`：<https://fc.haiyong.site/games/英汉词典1(简)[未知](CN)[ETC](2Mb)/> | 英汉词典1(简)[未知](CN)[ETC](2Mb) |
+| 1248 | `英汉词典2(简)[未知](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/英汉词典2(简)[未知](CN)[ETC](4Mb)/> | 英汉词典2(简)[未知](CN)[ETC](4Mb) |
+| 1249 | `英烈群侠传(简)[外星科技](CN)[RPG](6Mb)`：<https://fc.haiyong.site/games/英烈群侠传(简)[外星科技](CN)[RPG](6Mb)/> | 英烈群侠传(简)[外星科技](CN)[RPG](6Mb) |
+| 1250 | `英语声霸(简)[东生](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/英语声霸(简)[东生](CN)[ETC](4Mb)/> | 英语声霸(简)[东生](CN)[ETC](4Mb) |
+| 1251 | `英语词霸(简)[小霸王](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/英语词霸(简)[小霸王](CN)[ETC](8Mb)/> | 英语词霸(简)[小霸王](CN)[ETC](8Mb) |
+| 1252 | `英雄传(繁)[Cony Soft](CN)[FTG](5Mb)`：<https://fc.haiyong.site/games/英雄传(繁)[Cony Soft](CN)[FTG](5Mb)/> | 英雄传(繁)[Cony Soft](CN)[FTG](5Mb) |
+| 1253 | `英雄传奇(简)[恒格电子](JP)[RPG](8Mb)`：<https://fc.haiyong.site/games/英雄传奇(简)[恒格电子](JP)[RPG](8Mb)/> | 英雄传奇(简)[恒格电子](JP)[RPG](8Mb) |
+| 1254 | `英雄无敌(繁)[振华](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/英雄无敌(繁)[振华](JP)[SLG](4Mb)/> | 英雄无敌(繁)[振华](JP)[SLG](4Mb) |
+| 1255 | `英雄无敌(繁)[未知](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/英雄无敌(繁)[未知](JP)[SLG](4Mb)/> | 英雄无敌(繁)[未知](JP)[SLG](4Mb) |
+| 1256 | `英雄源义经传奇(简)[恒格电子](JP)[RPG](2Mb)`：<https://fc.haiyong.site/games/英雄源义经传奇(简)[恒格电子](JP)[RPG](2Mb)/> | 英雄源义经传奇(简)[恒格电子](JP)[RPG](2Mb) |
+| 1257 | `茶茶丸大冒险(v1.0)(简)[高伟](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/茶茶丸大冒险(v1.0)(简)[高伟](JP)[ACT](0.5Mb)/> | 茶茶丸大冒险(v1.0)(简)[高伟](JP)[ACT](0.5Mb) |
+| 1258 | `茶茶丸的大冒险(v1.1)(简)[Nineswords](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/茶茶丸的大冒险(v1.1)(简)[Nineswords](JP)[ACT](0.5Mb)/> | 茶茶丸的大冒险(v1.1)(简)[Nineswords](JP)[ACT](0.5Mb) |
+| 1259 | `荆轲新传(繁)[Super Tone](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/荆轲新传(繁)[Super Tone](CN)[RPG](2Mb)/> | 荆轲新传(繁)[Super Tone](CN)[RPG](2Mb) |
+| 1260 | `荆轲新传(繁)[晶科泰](CN)[RPG](2Mb)`：<https://fc.haiyong.site/games/荆轲新传(繁)[晶科泰](CN)[RPG](2Mb)/> | 荆轲新传(繁)[晶科泰](CN)[RPG](2Mb) |
+| 1261 | `荒野大镖客(v1.0)(简)[DMG](US)[STG](1.25Mb)`：<https://fc.haiyong.site/games/荒野大镖客(v1.0)(简)[DMG](US)[STG](1.25Mb)/> | 荒野大镖客(v1.0)(简)[DMG](US)[STG](1.25Mb) |
+| 1262 | `荒野大镖客(v3)(修正版)(简)[高艳龙+MS](US)[STG](1Mb)`：<https://fc.haiyong.site/games/荒野大镖客(v3)(修正版)(简)[高艳龙+MS](US)[STG](1Mb)/> | 荒野大镖客(v3)(修正版)(简)[高艳龙+MS](US)[STG](1Mb) |
+| 1263 | `荒野枪手(v2)(简)[高伟](JU)[STG](0.18Mb)`：<https://fc.haiyong.site/games/荒野枪手(v2)(简)[高伟](JU)[STG](0.18Mb)/> | 荒野枪手(v2)(简)[高伟](JU)[STG](0.18Mb) |
+| 1264 | `荣丰中英文学习卡(简)[荣丰](CN)[ETC](2Mb)`：<https://fc.haiyong.site/games/荣丰中英文学习卡(简)[荣丰](CN)[ETC](2Mb)/> | 荣丰中英文学习卡(简)[荣丰](CN)[ETC](2Mb) |
+| 1265 | `荣耀之骑士团(简)[酷哥电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/荣耀之骑士团(简)[酷哥电子](JP)[RPG](6Mb)/> | 荣耀之骑士团(简)[酷哥电子](JP)[RPG](6Mb) |
+| 1266 | `荣誉勋章(简)[外星科技](JP)[AVG](4Mb)`：<https://fc.haiyong.site/games/荣誉勋章(简)[外星科技](JP)[AVG](4Mb)/> | 荣誉勋章(简)[外星科技](JP)[AVG](4Mb) |
+| 1267 | `菩故须苛战争(繁)[Rinkaku](JP)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/菩故须苛战争(繁)[Rinkaku](JP)[ACT](0.31Mb)/> | 菩故须苛战争(繁)[Rinkaku](JP)[ACT](0.31Mb) |
+| 1268 | `菲力貓(v20230420)(简+繁)[Nokoh](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/菲力貓(v20230420)(简+繁)[Nokoh](US)[ACT](4Mb)/> | 菲力貓(v20230420)(简+繁)[Nokoh](US)[ACT](4Mb) |
+| 1269 | `萨尔达传说1 - 海拉尔的幻想(v20220314)(繁)[Nokoh](JP)[RPG](1Mb)`：<https://fc.haiyong.site/games/萨尔达传说1 - 海拉尔的幻想(v20220314)(繁)[Nokoh](JP)[RPG](1Mb)/> | 萨尔达传说1 - 海拉尔的幻想(v20220314)(繁)[Nokoh](JP)[RPG](1Mb) |
+| 1270 | `落日征战(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/落日征战(简)[晶科泰](CN)[RPG](8Mb)/> | 落日征战(简)[晶科泰](CN)[RPG](8Mb) |
+| 1271 | `葫芦金刚(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/葫芦金刚(简)[南晶科技](CN)[RPG](16Mb)/> | 葫芦金刚(简)[南晶科技](CN)[RPG](16Mb) |
+| 1272 | `蕾拉(简)[高伟](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/蕾拉(简)[高伟](JP)[STG](1Mb)/> | 蕾拉(简)[高伟](JP)[STG](1Mb) |
+| 1273 | `虎穴行动(简)[孔雀天](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/虎穴行动(简)[孔雀天](JP)[ACT](6Mb)/> | 虎穴行动(简)[孔雀天](JP)[ACT](6Mb) |
+| 1274 | `虎门硝烟(繁)[酷哥电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/虎门硝烟(繁)[酷哥电子](CN)[RPG](4Mb)/> | 虎门硝烟(繁)[酷哥电子](CN)[RPG](4Mb) |
+| 1275 | `蜘蛛侠 - 六邪归来(简)[逆游的五彩鱼](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/蜘蛛侠 - 六邪归来(简)[逆游的五彩鱼](US)[ACT](3Mb)/> | 蜘蛛侠 - 六邪归来(简)[逆游的五彩鱼](US)[ACT](3Mb) |
+| 1276 | `蜡笔小新(繁)[Future](CN)[ACT](3Mb)`：<https://fc.haiyong.site/games/蜡笔小新(繁)[Future](CN)[ACT](3Mb)/> | 蜡笔小新(繁)[Future](CN)[ACT](3Mb) |
+| 1277 | `蝙蝠侠(简)[幻想](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/蝙蝠侠(简)[幻想](US)[ACT](2Mb)/> | 蝙蝠侠(简)[幻想](US)[ACT](2Mb) |
+| 1278 | `蝙蝠侠(简)[汉化你妹](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/蝙蝠侠(简)[汉化你妹](JP)[ACT](3Mb)/> | 蝙蝠侠(简)[汉化你妹](JP)[ACT](3Mb) |
+| 1279 | `街头 - 热血物语(v20220407)(简)[asiwish](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/街头 - 热血物语(v20220407)(简)[asiwish](JP)[ACT](2Mb)/> | 街头 - 热血物语(v20220407)(简)[asiwish](JP)[ACT](2Mb) |
+| 1280 | `街头 - 热血物语(简)[madcell](JP)[ACT](2.5Mb)`：<https://fc.haiyong.site/games/街头 - 热血物语(简)[madcell](JP)[ACT](2.5Mb)/> | 街头 - 热血物语(简)[madcell](JP)[ACT](2.5Mb) |
+| 1281 | `街头 - 热血物语(简)[空气](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/街头 - 热血物语(简)[空气](JP)[ACT](2Mb)/> | 街头 - 热血物语(简)[空气](JP)[ACT](2Mb) |
+| 1283 | `街头 - 热血进行曲(简)[PKome](JP)[SPG](2Mb)`：<https://fc.haiyong.site/games/街头 - 热血进行曲(简)[PKome](JP)[SPG](2Mb)/> | 街头 - 热血进行曲(简)[PKome](JP)[SPG](2Mb) |
+| 1284 | `街头格斗小子(简)[天空联盟](JUE)[FTG](0.18Mb)`：<https://fc.haiyong.site/games/街头格斗小子(简)[天空联盟](JUE)[FTG](0.18Mb)/> | 街头格斗小子(简)[天空联盟](JUE)[FTG](0.18Mb) |
+| 1285 | `街霸3(简)[天空联盟](CN)[FTG](5Mb)`：<https://fc.haiyong.site/games/街霸3(简)[天空联盟](CN)[FTG](5Mb)/> | 街霸3(简)[天空联盟](CN)[FTG](5Mb) |
+| 1286 | `装逼世界(简)[红狼狗](JP)[PUZ](0.25Mb)`：<https://fc.haiyong.site/games/装逼世界(简)[红狼狗](JP)[PUZ](0.25Mb)/> | 装逼世界(简)[红狼狗](JP)[PUZ](0.25Mb) |
+| 1287 | `西天取经(简)[小天才](CN)[ACT](1Mb)`：<https://fc.haiyong.site/games/西天取经(简)[小天才](CN)[ACT](1Mb)/> | 西天取经(简)[小天才](CN)[ACT](1Mb) |
+| 1288 | `西天取经2(简)[外星科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/西天取经2(简)[外星科技](CN)[ACT](4Mb)/> | 西天取经2(简)[外星科技](CN)[ACT](4Mb) |
+| 1289 | `西楚霸王(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/西楚霸王(简)[外星科技](CN)[RPG](8Mb)/> | 西楚霸王(简)[外星科技](CN)[RPG](8Mb) |
+| 1290 | `西游记世界(v1.04)(简)[汉化你妹](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/西游记世界(v1.04)(简)[汉化你妹](JP)[ACT](2Mb)/> | 西游记世界(v1.04)(简)[汉化你妹](JP)[ACT](2Mb) |
+| 1291 | `西游记世界2 - 天上界的魔神(简)[Nineswords](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/西游记世界2 - 天上界的魔神(简)[Nineswords](JP)[ACT](2Mb)/> | 西游记世界2 - 天上界的魔神(简)[Nineswords](JP)[ACT](2Mb) |
+| 1292 | `西游记后传(简)[外星科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/西游记后传(简)[外星科技](CN)[RPG](8Mb)/> | 西游记后传(简)[外星科技](CN)[RPG](8Mb) |
+| 1293 | `视窗系统2000(简)[三佳](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/视窗系统2000(简)[三佳](CN)[ETC](4Mb)/> | 视窗系统2000(简)[三佳](CN)[ETC](4Mb) |
+| 1294 | `视窗系统2000(简)[小霸王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/视窗系统2000(简)[小霸王](CN)[ETC](4Mb)/> | 视窗系统2000(简)[小霸王](CN)[ETC](4Mb) |
+| 1295 | `警察特训(v2)(简)[高伟](JUE)[STG](0.18Mb)`：<https://fc.haiyong.site/games/警察特训(v2)(简)[高伟](JUE)[STG](0.18Mb)/> | 警察特训(v2)(简)[高伟](JUE)[STG](0.18Mb) |
+| 1296 | `认知码学习(v1.0)(简)[小霸王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/认知码学习(v1.0)(简)[小霸王](CN)[ETC](4Mb)/> | 认知码学习(v1.0)(简)[小霸王](CN)[ETC](4Mb) |
+| 1297 | `象棋学园(繁)[圣谦](CN)[TAB](0.37Mb)`：<https://fc.haiyong.site/games/象棋学园(繁)[圣谦](CN)[TAB](0.37Mb)/> | 象棋学园(繁)[圣谦](CN)[TAB](0.37Mb) |
+| 1298 | `财神到(繁)[未知](CN)[TAB](4Mb)`：<https://fc.haiyong.site/games/财神到(繁)[未知](CN)[TAB](4Mb)/> | 财神到(繁)[未知](CN)[TAB](4Mb) |
+| 1299 | `赌王(简)[酷哥电子](JP)[TAB](4Mb)`：<https://fc.haiyong.site/games/赌王(简)[酷哥电子](JP)[TAB](4Mb)/> | 赌王(简)[酷哥电子](JP)[TAB](4Mb) |
+| 1300 | `赌神 - 掷骰战士(修正版)(简)[先锋卡通+星夜之幻](JP)[TAB](4Mb)`：<https://fc.haiyong.site/games/赌神 - 掷骰战士(修正版)(简)[先锋卡通+星夜之幻](JP)[TAB](4Mb)/> | 赌神 - 掷骰战士(修正版)(简)[先锋卡通+星夜之幻](JP)[TAB](4Mb) |
+| 1301 | `赌神 - 掷骰战士(简)[先锋卡通](JP)[TAB](3Mb)`：<https://fc.haiyong.site/games/赌神 - 掷骰战士(简)[先锋卡通](JP)[TAB](3Mb)/> | 赌神 - 掷骰战士(简)[先锋卡通](JP)[TAB](3Mb) |
+| 1302 | `赌神(简)[外星科技](JP)[TAB](4Mb)`：<https://fc.haiyong.site/games/赌神(简)[外星科技](JP)[TAB](4Mb)/> | 赌神(简)[外星科技](JP)[TAB](4Mb) |
+| 1303 | `赌马1991(繁)[Idea-Tek](CN)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/赌马1991(繁)[Idea-Tek](CN)[PUZ](0.5Mb)/> | 赌马1991(繁)[Idea-Tek](CN)[PUZ](0.5Mb) |
+| 1304 | `赖皮狗(还原日版标题)[Advance](3Mb)`：<https://fc.haiyong.site/games/赖皮狗(还原日版标题)[Advance](3Mb)/> | 赖皮狗(还原日版标题)[Advance](3Mb) |
+| 1305 | `赤影战士(v2)(简)[高伟](JP)[ACT](2.06Mb)`：<https://fc.haiyong.site/games/赤影战士(v2)(简)[高伟](JP)[ACT](2.06Mb)/> | 赤影战士(v2)(简)[高伟](JP)[ACT](2.06Mb) |
+| 1306 | `赤影战士(v2.0)(简)[星空](JP)[ACT](2.06Mb)`：<https://fc.haiyong.site/games/赤影战士(v2.0)(简)[星空](JP)[ACT](2.06Mb)/> | 赤影战士(v2.0)(简)[星空](JP)[ACT](2.06Mb) |
+| 1307 | `赤影战士(v20220407)(简)[asiwish](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/赤影战士(v20220407)(简)[asiwish](JP)[ACT](2Mb)/> | 赤影战士(v20220407)(简)[asiwish](JP)[ACT](2Mb) |
+| 1308 | `赤影战士(修正版)(简)[逆游的五彩鱼](JP)[ACT](2.06Mb)`：<https://fc.haiyong.site/games/赤影战士(修正版)(简)[逆游的五彩鱼](JP)[ACT](2.06Mb)/> | 赤影战士(修正版)(简)[逆游的五彩鱼](JP)[ACT](2.06Mb) |
+| 1309 | `赤影战士(小字版)(简)[来福](EU)[ACT](2Mb)`：<https://fc.haiyong.site/games/赤影战士(小字版)(简)[来福](EU)[ACT](2Mb)/> | 赤影战士(小字版)(简)[来福](EU)[ACT](2Mb) |
+| 1310 | `赤影战士(简)[GXB](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/赤影战士(简)[GXB](JP)[ACT](2Mb)/> | 赤影战士(简)[GXB](JP)[ACT](2Mb) |
+| 1311 | `赤影战士(简)[来福](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/赤影战士(简)[来福](JP)[ACT](2Mb)/> | 赤影战士(简)[来福](JP)[ACT](2Mb) |
+| 1312 | `赤色要塞 - 最终任务(v1.1)(简)[雷精灵](US)[STG](2Mb)`：<https://fc.haiyong.site/games/赤色要塞 - 最终任务(v1.1)(简)[雷精灵](US)[STG](2Mb)/> | 赤色要塞 - 最终任务(v1.1)(简)[雷精灵](US)[STG](2Mb) |
+| 1313 | `超一流烟山杯围棋(简)[烟山软件](JP)[TAB](0.5Mb)`：<https://fc.haiyong.site/games/超一流烟山杯围棋(简)[烟山软件](JP)[TAB](0.5Mb)/> | 超一流烟山杯围棋(简)[烟山软件](JP)[TAB](0.5Mb) |
+| 1314 | `超惑星战记(修正版)(简)[樱组+MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/超惑星战记(修正版)(简)[樱组+MS](US)[ACT](2Mb)/> | 超惑星战记(修正版)(简)[樱组+MS](US)[ACT](2Mb) |
+| 1315 | `超时空要塞(简)[姜维第二](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/超时空要塞(简)[姜维第二](JP)[STG](0.18Mb)/> | 超时空要塞(简)[姜维第二](JP)[STG](0.18Mb) |
+| 1316 | `超时空要塞(简)[高伟](JP)[STG](0.18Mb)`：<https://fc.haiyong.site/games/超时空要塞(简)[高伟](JP)[STG](0.18Mb)/> | 超时空要塞(简)[高伟](JP)[STG](0.18Mb) |
+| 1317 | `超浮游要塞(简)[高伟](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/超浮游要塞(简)[高伟](JP)[STG](0.31Mb)/> | 超浮游要塞(简)[高伟](JP)[STG](0.31Mb) |
+| 1318 | `超级中国人2 - 龙之子(简)[汉化你妹](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/超级中国人2 - 龙之子(简)[汉化你妹](JP)[ACT](4Mb)/> | 超级中国人2 - 龙之子(简)[汉化你妹](JP)[ACT](4Mb) |
+| 1319 | `超级中英文电脑学习卡(v3.1)(简)[泽诚](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/超级中英文电脑学习卡(v3.1)(简)[泽诚](CN)[ETC](4Mb)/> | 超级中英文电脑学习卡(v3.1)(简)[泽诚](CN)[ETC](4Mb) |
+| 1320 | `超级五笔汉卡(v1)(简)[科王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/超级五笔汉卡(v1)(简)[科王](CN)[ETC](4Mb)/> | 超级五笔汉卡(v1)(简)[科王](CN)[ETC](4Mb) |
+| 1321 | `超级五笔汉卡(v2)(简)[科王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/超级五笔汉卡(v2)(简)[科王](CN)[ETC](4Mb)/> | 超级五笔汉卡(v2)(简)[科王](CN)[ETC](4Mb) |
+| 1322 | `超级冲刺赛(简)[快乐的龙](JP)[RAC](1Mb)`：<https://fc.haiyong.site/games/超级冲刺赛(简)[快乐的龙](JP)[RAC](1Mb)/> | 超级冲刺赛(简)[快乐的龙](JP)[RAC](1Mb) |
+| 1323 | `超级冲刺赛(简)[高伟](JP)[RAC](1Mb)`：<https://fc.haiyong.site/games/超级冲刺赛(简)[高伟](JP)[RAC](1Mb)/> | 超级冲刺赛(简)[高伟](JP)[RAC](1Mb) |
+| 1324 | `超级大富翁(繁)[外星科技](CN)[TAB](8Mb)`：<https://fc.haiyong.site/games/超级大富翁(繁)[外星科技](CN)[TAB](8Mb)/> | 超级大富翁(繁)[外星科技](CN)[TAB](8Mb) |
+| 1325 | `超级大战略(解密版)(简)[未知+WXN](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/超级大战略(解密版)(简)[未知+WXN](JP)[SLG](4Mb)/> | 超级大战略(解密版)(简)[未知+WXN](JP)[SLG](4Mb) |
+| 1326 | `超级大金刚 - 香蕉船(繁)[两亦](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/超级大金刚 - 香蕉船(繁)[两亦](CN)[ACT](4Mb)/> | 超级大金刚 - 香蕉船(繁)[两亦](CN)[ACT](4Mb) |
+| 1327 | `超级忍(简)[天空联盟](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/超级忍(简)[天空联盟](CN)[ACT](4Mb)/> | 超级忍(简)[天空联盟](CN)[ACT](4Mb) |
+| 1328 | `超级战魂(简)[外星科技](CN)[ACT](2Mb)`：<https://fc.haiyong.site/games/超级战魂(简)[外星科技](CN)[ACT](2Mb)/> | 超级战魂(简)[外星科技](CN)[ACT](2Mb) |
+| 1329 | `超级教学卡(简)[大华电脑](CN)[TAB](4Mb)`：<https://fc.haiyong.site/games/超级教学卡(简)[大华电脑](CN)[TAB](4Mb)/> | 超级教学卡(简)[大华电脑](CN)[TAB](4Mb) |
+| 1330 | `超级机器人大战A(简)[南晶科技](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/超级机器人大战A(简)[南晶科技](CN)[SLG](8Mb)/> | 超级机器人大战A(简)[南晶科技](CN)[SLG](8Mb) |
+| 1331 | `超级玛丽(简)[夜幕星辰](JUE)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/超级玛丽(简)[夜幕星辰](JUE)[ACT](0.31Mb)/> | 超级玛丽(简)[夜幕星辰](JUE)[ACT](0.31Mb) |
+| 1332 | `超级玛利兄弟(简)[PKome](JUE)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/超级玛利兄弟(简)[PKome](JUE)[ACT](0.31Mb)/> | 超级玛利兄弟(简)[PKome](JUE)[ACT](0.31Mb) |
+| 1333 | `超级玛利欧兄弟(v20120903)(繁)[Nokoh](JUE)[ACT](0.75Mb)`：<https://fc.haiyong.site/games/超级玛利欧兄弟(v20120903)(繁)[Nokoh](JUE)[ACT](0.75Mb)/> | 超级玛利欧兄弟(v20120903)(繁)[Nokoh](JUE)[ACT](0.75Mb) |
+| 1334 | `超级玛利欧兄弟2(v20110328)(繁)[Nokoh](US)[ACT](2.12Mb)`：<https://fc.haiyong.site/games/超级玛利欧兄弟2(v20110328)(繁)[Nokoh](US)[ACT](2.12Mb)/> | 超级玛利欧兄弟2(v20110328)(繁)[Nokoh](US)[ACT](2.12Mb) |
+| 1335 | `超级玛利欧兄弟2(v20230225)(FDS版)(繁)[Nokoh](JP)[ACT](0.75Mb)`：<https://fc.haiyong.site/games/超级玛利欧兄弟2(v20230225)(FDS版)(繁)[Nokoh](JP)[ACT](0.75Mb)/> | 超级玛利欧兄弟2(v20230225)(FDS版)(繁)[Nokoh](JP)[ACT](0.75Mb) |
+| 1336 | `超级玛利欧兄弟2(v20230225)(选关版)(繁)[Nokoh](JP)[ACT](0.75Mb)`：<https://fc.haiyong.site/games/超级玛利欧兄弟2(v20230225)(选关版)(繁)[Nokoh](JP)[ACT](0.75Mb)/> | 超级玛利欧兄弟2(v20230225)(选关版)(繁)[Nokoh](JP)[ACT](0.75Mb) |
+| 1337 | `超级玛利欧兄弟3(v20160603)(日繁)[Nokoh](JP)[ACT](3.5Mb)`：<https://fc.haiyong.site/games/超级玛利欧兄弟3(v20160603)(日繁)[Nokoh](JP)[ACT](3.5Mb)/> | 超级玛利欧兄弟3(v20160603)(日繁)[Nokoh](JP)[ACT](3.5Mb) |
+| 1338 | `超级玛利欧兄弟3(v20160603)(美繁)[Nokoh](US)[ACT](3.5Mb)`：<https://fc.haiyong.site/games/超级玛利欧兄弟3(v20160603)(美繁)[Nokoh](US)[ACT](3.5Mb)/> | 超级玛利欧兄弟3(v20160603)(美繁)[Nokoh](US)[ACT](3.5Mb) |
+| 1339 | `超级贪吃蛇(简)[菜菜学堂](CN)[ACT](0.43Mb)`：<https://fc.haiyong.site/games/超级贪吃蛇(简)[菜菜学堂](CN)[ACT](0.43Mb)/> | 超级贪吃蛇(简)[菜菜学堂](CN)[ACT](0.43Mb) |
+| 1340 | `超级铁板阵 - 加索布之谜(简)[MS](JP)[STG](1.25Mb)`：<https://fc.haiyong.site/games/超级铁板阵 - 加索布之谜(简)[MS](JP)[STG](1.25Mb)/> | 超级铁板阵 - 加索布之谜(简)[MS](JP)[STG](1.25Mb) |
+| 1341 | `超级阿拉伯(v2)(简)[高伟](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/超级阿拉伯(v2)(简)[高伟](JP)[ACT](0.18Mb)/> | 超级阿拉伯(v2)(简)[高伟](JP)[ACT](0.18Mb) |
+| 1342 | `超级马利兄弟(v1.2)(修正版)(简)[未知+MS](JUE)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/超级马利兄弟(v1.2)(修正版)(简)[未知+MS](JUE)[ACT](0.31Mb)/> | 超级马利兄弟(v1.2)(修正版)(简)[未知+MS](JUE)[ACT](0.31Mb) |
+| 1343 | `超级马力欧兄弟2(v20230228)(FDS版)(简)[Nokoh+fciq](JP)[ACT](0.75Mb)`：<https://fc.haiyong.site/games/超级马力欧兄弟2(v20230228)(FDS版)(简)[Nokoh+fciq](JP)[ACT](0.75Mb)/> | 超级马力欧兄弟2(v20230228)(FDS版)(简)[Nokoh+fciq](JP)[ACT](0.75Mb) |
+| 1344 | `超级马里奥(简)[高伟](JUE)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/超级马里奥(简)[高伟](JUE)[ACT](0.31Mb)/> | 超级马里奥(简)[高伟](JUE)[ACT](0.31Mb) |
+| 1345 | `超级马里奥兄弟 - 路易基之谜团(简)[F0REVERD](JUE)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/超级马里奥兄弟 - 路易基之谜团(简)[F0REVERD](JUE)[ACT](0.31Mb)/> | 超级马里奥兄弟 - 路易基之谜团(简)[F0REVERD](JUE)[ACT](0.31Mb) |
+| 1346 | `超级马里奥兄弟(简)[3DM](EU)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/超级马里奥兄弟(简)[3DM](EU)[ACT](0.31Mb)/> | 超级马里奥兄弟(简)[3DM](EU)[ACT](0.31Mb) |
+| 1347 | `超级马里奥兄弟(简)[F0REVERD](JUE)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/超级马里奥兄弟(简)[F0REVERD](JUE)[ACT](0.31Mb)/> | 超级马里奥兄弟(简)[F0REVERD](JUE)[ACT](0.31Mb) |
+| 1348 | `超级马里奥兄弟(简)[九班](EU)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/超级马里奥兄弟(简)[九班](EU)[ACT](0.31Mb)/> | 超级马里奥兄弟(简)[九班](EU)[ACT](0.31Mb) |
+| 1349 | `超级马里奥兄弟3(简)[MM之神](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/超级马里奥兄弟3(简)[MM之神](JP)[ACT](3Mb)/> | 超级马里奥兄弟3(简)[MM之神](JP)[ACT](3Mb) |
+| 1350 | `超级魂(简)[烟山软件](CN)[ACT](1Mb)`：<https://fc.haiyong.site/games/超级魂(简)[烟山软件](CN)[ACT](1Mb)/> | 超级魂(简)[烟山软件](CN)[ACT](1Mb) |
+| 1351 | `超级魂93(简)[烟山软件](CN)[ACT](1Mb)`：<https://fc.haiyong.site/games/超级魂93(简)[烟山软件](CN)[ACT](1Mb)/> | 超级魂93(简)[烟山软件](CN)[ACT](1Mb) |
+| 1352 | `超级魂斗罗(v2)(日简)[星空](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/超级魂斗罗(v2)(日简)[星空](JP)[ACT](2Mb)/> | 超级魂斗罗(v2)(日简)[星空](JP)[ACT](2Mb) |
+| 1353 | `超级魂斗罗(v2)(美简)[星空](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/超级魂斗罗(v2)(美简)[星空](US)[ACT](2Mb)/> | 超级魂斗罗(v2)(美简)[星空](US)[ACT](2Mb) |
+| 1354 | `超级魂斗罗(v2.0)(简)[九班](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/超级魂斗罗(v2.0)(简)[九班](JP)[ACT](2Mb)/> | 超级魂斗罗(v2.0)(简)[九班](JP)[ACT](2Mb) |
+| 1355 | `超级魂斗罗(简)[FlameCyclone](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/超级魂斗罗(简)[FlameCyclone](JP)[ACT](3Mb)/> | 超级魂斗罗(简)[FlameCyclone](JP)[ACT](3Mb) |
+| 1356 | `超级魂斗罗(简)[樱组](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/超级魂斗罗(简)[樱组](JP)[ACT](2Mb)/> | 超级魂斗罗(简)[樱组](JP)[ACT](2Mb) |
+| 1357 | `超级魂斗罗(简)[王大可](US)[ACT](1.93Mb)`：<https://fc.haiyong.site/games/超级魂斗罗(简)[王大可](US)[ACT](1.93Mb)/> | 超级魂斗罗(简)[王大可](US)[ACT](1.93Mb) |
+| 1358 | `超级魂斗罗X(简)[孔雀天](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/超级魂斗罗X(简)[孔雀天](CN)[ACT](4Mb)/> | 超级魂斗罗X(简)[孔雀天](CN)[ACT](4Mb) |
+| 1359 | `超越地平线(v0.9)(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/超越地平线(v0.9)(简)[高伟](JP)[STG](2Mb)/> | 超越地平线(v0.9)(简)[高伟](JP)[STG](2Mb) |
+| 1360 | `超越地平线(v1.1)(简)[Nineswords](JP)[STG](6Mb)`：<https://fc.haiyong.site/games/超越地平线(v1.1)(简)[Nineswords](JP)[STG](6Mb)/> | 超越地平线(v1.1)(简)[Nineswords](JP)[STG](6Mb) |
+| 1361 | `超音速机车赛(简)[c1faceb0](JU)[RAC](0.31Mb)`：<https://fc.haiyong.site/games/超音速机车赛(简)[c1faceb0](JU)[RAC](0.31Mb)/> | 超音速机车赛(简)[c1faceb0](JU)[RAC](0.31Mb) |
+| 1362 | `超魔兽大战(简)[封印记忆](JP)[SLG](3Mb)`：<https://fc.haiyong.site/games/超魔兽大战(简)[封印记忆](JP)[SLG](3Mb)/> | 超魔兽大战(简)[封印记忆](JP)[SLG](3Mb) |
+| 1363 | `趣味成语屋+马步迷阵(简)[小霸王](CN)[PUZ](2Mb)`：<https://fc.haiyong.site/games/趣味成语屋+马步迷阵(简)[小霸王](CN)[PUZ](2Mb)/> | 趣味成语屋+马步迷阵(简)[小霸王](CN)[PUZ](2Mb) |
+| 1364 | `趣味方块(v1.0)(简)[高伟](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/趣味方块(v1.0)(简)[高伟](JP)[PUZ](0.5Mb)/> | 趣味方块(v1.0)(简)[高伟](JP)[PUZ](0.5Mb) |
+| 1365 | `趣味方块(简)[水火](JP)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/趣味方块(简)[水火](JP)[PUZ](0.5Mb)/> | 趣味方块(简)[水火](JP)[PUZ](0.5Mb) |
+| 1366 | `足球(简)[高伟](JUE)[SPG](0.31Mb)`：<https://fc.haiyong.site/games/足球(简)[高伟](JUE)[SPG](0.31Mb)/> | 足球(简)[高伟](JUE)[SPG](0.31Mb) |
+| 1367 | `足球小将2 - 超级神射手(简)[外星科技](JP)[SPG](6Mb)`：<https://fc.haiyong.site/games/足球小将2 - 超级神射手(简)[外星科技](JP)[SPG](6Mb)/> | 足球小将2 - 超级神射手(简)[外星科技](JP)[SPG](6Mb) |
+| 1368 | `踢王(v1.0)(简)[DMG](US)[ACT](3Mb)`：<https://fc.haiyong.site/games/踢王(v1.0)(简)[DMG](US)[ACT](3Mb)/> | 踢王(v1.0)(简)[DMG](US)[ACT](3Mb) |
+| 1369 | `踩地雷 - 入门篇(繁)[圣谦](CN)[PUZ](0.31Mb)`：<https://fc.haiyong.site/games/踩地雷 - 入门篇(繁)[圣谦](CN)[PUZ](0.31Mb)/> | 踩地雷 - 入门篇(繁)[圣谦](CN)[PUZ](0.31Mb) |
+| 1370 | `踩地雷 - 对战篇(繁)[圣谦](CN)[PUZ](0.31Mb)`：<https://fc.haiyong.site/games/踩地雷 - 对战篇(繁)[圣谦](CN)[PUZ](0.31Mb)/> | 踩地雷 - 对战篇(繁)[圣谦](CN)[PUZ](0.31Mb) |
+| 1371 | `踩地雷 - 编辑篇(繁)[圣谦](CN)[PUZ](0.31Mb)`：<https://fc.haiyong.site/games/踩地雷 - 编辑篇(繁)[圣谦](CN)[PUZ](0.31Mb)/> | 踩地雷 - 编辑篇(繁)[圣谦](CN)[PUZ](0.31Mb) |
+| 1372 | `踩气球(简)[虫儿](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/踩气球(简)[虫儿](JP)[ACT](0.18Mb)/> | 踩气球(简)[虫儿](JP)[ACT](0.18Mb) |
+| 1373 | `轩辕剑 - 云的彼端(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/轩辕剑 - 云的彼端(简)[晶科泰](CN)[RPG](8Mb)/> | 轩辕剑 - 云的彼端(简)[晶科泰](CN)[RPG](8Mb) |
+| 1374 | `轩辕剑 - 天之痕(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/轩辕剑 - 天之痕(简)[晶科泰](CN)[RPG](8Mb)/> | 轩辕剑 - 天之痕(简)[晶科泰](CN)[RPG](8Mb) |
+| 1375 | `轩辕剑 - 枫之舞(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/轩辕剑 - 枫之舞(简)[晶科泰](CN)[RPG](8Mb)/> | 轩辕剑 - 枫之舞(简)[晶科泰](CN)[RPG](8Mb) |
+| 1376 | `轩辕剑 - 王者归来(简)[晶科泰](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/轩辕剑 - 王者归来(简)[晶科泰](CN)[RPG](8Mb)/> | 轩辕剑 - 王者归来(简)[晶科泰](CN)[RPG](8Mb) |
+| 1377 | `轩辕剑外传 - 天之痕(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/轩辕剑外传 - 天之痕(简)[南晶科技](CN)[RPG](16Mb)/> | 轩辕剑外传 - 天之痕(简)[南晶科技](CN)[RPG](16Mb) |
+| 1378 | `轰天至尊(繁)[小天才](CN)[ACT](2Mb)`：<https://fc.haiyong.site/games/轰天至尊(繁)[小天才](CN)[ACT](2Mb)/> | 轰天至尊(繁)[小天才](CN)[ACT](2Mb) |
+| 1379 | `轰炸超人(v20100411)(繁)[Nokoh](JP)[PUZ](0.31Mb)`：<https://fc.haiyong.site/games/轰炸超人(v20100411)(繁)[Nokoh](JP)[PUZ](0.31Mb)/> | 轰炸超人(v20100411)(繁)[Nokoh](JP)[PUZ](0.31Mb) |
+| 1380 | `轰炸超人2(v20110309)(繁)[Nokoh](JP)[PUZ](1Mb)`：<https://fc.haiyong.site/games/轰炸超人2(v20110309)(繁)[Nokoh](JP)[PUZ](1Mb)/> | 轰炸超人2(v20110309)(繁)[Nokoh](JP)[PUZ](1Mb) |
+| 1381 | `迷宫封印(繁)[圣谦](CN)[PUZ](1Mb)`：<https://fc.haiyong.site/games/迷宫封印(繁)[圣谦](CN)[PUZ](1Mb)/> | 迷宫封印(繁)[圣谦](CN)[PUZ](1Mb) |
+| 1382 | `迷宫组曲(简)[虫虫](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/迷宫组曲(简)[虫虫](JP)[ACT](0.5Mb)/> | 迷宫组曲(简)[虫虫](JP)[ACT](0.5Mb) |
+| 1383 | `迷糊蛋(v1.2)(简)[雷精灵+砂糖](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/迷糊蛋(v1.2)(简)[雷精灵+砂糖](JP)[ACT](3Mb)/> | 迷糊蛋(v1.2)(简)[雷精灵+砂糖](JP)[ACT](3Mb) |
+| 1384 | `迷糊蛋(简)[汉化你妹](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/迷糊蛋(简)[汉化你妹](JP)[ACT](3Mb)/> | 迷糊蛋(简)[汉化你妹](JP)[ACT](3Mb) |
+| 1385 | `迷魂车(繁)[Puszta](CN)[ACT](0.75Mb)`：<https://fc.haiyong.site/games/迷魂车(繁)[Puszta](CN)[ACT](0.75Mb)/> | 迷魂车(繁)[Puszta](CN)[ACT](0.75Mb) |
+| 1386 | `迷魂车(繁)[黄信维](CN)[RAC](0.31Mb)`：<https://fc.haiyong.site/games/迷魂车(繁)[黄信维](CN)[RAC](0.31Mb)/> | 迷魂车(繁)[黄信维](CN)[RAC](0.31Mb) |
+| 1387 | `重力装甲(v1.0)(简)[高伟](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/重力装甲(v1.0)(简)[高伟](JP)[ACT](3Mb)/> | 重力装甲(v1.0)(简)[高伟](JP)[ACT](3Mb) |
+| 1388 | `重装机兵(v5.2)(修正版)(简)[先锋卡通+kook](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/重装机兵(v5.2)(修正版)(简)[先锋卡通+kook](JP)[RPG](6Mb)/> | 重装机兵(v5.2)(修正版)(简)[先锋卡通+kook](JP)[RPG](6Mb) |
+| 1389 | `重装机兵(修正版)(简)[先锋卡通+leesoft](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/重装机兵(修正版)(简)[先锋卡通+leesoft](JP)[RPG](6Mb)/> | 重装机兵(修正版)(简)[先锋卡通+leesoft](JP)[RPG](6Mb) |
+| 1390 | `重装机兵(修正版)(简)[先锋卡通+MS](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/重装机兵(修正版)(简)[先锋卡通+MS](JP)[RPG](6Mb)/> | 重装机兵(修正版)(简)[先锋卡通+MS](JP)[RPG](6Mb) |
+| 1391 | `重装机兵(修正版)(简)[先锋卡通+Vanyogin](JP)[RPG](10Mb)`：<https://fc.haiyong.site/games/重装机兵(修正版)(简)[先锋卡通+Vanyogin](JP)[RPG](10Mb)/> | 重装机兵(修正版)(简)[先锋卡通+Vanyogin](JP)[RPG](10Mb) |
+| 1392 | `重装机兵(修正版)(简)[先锋卡通+星夜之幻](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/重装机兵(修正版)(简)[先锋卡通+星夜之幻](JP)[RPG](6Mb)/> | 重装机兵(修正版)(简)[先锋卡通+星夜之幻](JP)[RPG](6Mb) |
+| 1393 | `重装机兵(简)[先锋卡通](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/重装机兵(简)[先锋卡通](JP)[RPG](6Mb)/> | 重装机兵(简)[先锋卡通](JP)[RPG](6Mb) |
+| 1394 | `重装机兵(简)[恒格电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/重装机兵(简)[恒格电子](JP)[RPG](6Mb)/> | 重装机兵(简)[恒格电子](JP)[RPG](6Mb) |
+| 1395 | `重装机兵(简菜单)[先锋卡通+ZYM](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/重装机兵(简菜单)[先锋卡通+ZYM](JP)[RPG](6Mb)/> | 重装机兵(简菜单)[先锋卡通+ZYM](JP)[RPG](6Mb) |
+| 1396 | `野狼行动(简)[高伟](US)[STG](2Mb)`：<https://fc.haiyong.site/games/野狼行动(简)[高伟](US)[STG](2Mb)/> | 野狼行动(简)[高伟](US)[STG](2Mb) |
+| 1397 | `金卡(v5.0)(简)[科王](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/金卡(v5.0)(简)[科王](CN)[ETC](4Mb)/> | 金卡(v5.0)(简)[科王](CN)[ETC](4Mb) |
+| 1398 | `金卡王学习卡(v3.0)(简)[丰利](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/金卡王学习卡(v3.0)(简)[丰利](CN)[ETC](4Mb)/> | 金卡王学习卡(v3.0)(简)[丰利](CN)[ETC](4Mb) |
+| 1399 | `金字塔PEC-586学习卡(简)[东达](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/金字塔PEC-586学习卡(简)[东达](CN)[ETC](4Mb)/> | 金字塔PEC-586学习卡(简)[东达](CN)[ETC](4Mb) |
+| 1400 | `金字塔PEC-686F学习卡(简)[东达](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/金字塔PEC-686F学习卡(简)[东达](CN)[ETC](4Mb)/> | 金字塔PEC-686F学习卡(简)[东达](CN)[ETC](4Mb) |
+| 1401 | `金字塔PEC-9588学习卡(简)[东达](CN)[ETC](4Mb)`：<https://fc.haiyong.site/games/金字塔PEC-9588学习卡(简)[东达](CN)[ETC](4Mb)/> | 金字塔PEC-9588学习卡(简)[东达](CN)[ETC](4Mb) |
+| 1402 | `金属装甲(简)[虫儿](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/金属装甲(简)[虫儿](JP)[ACT](2Mb)/> | 金属装甲(简)[虫儿](JP)[ACT](2Mb) |
+| 1403 | `金属装甲(简)[高伟](JP)[ACT](6Mb)`：<https://fc.haiyong.site/games/金属装甲(简)[高伟](JP)[ACT](6Mb)/> | 金属装甲(简)[高伟](JP)[ACT](6Mb) |
+| 1404 | `金庸群侠传 - 书剑江山(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/金庸群侠传 - 书剑江山(简)[南晶科技](CN)[RPG](16Mb)/> | 金庸群侠传 - 书剑江山(简)[南晶科技](CN)[RPG](16Mb) |
+| 1405 | `金曲KTV(简)[未知](CN)[ETC](8Mb)`：<https://fc.haiyong.site/games/金曲KTV(简)[未知](CN)[ETC](8Mb)/> | 金曲KTV(简)[未知](CN)[ETC](8Mb) |
+| 1406 | `铁手套(简)[高伟](US)[STG](1.5Mb)`：<https://fc.haiyong.site/games/铁手套(简)[高伟](US)[STG](1.5Mb)/> | 铁手套(简)[高伟](US)[STG](1.5Mb) |
+| 1407 | `铁板阵(v1.0)(简)[九班](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/铁板阵(v1.0)(简)[九班](JP)[STG](0.31Mb)/> | 铁板阵(v1.0)(简)[九班](JP)[STG](0.31Mb) |
+| 1408 | `铁甲威龙(v1.1)(简)[Nineswords](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/铁甲威龙(v1.1)(简)[Nineswords](US)[ACT](2Mb)/> | 铁甲威龙(v1.1)(简)[Nineswords](US)[ACT](2Mb) |
+| 1409 | `铁血战士(简)[MS](US)[STG](2Mb)`：<https://fc.haiyong.site/games/铁血战士(简)[MS](US)[STG](2Mb)/> | 铁血战士(简)[MS](US)[STG](2Mb) |
+| 1410 | `铁血联盟(简)[恒格电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/铁血联盟(简)[恒格电子](JP)[RPG](6Mb)/> | 铁血联盟(简)[恒格电子](JP)[RPG](6Mb) |
+| 1411 | `银河忍者 - 禅(简)[逆游的五彩鱼](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/银河忍者 - 禅(简)[逆游的五彩鱼](US)[ACT](4Mb)/> | 银河忍者 - 禅(简)[逆游的五彩鱼](US)[ACT](4Mb) |
+| 1412 | `银河战士(v3)(简) [高伟]`：<https://fc.haiyong.site/games/银河战士(v3)(简) [高伟]/> | 银河战士(v3)(简) [高伟] |
+| 1413 | `银河时代(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/银河时代(简)[外星科技](JP)[RPG](4Mb)/> | 银河时代(简)[外星科技](JP)[RPG](4Mb) |
+| 1414 | `银白色沙加(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/银白色沙加(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb)/> | 银白色沙加(修正版)(简)[外星科技+Vanyogin](JP)[RPG](6Mb) |
+| 1415 | `银白色沙加(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/银白色沙加(简)[外星科技](JP)[RPG](6Mb)/> | 银白色沙加(简)[外星科技](JP)[RPG](6Mb) |
+| 1416 | `锄大D(繁)[台北裕威](CN)[TAB](1Mb)`：<https://fc.haiyong.site/games/锄大D(繁)[台北裕威](CN)[TAB](1Mb)/> | 锄大D(繁)[台北裕威](CN)[TAB](1Mb) |
+| 1417 | `镜花缘(简)[外星科技](CN)[ACT](2Mb)`：<https://fc.haiyong.site/games/镜花缘(简)[外星科技](CN)[ACT](2Mb)/> | 镜花缘(简)[外星科技](CN)[ACT](2Mb) |
+| 1418 | `闪闪的红星(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/闪闪的红星(简)[南晶科技](CN)[RPG](4Mb)/> | 闪闪的红星(简)[南晶科技](CN)[RPG](4Mb) |
+| 1419 | `阿尔戈斯战士(v1.11)(简)[汉化你妹](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/阿尔戈斯战士(v1.11)(简)[汉化你妹](JP)[ACT](2Mb)/> | 阿尔戈斯战士(v1.11)(简)[汉化你妹](JP)[ACT](2Mb) |
+| 1420 | `阿尔戈斯战士(修正版)(简)[孔雀天+MS](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/阿尔戈斯战士(修正版)(简)[孔雀天+MS](JP)[ACT](1Mb)/> | 阿尔戈斯战士(修正版)(简)[孔雀天+MS](JP)[ACT](1Mb) |
+| 1421 | `阿拉丁(v1.0)(简)[叶枫](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/阿拉丁(v1.0)(简)[叶枫](CN)[ACT](4Mb)/> | 阿拉丁(v1.0)(简)[叶枫](CN)[ACT](4Mb) |
+| 1422 | `阿贝道X(v0.9)(简)[高伟](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/阿贝道X(v0.9)(简)[高伟](JP)[STG](2Mb)/> | 阿贝道X(v0.9)(简)[高伟](JP)[STG](2Mb) |
+| 1423 | `隋唐演义(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/隋唐演义(简)[外星科技](CN)[SLG](4Mb)/> | 隋唐演义(简)[外星科技](CN)[SLG](4Mb) |
+| 1424 | `隋唐英雄(简)[南晶科技](CN)[SLG](8Mb)`：<https://fc.haiyong.site/games/隋唐英雄(简)[南晶科技](CN)[SLG](8Mb)/> | 隋唐英雄(简)[南晶科技](CN)[SLG](8Mb) |
+| 1425 | `雪人兄弟(v0.9)(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/雪人兄弟(v0.9)(简)[高伟](JP)[ACT](2Mb)/> | 雪人兄弟(v0.9)(简)[高伟](JP)[ACT](2Mb) |
+| 1426 | `雪人兄弟(简)[LSP](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/雪人兄弟(简)[LSP](JP)[ACT](3Mb)/> | 雪人兄弟(简)[LSP](JP)[ACT](3Mb) |
+| 1427 | `雪人兄弟(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/雪人兄弟(简)[MS](JP)[ACT](2Mb)/> | 雪人兄弟(简)[MS](JP)[ACT](2Mb) |
+| 1428 | `雷电2(繁)[三协资讯](CN)[STG](2Mb)`：<https://fc.haiyong.site/games/雷电2(繁)[三协资讯](CN)[STG](2Mb)/> | 雷电2(繁)[三协资讯](CN)[STG](2Mb) |
+| 1429 | `雷电皇 - 比卡丘传说(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/雷电皇 - 比卡丘传说(简)[南晶科技](CN)[RPG](16Mb)/> | 雷电皇 - 比卡丘传说(简)[南晶科技](CN)[RPG](16Mb) |
+| 1430 | `雷电节奏(简)[虫虫](US)[STG](1Mb)`：<https://fc.haiyong.site/games/雷电节奏(简)[虫虫](US)[STG](1Mb)/> | 雷电节奏(简)[虫虫](US)[STG](1Mb) |
+| 1431 | `雷霆任务(简)[金明](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/雷霆任务(简)[金明](JP)[ACT](2Mb)/> | 雷霆任务(简)[金明](JP)[ACT](2Mb) |
+| 1432 | `霍元甲(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/霍元甲(简)[南晶科技](CN)[RPG](4Mb)/> | 霍元甲(简)[南晶科技](CN)[RPG](4Mb) |
+| 1433 | `霹雳神兵(简)[金明](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/霹雳神兵(简)[金明](JP)[ACT](2Mb)/> | 霹雳神兵(简)[金明](JP)[ACT](2Mb) |
+| 1434 | `霹雳神兵(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/霹雳神兵(简)[高伟](JP)[ACT](2Mb)/> | 霹雳神兵(简)[高伟](JP)[ACT](2Mb) |
+| 1435 | `音乐盒(简)[maxzhou88](CN)[ETC](2Mb)`：<https://fc.haiyong.site/games/音乐盒(简)[maxzhou88](CN)[ETC](2Mb)/> | 音乐盒(简)[maxzhou88](CN)[ETC](2Mb) |
+| 1436 | `顽皮狗(简)[高伟](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/顽皮狗(简)[高伟](US)[ACT](2Mb)/> | 顽皮狗(简)[高伟](US)[ACT](2Mb) |
+| 1437 | `顽皮老鸭梦冒险(v1.1)(简)[Advance](JP)[ACT](1.5Mb)`：<https://fc.haiyong.site/games/顽皮老鸭梦冒险(v1.1)(简)[Advance](JP)[ACT](1.5Mb)/> | 顽皮老鸭梦冒险(v1.1)(简)[Advance](JP)[ACT](1.5Mb) |
+| 1438 | `风云(简)[外星科技](CN)[RPG](6Mb)`：<https://fc.haiyong.site/games/风云(简)[外星科技](CN)[RPG](6Mb)/> | 风云(简)[外星科技](CN)[RPG](6Mb) |
+| 1439 | `风色幻想(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/风色幻想(简)[外星科技](JP)[RPG](4Mb)/> | 风色幻想(简)[外星科技](JP)[RPG](4Mb) |
+| 1440 | `飞人战士(简)[金明](JP)[STG](2Mb)`：<https://fc.haiyong.site/games/飞人战士(简)[金明](JP)[STG](2Mb)/> | 飞人战士(简)[金明](JP)[STG](2Mb) |
+| 1441 | `飞天战神(简)[虫虫](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/飞天战神(简)[虫虫](JP)[STG](0.31Mb)/> | 飞天战神(简)[虫虫](JP)[STG](0.31Mb) |
+| 1442 | `飞翼人(简)[金明](US)[STG](1Mb)`：<https://fc.haiyong.site/games/飞翼人(简)[金明](US)[STG](1Mb)/> | 飞翼人(简)[金明](US)[STG](1Mb) |
+| 1443 | `飞行蛟(简)[虫虫](US)[STG](1.5Mb)`：<https://fc.haiyong.site/games/飞行蛟(简)[虫虫](US)[STG](1.5Mb)/> | 飞行蛟(简)[虫虫](US)[STG](1.5Mb) |
+| 1444 | `香帅传奇(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/香帅传奇(简)[南晶科技](CN)[RPG](8Mb)/> | 香帅传奇(简)[南晶科技](CN)[RPG](8Mb) |
+| 1445 | `马克斯战士 - 惑星戒严令(简)[逆游的五彩鱼](JP)[STG](4Mb)`：<https://fc.haiyong.site/games/马克斯战士 - 惑星戒严令(简)[逆游的五彩鱼](JP)[STG](4Mb)/> | 马克斯战士 - 惑星戒严令(简)[逆游的五彩鱼](JP)[STG](4Mb) |
+| 1446 | `马戏团(v1.1)(简)[九班](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/马戏团(v1.1)(简)[九班](JP)[ACT](0.18Mb)/> | 马戏团(v1.1)(简)[九班](JP)[ACT](0.18Mb) |
+| 1447 | `马戏团(v20100512)(繁)[Nokoh](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/马戏团(v20100512)(繁)[Nokoh](JP)[ACT](0.37Mb)/> | 马戏团(v20100512)(繁)[Nokoh](JP)[ACT](0.37Mb) |
+| 1448 | `马戏团(修正版)(简)[汉化情报站+MS](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/马戏团(修正版)(简)[汉化情报站+MS](JP)[ACT](0.18Mb)/> | 马戏团(修正版)(简)[汉化情报站+MS](JP)[ACT](0.18Mb) |
+| 1449 | `马戏团(简)[夜幕星辰](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/马戏团(简)[夜幕星辰](JP)[ACT](0.18Mb)/> | 马戏团(简)[夜幕星辰](JP)[ACT](0.18Mb) |
+| 1450 | `马戏团(简)[水火](JP)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/马戏团(简)[水火](JP)[ACT](0.37Mb)/> | 马戏团(简)[水火](JP)[ACT](0.37Mb) |
+| 1451 | `马戏团(简)[虫虫](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/马戏团(简)[虫虫](JP)[ACT](0.18Mb)/> | 马戏团(简)[虫虫](JP)[ACT](0.18Mb) |
+| 1452 | `马里奥兄弟(简)[Madcell](JUE)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/马里奥兄弟(简)[Madcell](JUE)[ACT](0.37Mb)/> | 马里奥兄弟(简)[Madcell](JUE)[ACT](0.37Mb) |
+| 1453 | `马里奥兄弟(简)[水火](JUE)[ACT](0.37Mb)`：<https://fc.haiyong.site/games/马里奥兄弟(简)[水火](JUE)[ACT](0.37Mb)/> | 马里奥兄弟(简)[水火](JUE)[ACT](0.37Mb) |
+| 1454 | `马里奥医生(v2.0)(简)[九班](JU)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/马里奥医生(v2.0)(简)[九班](JU)[PUZ](0.5Mb)/> | 马里奥医生(v2.0)(简)[九班](JU)[PUZ](0.5Mb) |
+| 1455 | `马里奥水管工(简)[高伟](JUE)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/马里奥水管工(简)[高伟](JUE)[ACT](0.31Mb)/> | 马里奥水管工(简)[高伟](JUE)[ACT](0.31Mb) |
+| 1456 | `骑士物语2 - 光之骑士(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/骑士物语2 - 光之骑士(简)[外星科技](JP)[RPG](6Mb)/> | 骑士物语2 - 光之骑士(简)[外星科技](JP)[RPG](6Mb) |
+| 1457 | `骷髅13 - 第一章 - 诸神的黄昏(v1.1)(简)[DMG](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/骷髅13 - 第一章 - 诸神的黄昏(v1.1)(简)[DMG](JP)[ACT](4Mb)/> | 骷髅13 - 第一章 - 诸神的黄昏(v1.1)(简)[DMG](JP)[ACT](4Mb) |
+| 1458 | `高机动战斗2(简)[高伟](JP)[STG](0.31Mb)`：<https://fc.haiyong.site/games/高机动战斗2(简)[高伟](JP)[STG](0.31Mb)/> | 高机动战斗2(简)[高伟](JP)[STG](0.31Mb) |
+| 1459 | `高桥名人之冒险岛(v20100528)(繁)[Nokoh](JP)[ACT](0.81Mb)`：<https://fc.haiyong.site/games/高桥名人之冒险岛(v20100528)(繁)[Nokoh](JP)[ACT](0.81Mb)/> | 高桥名人之冒险岛(v20100528)(繁)[Nokoh](JP)[ACT](0.81Mb) |
+| 1460 | `高桥名人之冒险岛(简)[未知](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/高桥名人之冒险岛(简)[未知](JP)[ACT](0.5Mb)/> | 高桥名人之冒险岛(简)[未知](JP)[ACT](0.5Mb) |
+| 1461 | `高桥名人之冒险岛2(v20101231)(繁)[Nokoh](JP)[ACT](2.12Mb)`：<https://fc.haiyong.site/games/高桥名人之冒险岛2(v20101231)(繁)[Nokoh](JP)[ACT](2.12Mb)/> | 高桥名人之冒险岛2(v20101231)(繁)[Nokoh](JP)[ACT](2.12Mb) |
+| 1462 | `高桥名人之冒险岛3(v20110101)(繁)[Nokoh](JP)[ACT](2.18Mb)`：<https://fc.haiyong.site/games/高桥名人之冒险岛3(v20110101)(繁)[Nokoh](JP)[ACT](2.18Mb)/> | 高桥名人之冒险岛3(v20110101)(繁)[Nokoh](JP)[ACT](2.18Mb) |
+| 1463 | `高桥名人之冒险岛4(v20220222)(繁)[Nokoh](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/高桥名人之冒险岛4(v20220222)(繁)[Nokoh](JP)[ACT](4Mb)/> | 高桥名人之冒险岛4(v20220222)(繁)[Nokoh](JP)[ACT](4Mb) |
+| 1464 | `高桥名人的冒险岛(简)[Justin](US)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/高桥名人的冒险岛(简)[Justin](US)[ACT](0.5Mb)/> | 高桥名人的冒险岛(简)[Justin](US)[ACT](0.5Mb) |
+| 1465 | `高桥名人的冒险岛(简)[九班](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/高桥名人的冒险岛(简)[九班](JP)[ACT](0.5Mb)/> | 高桥名人的冒险岛(简)[九班](JP)[ACT](0.5Mb) |
+| 1466 | `高桥名人的冒险岛2(修正版)(简)[高艳龙+MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/高桥名人的冒险岛2(修正版)(简)[高艳龙+MS](US)[ACT](2Mb)/> | 高桥名人的冒险岛2(修正版)(简)[高艳龙+MS](US)[ACT](2Mb) |
+| 1467 | `高桥名人的冒险岛3(简)[烈火暴龙](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/高桥名人的冒险岛3(简)[烈火暴龙](US)[ACT](2Mb)/> | 高桥名人的冒险岛3(简)[烈火暴龙](US)[ACT](2Mb) |
+| 1468 | `高桥名人的冒险岛3(简)[高艳龙](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/高桥名人的冒险岛3(简)[高艳龙](US)[ACT](2Mb)/> | 高桥名人的冒险岛3(简)[高艳龙](US)[ACT](2Mb) |
+| 1469 | `高桥名人的冒险岛4(v3.0)(简)[九班](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/高桥名人的冒险岛4(v3.0)(简)[九班](JP)[ACT](3Mb)/> | 高桥名人的冒险岛4(v3.0)(简)[九班](JP)[ACT](3Mb) |
+| 1470 | `高达之骑士物语1(简)[外星科技](JP)[RPG](5Mb)`：<https://fc.haiyong.site/games/高达之骑士物语1(简)[外星科技](JP)[RPG](5Mb)/> | 高达之骑士物语1(简)[外星科技](JP)[RPG](5Mb) |
+| 1471 | `鬼之Q太郎(v2)(简)[高伟](JP)[ACT](0.31Mb)`：<https://fc.haiyong.site/games/鬼之Q太郎(v2)(简)[高伟](JP)[ACT](0.31Mb)/> | 鬼之Q太郎(v2)(简)[高伟](JP)[ACT](0.31Mb) |
+| 1472 | `鬼太郎 - 妖怪大魔境(简)[高伟](JP)[ACT](0.5Mb)`：<https://fc.haiyong.site/games/鬼太郎 - 妖怪大魔境(简)[高伟](JP)[ACT](0.5Mb)/> | 鬼太郎 - 妖怪大魔境(简)[高伟](JP)[ACT](0.5Mb) |
+| 1473 | `鬼魅战记(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/鬼魅战记(简)[外星科技](JP)[RPG](6Mb)/> | 鬼魅战记(简)[外星科技](JP)[RPG](6Mb) |
+| 1474 | `魂斗罗(v2)(简)[Jixun](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/魂斗罗(v2)(简)[Jixun](JP)[ACT](3Mb)/> | 魂斗罗(v2)(简)[Jixun](JP)[ACT](3Mb) |
+| 1475 | `魂斗罗(修正版)(简)[酷酷小熊+MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/魂斗罗(修正版)(简)[酷酷小熊+MS](JP)[ACT](2Mb)/> | 魂斗罗(修正版)(简)[酷酷小熊+MS](JP)[ACT](2Mb) |
+| 1476 | `魂斗罗(简)[FlameCyclone](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/魂斗罗(简)[FlameCyclone](JP)[ACT](3Mb)/> | 魂斗罗(简)[FlameCyclone](JP)[ACT](3Mb) |
+| 1477 | `魂斗罗(简)[九班](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/魂斗罗(简)[九班](JP)[ACT](2Mb)/> | 魂斗罗(简)[九班](JP)[ACT](2Mb) |
+| 1478 | `魂斗罗(简)[星空](JP)[ACT](2.06Mb)`：<https://fc.haiyong.site/games/魂斗罗(简)[星空](JP)[ACT](2.06Mb)/> | 魂斗罗(简)[星空](JP)[ACT](2.06Mb) |
+| 1479 | `魂斗罗力量(v1.2)(简)[DMG](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/魂斗罗力量(v1.2)(简)[DMG](US)[ACT](4Mb)/> | 魂斗罗力量(v1.2)(简)[DMG](US)[ACT](4Mb) |
+| 1480 | `魂斗罗力量(简)[MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/魂斗罗力量(简)[MS](US)[ACT](2Mb)/> | 魂斗罗力量(简)[MS](US)[ACT](2Mb) |
+| 1481 | `魂斗罗力量(简)[谈魈疯生](US)[ACT](4Mb)`：<https://fc.haiyong.site/games/魂斗罗力量(简)[谈魈疯生](US)[ACT](4Mb)/> | 魂斗罗力量(简)[谈魈疯生](US)[ACT](4Mb) |
+| 1482 | `魂斗罗力量之战(v1.0)(简)[星空](US)[ACT](2.12Mb)`：<https://fc.haiyong.site/games/魂斗罗力量之战(v1.0)(简)[星空](US)[ACT](2.12Mb)/> | 魂斗罗力量之战(v1.0)(简)[星空](US)[ACT](2.12Mb) |
+| 1483 | `魔兽世界 - 恶魔猎人(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/魔兽世界 - 恶魔猎人(简)[南晶科技](CN)[RPG](8Mb)/> | 魔兽世界 - 恶魔猎人(简)[南晶科技](CN)[RPG](8Mb) |
+| 1484 | `魔力战士(简)[恒格电子](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/魔力战士(简)[恒格电子](CN)[RPG](4Mb)/> | 魔力战士(简)[恒格电子](CN)[RPG](4Mb) |
+| 1485 | `魔城传说2 - 大魔司教加里奥斯(v2.2)(简)[汉化你妹](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/魔城传说2 - 大魔司教加里奥斯(v2.2)(简)[汉化你妹](JP)[ACT](2Mb)/> | 魔城传说2 - 大魔司教加里奥斯(v2.2)(简)[汉化你妹](JP)[ACT](2Mb) |
+| 1486 | `魔域英雄传(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/魔域英雄传(简)[外星科技](CN)[RPG](4Mb)/> | 魔域英雄传(简)[外星科技](CN)[RPG](4Mb) |
+| 1487 | `魔塔(简)[earth幻灭](CN)[RPG](1.25Mb)`：<https://fc.haiyong.site/games/魔塔(简)[earth幻灭](CN)[RPG](1.25Mb)/> | 魔塔(简)[earth幻灭](CN)[RPG](1.25Mb) |
+| 1488 | `魔天童子(简)[逆游的五彩鱼](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/魔天童子(简)[逆游的五彩鱼](JP)[ACT](4Mb)/> | 魔天童子(简)[逆游的五彩鱼](JP)[ACT](4Mb) |
+| 1489 | `魔女小红帽(简)[冰组](JP)[ACT](2.12Mb)`：<https://fc.haiyong.site/games/魔女小红帽(简)[冰组](JP)[ACT](2.12Mb)/> | 魔女小红帽(简)[冰组](JP)[ACT](2.12Mb) |
+| 1490 | `魔女小红帽(繁)[冰组](JP)[ACT](2.12Mb)`：<https://fc.haiyong.site/games/魔女小红帽(繁)[冰组](JP)[ACT](2.12Mb)/> | 魔女小红帽(繁)[冰组](JP)[ACT](2.12Mb) |
+| 1491 | `魔幻三国志(简)[晶科泰](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/魔幻三国志(简)[晶科泰](CN)[SLG](4Mb)/> | 魔幻三国志(简)[晶科泰](CN)[SLG](4Mb) |
+| 1492 | `魔幻世界(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/魔幻世界(简)[南晶科技](CN)[RPG](16Mb)/> | 魔幻世界(简)[南晶科技](CN)[RPG](16Mb) |
+| 1493 | `魔法总动员(修正版)(简)[混沌星辰+MS](US)[ACT](2Mb)`：<https://fc.haiyong.site/games/魔法总动员(修正版)(简)[混沌星辰+MS](US)[ACT](2Mb)/> | 魔法总动员(修正版)(简)[混沌星辰+MS](US)[ACT](2Mb) |
+| 1494 | `魔法门 - 英雄无敌(简)[外星科技](CN)[SLG](4Mb)`：<https://fc.haiyong.site/games/魔法门 - 英雄无敌(简)[外星科技](CN)[SLG](4Mb)/> | 魔法门 - 英雄无敌(简)[外星科技](CN)[SLG](4Mb) |
+| 1495 | `魔界塔士(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/魔界塔士(简)[南晶科技](CN)[RPG](16Mb)/> | 魔界塔士(简)[南晶科技](CN)[RPG](16Mb) |
+| 1496 | `魔界村(简)[Advance](JP)[STG](1Mb)`：<https://fc.haiyong.site/games/魔界村(简)[Advance](JP)[STG](1Mb)/> | 魔界村(简)[Advance](JP)[STG](1Mb) |
+| 1497 | `魔界霸主(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/魔界霸主(简)[南晶科技](CN)[RPG](16Mb)/> | 魔界霸主(简)[南晶科技](CN)[RPG](16Mb) |
+| 1498 | `魔神法师(简)[外星科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/魔神法师(简)[外星科技](CN)[RPG](4Mb)/> | 魔神法师(简)[外星科技](CN)[RPG](4Mb) |
+| 1499 | `魔神英雄传外传(v2.0)(简)[意志之路](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/魔神英雄传外传(v2.0)(简)[意志之路](JP)[RPG](4Mb)/> | 魔神英雄传外传(v2.0)(简)[意志之路](JP)[RPG](4Mb) |
+| 1500 | `魔道劫(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/魔道劫(简)[南晶科技](CN)[RPG](8Mb)/> | 魔道劫(简)[南晶科技](CN)[RPG](8Mb) |
+| 1501 | `魔道士阴谋(v2)(修正版)(简)[外星科技+MS](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/魔道士阴谋(v2)(修正版)(简)[外星科技+MS](JP)[SLG](4Mb)/> | 魔道士阴谋(v2)(修正版)(简)[外星科技+MS](JP)[SLG](4Mb) |
+| 1502 | `魔道士阴谋(修正版)(简)[外星科技+姜维第二](JP)[SLG](4Mb)`：<https://fc.haiyong.site/games/魔道士阴谋(修正版)(简)[外星科技+姜维第二](JP)[SLG](4Mb)/> | 魔道士阴谋(修正版)(简)[外星科技+姜维第二](JP)[SLG](4Mb) |
+| 1503 | `鲁邦三世 - 潘多拉的遗产(简)[逆游的五彩鱼](JP)[ACT](4Mb)`：<https://fc.haiyong.site/games/鲁邦三世 - 潘多拉的遗产(简)[逆游的五彩鱼](JP)[ACT](4Mb)/> | 鲁邦三世 - 潘多拉的遗产(简)[逆游的五彩鱼](JP)[ACT](4Mb) |
+| 1504 | `鳄鱼先生(v2)(简)[谈魈疯生](JP)[ACT](3Mb)`：<https://fc.haiyong.site/games/鳄鱼先生(v2)(简)[谈魈疯生](JP)[ACT](3Mb)/> | 鳄鱼先生(v2)(简)[谈魈疯生](JP)[ACT](3Mb) |
+| 1505 | `鸟人战队(简)[烈火暴龙](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/鸟人战队(简)[烈火暴龙](JP)[ACT](2Mb)/> | 鸟人战队(简)[烈火暴龙](JP)[ACT](2Mb) |
+| 1506 | `鸟人战队(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/鸟人战队(简)[高伟](JP)[ACT](2Mb)/> | 鸟人战队(简)[高伟](JP)[ACT](2Mb) |
+| 1507 | `鸟的故事(v2)(简)[高伟](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/鸟的故事(v2)(简)[高伟](JP)[ACT](0.18Mb)/> | 鸟的故事(v2)(简)[高伟](JP)[ACT](0.18Mb) |
+| 1508 | `鸵鸟骑士(v2)(简)[高伟](JP)[ACT](0.18Mb)`：<https://fc.haiyong.site/games/鸵鸟骑士(v2)(简)[高伟](JP)[ACT](0.18Mb)/> | 鸵鸟骑士(v2)(简)[高伟](JP)[ACT](0.18Mb) |
+| 1509 | `鹿鼎记(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/鹿鼎记(简)[南晶科技](CN)[RPG](4Mb)/> | 鹿鼎记(简)[南晶科技](CN)[RPG](4Mb) |
+| 1510 | `麻将方块(繁)[Idea-Tek](CN)[PUZ](0.5Mb)`：<https://fc.haiyong.site/games/麻将方块(繁)[Idea-Tek](CN)[PUZ](0.5Mb)/> | 麻将方块(繁)[Idea-Tek](CN)[PUZ](0.5Mb) |
+| 1511 | `麻雀(v1.1a)(简)[星空](JP)[TAB](0.31Mb)`：<https://fc.haiyong.site/games/麻雀(v1.1a)(简)[星空](JP)[TAB](0.31Mb)/> | 麻雀(v1.1a)(简)[星空](JP)[TAB](0.31Mb) |
+| 1512 | `麻雀世界 - 歌舞伎町篇(繁)[圣谦](CN)[TAB](1Mb)`：<https://fc.haiyong.site/games/麻雀世界 - 歌舞伎町篇(繁)[圣谦](CN)[TAB](1Mb)/> | 麻雀世界 - 歌舞伎町篇(繁)[圣谦](CN)[TAB](1Mb) |
+| 1513 | `麻雀世界(繁)[圣谦](CN)[TAB](1Mb)`：<https://fc.haiyong.site/games/麻雀世界(繁)[圣谦](CN)[TAB](1Mb)/> | 麻雀世界(繁)[圣谦](CN)[TAB](1Mb) |
+| 1514 | `黄帝 - 涿鹿之战(简)[Asder](CN)[ACT](3Mb)`：<https://fc.haiyong.site/games/黄帝 - 涿鹿之战(简)[Asder](CN)[ACT](3Mb)/> | 黄帝 - 涿鹿之战(简)[Asder](CN)[ACT](3Mb) |
+| 1515 | `黄金太阳(简)[南晶科技](CN)[RPG](16Mb)`：<https://fc.haiyong.site/games/黄金太阳(简)[南晶科技](CN)[RPG](16Mb)/> | 黄金太阳(简)[南晶科技](CN)[RPG](16Mb) |
+| 1516 | `黄飞鸿(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/黄飞鸿(简)[南晶科技](CN)[RPG](4Mb)/> | 黄飞鸿(简)[南晶科技](CN)[RPG](4Mb) |
+| 1517 | `黑客(简)[南晶科技](CN)[ACT](4Mb)`：<https://fc.haiyong.site/games/黑客(简)[南晶科技](CN)[ACT](4Mb)/> | 黑客(简)[南晶科技](CN)[ACT](4Mb) |
+| 1518 | `黑暗之蛊(繁)[火星电子](CN)[AVG](4Mb)`：<https://fc.haiyong.site/games/黑暗之蛊(繁)[火星电子](CN)[AVG](4Mb)/> | 黑暗之蛊(繁)[火星电子](CN)[AVG](4Mb) |
+| 1519 | `黑白棋(v1.0)(简)[九班](US)[TAB](0.31Mb)`：<https://fc.haiyong.site/games/黑白棋(v1.0)(简)[九班](US)[TAB](0.31Mb)/> | 黑白棋(v1.0)(简)[九班](US)[TAB](0.31Mb) |
+| 1520 | `齐天大圣(简)[南晶科技](CN)[RPG](4Mb)`：<https://fc.haiyong.site/games/齐天大圣(简)[南晶科技](CN)[RPG](4Mb)/> | 齐天大圣(简)[南晶科技](CN)[RPG](4Mb) |
+| 1521 | `龙之城堡(简)[虫虫](JP)[ACT](1Mb)`：<https://fc.haiyong.site/games/龙之城堡(简)[虫虫](JP)[ACT](1Mb)/> | 龙之城堡(简)[虫虫](JP)[ACT](1Mb) |
+| 1522 | `龙之忍者(简)[MS](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/龙之忍者(简)[MS](JP)[ACT](2Mb)/> | 龙之忍者(简)[MS](JP)[ACT](2Mb) |
+| 1523 | `龙之忍者(简)[虫儿](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/龙之忍者(简)[虫儿](JP)[ACT](2Mb)/> | 龙之忍者(简)[虫儿](JP)[ACT](2Mb) |
+| 1524 | `龙之谷(繁)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/龙之谷(繁)[外星科技](JP)[RPG](4Mb)/> | 龙之谷(繁)[外星科技](JP)[RPG](4Mb) |
+| 1525 | `龙域天下(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/龙域天下(简)[外星科技](JP)[RPG](6Mb)/> | 龙域天下(简)[外星科技](JP)[RPG](6Mb) |
+| 1526 | `龙战士(v0.9)(简)[高伟](JP)[ACT](2Mb)`：<https://fc.haiyong.site/games/龙战士(v0.9)(简)[高伟](JP)[ACT](2Mb)/> | 龙战士(v0.9)(简)[高伟](JP)[ACT](2Mb) |
+| 1527 | `龙珠(简)[南晶科技](CN)[RPG](8Mb)`：<https://fc.haiyong.site/games/龙珠(简)[南晶科技](CN)[RPG](8Mb)/> | 龙珠(简)[南晶科技](CN)[RPG](8Mb) |
+| 1528 | `龙珠Z - 超武斗传2(简)[天空联盟](CN)[FTG](3Mb)`：<https://fc.haiyong.site/games/龙珠Z - 超武斗传2(简)[天空联盟](CN)[FTG](3Mb)/> | 龙珠Z - 超武斗传2(简)[天空联盟](CN)[FTG](3Mb) |
+| 1529 | `龙珠Z - 超武斗传5(可选语言版)(繁)[Rex](CN)[ACT](6Mb)`：<https://fc.haiyong.site/games/龙珠Z - 超武斗传5(可选语言版)(繁)[Rex](CN)[ACT](6Mb)/> | 龙珠Z - 超武斗传5(可选语言版)(繁)[Rex](CN)[ACT](6Mb) |
+| 1530 | `龙珠Z 强袭！赛亚人(大陆译名)(2019公测版)[Lirdrepus](6Mb)`：<https://fc.haiyong.site/games/龙珠Z 强袭！赛亚人(大陆译名)(2019公测版)[Lirdrepus](6Mb)/> | 龙珠Z 强袭！赛亚人(大陆译名)(2019公测版)[Lirdrepus](6Mb) |
+| 1531 | `龙珠Z 强袭！赛亚人(香港译名)(2019公测版)[Lirdrepus](6Mb)`：<https://fc.haiyong.site/games/龙珠Z 强袭！赛亚人(香港译名)(2019公测版)[Lirdrepus](6Mb)/> | 龙珠Z 强袭！赛亚人(香港译名)(2019公测版)[Lirdrepus](6Mb) |
+| 1533 | `龙珠Z2 - 激战弗利萨(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/龙珠Z2 - 激战弗利萨(简)[外星科技](JP)[RPG](6Mb)/> | 龙珠Z2 - 激战弗利萨(简)[外星科技](JP)[RPG](6Mb) |
+| 1537 | `龙珠Z3 - 人造人列传(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/龙珠Z3 - 人造人列传(简)[外星科技](JP)[RPG](6Mb)/> | 龙珠Z3 - 人造人列传(简)[外星科技](JP)[RPG](6Mb) |
+| 1538 | `龙珠Z3 - 烈战人造人(海美译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/龙珠Z3 - 烈战人造人(海美译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb)/> | 龙珠Z3 - 烈战人造人(海美译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb) |
+| 1539 | `龙珠Z3 - 烈战人造人(香港译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/龙珠Z3 - 烈战人造人(香港译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb)/> | 龙珠Z3 - 烈战人造人(香港译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb) |
+| 1540 | `龙珠Z外传 - 撒亚人灭绝计划(v0.97)(香港译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/龙珠Z外传 - 撒亚人灭绝计划(v0.97)(香港译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb)/> | 龙珠Z外传 - 撒亚人灭绝计划(v0.97)(香港译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb) |
+| 1541 | `龙珠Z外传 - 赛亚人灭绝计划(v0.97)(海美译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/龙珠Z外传 - 赛亚人灭绝计划(v0.97)(海美译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb)/> | 龙珠Z外传 - 赛亚人灭绝计划(v0.97)(海美译名版)(繁)[外星科技+Lirdrepus](JP)[RPG](6Mb) |
+| 1542 | `龙珠Z外传 - 赛亚人灭绝计划(简)[外星科技](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/龙珠Z外传 - 赛亚人灭绝计划(简)[外星科技](JP)[RPG](6Mb)/> | 龙珠Z外传 - 赛亚人灭绝计划(简)[外星科技](JP)[RPG](6Mb) |
+| 1543 | `龙珠Z外传 - 赛亚人灭绝计划(简)[恒格电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/龙珠Z外传 - 赛亚人灭绝计划(简)[恒格电子](JP)[RPG](6Mb)/> | 龙珠Z外传 - 赛亚人灭绝计划(简)[恒格电子](JP)[RPG](6Mb) |
+| 1544 | `龙珠Z外传 - 赛亚人灭绝计划(简)[酷哥电子](JP)[RPG](6Mb)`：<https://fc.haiyong.site/games/龙珠Z外传 - 赛亚人灭绝计划(简)[酷哥电子](JP)[RPG](6Mb)/> | 龙珠Z外传 - 赛亚人灭绝计划(简)[酷哥电子](JP)[RPG](6Mb) |
+| 1545 | `龙珠英雄(简)[外星科技](JP)[SLG](2Mb)`：<https://fc.haiyong.site/games/龙珠英雄(简)[外星科技](JP)[SLG](2Mb)/> | 龙珠英雄(简)[外星科技](JP)[SLG](2Mb) |
+| 1546 | `龙魂 - 新的传说(繁)[Nineswords](JP)[STG](6Mb)`：<https://fc.haiyong.site/games/龙魂 - 新的传说(繁)[Nineswords](JP)[STG](6Mb)/> | 龙魂 - 新的传说(繁)[Nineswords](JP)[STG](6Mb) |
+| 1547 | `龙魂 - 新的血族(简)[Nineswords](JP)[STG](6Mb)`：<https://fc.haiyong.site/games/龙魂 - 新的血族(简)[Nineswords](JP)[STG](6Mb)/> | 龙魂 - 新的血族(简)[Nineswords](JP)[STG](6Mb) |
+| 1548 | `龙魂(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/龙魂(简)[外星科技](JP)[RPG](4Mb)/> | 龙魂(简)[外星科技](JP)[RPG](4Mb) |
 
 
 ### 工具
