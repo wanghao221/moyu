@@ -1,10 +1,10 @@
-## 1500个摸鱼小游戏  
+## 2000个摸鱼小游戏  
 
 需要源码可联系我：[海拥](https://blog.haiyong.site/about/)
 - 微信：[wh18363](https://haiyong.site/img/qrcode/weixin.png)
 - QQ: 1836360247
 
-1600 个摸鱼游戏、工具源码集合及在线演示（更新中）：
+2000 个摸鱼游戏、工具源码集合及在线演示（更新中）：
 [https://game.haiyong.site/](https://game.haiyong.site/)
 
 
@@ -1548,6 +1548,7 @@
 | 1546 | `龙魂 - 新的传说(繁)[Nineswords](JP)[STG](6Mb)`：<https://fc.haiyong.site/games/龙魂 - 新的传说(繁)[Nineswords](JP)[STG](6Mb)/> | 龙魂 - 新的传说(繁)[Nineswords](JP)[STG](6Mb) |
 | 1547 | `龙魂 - 新的血族(简)[Nineswords](JP)[STG](6Mb)`：<https://fc.haiyong.site/games/龙魂 - 新的血族(简)[Nineswords](JP)[STG](6Mb)/> | 龙魂 - 新的血族(简)[Nineswords](JP)[STG](6Mb) |
 | 1548 | `龙魂(简)[外星科技](JP)[RPG](4Mb)`：<https://fc.haiyong.site/games/龙魂(简)[外星科技](JP)[RPG](4Mb)/> | 龙魂(简)[外星科技](JP)[RPG](4Mb) |
+| .... | `....`：.... | .... |
 
 
 ### 工具
